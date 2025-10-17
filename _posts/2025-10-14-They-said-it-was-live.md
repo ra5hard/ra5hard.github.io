@@ -8,6 +8,79 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e91e5250-3ca8-4f50-a634-6b80cbfec26a" />
+
+
+“ESSENCE Taught Us How to Be Black” Giving Black Women Their Flowers at Black Women in Business 2025
+@nasa @whitehouse @blackgirlscode 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aNGcGRIu5mI?si=zeZvrKt1lQzTVWzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​@nasajpl someone that kow tanya that wrote erika article can be reached right now i really need a handset @nasaearthdata
+
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​@essence you guys hurt my pockets man, i was working thw whole time and she wanted that white man -#rashard @nasaearthdata
+
+Premiere in progress: you're officially one of the first fans to watch this upload. Enjoy this Premiere by watching and chatting with other fans in real-time. Remember to guard your privacy and abide by our community guidelines.
+Learn more
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​@normani && https://rashard-ecostress-jpl-iss.github.io/rashardlearned/for_nasa_jpl_hr @kashdoll https://rashard-ecostress-jpl-iss.github.io/rashardlearned/2025/02/11/AboutRashard.html @blackgirlscode
+
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​#Ms_GOOGLE here is work nigga https://github.com/rashard-ecostress-jpl-iss/rashardlearned/blob/master/assets/ECOSTRESS_LST_SummerDay_LosAngeles.kmz
+
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​@ESSENCE https://github.com/rashard-ecostress-jpl-iss/rashardlearned/blob/master/assets/ECOSTRESS_LST_SummerDay_LosAngeles.kmz #MS_GOOGLE should import that file into @GoogleEarth @normani @nasajpl
+
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​@googleearth im late on shit at @nasajpl an that heifer bragging and shit
+
+
+Sharita Stinson
+​
+
+#2
+​Mama Cheryl!!! Congratulations 🎊 👏 💐 🥳
+
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​@ESSENCE yo is donald glover in our shit ????? https://github.com/rashard-ecostress-jpl-iss/rashardlearned/blob/master/_posts/2025-10-14-CHangeControl.md we got mad outages @nasajpl
+
+
+RashardthakasErika selassie_kel
+​
+
+#1
+​i dont have a phone to hurt you @ESSENCE @Normani @blackgirlscode
+
 # Team Coverage: Storm brings evacuations, flooded roads to Southern California
 @blackgirlscode 
 @disney @cbsinteractive @nasa-jpl @cityoflosangeles
