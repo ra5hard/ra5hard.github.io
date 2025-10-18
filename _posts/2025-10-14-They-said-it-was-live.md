@@ -8,8 +8,18 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+@nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
+![ABC7 @blackgirlscode](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg) 
+<iframe width="640" height="360" src="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></iframe>
 
-<img  alt="image" src="https://github.com/user-attachments/assets/e91e5250-3ca8-4f50-a634-6b80cbfec26a" />
+# Watch Live: Southern California participates [in](https://www.facebook.com/permalink.php?story_fbid=pfbid0naRfiLM6Hwde4jc5Byy1eSvdRTAbT4kLvQtdC8A9UaRbN1TmBZdt83hSBKpsKYZHl&id=100084464911565) 'No Kings' rally
+[https://www.youtube.com/watch?v=VhyOQq8lVMo](https://www.youtube.com/watch?v=VhyOQq8lVMo)
+@StateOfCalifornia @CityOfLosAngeles @nasa-pds @nasa-jpl @nasa @emit-sds
+[NBCLA @youtube](https://www.youtube.com/@NBCLA)
+[AlanaWise @npr](https://www.npr.org/people/831107342/alana-wise) [No Kings protests: Marches are underway around the country @npr](https://www.npr.org/2025/10/18/nx-s1-5577977/no-kings-protests-trump-marches) [Where and when are the No Kings protests happening in L.A. this weekend? - timeout.com](https://www.timeout.com/los-angeles/news/where-and-when-are-the-no-kings-protests-happening-in-l-a-this-weekend-101725) [Mónica De Anda](https://abc7.com/about/newsteam/monica-de-anda/) @cbs-news-data [Thousands expected at 'No Kings' rallies across Southern California to protest Trump administration](https://abc7.com/post/no-kings-protests-trump-administration-return-southern-california/18031981/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VhyOQq8lVMo?si=UFVZBU8T9cAD1nim" title="Watch Live: Southern California participates in 'No Kings' rally" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="@blackgirlscode" src="https://github.com/user-attachments/assets/e91e5250-3ca8-4f50-a634-6b80cbfec26a" />
 
 
 “ESSENCE Taught Us How to Be Black” Giving Black Women Their Flowers at Black Women in Business 2025
