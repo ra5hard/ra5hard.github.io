@@ -7,6 +7,23 @@ image: ESP_062216_2660_RGB.NOMAP.browse.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+# JPL Open Source Rover Project
+[DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
+<object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
+
+## [SOL4518]
+[DOWNLOAD @nasa-jpl @nasa-pds @podaac @usgs @blackgirlscode @newshour](https://ia800800.us.archive.org/24/items/RashardNasaEarthDataRiverWatch/Sol4518.gif)
+<img alt="image" src="https://github.com/user-attachments/assets/75b71010-6d76-4737-a0ba-8bd86f714ec9" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ed7303dd-c22c-42c9-ae84-2133abf68faf" />
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F1346261026848828%2F&show_text=false&width=357&t=0" width="357" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<img   alt="image @nasa-pds @nasa-develop @cityoflosangeles @stateofcalifornia" src="https://github.com/user-attachments/assets/f0acfdf7-87a4-48b3-8b2d-fbf6f3340825" />
+
+### tesla Diner Revolt  
+[LAunch Contrib @nasa @nasas-jpl @gofireflyio](https://www.tumblr.com/rashardmro/790632997630214146/rashardsbash?source=share) [openscape](https://nasa-openscapes.github.io/)
+[See More on /compiling](https://rashardgds.github.io/compiling/Tesla-Diner-Revolt)
 
 # Mars Exploration Rovers: Spirit and Opportunity
 

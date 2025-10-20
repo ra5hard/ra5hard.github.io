@@ -2,9 +2,24 @@
 layout: post
 mermaid: true
 published: true
-title: marsblogv3- @nasa-jpl rashardsResearch
-image: Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
+title: MarsBlog @nasa-jpl rashardsResearch
+image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.png
 ---
+
+
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=315&href=https%3A%2F%2Fwww.facebook.com%2Freel%2F4307745839545330%2F&show_text=true&width=560&t=0" width="560" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<img  alt="image @whitehouse @nasa @r-spacex @spacex" src="https://github.com/user-attachments/assets/1ecfff43-6599-40c8-a12e-57d8da4090fd" />
+#Mr_TRUMP hi its rashard from NASA's Perseverance Mars Rover this is a great job SpaceX i signed the Selective Service System agreement when i was 18 like the jehovahs witnesses said was appropriate per #romans13_1__through_4 so i was baptised and i got scared and left when the group started excluding me when i was #departnered so after i was stranded by my JW wife she went to playboy and bragged about how submissive i was and a girl in the pop music world showed interest, the issue is she is a party girl and sometimes gets kidnapped so she still has a life in prostitution outside of the great music she produces https://job-boards.greenhouse.io/spacex/jobs/8053599002 <~ thats in hawthorne and idk what Hawthorne Police would say about me but since there are Ho Strolls in that area at times they might not think its best for the country if i work for JPL NASA Jet Propulsion Laboratory... i have a International Space Station badge so, maybe its a bad idea... ill see but maybe i can take some tickets from them and work them from the #SHARE place or Long Beach Public Library and i can make some money to get stable communication and I can track down my kid and actually have a real girlfriend -#Rashard NASA's Perseverance Mars Rover / NASA InSight :::::::::: [https://holetoanotheruniverse40.github.io](https://holetoanotheruniverse40.github.io)/
+
+# @ISRO / @nasa-jpl @nasa-develop @emit-sds
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FRajMarsOdyssey%2Fposts%2Fpfbid026EV1chBThZMFW7X3FAB3375H1yVNrLzAuk9uKqPnPN6Wa4e6mx5mcBCkingrzMPzl&show_text=true&width=500" width="500" height="458" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+`Comment` Thaka Sartu
+Defense Information Systems Agency NASA Jet Propulsion Laboratory this looks like a stranded [#MARSMiSSiONACCOUNT](https://www.facebook.com/RajMarsOdyssey/) Phoenix Mars Lander . . . Black Girls Code Kimberly Bryant, Founder Black Girls CODE am i introuble for speaking on intimacy? idk how i felt whatever i felt on the train but it was real, the rails are copper Congressmember Karen Bass : @blackgirlscode Normani SZA im not mad at you, i think it was your morning romp with whatever u doing an if its [#DG](https://www.youtube.com/watch?v=pcJo0tIWybY) just trust me its only facts and can clearup im not into lawsuits,im too busy Georgia Bureau of Investigation 20th Century Studios i just need my path clear Steve Harvey Mayor Karen Bass [https://scan-now.gsfc.nasa.gov/scan](https://scan-now.gsfc.nasa.gov/scan)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a803610e-cc90-4e47-b96c-69f60c643649" />
 
 
 ## A First Look at Dunes [University of Arizonia HiRiSE/@nasa-JPL](https://www.uahirise.org/ESP_057903_1390)

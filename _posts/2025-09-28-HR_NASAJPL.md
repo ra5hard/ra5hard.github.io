@@ -8,6 +8,102 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/262118c9-bf7d-416a-9b0a-430d3d469e59" />
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0M6bLRf5LQ7VApqLR82AUR2XTvDwzn4waQ1FdmqoRkgubcmGjxctR8c1yyQCe81aFl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+@nasa-jpl this tweet is the girl i went out with thats part of @blackgirlscode @whitehouse 
+@nasa-pds i have more explaining to do bc of a act she in . . . l8tr
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Full Episode Here: <a href="https://t.co/cKxRS3aT1f">https://t.co/cKxRS3aT1f</a> ♥️</p>&mdash; SpringHill (@makespringhill) <a href="https://twitter.com/makespringhill/status/1842033364007579777?ref_src=twsrc%5Etfw">October 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+@nasa-jpl could this be hurting us at the lab ? @nasa-pds @podaac @whitehouse
+[County Employee Benefit Fraud](https://youtu.be/qwe5ecvirkY) < @nbcnews @disney @blackgirlscode
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwe5ecvirkY?si=oSfZMWHRPvioeMbN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+@CityOfLosAngeles :: #[HOLLY_MiTCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) / #[KAREN_BASS](https://www.congress.gov/member/karen-bass/B001270) @blackgirlscode KAshDoll sent me this album to explain our new relationship . . . [MostlyOnline](https://www.facebook.com/permalink.php?story_fbid=pfbid031sZ5K2sfXJLQhZ5ECUnnXqXcFTGLxALkVjMbBRhGPB6KQaZaTjKeFWy9uLkWmDcrl&id=100084464911565) , [NORMmani](https://www.facebook.com/permalink.php?story_fbid=pfbid0oGHQ5xRpkU44XUJzLruHCRywWd5mxYZVmtJBvU25pM9cXE2hDqckrJsbXxTprf3Pl&id=100084464911565) was her secret friends but we were open friends other places @nasa-jpl @whitehouse @blackgirlscode im not mad -[Rashard](https://rashardsdata.github.io/)
+
+<img width="318" height="318" alt="image" src="https://github.com/user-attachments/assets/5a6bdaf4-4503-4681-a2a7-41af1a969b37" />
+
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0bf1IKVWM1yv1rduV6gx0B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+you in or what @nasa-jpl this is the response @blackgirlscode @normani @newshour i need help man! @abc7 @nasa
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A694087468&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kashdoll" title="Kash Doll" target="_blank" style="color: #cccccc; text-decoration: none;">Kash Doll</a> · <a href="https://soundcloud.com/kashdoll/no-lames-feat-summer-walker" title="No Lames (feat. Summer Walker)" target="_blank" style="color: #cccccc; text-decoration: none;">No Lames (feat. Summer Walker)</a></div>
+
+@CityOfLosAngeles :: #[HOLLY_MiTCHELL](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) / #[KAREN_BASS](https://www.congress.gov/member/karen-bass/B001270)
+I tried to submit our annual report on @meta's festival page in favor of [Governor Newsom's](https://news.berkeley.edu/2025/10/03/gov-newsom-visits-uc-berkeley-to-sign-bill-encouraging-quantum-innovation/) , [[TechInitiative](https://www.gov.ca.gov/2025/10/03/governor-newsom-signs-legislation-to-advance-californias-position-as-the-epicenter-of-global-innovation/)], but im seriously doxxed and scared T.i is doing playboy errands with [Normani](https://www.miaminewtimes.com/arts-culture/a-miami-contestant-just-got-sent-home-on-dancing-with-the-stars-40492232/),,, those ppl are such a disruption, she in it and i have to be dismissed by her, i made deals with [her](https://youtu.be/5GL9JoH4Sws?t=139)
+
+
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: 
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+[DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
+<img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
+2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+<img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Thaka Sartu
+Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf House of Representatives (United States) Representative Sydney Kamlager-Dove Congressmember Karen Bass Normani Secretary of War Pete Hegseth Vice President JD Vance President Donald J. Trump Advanced Fertility Center of Chicago First Lady of Georgia Marty Kemp ############################ -#rashard NASA Jet Propulsion Laboratory
+
+<img alt="@emit-sds @whitehouse @stateofcalifornia" src="https://github.com/user-attachments/assets/1c6da31d-2c4d-4502-a19d-b3fcdccf789f" />
+
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02bodacEmgcxyvBTRngQdcuJ8GYuGYQUtjc8wZ41uY6kSz9ocvbtWJ9bPHfu26PKcxl%26id%3D100084464911565&show_text=true&width=500" width="500" height="402" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid06XdiEP3wm7DTFTXT7uYH6RZfqb8dugTA8Z5WCwzi4DCZzuXM1PHTUUA8fbnyQgKgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="742" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid093yXBxPwn25hwfejUuHnmRq5cpjkwhgVQH34SiEJggXNqjm6YG3a4mgxSueYj8Vol%26id%3D100084464911565&show_text=true&width=500" width="500" height="456" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0xdVjty3DpTJZHDJqdA3honDFrF2Nm6qjNrNeRGoNoDUq9YsMf2VoMjhFr5Y8EVSrl%26id%3D100084464911565&show_text=true&width=500" width="500" height="604" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img  alt="good luck @blackgirlcode" src="https://github.com/user-attachments/assets/43d8d492-1e19-4fcd-a027-0e6785f58132" />
+
+<img  alt="@nasa-pds" src="https://github.com/user-attachments/assets/079f7e92-a3e8-4947-88db-11d64b8302cf" />
+<img width="@nasa-jpl @blackgirlscode @cityoflosangeles @stateofcalifornia" alt="image" src="https://github.com/user-attachments/assets/9150d122-f809-4a34-b550-7432dfcd4e10" />
+
+<img   alt="@nasa-develop @blackgirlscode" src="https://github.com/user-attachments/assets/75c2ce92-a75a-4c0c-923b-4633b8b45f35" />
+
+
+# While I was gone
+we got pushed around and settled in atlanta, and other ppl started spending time with me and i want everyone accounted for so i never disrupt a mission again... im sorry for missing [Mars2020](https://science.nasa.gov/mission/mars-2020-perseverance/)
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-fb1' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+@blackgirlscode @stateofcalifornia 
 @nasa @nasa-jpl @stateofcalifornia
 Rashards Verifyable Skills.[..](https://gist.github.com/Fil/780eb92d6071d96343decebc77013ed1)
 Retriving Information With [Telnet](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/telnet)
