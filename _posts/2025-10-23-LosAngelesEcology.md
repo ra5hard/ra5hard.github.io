@@ -18,7 +18,7 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
 
- ::: @Amazon [YO!](https://www.facebook.com/permalink.php?story_fbid=pfbid0Yxwz2fCv9VmhMM2cQsjTUxqckJKw5NoMC2s3HJi9tiT6DqXZoDttRF7i56ZU9wqJl&id=100084464911565)
+ ::: [@Amazon](https://www.msn.com/en-us/money/watchlist?id=a1nhlh&ocid=winp1taskbar&cvid=32cc3d1345124183e9e14873a04dea64&ei=5): [YO!](https://www.facebook.com/permalink.php?story_fbid=pfbid0Yxwz2fCv9VmhMM2cQsjTUxqckJKw5NoMC2s3HJi9tiT6DqXZoDttRF7i56ZU9wqJl&id=100084464911565)
 
 <img width="349" height="84" alt="image" src="https://github.com/user-attachments/assets/827e3450-8586-4ead-9c7c-a2927b95356b" />
 
@@ -512,6 +512,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
