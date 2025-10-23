@@ -23,7 +23,7 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 <img width="349" height="84" alt="image" src="https://github.com/user-attachments/assets/827e3450-8586-4ead-9c7c-a2927b95356b" />
 
 [ThX @mattgraham aka #KEViNROTHWELL! ʕ •ᴥ•ʔ](https://madebygraham.com/articles) 
-<img  alt="image" src=" https://madebygraham.com/assets/images/android-demo.png" />
+<img  alt="image" src="https://madebygraham.com/assets/images/android-demo.png" />
 
 [@Microsoft AndroidLAuncheriNACTiON @blackgirlscode @deptofdefense @whitehouse @cityoflosangeles @stateofcalifornia @LACMTA](https://ia800904.us.archive.org/14/items/screen-20250705-235856/screen-20250706-205654.mp4)
 
@@ -512,6 +512,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
