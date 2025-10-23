@@ -6,23 +6,40 @@ title: Presidential
 image: pentagon.jpg
 ---
 
+[https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)
 
-NASA Appropriations and Authorizations:
+# NASA Appropriations and Authorizations:
 At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance
 [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
 [@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
 @cityoflosangeles 
 [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog) + [@rashardgds BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-09-15-BuildingBlocks.md) `<- sites with outages @whitehouse @dhs-gov
 [Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
 
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/dd12c5e3-bea3-4691-a96b-f0c7364f7aa1" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b021997d-e137-4fa5-916e-f3eec6f512aa" />
+
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @emit-sds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b6c8898f-2eee-48c5-b54a-f579cd2093ed" />
 
 # HiView 
 HiView is a data explorer and image viewing application supporting the JPEG2000 image format 
 [Intro, April 2012 Update](https://www.youtube.com/watch?v=y3PCKnACusk) ::: [UserGuide @newshour @datadesk](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) ::: [Download](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView)
-![pirl](https://pirlwww.lpl.arizona.edu/images/pirl-logo08.jpg)
+![pirl](https://pirlwww.lpl.arizona.edu/images/pirl-logo08.jpg) [gdscc.nasa.gov/index.php/tours/](https://www.gdscc.nasa.gov/index.php/tours/)
 ![HiPOD @HiRiSE @NASA @blackgirlscode](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
 
+### Panoply Data Viewer
+Panoply requires a computer with Java 11 [download](https://www.giss.nasa.gov/tools/panoply/download/)
+4 NETCDF files GiS_DATA
 [pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2abd597a-8565-40cc-894f-dc6aa0a15909" />
