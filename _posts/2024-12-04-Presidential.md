@@ -7,12 +7,19 @@ image: pentagon.jpg
 ---
 
 
-NASA Appropriations and Authorizations: At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
+NASA Appropriations and Authorizations:
+At [a](https://www.earthdata.nasa.gov/data/projects/lance/people) Glance [Link](https://www.congress.gov/crs-product/R43419)
 [@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf) @cityoflosangeles 
 [@rashardsdata changelog](https://rashardnasalosangelesjpl.github.io/rashardlearned/changelog)
-
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal @nasa-jpl](https://www.youtube.com/watch?v=BLzEvT-mdkU)
 <img  alt="image" src="https://github.com/user-attachments/assets/0a196e75-c25d-454c-b3bd-37f02fb39909" />
 
+
+# HiView 
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format 
+[Intro, April 2012 Update](https://www.youtube.com/watch?v=y3PCKnACusk) ::: [UserGuide @newshour @datadesk](https://pirlwww.lpl.arizona.edu/software/HiView/Users_Guide/Introduction/Description-Quick_Start_.html) ::: [Download](https://pirlwww.lpl.arizona.edu/software/registration/registration.cgi?software=HiView)
+![pirl](https://pirlwww.lpl.arizona.edu/images/pirl-logo08.jpg)
+![HiPOD @HiRiSE @NASA @blackgirlscode](https://www.uahirise.org/hiview/images/hiview-splash2.jpg)
 
 [pds.mcp.nasa.gov/portal/](https://pds.mcp.nasa.gov/portal/) @nasa-pds im getting my feet in gear for the new sites @blackgirlscode
 
