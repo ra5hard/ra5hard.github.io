@@ -1,10 +1,9 @@
-
 ---
 layout: post
 title:  CurrentSynopsis
 published: true
-date:   2025-10-25 11:51:06 
-permalink: /surrentsynopsis 
+date:   2025-10-25 11:01:06 
+permalink: /currentsynopsis 
 tags: life family blog hr relationships climate 
 image: PIA01594.jpg
 ---
