@@ -9,7 +9,7 @@ mermaid: true
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
-
+[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
   {% for post in site.posts %}
