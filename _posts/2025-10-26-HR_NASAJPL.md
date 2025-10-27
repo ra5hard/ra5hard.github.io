@@ -31,7 +31,9 @@ MANAGEMENT AND BUDGET
 [@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
 
 <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+
 [ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
 
 [Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
