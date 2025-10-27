@@ -2,13 +2,237 @@
 layout: post
 title:  Perseverance[ROVER]
 published: true
-tags: mars dsn "Deep Space Network" robotics 6wheels rover
-image: PIA26339.jpg
+tags: mars dsn "Deep Space Network" robotics marsblog
+image: Mars_Perseverance_NRF_1646_0813065456_362ECM_N0791204NCAM03646_07_195J.png
 author: "RashardKelly @nasa-jpl"
 ---
 
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+
+Image of the Week [📸](https://mars.nasa.gov/mars2020/multimedia/raw-images/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ)
+## Mars Perseverance Sol 1663: WATSON Camera
+![imageoftheweek](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01663/ids/edr/browse/shrlc/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ01_1200.jpg)
+
+
+# [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
+NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
+
+# Mars Perseverance Sol 1664: Left Navigation Camera (Navcam)
+[Weather @nasa-jpl @blackgirlscode](https://www.msss.com/msss_images/latest_weather.html)
+This image was acquired on Oct. 25, 2025 (Sol 1664) at the local mean solar time of 11:09:30.
+![PDS Geosciences Node Mars Orbital Data Explorer](https://ode.rsl.wustl.edu/mars/images/geo.png)
+
+![NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01664/ids/edr/browse/ncam/NLF_1664_0814656274_927ECM_N0791762NCAM00501_01_295J01_1200.jpg)
+
+[Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
+
+# Mars Perseverance Sol 1499:
+Left Navigation Camera (Navcam)
+NASA's Mars Perseverance rover acquired this image using its onboard Left Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+
+This image was acquired on May 8, 2025 (Sol 1499) at the local mean solar time of 11:10:35.
+
+Image Credit: NASA/JPL-Caltech [READ](https://mars.nasa.gov/mars2020/multimedia/raw-images/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J)
+![Mars Perseverance Sol 1499](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01499/ids/edr/browse/ncam/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J01_1200.jpg)
+
+@WUSTL-CSPL @wustl 
+re:  [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx)
+Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [Analyst's Notebook](https://an.rsl.wustl.edu/) for my [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around 
+
+I am on the Mars2020 team, but i got kidnapped and my family and every family i treid to start after that got split up So I am still active mission and back home in savannah people know when hunter needs you active duty its serious. So there, thats my commitment
+
+About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol1499](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/), I found some photos to do furthur research on and created an archive titled : [MartianGeology](https://archive.org/details/mars-geology-imaging-gifs/4486ml1072810140112637c00_drcx_2PCT%20%281%29.png), I had some [Xrays](https://ia600800.us.archive.org/13/items/mars-geology-imaging-gifs/ezgif.com-animated-gif-maker.gif)  i was working on . . . I placed an order for the data products availiable on that day [Order ID M20Order-2025-10-27-000624-56537](https://pds-imaging.jpl.nasa.gov/beta/search?gather.common.spacecraft=perseverance)
+_add filter_ : Filtering:Sol: 1499 to 1499 
+[ATLAs pds-imaging.jpl. @nasa.gov ](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
+
+### mastcamz [Link @nasa-pds](https://mastcamz.asu.edu/galleries/sol-1499-chain-lakes-workspace-aeolian-change-detection-mastcam-z-mosaic/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9c7a26de-cb4e-49ec-a35c-b9bc9ead9882" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/7d33d9fc-e7c9-4953-ac36-5117a252c10b" />
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-mars' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+
+
+
+![Mailin Space Science Systems](msss.com/images/msss_logo.gif)
+
+# _.fits_
+[.fits](https://fits.gsfc.nasa.gov/)
+### The standard data format used in astronomy
+- Stands for 'Flexible Image Transport System'
+- Endorsed by NASA and the [International Astronomical Union](https://fits.gsfc.nasa.gov/iaufwg/iaufwg.html)
+  [wiki](https://en.wikipedia.org/wiki/FITS)
+  
+![.fits](https://fits.gsfc.nasa.gov/FITSlogo.gif) 
+
+
+![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
+
+
+Use the [Analyst's Notebook](https://an.rsl.wustl.edu/m20/AN/an3.aspx) to explore planetary data from NASA Mars and lunar landed missions. The Notebook is a web application that integrates sequence information, engineering and science data, and documentation.
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2725c46d-116f-4d18-9154-4dec16c8b895" />
+
+
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+
+# Photojournal's URL Mishap
+-_its effect on my life_
+-Rashard , iman [thaka] kelly @blackgirlscode
+@nasa broke my blog . i feel amazing! @nasa-jpl i caint git no badge luv fo dat?! @usgs @cityoflosageles
+[Voyager](https://thakarashard.github.io/rashardmro/2024/11/19/Voyager1_n_2.html)
+`https://photojournal.jpl.nasa.gov/jpegMod/PIA02528_modest.jpg` has been blasted into Oblivion `It looks like you have reached a URL that does not exist or you do not have permission.` [TryHere @blackgirscode](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg)
+
+`[https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia02/pia02528/PIA02528_modest.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02528/PIA02528.jpg?w=900&h=900&fit=crop&crop=faces%2Cfocalpoint) _is the replacement_ the fix is to change the background declaration url to the new one and all should work out!
+
+
+| Item              | In Stock | Price |
+| :---------------- | :------: | ----: |
+| Opportunity        |   [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/)  | 23.99 |
+| SQL Hat           |   True   | 23.99 |
+| Codecademy Tee    |  False   | 19.99 |
+| Codecademy Hoodie |  False   | 42.99 |
+
+
+# RoverInventory
+| Year | Rover| HomePAge |
+| ---- | ------------- | ---- |
+| xxxx | Opportunity | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Spirit | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/) |
+| xxxx | Curiosity | [Info](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) |
+| xxxx | Sojourner | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Perseverance | [Info](https://science.nasa.gov/mission/mars-2020-perseverance/) |
+| xxxx | PathFinDer| [Info](https://photojournal.jpl.nasa.gov/spacecraft/Mars+Pathfinder+Rover) |
+    
+
+![ROVERWHEELS](https://upload.wikimedia.org/wikipedia/commons/1/10/H_rover-comp_wheels_02.jpg)
+![Sorjourner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PIA01551.jpg/1024px-PIA01551.jpg)  
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
+[SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
+
+<img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
+
+![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
+
+
+
+<img  alt="image @blackgirlscode @newshour @cityofsantamonica @nasa-jpl @usgs @nasa @cityoflosangeles @whitehouse" src="https://github.com/user-attachments/assets/ac4197df-0a27-4db2-aea2-3353fabd7ced" />
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2FNOVApbs%2Fvideos%2F1271974741035762%2F&show_text=false&width=380&t=0" width="380" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: 
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+[DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
+<img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
+2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+<img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
+
+
+# JPL Open Source Rover Project
+[DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
+<object data="https://jplopensourcerover.com/#!/home" width="80%" height=400px ></object>
+
+<style>
+.whitebg {background-color:white;}
+</style>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+[Messenger - Earth Departure Movie](https://messenger.jhuapl.edu/Explore/media/videos/mdis_depart.mpeg)
+# Mars Reconnaissance Orbiter
+
+Launched in August of 2005, the High Resolution Imaging Science Experiment (HiRISE) is flying onboard the Mars Reconnaissance Orbiter (MRO) mission. HiRISE will investigate deposits and landforms resulting from geologic and climatic processes and assist in the evaluation of candidate landing sites.  [Link marsoweb.nas.nasa.gov/hirise/](https://marsoweb.nas.nasa.gov/hirise/) [fullres 3d anaglyph](https://www.uahirise.org/anaglyph/ESP_088645_1945_ESP_087933_1945_RED)
+![hirise @nasa-jpl](https://marsoweb.nas.nasa.gov/hirise/images/hirise_emblem1.jpg)
+build pics
+Mars Reconnaissance Orbiter in High Bay [read](https://www.jpl.nasa.gov/images/pia07212-mars-reconnaissance-orbiter-in-high-bay/) years later spots [curiosity](https://science.nasa.gov/resource/hirise-spots-curiosity-driving-toward-upper-gediz-vallis/)
+![image](https://d2pn8kiwq2w21t.cloudfront.net/original_images/jpegPIA07212.jpg)
+![MRO HiRiSE @blackgirlscode](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA07209.width-1024.jpg)
+Workers at Lockheed Martin Space Systems, Denver, install a telescopic camera on NASA's Mars Reconnaissance Orbiter spacecraft on Dec. 11, 2004. [READ](https://www.jpl.nasa.gov/images/pia07209-installing-a-camera-on-mars-reconnaissance-orbiter/) Workers at Lockheed Martin Space Systems, Denver, position a telescopic camera for installation onto NASA's Mars Reconnaissance Orbiter spacecraft on Dec. 11, 2004. [Read](https://www.jpl.nasa.gov/images/pia07208-positioning-a-camera-for-mars-reconnaissance-orbiter/)
+![@nasa](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA07208.width-1024.jpg)
+Moving the Mars Reconnaissance Orbiter
+[read](https://www.jpl.nasa.gov/images/pia07213-moving-the-mars-reconnaissance-orbiter/) 
+Mars Reconnaissance Orbiter After Camera Installation
+A telescopic camera called the High Resolution Imaging Science Experiment, or HiRISE, was installed onto the main structure of NASA's Mars Reconnaissance Orbiter on Dec. 11, 2004 at Lockheed Martin Space Systems, Denver, Colo. HiRISE is at the top of the spacecraft in this image. 
+![mro @nasa-jpl](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA07210.width-1024.jpg)
+
+<img  alt="output-onlinepngtools HiRise Steep Sandy Slopes in Coprates Chasma ESP_088620_1660_ESP_088554_1660" src="https://github.com/user-attachments/assets/a4000977-0514-4091-aa63-19c82d6a4d66" />
+
+[HiRise Steep Sandy Slopes in Coprates Chasma ESP_088620_1660_ESP_088554_1660](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088600_088699/ESP_088620_1660_ESP_088554_1660/ESP_088620_1660_ESP_088554_1660_RED.browse.png) [fullRes @blackgirlscode noir*](https://hirise-pds.lpl.arizona.edu/download/PDS/EXTRAS/ANAGLYPH/ESP/ORB_088600_088699/ESP_088620_1660_ESP_088554_1660/ESP_088620_1660_ESP_088554_1660_RED.JP2)
+![Nasa-pds @nasa glenn mars](https://ia601205.us.archive.org/9/items/C-1997-2554/1997_02554.jpg) 
+[archive](https://archive.org/details/C-1997-2554)
+@nasa-pds ~ [Glenn on Archive @nasa-jpl @blackgirlscode](https://archive.org/details/glennresearchcentercollection)
+
+
+
+Mars Books
+The Mars project
+by Von Braun, Wernher, 1912-1977
+[archive](https://archive.org/details/marsproject0000vonb)
+--
+The scientific exploration of Mars
+by Taylor, F. W
+[archive](https://archive.org/details/scientificexplor0000tayl)
+--
+Mars
+by Bova, Ben, 1932-
+[archive](https://archive.org/details/mars0000bova_g8b1/page/n7/mode/2up)
+
+[The Problem Of Space Travel - Herman Noordung](https://www.nasa.gov/wp-content/uploads/2023/03/sp-4026.pdf**)**
+
+
+multi media 
+[Red Planet Mars 1952 colorized](https://archive.org/details/red-planet-mars)
+[The Martian 2015](https://archive.org/download/the.-martian.-2015.-extended.-1080p.-brrip.x-264.-aac-etrg/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4) [DailyMotion](https://www.dailymotion.com/video/x9a9n1g)
+[Dune 2000 ps1](https://archive.org/details/psx_dune2000) - [Max Fleischer](https://archive.org/details/1925-03-16-the-monster-1925)'s atrip to Mars [.mp4](https://archive.org/download/1925-03-16-the-monster-1925/Out%20of%20the%20Inkwell%20-%20Trip%20to%20Mars%20%5BRed%20Seal%3B%204-1-24%5D.mp4) - [imdb](https://www.imdb.com/title/tt0015431/)
+![PDS_GEOCiENCES](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
+
+# NEWS @foxnews @newshour @datadesk @blackgirlscode @nasa-jpl 
+![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[Ingenuity Mars Helicopter](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/)
+
+
 
 <style>
 .whitebg {background-color:white;}
@@ -53,32 +277,6 @@ A telescopic camera called the High Resolution Imaging Science Experiment, or Hi
 {% endfor %}
 
 </div>
-
-Mars Books
-The Mars project
-by Von Braun, Wernher, 1912-1977
-[archive](https://archive.org/details/marsproject0000vonb)
---
-The scientific exploration of Mars
-by Taylor, F. W
-[archive](https://archive.org/details/scientificexplor0000tayl)
---
-Mars
-by Bova, Ben, 1932-
-[archive](https://archive.org/details/mars0000bova_g8b1/page/n7/mode/2up)
-
-[The Problem Of Space Travel - Herman Noordung](https://www.nasa.gov/wp-content/uploads/2023/03/sp-4026.pdf**)**
-
-
-multi media 
-[Red Planet Mars 1952 colorized](https://archive.org/details/red-planet-mars)
-[The Martian 2015](https://archive.org/download/the.-martian.-2015.-extended.-1080p.-brrip.x-264.-aac-etrg/The.Martian.2015.EXTENDED.1080p.BRRip.x264.AAC-ETRG.mp4) [DailyMotion](https://www.dailymotion.com/video/x9a9n1g)
-[Dune 2000 ps1](https://archive.org/details/psx_dune2000) - [Max Fleischer](https://archive.org/details/1925-03-16-the-monster-1925)'s atrip to Mars [.mp4](https://archive.org/download/1925-03-16-the-monster-1925/Out%20of%20the%20Inkwell%20-%20Trip%20to%20Mars%20%5BRed%20Seal%3B%204-1-24%5D.mp4) - [imdb](https://www.imdb.com/title/tt0015431/)
-![PDS_GEOCiENCES](https://pds-geosciences.wustl.edu/images/geo_banner_main.jpg)
-
-# NEWS @foxnews @newshour @datadesk @blackgirlscode @nasa-jpl 
-![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
-[Ingenuity Mars Helicopter](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/)
 
 <iframe width="650" height="315" src="https://www.youtube.com/embed/-StZggK4hhA?si=0F-e2yrdWl4NqDET" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
