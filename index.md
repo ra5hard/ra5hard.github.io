@@ -12,6 +12,50 @@ mermaid: true
 [Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
+[@nasa iSS current position](https://eyes.nasa.gov/apps/earth/#/)
+[SpotTheStaTioN]() : [@apple iOS](https://apps.apple.com/us/app/spot-the-station/id6449235044) : [@android](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en_US)
+
+Roscosmos Spacewalk 65
+
+[WikiTalk @TheSpaceDevs](https://en.wikipedia.org/wiki/Talk:Expedition_65) :: [@nasa-develop @nasa @usgs @weather-gov @newshour @blackgirlscode](https://www.nasa.gov/mission/expedition-65/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1AHUqn0X4Hs?si=czaTW_Bot4NPCcOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image @blackgirlscode 1050am SPACEwalk65 from @stateofcalifornia" src="https://github.com/user-attachments/assets/ae33bf9c-2c78-47c8-952d-7e655aaa457f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4c66b17c-9ad1-408b-b80e-d20a3895e75f" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/faef7897-9946-42eb-abe3-ee08e4307501" />
+
+![@nasa-jpl @emit-sds @blackgirlscode check your @nasa repos for updates to your JJupyterNotebooks @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/c/c0/Expedition_65_crew_poster.png)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0KQCgMcRyFUrNaqbRmW4H7wmrsjFDPDn1ig5Jh7r84PWGa93fCUeBGRwarQRawzZUl%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+[Android OS Documentation](https://source.android.com/docs)
+# About the International Space Station
+The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/) [MRO_TWEET](https://x.com/RicoThaka/status/1760472287265038367)
+
+
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
+          
+
+
+<img src="https://raw.githubusercontent.com/rashardci/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+
+
+
+<img src="https://raw.githubusercontent.com/rashard-ecostress-jpl-iss/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+
+
+
+<img src="https://raw.githubusercontent.com/krashardiman-ctrl/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+
+<img src="https://raw.githubusercontent.com/rashardgds/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
+
+![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
   {% for post in site.posts %}
     
 <article class="paginator">
@@ -24,6 +68,7 @@ mermaid: true
 
   {% endfor %}
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
 <iframe src="https://archive.org/embed/oe_m1m_dscovr_s20250714000000_e20250714235959_p20250715021540_pub.nc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
@@ -210,7 +255,7 @@ Sol 4624: Mars Hand Lens Imager (MAHLI)
 ![tera](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_005700_005799/PSP_005701_1920/PSP_005701_1920_RGB.NOMAP.browse.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/87e4aafd-9e50-416f-8a3d-6f6e93b98f13" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
   
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
