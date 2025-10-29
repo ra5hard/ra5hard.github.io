@@ -1,5 +1,5 @@
 ---
-layout: rashardmro
+layout: post
 mermaid: true
 published: true
 title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
@@ -542,6 +542,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
