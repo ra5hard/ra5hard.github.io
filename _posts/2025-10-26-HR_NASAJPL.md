@@ -12,23 +12,40 @@ author: "RashardKelly @nasa-jpl"
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
 Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
 [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) 
-
-
-At Glance
-
 [@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
 
 :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
-
-AMERICAN FEDERATION OF
-GOVERNMENT EMPLOYEES, AFL-CIO et
-al.,
-Plaintiffs,
- v.
-UNITED STATES OFFICE OF
-MANAGEMENT AND BUDGET
+AMERICAN FEDERATION OFGOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED STATES OFFICE OFMANAGEMENT AND BUDGET
 [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
-[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  
+
+
+## WorkPortal
+ @cityoflosangeles karen bass, i need to test today, but thats where i was @blackgirlscode
+[domain]/[rashardmro]
+actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) on @x f.k.a @twitter 
+[Commit c1a7e30](https://github.com/ThakaRashard/rashardmro/commit/c1a7e30d29fe97bdb601ba0ca32a87515b72e07e) i was recently asked to remove a tweet by [force](https://archive.org/details/article_1_declaration_of_rights_section_1__sec_2_californiaconstitution)
+
+
+<div class="tupperware" markdown="1">
+
+
+
+<figure>
+ <a href="https://raw.githubusercontent.com/rashardiman/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
+ <img src="https://raw.githubusercontent.com/rashardiman/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> Mar22 Schema Test</a></figcaption>
+</figure>
+  
+  <figure>
+ <a href="https://raw.githubusercontent.com/rashardiman/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" > 
+ <img src="https://raw.githubusercontent.com/rashardiman/rashardmro/refs/heads/master/assets/images/mars/rashardmro_passing.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
+  <figcaption><a href="https://www.loc.gov/resource/hhh.ca2896.photos/?sp=3"> MAr22 CssValid</a></figcaption>
+</figure>
+ 
+</div>
+
+@blackgirlscode 
 
 <img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
 
