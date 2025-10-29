@@ -7,6 +7,70 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding.
+AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO et al.,Plaintiffs, v.UNITED STATES OFFICE OFmMANAGEMENT AND bUDGET [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+# Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
+
+The Tracking and Data Relay Satellite (TDRS) constellation consists of a number of satellites in geosynchronous orbit distributed over the Atlantic, Pacific, and Indian Oceans. These satellites provide near-continuous information relay services to more than 25 space missions, including the Hubble Space Telescope, the International Space Station, and many of our Earth-observing missions. Data is essential to space exploration. Photos of foreign planets and
+faraway galaxies, satellite navigation, and even the health and safety
+of our astronauts rely on communications systems that move data to
+and from space. That’s where the Tracking and Data Relay Satellite
+(TDRS) constellation comes in. + [@nasa GeneralDynamics](https://gdmissionsystems.com/satellite-ground-systems/tracking-and-data-relay-satellite-system)
+[DOWNLOAD-PDF @TheSpaceDevs](https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/31e784ea-0455-48b9-9961-cacea495a0af" />
+
+[New PDS Beta Site is Live](https://pds.mcp.nasa.gov/portal/)
+
+
+
+[@nasa iSS current position](https://eyes.nasa.gov/apps/earth/#/)
+[SpotTheStaTioN](https://www.loc.gov/programs/john-w-kluge-center/chairs-fellowships/chairs/blumberg-nasa-chair-in-astrobiology/) : [@apple iOS](https://apps.apple.com/us/app/spot-the-station/id6449235044) : [@android](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation&hl=en_US)
+
+Roscosmos Spacewalk 65
+
+[WikiTalk @TheSpaceDevs](https://en.wikipedia.org/wiki/Talk:Expedition_65) :: [@nasa-develop @nasa @usgs @weather-gov @newshour @blackgirlscode](https://www.nasa.gov/mission/expedition-65/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1AHUqn0X4Hs?si=czaTW_Bot4NPCcOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image @blackgirlscode 1050am SPACEwalk65 from @stateofcalifornia" src="https://github.com/user-attachments/assets/ae33bf9c-2c78-47c8-952d-7e655aaa457f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4c66b17c-9ad1-408b-b80e-d20a3895e75f" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/faef7897-9946-42eb-abe3-ee08e4307501" />
+
+![@nasa-jpl @emit-sds @blackgirlscode check your @nasa repos for updates to your JJupyterNotebooks @cityoflosangeles](https://upload.wikimedia.org/wikipedia/commons/c/c0/Expedition_65_crew_poster.png)
+
+
+# About the International Space Station
+The station was designed between 1984 and 1993. Elements of the station were in construction throughout the US, Canada, Japan, and Europe beginning in the late 1980s. [ReadMore](https://www.nasa.gov/international-space-station/) [MRO_TWEET](https://x.com/RicoThaka/status/1760472287265038367)
+
+
+<img src="https://raw.githubusercontent.com/rashardiman/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62978u.jpg" alt="image" />
+          
+
+
+<img src="https://raw.githubusercontent.com/rashardci/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62900-62981u.jpg" alt="image" />
+
+
+
+<img src="https://raw.githubusercontent.com/rashard-ecostress-jpl-iss/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63400-63497u.jpg" alt="image" />
+
+
+
+<img src="https://raw.githubusercontent.com/krashardiman-ctrl/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-63500-63504u.jpg" alt="image" />
+
+<img src="https://raw.githubusercontent.com/rashardgds/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
+
+![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
+![duckStation](https://upload.wikimedia.org/wikipedia/commons/a/a2/Logo_Duckstation.svg)
+
+
 ### Resources 
 [Accessing Data for the World's Water with SWOT](https://www.earthdata.nasa.gov/learn/webinars/accessing-data-worlds-water-swot)
 [Watch](https://www.youtube.com/watch?v=lKtFMfHH5Ic) /// [SWOT Data Access Workshop July 2024](https://youtu.be/7qqiUqR43_8)
