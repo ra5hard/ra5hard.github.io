@@ -8,6 +8,94 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+## NASA Appropriations and Authorizations: At a Glance
+[https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
+Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) 
+
+
+At Glance
+
+[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+
+:: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+AMERICAN FEDERATION OF
+GOVERNMENT EMPLOYEES, AFL-CIO et
+al.,
+Plaintiffs,
+ v.
+UNITED STATES OFFICE OF
+MANAGEMENT AND BUDGET
+[DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
+[@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode 
+
+<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
+
+[ECOSTRESS - https://e4ftl01.cr.usgs.gov/WORKING/BRWS/](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/) @nasa i think @StateOfCAlifornia @CityOfLosAngeles @dhs-gov @Nasa-jpl @nasa-pds @emit-sds @danthony06 @swri-robotics
+
+[Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e3329802-c111-43ff-a017-d7385cd99618" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+[comment]: <> (Emergency Files )
+
+
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+[NOAA-Affiliated-Projects](https://github.com/rashardsdata/NOAA-Affiliated-Projects_RashardJPLlist) 
+[nowcoast.noaa.gov/](https://nowcoast.noaa.gov/)
+- _Imagine navigating a vessel along the coast and planning the approach to your destination What factors affecting the movement of the vessel?_ [ReadmrE](https://nauticalcharts.noaa.gov/updates/data-dissemination-web-interface-supports-navigation/#more-184565)
+ 
+<img alt="image" src="https://github.com/user-attachments/assets/a1891924-1573-4928-8192-f941291f396f" />
+
+![PuertoRico](https://nauticalcharts.noaa.gov/updates/wp-content/uploads/2025/03/cropped-EX2203_EM304_PuertoRico-2-scaled-1-1536x336.jpg)
+
+The U.S. government is closed. This site will not be updated; however, NOAA websites and social media channels necessary to protect lives and property will be maintained. To learn more, [visit visi](https://youtu.be/V2aj0zhXlLA?t=117)t [@commercegov](https://www.commerce.gov/news/blog). 
+For the latest forecasts and critical weather information, visit [@weather-gov](https://www.weather.gov/).
+
+
+
+
+
+*Please note: Some Funding Opportunities offered under the Bipartisan Infrastructure Law are open and can be applied for during the partial government shutdown.
+
+![@noaa @weather-gov](https://nowcoast.noaa.gov/static/media/noaa_logo_small_alpha_cropped.0603f9dbcb7b3768c968.png) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/ffdc2dea-ad9f-4730-98f5-0ba1078e88a1" />
+
+ 
+
+![@NOAA-OWP](https://www.pmel.noaa.gov/sites/all/themes/pacific_marine/images/pmel_logo_full.png)
+[www.pmel.noaa.gov/](https://www.pmel.noaa.gov/)
+The U.S. government is closed. This site will not be updated; however, NOAA websites and social media channels necessary to protect lives and property will be maintained. To learn more, visit [@commercegov](https://www.commerce.gov/news/blog).
+
+For the latest forecasts and critical weather information, visit [@weather-gov](https://www.weather.gov/).
+
+[Discover and Access the OPERA-DISP Dataset Using ASF DAAC’s Displacement Portal]: <> (https://www.youtube.com/watch?v=BLzEvT-mdkU)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/03ad9450-a0a0-4874-8fb5-e570d1d4ea9a" />
+
+
+@ISRO @isrox 
+## Photojournal went through massive redesign, blog hotlinks collapsed 
+@ESA 
+Alert for educators that scripts may be disabled from al long time ago! The site started in [1997](https://web.archive.org/web/19971001000000*/https://photojournal.jpl.nasa.gov/)  the outage is fractal @podaac @uarizona  @stateofcalifornia @google @newshour @datadesk [@usgs](https://www.facebook.com/gill.broussard/posts/pfbid032vbz3GL5qdyuk9evNQH3LQLPay1qTqDofkuT21QmHot6S2MD29nUEZogD53bxwT8l) it may be related to the [DSCOVR;EPiC OUTAGE @NASA-DEVELOP](https://rashardsdata.github.io/2025/09/15/BuildingBlocks.html)
+
+
+SEPT302025=>`https://photojournal.jpl.nasa.gov`
+OCT142025=>`https://science.nasa.gov/photojournal/`
+[SEPT 30 2025 SNAPSHoT - => https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/](https://web.archive.org/web/20250928104849/https://photojournal.jpl.nasa.gov/)
+
+
+[@nasa Project Management Requirements](https://github.com/rashardsdata/rashardsdata.github.io/commit/0025e414de706f81f25ca5f2f664973888c0faa3)
+
+
 # Mars Reconnaissance Orbiter [Pics - click here](https://github.com/rashardsdata/rashardsdata.github.io/commit/b5b3c5a403217116581bd2612d17c2dd6a58a38c)
 >Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
 ## 6.1 Mission Overview

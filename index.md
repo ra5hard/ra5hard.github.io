@@ -8,8 +8,12 @@ mermaid: true
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+{% include nav.html %}
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
   {% for post in site.posts %}
@@ -25,25 +29,16 @@ mermaid: true
   {% endfor %}
 
 
+<object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
+</object>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
 <iframe src="https://archive.org/embed/oe_m1m_dscovr_s20250714000000_e20250714235959_p20250715021540_pub.nc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
-[@nasa-jpl hr](https://ia801301.us.archive.org/27/items/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3)
-<img  alt="image" src="https://github.com/user-attachments/assets/45b035db-a5ae-4e3a-af4f-16ebae6d5c32" />
-Congressmember Karen Bass #DTLA Immigration And Customs Enforcement (ICE) i think u guys should visit Soka Gakkai #SANTAMONiCA and see whats going on Santa Monica Police Department #PiER and if the girls are going there for #rapeHealing #re:#TammysSong 102.3 RadioFree KJLH KPFK 90.7 FM Los Angeles / 98.7 FM Santa Barbara Kendrick Lamar Normani SZA Steve Harvey Snoop Dogg -#Rashard NASA/JPL Physical Oceanography Data Center Jennifer Siebel Newsom Governor Newsom United Nations Office for Outer Space Affairs (UNOOSA) JAXA(宇宙航空研究開発機構)
+[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
 
-#TAMMY.#MP3 [https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3](https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3) 
-
-#KeisHA.#MP3 [https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/11%20Keisha%27s%20Song%20%28Her%20Pain%29%20%5Bfeat_%20Ashtro%20Bot%5D.mp3](https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/11%20Keisha%27s%20Song%20%28Her%20Pain%29%20%5Bfeat_%20Ashtro%20Bot%5D.mp3) @BlackGirlsCode Georgia Bureau of Investigation County of Los Angeles Maxine Waters Kamala Harris Donald Glover Power 106 Los Angeles KNX News 97.1 FM Fort Stewart Hunter Army Airfield E93 Radio :: Chloe Bailey personal blog Essence chloe, if u r tyra i cried alot my interaction style with her is similar to Normani im not hateful, my heart just broke, bc u know im that type of healer, but i dont break my commitments Georgia Division of Family & Children Services Kash Doll Lindsey Horvath Hollywood Food Coalition International Space Station NASA Madrid DSN Fat Beats
-
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsgi.info%2Fposts%2Fpfbid0sQkK44QdH1b5s3rpENVF9jdKFSjXZUWYR5LKQWU6iP4Jy6i5gGTie3iWcj2m8dCHl&show_text=true&width=500" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-# ELNiNO Nasa Worldview 2025 AUG 13 To 2025 AUG 25
-<iframe src="https://archive.org/embed/nasa-worldview-2025-aug-13-to-2025-aug-25" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-<img  alt="Screenshot 2025-09-05 1 14 04 PM" src="https://github.com/user-attachments/assets/f679b865-d782-484f-abb8-85a84a531814" />
-<img  alt="Screenshot 2025-09-05 12 39 22 PM" src="https://github.com/user-attachments/assets/2dfa71ad-c291-4cc5-8d37-6ffd9c7817d5" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/82f7dbb5-7b33-4a22-ae33-c352aa488b7e" />
@@ -69,8 +64,7 @@ OBJECT                            = MISSION
       
 [mission.cat @nasa-jpl @cityoflosangeles @stateofcalifornia @blackgirlscode @whitehouse](https://pds.nasa.gov/data/mgs-m-moc-na_wa-2-sdp-l0-v1.0/dmgsc_1001/mgsc_1122/catalog/mission.cat) [civilian thingverse.com/thing:408065](https://www.thingiverse.com/thing:408065)  [[JPLD-12088](https://pds-geosciences.wustl.edu/missions/mgs/catalog/mission.txt)]. [https://pds-smallbodies.astro.umd.edu/holdings/ro-cal-cosima-3-v2.0/catalog/ref.cat](https://pds-smallbodies.astro.umd.edu/holdings/ro-cal-cosima-3-v2.0/catalog/ref.cat)
       
-<object class="scroller" width="555" height="444" data="https://eyes.nasa.gov/curiosity/" type="text/html" >
-</object>
+
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid0KZZ7oqzTonfVxHUgi7ciQsYzBXrxqX1E2i4ENekQU9GxmLutTM38cKQsntxFSZSyl&show_text=true&width=500" width="500" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
@@ -166,6 +160,67 @@ Sol 4624: Mars Hand Lens Imager (MAHLI)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ThakaRashard/rashardmro.git/HEAD) ![Build Status](https://github.com/jekyll/jekyll/workflows/Continuous%20Integration/badge.svg) ![Gem Version](https://img.shields.io/gem/v/jekyll.svg)
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+# RiCOTHAKARASHARD = RAshardKElly[Thaka] 
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
+![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+
+![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+
+@blackgirlscode @nasa-jpl 
+
+[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+
+![@commercegov @icegov @dhs-gov @noaagov @nasa @whitehouse](https://www.google.com/logos/doodles/2025/learning-about-photosynthesis-uk-copy-6753651837110918-2xa.gif)
+
+![@google @nasa-jpl @NASA-DEVELOP @blackgirlscode](https://grt.thisbrng.com/SearchViewGrt/images/Frame_29.png)
+
+![@cityoflosangeles @newshour my google mini still 430s10thst @blackgirlscode?](https://www.google.com/logos/doodles/2025/googles-27th-birthday-6753651837110886.2-2x.png)
+
+![@gatech](https://www.google.com/logos/doodles/2025/learning-the-quadratic-equation-uk-copy-6753651837110916-2xa.gif)
+
+![@blackgirlscode](https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png)
+![DNS @blackgirlscode #re:#Coral](https://www.google.com/logos/doodles/2025/learning-about-dna-uk-copy-6753651837110917-2xa.gif)
+<img  alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/11ca6f91-7b5c-4c91-bd67-b4289cfa01e7" />
@@ -210,7 +265,7 @@ Sol 4624: Mars Hand Lens Imager (MAHLI)
 ![tera](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/PSP/ORB_005700_005799/PSP_005701_1920/PSP_005701_1920_RGB.NOMAP.browse.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/87e4aafd-9e50-416f-8a3d-6f6e93b98f13" />
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
   
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
