@@ -47,7 +47,7 @@ actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](htt
 
 @blackgirlscode 
 
-<img alt="image" src="https://gavrt.lewiscenter.org/images/footer-logo.png" />
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/a83d7a95-8b2b-463a-ba74-2ad1d96fe9d1" />
 
