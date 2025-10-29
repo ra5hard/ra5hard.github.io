@@ -16,13 +16,24 @@ date:   2025-10-09 8:51:06
 # Eaton Fire aerial footage around Altadena
 <img  alt="image" src="https://github.com/user-attachments/assets/787b00c7-a85f-40f3-85d3-4e149fc19c85" />
 
-Watch
+<video controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
+
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/000broadcastabc10_EatonFireaerialfootagearoundAltadena.mp4" type="video/mp4">
+ <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/000broadcastabc10_EatonFireaerialfootagearoundAltadena.mp4" type="video/mp4">	 
+
+</video> 
+
+Watch on YOUTUBE 
+[ClickHere @emit-sds @theSpaceDevs @blackgirlscode](https://www.youtube.com/watch?v=0zbfPlj3d44)
 130,527 views  Jan 8, 2025
 The Eaton Fire burning north of Pasadena has burned about 1.6 square miles.  Aerials around La Canada, Flintridge, and Altadena. Video from KABC, Jan. 8, 2025. @StateOfCalifornia @NOAA-OWP
-@blackgirlscode
+@blackgirlscode Read more: [https://www.abc10.com/article/news/lo](https://www.abc10.com/article/news/local/wildfire/where-wildfires-are-los-angeles-county-wildfires/103-e9e6178d-412a-4759-94dd-c8ba97a2398d)...
 
-Read more: [https://www.abc10.com/article/news/lo](https://www.abc10.com/article/news/local/wildfire/where-wildfires-are-los-angeles-county-wildfires/103-e9e6178d-412a-4759-94dd-c8ba97a2398d)...
-<img  alt="image" src="https://github.com/user-attachments/assets/9c1f9481-285e-484c-927d-ba398bc42229" />
+# Jupiter Orbit Insertion Press Kit [Mission Overview](https://www.jpl.nasa.gov/news/press_kits/juno/overview/)
+[DOWNLOAD_PDF](https://www.jpl.nasa.gov/news/press_kits/juno/pdf/juno-lores.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e952e2eb-c479-4c63-a11b-104be8ccc392" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d04fcfc6-107f-487e-99d4-f5ddbedf3b14" />
 
@@ -525,6 +536,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
