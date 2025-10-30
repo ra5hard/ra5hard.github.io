@@ -7,11 +7,37 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
 ## NASA Appropriations and Authorizations: At a Glance
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
 Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding.
 AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO et al.,Plaintiffs, v.UNITED STATES OFFICE OFmMANAGEMENT AND bUDGET [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf)
 [@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  @blackgirlscode [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+
+<img alt="image" src="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" />
+
+<video controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
+
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/000006f_resupply_iss_rendevouz_orbitalSunrise_screen-20251029-065206.mp4" type="video/mp4">
+ <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/000006f_resupply_iss_rendevouz_orbitalSunrise_screen-20251029-065206.mp4" type="video/mp4">	 
+
+</video> 
+
+
+
+Orbiter Spaceport [BLOGSPOT/BLOGGER](https://orbiterspaceport.blogspot.com/2011/07/space-station-freedom-interior.html)
+
+
+![Blogger](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Blogger.svg/180px-Blogger.svg.png)
+
+Space Station Freedom interior resources
+![spaceStationFreedom](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdjriKX_LlD1HKz0RjKPwpUJoV37woimfc8b_3GBUGJJbfGNTJ5R2ZdH-cl5DubSmHEi2SQ6o10kTQR0XJ2KRl-0fpsCMCPjZI5-KN8gH9GO62kPXVmacS1QcThjCOqRwsMupDIm8g-PSb/s1600/ssf88ip.jpg)
+
+![SPACESTATiON](https://upload.wikimedia.org/wikipedia/commons/8/80/ISS_configuration_2022-12_en.svg) 
 
 # Tracking and Data Relay Satellites [🟢Active Mission](https://www.nasa.gov/mission/tracking-and-data-relay-satellites/)
 
@@ -167,6 +193,7 @@ Released Thursday, October [21+](https://www.pbssocal.org/shows/lost-la/los-ange
 
 [webbtelescope.org/images](https://webbtelescope.org/images) [@esa webb esawebb.org/images/](https://esawebb.org/images/)
 [Reddit r/jameswebb](https://www.reddit.com/r/jameswebb/) [YouTube @NASAWebbTelescope](https://www.youtube.com/@NASAWebbTelescope)
+
 <video width="400px" height="auto" controls poster="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Traveling_Through_LA_SS_print.jpg" > 
 	
  <source src="https://svs.gsfc.nasa.gov/vis/a010000/a013900/a013962/STTARS_Move_to_Navy_Base_1DX_LA_Footage_A_H_264.mp4" type="video/mp4">	 
