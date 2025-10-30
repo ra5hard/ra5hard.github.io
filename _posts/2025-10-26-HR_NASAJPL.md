@@ -21,6 +21,11 @@ AMERICAN FEDERATION OFGOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED S
 
 
 ## WorkPortal
+
+## OUTAGES and Anomolies 
+[SpaceForce @nasa](https://www.space.com/space-force-domain-awareness-abnormal-observables)
+<img  alt="image" src="https://github.com/user-attachments/assets/e00df554-c345-4093-b505-e2ba09d5ad69" />
+
  @cityoflosangeles karen bass, i need to test today, but thats where i was @blackgirlscode
 [domain]/[rashardmro]
 actually blog v3 alot of it all collapsed with the suspension of [RicoThaka](https://archive.org/details/screen-recording-2025-05-10-11.47.48-am) on @x f.k.a @twitter 
@@ -195,7 +200,7 @@ Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.
 <img  alt="good luck @blackgirlcode" src="https://github.com/user-attachments/assets/43d8d492-1e19-4fcd-a027-0e6785f58132" />
 
 <img  alt="@nasa-pds" src="https://github.com/user-attachments/assets/079f7e92-a3e8-4947-88db-11d64b8302cf" />
-<img width="@nasa-jpl @blackgirlscode @cityoflosangeles @stateofcalifornia" alt="image" src="https://github.com/user-attachments/assets/9150d122-f809-4a34-b550-7432dfcd4e10" />
+<img alt="@nasa-jpl @blackgirlscode @cityoflosangeles @stateofcalifornia"  src="https://github.com/user-attachments/assets/9150d122-f809-4a34-b550-7432dfcd4e10" />
 
 <img   alt="@nasa-develop @blackgirlscode" src="https://github.com/user-attachments/assets/75c2ce92-a75a-4c0c-923b-4633b8b45f35" />
 
