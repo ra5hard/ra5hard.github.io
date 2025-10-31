@@ -9,6 +9,9 @@ mermaid: true
 {% include nav.html %}
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+[Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) (MEPAG) November 2025 Meeting
+Virtual - November 12, 2025
+<img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
