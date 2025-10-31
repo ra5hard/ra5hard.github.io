@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//USRA//meeting_portal//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:5B6B32E0-C157-7317-02F59377A5299798-mepagnov2025-meeting_portal@www.hou.usra.edu
+CREATED: 20251031T051602Z
+DTSTAMP: 20251031T051602Z
+DTSTART;VALUE=DATE: 20251112
+DTEND;VALUE=DATE: 20251113
+SUMMARY: Mars Exploration Program Analysis Group (MEPAG) November 2025 Meeting
+LOCATION: Virtual
+DESCRIPTION: Confirmation number 130976. \n\nThank you for your interest in the Mars Exploration Program Analysis Group (MEPAG) November 2025 Meeting\, which will be held on November 12\, 2025.  If you have questions\, please visit https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/.
+END:VEVENT
+END:VCALENDAR
