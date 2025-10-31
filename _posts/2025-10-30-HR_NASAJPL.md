@@ -19,6 +19,12 @@ AMERICAN FEDERATION OFGOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED S
 [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
 [@whitehouse](https://www.whitehouse.gov/omb/), [@usagov](https://www.usa.gov/agencies/office-of-management-and-budget) et al.;  
 
+@CityOfLosAngeles @StateOfCalifornia
+wifi politics [rashards account on @vsco](https://vsco.co/rashardsartu/gallery) and [@emit-sds EarthDataRashard on @vsco](https://vsco.co/earthdatarashard/gallery)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/49060b7e-be72-47c2-acfa-a728d0c25e22" />
+<img  alt="image" src="https://github.com/user-attachments/assets/a5dc0110-59b3-4875-8a57-eec69f368f42" />
+
 
 ## WorkPortal
 
