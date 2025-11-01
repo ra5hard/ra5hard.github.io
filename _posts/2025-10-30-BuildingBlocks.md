@@ -15,6 +15,29 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 @LACMTA @EMIT-SDS @CITYOFLOSANGELES @blackgirlscode @nasa @nasa-jpl @dhs-gov firms is blocked on the Metro @datadesk
 
 ```
+
+FIRMS Daily Alert Id 56988, suomi-viirs-c2 is blocked on Metro WiFi 1058b
+This site can’t be reached
+https://firms.modaps.eosdis.nasa.gov/data/alert/Dfires_20251101053223_56988_suomi-viirs-c2.png is unreachable.
+ERR_ADDRESS_UNREACHABLE
+
+Details For: 107.77.229.124
+Decimal:1800267132
+Hostname:mobile-107-77-229-124.mobile.att.net
+ASN:20057
+ISP:AT&T Enterprises LLC
+Services:None detected
+Country:United States
+State/Region:California
+City:Van Nuys
+Latitude:34.1833 (34° 10′ 59.98″ N)
+
+Longitude:-118.4335 (118° 26′ 0.44″ W)
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.10.96  netmask 255.255.255.0  broadcast 192.168.10.255
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 3000  (UNSPEC)
+
+~/.../mame2003/namco $ @stateofcalifornia @usnavy
 This site can’t be reached
 https://firms.modaps.eosdis.nasa.gov/data/alert/Dfires_20251101053223_56988_suomi-viirs-c2.png is unreachable.
 ERR_ADDRESS_UNREACHABLE
