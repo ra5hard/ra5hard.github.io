@@ -6,6 +6,7 @@
 Construction Contract [AWARD
 SPECS. 7835; CAPITAL PROJECT NO. 69539](https://file.lacounty.gov/SDSInter/bos/supdocs/208954.pdf)
 County of Los Angeles Whittier Narrows Splashpad Project IS/MND
+Public Works Org Chart [PDf](https://pw.lacounty.gov/landing/PWorgChart.pdf?fbclid=IwY2xjawN2JitleHRuA2FlbQIxMABicmlkETFuZ2JYN1htZEVyUVFUM3NEAR4DW9FXQkgr7abF0OogsLKjPkWnA0hI31hzIhBoI3zTrol6axK36bakqBhIww_aem_1shi-NVYN6cZs8AdrTZILg)
 For the County of Los Angeles, Impact Sciences prepared a CEQA Compliance Memo and Notice of Exemption for the Whittier Narrows Splash Pad Project. The project includes construction of a new regional splash pad to provide interactive water play features and activities for all age groups. [Read - impactsciences.com/](https://impactsciences.com/project/county-of-los-angeles-whittier-narrows-splashpad-project-is-mnd/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/90a2196f-c693-486d-b07f-2e6e15eee714" />
