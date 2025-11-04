@@ -20,6 +20,8 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e9b1bf68-8be0-455b-8398-5a385c3064e5" />
 
+`https://github.com/ThakaRashard/rashardmro/blob/master/_includes/BOARDHEARINGTUESDAYNOVEMBER420251100AM.md`
+{% include BOARDHEARINGTUESDAYNOVEMBER420251100AM.md %}
 
 # Eaton Fire aerial footage around Altadena
 <img  alt="image" src="https://github.com/user-attachments/assets/787b00c7-a85f-40f3-85d3-4e149fc19c85" />
@@ -542,6 +544,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
