@@ -12,6 +12,8 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 
 <img width="502" height="527" alt="image" src="https://github.com/user-attachments/assets/2c652e3b-5e32-4950-b545-b08c8bd08bd2" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/98e79b21-df19-4aaa-b64b-42c6112988f3" />
+[Glims](https://www.glims.org/glacierdata/)
 # The Human Footprint
 Increased human population often leads to greater influence on the environment and sharper declines in species and ecosystems. [readmore about the datasets affected](https://www.earthdata.nasa.gov/news/feature-articles/human-footprint)
 <img  alt="image" src="https://github.com/user-attachments/assets/f9b3b142-e113-4052-92da-71ff80cd7402" />
