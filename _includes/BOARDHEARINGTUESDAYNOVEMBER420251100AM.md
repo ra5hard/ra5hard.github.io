@@ -111,3 +111,36 @@ timeout was 2 seconds.
 *** Request to UnKnown timed-out
 C:\Users\#Volunteer> NormaniSupervisor Holly J. Mitchell Karen Bass Vandenberg Space Force Base Mayor Van Johnson NASA's Kennedy NASA Space Alertsce Center Fort Stewart Hunter Army Airfield Governor Newsom Kimberly Bryant, Founder Black Girls CODE Keisha Lance BottomsKimberly Bryant, Founder Black Girls CODEMayor Karen BassNASA Solar System Exploration First Lady of Georgia Marty Kemp Jennifer Siebel Newsom Barack Obam
 ```
+
+[@blackgirlscode](https://officialfifthharmony.blogspot.com/2016/07/our-fan-mail-addresses-email.html)
+```
+                             
+               Lauren Jaauregui , Camila Cabello , Dinah Jane Fan Mail Address:
+PO BOX 654136 Miami, Fl 33265
+
+Ally Hernandez Fan mail Address: P.O. Box 692318 San Antonio, TX 78269
+Normani Kordei Fan Mail Address:  PO Box 450265, Houston, TX 77245
+
+Group Email Address: (To ask us Fan Questions Is) Fifthharmonymusic2016@gmail.com
+Normani's Individual Email Address: Normaniofficial@outlook.com
+Group Email Address (To Receive Free Albums & Music In The Future & Updates About Tour & FREE MUSIC VIDEOS!): Fifthharmonymusic@hotmail.com 
+
+Individual Emails:
+
+ 
+Group Email: Fifthharmonymusic2016@gmail.com (Fan Questions Only)
+Group Email: Fifthharmonymusic@hotmail.com (Free Music, Updates and lots more only) 
+Individual Email Addresses:
+Normani's Emails: Normaniofficial@outlook.com, Kordeihamilton@yahoo.com, Normanikordeihamilton@aol.com, Rosealindaprincess@gmail.com
+Camila's Email: Camilacabello06@outlook.com, karlacabello2016@outlook.com
+Dinah's Email: DinahHansen97@outlook.com
+Ally's Email: Allyhernandez2011@hotmail.com
+Lauren's Email: LaurenMJauregui109@outlook.com
+That is our emails individually.
+Love: Fifth Harmony 
+
+Group Fan Mail:
+Group Mail Address:  Fifth Harmony, 312 S. Beverly Dr. #6036 Beverly Hills,CA 90212
+
+Love: Fifth Harmony 🎶💜🎤
+```
