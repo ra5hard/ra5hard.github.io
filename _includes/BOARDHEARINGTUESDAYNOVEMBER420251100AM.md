@@ -37,6 +37,16 @@ Discharge, cubic feet per second
 
 <img  alt="image" src="https://github.com/user-attachments/assets/aeb6fb52-e5ed-443b-8578-46c0889431e5" />
 
+# LOSANGELES SAR synthetic aperture Radar @cityoflosangeles @asfadmin @emit-sds
+ S1C_IW_GRDH_1SDV_20251030T135135_20251030T135200_004792_009772_553F
+ Start Time • 10/30/2025, 13:51:35Z [link](https://search.asf.alaska.edu/#/?zoom=8.939&center=-117.650,33.557&polygon=POLYGON((-118.2327%2033.9433,-117.8111%2033.9433,-117.8111%2034.2186,-118.2327%2034.2186,-118.2327%2033.9433))&resultsLoaded=true&granule=S1C_IW_GRDH_1SDV_20251030T135135_20251030T135200_004792_009772_553F-METADATA_GRD_HD) 
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/5caa6f75-8e75-4826-9dce-97a81160009c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d18a4177-79ea-4d1c-88c8-45cded6c1a68" />
+
+
+
 `<object>` is filtered all over @CityOfLosAngeles so @ATT might be the party to ask about it but you should not have to download this to read it it should display in the browser, but we not there yet [@mdn](https://www.w3schools.com/tags/tag_object.asp)!
 
 @emit-sds the svs site is getting blocked downtown and i wanted to use the groundwater video for this include 
