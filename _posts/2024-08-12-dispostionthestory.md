@@ -1,6 +1,6 @@
 ---
 title: Rashard (Thaka) Iman Kelly(Selassie?) NASAJPL MRO PAsadena California 
-published: false
+published: true
 ---
 
 <style>
@@ -109,7 +109,7 @@ oral or written verbal expression.
 <a href="https://lasd.org/wp-content/uploads/2023/12/Captain-Dean-Brandon-R_300-240x300.jpg"><img src="https://lasd.org/wp-content/uploads/2023/12/Captain-Dean-Brandon-R_300-240x300.jpg" style="width:240px;height:300px;margin-left:5px;padding:10px;" align="right" alt="Pineapple" /> </a>
 
 ## dis·po·si·tion
-### /ˌdispəˈziSH(ə)n/ [Libel and Slander - The Basic Law In California](https://www.stimmel-law.com/en/articles/libel-and-slander-basic-law-california) [The Complete Guide to California Defamation Law](https://www.minclaw.com/california-defamation-law-state-guide/)
+### /ˌdispəˈziSH(ə)n/ [Libel and Slander - The Basic Law In California](https://www.stimmel-law.com/en/articles/libel-and-slander-basic-law-california) [The Complete Guide to California Defamation Law](https://www.minclaw.com/california-defamation-law-state-guide/) @emit-sds @nasa-jpl @cityoflosangeles @blackgirlscode 
 
  <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/799065523587612672" data-did="47c176982f78754810cfef8c5b289125a13223ff"><a href="https://rashardmro.tumblr.com/post/799065523587612672/nasajunocam">https://rashardmro.tumblr.com/post/799065523587612672/nasajunocam</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
