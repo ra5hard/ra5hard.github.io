@@ -18,6 +18,13 @@ Whittier area Aquifer [interactivemap](https://dashboard.waterdata.usgs.gov/app/
 <img alt="image" src="https://github.com/user-attachments/assets/93ab96c4-8cdc-4d4c-aed5-2dcbc226047c" />
 
 ## Recent output
+October 27, 2025 - November 3, 2025
+Gage height, feet
+Discharge, cubic feet per second
+
+<img  alt="image @podaac @nasa-jpl @cityoflosangeles @blackgirlscode" src="https://github.com/user-attachments/assets/c0ed7596-f589-4732-9e98-82f313d86e7d" />
+
+
 [@usGs](https://dashboard.waterdata.usgs.gov/api/gwis/2.1.1/service/site?agencyCode=USGS&siteNumber=11087020&open=14342)
 <img alt="image" src="https://github.com/user-attachments/assets/21921581-fac2-4257-8b69-7cd730c764fc" />
 
