@@ -28,8 +28,14 @@ Discharge, cubic feet per second
 [@usGs](https://dashboard.waterdata.usgs.gov/api/gwis/2.1.1/service/site?agencyCode=USGS&siteNumber=11087020&open=14342)
 <img alt="image" src="https://github.com/user-attachments/assets/21921581-fac2-4257-8b69-7cd730c764fc" />
 
+# HBASE HUMAN EXTENT
+[@emit-sds LANCEFiRMS @TheSpaceDevs](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,landsat_human,earth;@-118.033,33.973,12.000z)
+<img  alt="image" src="https://github.com/user-attachments/assets/972f0ae0-777a-4fb9-bba4-07870560d130" />
+
+[ Dams Resivoirs - interactive map](https://worldview.earthdata.nasa.gov/?v=-120.4154000353769,33.05230256176604,-116.19697827386577,35.168104726523964&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRanD_Dams,VIIRS_NOAA20_DayNightBand_At_Sensor_Radiance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2025-11-03-T23%3A46%3A42Z)
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/aeb6fb52-e5ed-443b-8578-46c0889431e5" />
 
 `<object>` is filtered all over @CityOfLosAngeles so @ATT might be the party to ask about it but you should not have to download this to read it it should display in the browser, but we not there yet [@mdn](https://www.w3schools.com/tags/tag_object.asp)!
 
