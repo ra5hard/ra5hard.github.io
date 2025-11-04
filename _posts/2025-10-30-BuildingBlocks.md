@@ -7,6 +7,17 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/34aef810-7167-44aa-b9ed-bbb6745fadb4" />
+
+
+<img width="502" height="527" alt="image" src="https://github.com/user-attachments/assets/2c652e3b-5e32-4950-b545-b08c8bd08bd2" />
+
+# The Human Footprint
+Increased human population often leads to greater influence on the environment and sharper declines in species and ecosystems. [readmore about the datasets affected](https://www.earthdata.nasa.gov/news/feature-articles/human-footprint)
+<img  alt="image" src="https://github.com/user-attachments/assets/f9b3b142-e113-4052-92da-71ff80cd7402" />
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/783645610108764160" data-did="f32e6c3ee19da9c765e998d7560dadacdf797d76"><a href="https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications">https://rashardmro.tumblr.com/post/783645610108764160/sedacsocioeconomic-data-and-applications</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+https://rashardmro.tumblr.com/post/786199636241219584/pilot-planetary-image-locator-tool-usgs
 
 [my website intro!](https://board.okayplayer.com/okp.php?az=show_topic&forum=19&topic_id=12327&mode=full)
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
