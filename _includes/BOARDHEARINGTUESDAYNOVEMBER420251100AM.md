@@ -17,6 +17,11 @@ Whittier area Aquifer [interactivemap](https://dashboard.waterdata.usgs.gov/app/
 
 <img alt="image" src="https://github.com/user-attachments/assets/93ab96c4-8cdc-4d4c-aed5-2dcbc226047c" />
 
+## Recent output
+[@usGs](https://dashboard.waterdata.usgs.gov/api/gwis/2.1.1/service/site?agencyCode=USGS&siteNumber=11087020&open=14342)
+<img alt="image" src="https://github.com/user-attachments/assets/21921581-fac2-4257-8b69-7cd730c764fc" />
+
+
 
 
 `<object>` is filtered all over @CityOfLosAngeles so @ATT might be the party to ask about it but you should not have to download this to read it it should display in the browser, but we not there yet [@mdn](https://www.w3schools.com/tags/tag_object.asp)!
