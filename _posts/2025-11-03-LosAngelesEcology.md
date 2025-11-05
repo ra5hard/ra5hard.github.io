@@ -19,10 +19,10 @@ date:   2025-10-09 8:51:06
 Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) [archive.org/.../AV320250110t224555_002_L1B_RDN](https://archive.org/details/n-02-e-016.-srtmgl-1.2/AV320250110t224555_002_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) ... Taken from [#AViRiS](https://aviris.jpl.nasa.gov/) [DataPortAl](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) / [EarthDataSearch](https://search.earthdata.nasa.gov/search?q=aviris)  @PodaaC @NASA-GiSS @Nasa-JPL [@Whitehouse](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZbnxTEo3oTvzkB743GdjGFFcjXH9KTF15QGggy9iDTG8RAJMm2LSRkqMc5d6G9il&id=100084464911565)
 
 My Japan
-by U.S. Treasury Department [archive](https://archive.org/details/MyJapan1945)
+by [U.S.](https://www.dds.mil/) Treasury Department [archive](https://archive.org/details/MyJapan1945)
 [My Japan 1945 . m p 4 @jaxa](https://dn790001.ca.archive.org/0/items/MyJapan1945/MyJapan1945.mp4)
 [@US-Department-of-the-Treasury](https://home.treasury.gov/) [@jaxa](https://global.jaxa.jp/)
-[@deptofdefense @rashardsdata @meta post on fb @jaxa](https://www.facebook.com/permalink.php?story_fbid=pfbid02TFwQFEoETgvwRBZxf1D6F4baXp89HZRL9Z73SxN4rcwDvjQn1Yuq6ifxqcwxS4Sdl&id=100084464911565)
+[@deptofdefense @rashardsdata @meta post on fb @jaxa](https://www.facebook.com/permalink.php?story_fbid=pfbid02TFwQFEoETgvwRBZxf1D6F4baXp89HZRL9Z73SxN4rcwDvjQn1Yuq6ifxqcwxS4Sdl&id=100084464911565) /// politics @blackgirlscode
 <img  alt="image" src="https://github.com/user-attachments/assets/e636d6e7-91f2-4cd4-a10c-39b557437199" />
 
 
@@ -555,6 +555,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
