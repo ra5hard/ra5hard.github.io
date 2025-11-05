@@ -23,6 +23,7 @@ by [U.S.](https://www.dds.mil/) Treasury Department [archive](https://archive.or
 [My Japan 1945 . m p 4 @jaxa](https://dn790001.ca.archive.org/0/items/MyJapan1945/MyJapan1945.mp4)
 [@US-Department-of-the-Treasury](https://home.treasury.gov/) [@jaxa](https://global.jaxa.jp/)
 [@deptofdefense @rashardsdata @meta post on fb @jaxa](https://www.facebook.com/permalink.php?story_fbid=pfbid02TFwQFEoETgvwRBZxf1D6F4baXp89HZRL9Z73SxN4rcwDvjQn1Yuq6ifxqcwxS4Sdl&id=100084464911565) /// politics 
+[Our Enemy: The Japanese @jaxa @nasa @whitehouse @nasa-jpl](https://archive.org/download/OurEnemy1943/OurEnemy1943.mp4) @StateOfCalifornia @CityOFLosAngeles // @Jaxa im really a person at a humanist level that wants to be safe, i made many friend while in Jehovahs witneses, I forgot their names and im sure they wack people that fell off as well! But for those of you that enjoy life and discovery, i want to continue working together and build our trust in our intergalactic endevors... @TheSpaceDevs can you tell them [Rashard Said That](https://holetoanotheruniverse40.github.io/2025/02/11/AboutRashard.html)? 
 
 <img  alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/e636d6e7-91f2-4cd4-a10c-39b557437199" />
 
@@ -556,6 +557,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
