@@ -10,6 +10,66 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 <img  alt="image" src="https://github.com/user-attachments/assets/34aef810-7167-44aa-b9ed-bbb6745fadb4" />
 
 
+
+## `<object>`: 
+### The External Object element
+@w3c <object> being blocked when the application= #pdf all over Los Angeles County @CityofLosangeles @Emit-sds @nasa-jpl @stateofcalifornia 
+Thats active doxxing on documents ! There are a coupld vids in the embedded facebook post @meta i hope u not mad at me for mentioning you guys, its gonnahurt you too if you working sustainably @blackgirlscode 
+ [SMARTLA](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf?fbclid=IwY2xjawN4sjdleHRuA2FlbQIxMABicmlkETE5VFlFUURzWGhnZ2c4eGRBc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkpxNcrh8mcr0lt3dpdPvT3hrqiB9fRUyHdb0bkvQZ11x8KKGVGanXN2DwaJ_aem_uEqexz6D09Ib5DZzdH7HzQ) [LACiTY_Docurments](https://www.facebook.com/permalink.php?story_fbid=pfbid02VaV9JAGg429ZTQWf44DHoL3wqDbhryryfGeW1hDtqVFyTK71dnAsSEaRZ2wsqjX4l&id=100084464911565)
+ 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid027yX3pBqUhykaYnP5uhfcRRpT4EKp79t4kUu5zvyhsLzh6LA1phx1ipQooa3D3MEBl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+The <object> HTML element represents an external resource, which can be treated as an image, a nested browsing context, or a resource to be handled by a plugin. [read @mdn](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object)
+
+```html
+<object
+  data="https://eyes.nasa.gov/curiosity/" 
+  type="text/html"
+  width="250"
+  height="200"></object>
+
+<object
+data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" 
+  type="application/pdf"
+  width="250"
+  height="200"></object>
+```
+
+<object
+  data="https://eyes.nasa.gov/curiosity/" 
+  type="text/html"
+  width="250"
+  height="200"></object>
+
+<object
+data="https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf" 
+  type="application/pdf"
+  width="250"
+  height="200"></object>
+<img  alt="image" src="https://github.com/user-attachments/assets/0b665b1e-3585-48ee-b1fa-975536e609c4" />
+
+@blackgirlscode @cityoflosangeles @nasa-jpl @emit-sds
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b6c8898f-2eee-48c5-b54a-f579cd2093ed" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Cd9DRK7SkH9oh8SzBJmQ1Y5wXR4forgt311AuVo59LvdtiWUhXUqXot1jRUSub7Nl%26id%3D100084464911565&show_text=true&width=500" width="500" height="779" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d02bcc9e-ed28-4dee-a876-3962ef899d6a" />
+
+[droughtMonitor is running on fumes](https://www.facebook.com/photo.php?fbid=802909469201210&set=a.703508175808007&type=3)
+[primoMix](https://soundcloud.com/selectabwoy/dj-premier-new-york-reality-check-101-1997?si=afed4c49fae44fde94b1641b12ad35be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+# @nasa-jpl @nasa-pds
+
+
+## issue front end has not updated since july 2015 
+@nasa-jpl its a [Langley Product](https://youtu.be/ks1SRA6Sljw) @nasa-develop
+
+this is the last image, i will look for data stores my next sech
+
+[TroubleReport on @meta @nasa](https://www.facebook.com/gill.broussard/posts/pfbid0y7YiBMLaM4q9aQKJzoUnzrXZ39c6x7H6dQGYyASGmVyV3z9SLEAi8Le5WN3KJQ8rl)
+
+
 <img width="502" height="527" alt="image" src="https://github.com/user-attachments/assets/2c652e3b-5e32-4950-b545-b08c8bd08bd2" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/98e79b21-df19-4aaa-b64b-42c6112988f3" />
