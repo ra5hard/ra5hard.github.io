@@ -10,11 +10,6 @@ mermaid: true
 
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
-[Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) (MEPAG) November 2025 Meeting
-Virtual - [November 12, 2025](https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/)
-<img  alt="image" src="https://github.com/user-attachments/assets/e56c604c-11a6-4635-aff0-be773fb2ce9c" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
@@ -80,18 +75,8 @@ NASA: Jet Propulsion Laboratory LaCounty [@nasa-jpl](https://archive.org/downloa
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
 
-# CellularTestamonials
-[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) [Hollywood](https://ia800105.us.archive.org/32/items/vid-20241231-094914/VID_20241231_094914.ia.mp4)
-[Linux-Journal_Archive](https://github.com/rm-hull/linux-journal-archive) _Helvetica_ [Trailer @blackgirlscode](https://www.youtube.com/watch?v=wkoX0pEwSCw)
-[Lost Boyz - Lifestyles Of The Rich And Shameless](https://youtu.be/0D-f01H6Kos?list=RDgvMCA9jHFZ0) [Why is Virtualization Useful? - virtualbox.org](https://www.virtualbox.org/manual/ch01.html#virt-why-useful)
- [#Typography](https://mksd.jp/mksd_font_list.html) [Android Swap Space ?](https://docs.libretro.com/) 
-[Swap Space in Linux: What It Is & How It Works](https://phoenixnap.com/kb/swap-space)
-Swap space in Linux is used when the amount of physical memory (RAM) is full. If the system needs more memory resources and the RAM is full, inactive pages in memory are moved to the swap space. While swap space can help machines with a small amount of RAM, it should not be considered a replacement for more RAM. Swap space is located on hard drives, which have a slower access time than physical memory. Swap space can be a dedicated swap partition (recommended), a swap file, or a combination of swap partitions and swap files. Note that Btrfs does not support swap space. In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
-[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: [@whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
 
-{{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
-# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
 
@@ -154,11 +139,14 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
-![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
-![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
 
-![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
+[Mars Exploration Program Analysis Group](https://pds-geosciences.wustl.edu/missions/mep/index.htm) (MEPAG) November 2025 Meeting
+Virtual - [November 12, 2025](https://www.lpi.usra.edu/mepag/meetings/mepagnov2025/)
+<img  alt="image" src="https://github.com/user-attachments/assets/e56c604c-11a6-4635-aff0-be773fb2ce9c" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/5bc7b3e1-5e1c-45fe-a5d7-b40dd4bf961c" />
+# CellularTestamonials
+[GloRilla - Internet Trolls](https://youtu.be/RmxF264KyIs) [Rico Nasty - @apple IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU) [BIA - FALLBACK _covidHospitalityIndustry_era](https://youtu.be/Tpj93Kv7exY?si=xiSx-r2VYTrzVKiI) [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?list=RDFiGAkDE7s7o) [WorldStar - CHiLDiSHGAMBiNO @nasa thats decatur for real and its a reality show market in @stateofcalifornia @cityoflosangles lacounty](https://youtu.be/ZQfWCazNH-c) 
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
 
@@ -197,6 +185,11 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
 
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
 
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
+![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+
+![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
 ![@commercegov @icegov @dhs-gov @noaagov @nasa @whitehouse](https://www.google.com/logos/doodles/2025/learning-about-photosynthesis-uk-copy-6753651837110918-2xa.gif)
 
@@ -211,13 +204,6 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
 <img  alt="image" src="https://github.com/user-attachments/assets/bce417c5-e607-4426-a944-ee5baf32ace6" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
-
-<iframe src="https://archive.org/embed/oe_m1m_dscovr_s20250714000000_e20250714235959_p20250715021540_pub.nc" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-
-[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
-
-
 
 <img  alt="image" src="https://github.com/user-attachments/assets/82f7dbb5-7b33-4a22-ae33-c352aa488b7e" />
 
