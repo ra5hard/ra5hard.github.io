@@ -15,14 +15,16 @@ author: "RashardKelly @nasa-jpl"
 [https:// @github.com/ @ashtom: GitHub Drinkup in Las Vegas](https://github.blog/news-insights/github-drinkup-in-las-vegas/) @ashtom im just trying to get stable, i got invloved with a girl from [@salesforce](linkedin.com/in/nakisha-harrison-a07976135) @Cityoflosangeles @emit-sds i have tree bark like scabs and [@BlackGirlsCode #NORMANi](https://dancingwiththestars.fandom.com/wiki/Normani_Kordei) got me in some sort of entangle ment and i dont know if the girl from sales force is her or [KASHDOLL!](https://youtu.be/BYUzAfiqTMk?si=vbULc464GEOAWMRV)
 
 [@nasa-jpl hr](https://ia801301.us.archive.org/27/items/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/45b035db-a5ae-4e3a-af4f-16ebae6d5c32" />
+
 Congressmember Karen Bass #DTLA Immigration And Customs Enforcement (ICE) i think u guys should visit Soka Gakkai #SANTAMONiCA and see whats going on Santa Monica Police Department #PiER and if the girls are going there for #rapeHealing #re:#TammysSong 102.3 RadioFree KJLH KPFK 90.7 FM Los Angeles / 98.7 FM Santa Barbara Kendrick Lamar Normani SZA Steve Harvey Snoop Dogg -#Rashard NASA/JPL Physical Oceanography Data Center Jennifer Siebel Newsom Governor Newsom United Nations Office for Outer Space Affairs (UNOOSA) JAXA(宇宙航空研究開発機構)
 
 #TAMMY.#MP3 [https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3](https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/05%20Tammy%27s%20Song%20%28Her%20Evils%29.mp3) 
 
 #KeisHA.#MP3 [https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/11%20Keisha%27s%20Song%20%28Her%20Pain%29%20%5Bfeat_%20Ashtro%20Bot%5D.mp3](https://archive.org/download/15-ab-souls-outro-feat-ab-soul_202401/Section.80/11%20Keisha%27s%20Song%20%28Her%20Pain%29%20%5Bfeat_%20Ashtro%20Bot%5D.mp3) @BlackGirlsCode Georgia Bureau of Investigation County of Los Angeles Maxine Waters Kamala Harris Donald Glover Power 106 Los Angeles KNX News 97.1 FM Fort Stewart Hunter Army Airfield E93 Radio :: Chloe Bailey personal blog Essence chloe, if u r tyra i cried alot my interaction style with her is similar to Normani im not hateful, my heart just broke, bc u know im that type of healer, but i dont break my commitments Georgia Division of Family & Children Services Kash Doll Lindsey Horvath Hollywood Food Coalition International Space Station NASA Madrid DSN Fat Beats
 
-![@blackgirlscode i dont know this nakiesha but she is tied to @salesforce]
+![@blackgirlscode i dont know this [nakiesha](https://x.com/nakishaholcombe) but she is tied to @salesforce]
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/45bb02b4-1e24-4121-b522-1bfb0f3cac4c" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsgi.info%2Fposts%2Fpfbid0sQkK44QdH1b5s3rpENVF9jdKFSjXZUWYR5LKQWU6iP4Jy6i5gGTie3iWcj2m8dCHl&show_text=true&width=500" width="500" height="787" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
