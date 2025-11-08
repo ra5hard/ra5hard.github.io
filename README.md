@@ -1,5 +1,8 @@
 
 
+### Books
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
 
 [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
 # Rashard Kelly NasaJpl MRO JUNO iSS
