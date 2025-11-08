@@ -8,8 +8,12 @@
 
 [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
 
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
 
 [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
 
