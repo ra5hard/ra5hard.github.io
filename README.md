@@ -2,6 +2,7 @@
 
 ### Books
 [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
 
 
 [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
