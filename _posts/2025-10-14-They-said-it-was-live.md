@@ -12,6 +12,14 @@ author: RashardKelly @nasa-jpl
 ![ABC7 @blackgirlscode](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg) 
 <iframe width="640" height="360" src="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></iframe>
 
+
+VINTAGE SPECIAL REPORT: "THE FOOD STAMP PROGRAM"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TquvSsaVgUs?si=BhHT1YB1l9rARhu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+LAS Vegas Airport LIVE 24/7 with views of 26R & 26L
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cn8_34TuMaM?si=5j3jE1wpvhfbVR7u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 # Watch Live: Southern California participates [in](https://www.facebook.com/permalink.php?story_fbid=pfbid0naRfiLM6Hwde4jc5Byy1eSvdRTAbT4kLvQtdC8A9UaRbN1TmBZdt83hSBKpsKYZHl&id=100084464911565) 'No Kings' rally
 [https://www.youtube.com/watch?v=VhyOQq8lVMo](https://www.youtube.com/watch?v=VhyOQq8lVMo)
 @StateOfCalifornia @CityOfLosAngeles @nasa-pds @nasa-jpl @nasa @emit-sds
