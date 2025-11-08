@@ -10,7 +10,18 @@ author: "RashardKelly @nasa-jpl"
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
+@Blackgirlscode now i see nakeisha attached to oakland!!! is she erika friend Marqueesha ?
+[ OAKLAND @stateofcalifornia](https://rocketreach.co/nakisha-h-email_83904665) @cityoflosangeles 
 
+```
+ Nakisha H Location
+Oakland, CA, US
+
+ Nakisha H Work
+Trailhead by Salesforce @ Salesforce
+2021 - now  Revolent Consultant @ Revolent Technologies
+2021 - 2021 Salesforce Consultant @ Cloud Trailz
+```
 
 [https:// @github.com/ @ashtom: GitHub Drinkup in Las Vegas](https://github.blog/news-insights/github-drinkup-in-las-vegas/) @ashtom im just trying to get stable, i got invloved with a girl from [@salesforce](linkedin.com/in/nakisha-harrison-a07976135) @Cityoflosangeles @emit-sds i have tree bark like scabs and [@BlackGirlsCode #NORMANi](https://dancingwiththestars.fandom.com/wiki/Normani_Kordei) got me in some sort of entangle ment and i dont know if the girl from sales force is her or [KASHDOLL!](https://youtu.be/BYUzAfiqTMk?si=vbULc464GEOAWMRV)
 
