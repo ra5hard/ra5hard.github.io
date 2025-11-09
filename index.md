@@ -8,6 +8,21 @@ mermaid: true
 
 {% include nav.html %}
 
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+
+
+
+# Trainiing [repo @emit-sds](https://weather.ndc.nasa.gov/sport/training-repo/) @cityoflosangeles @newshour 
+[RGB MApping NaturalColor @blackgirlscode](https://weather.ndc.nasa.gov/sport/training/interactiveQG/NatColorRGB/presentation_html5.html?fbclid=IwY2xjawN8xIdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeNNKghgy7MXz6eKbML5O4ldiKnCpnR5IMY2B6zVCMj8YTyn1ZQzbzThhpfpg_aem_zXwIzOrZ8CB3uupPIpiAgQ) [nasa sport viewer](https://weather.ndc.nasa.gov/sport/training-repo/?fbclid=IwY2xjawN8xClleHRuA2FlbQIxMABicmlkETAwMlRKaHpjSDYxU3dqNmVqc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlzJrB9cL9EmXsRXeaHwpb-bn7C4Jv0zp8CtpVGaCBWYDdqR6XZ49shHkLIa_aem_ZaDcU9OTu4vbUaFd1CmaKQ#/Natural-Color-RGB-(Interactive-Quick-Guide)) 
+
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+
 # Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
 
 
