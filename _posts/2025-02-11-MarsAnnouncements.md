@@ -4,7 +4,8 @@ title: Mars_News
 image: Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
 ---
 
-
+[@blueorigin](https://archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4) [@emit-sds @blackgirlscode archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4](https://archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4)
+@nasa-jpl @cisa the launch moved to Wednesday according to 
 # [Curiosity](https://en.wikipedia.org/wiki/Mars_Science_Laboratory) Views Twilight Clouds [PIA26519] (https://photojournal.jpl.nasa.gov/catalog/?IDNumber=PIA26519)
 [MSL]():[Curiosity](https://eyes.nasa.gov/curiosity/) used its left Mast Camera, or Mastcam, to capture these drifting noctilucent, or twilight, clouds on Jan. 17, 2025, the 4,426th Martian day, or sol, of the mission
 Feb. 11, 2025 [Read](https://www.jpl.nasa.gov/images/pia26519-curiosity-views-twilight-clouds/) [presskit - MSL](https://web.archive.org/web/20120805074403/http://solarsystem.nasa.gov/docs/MSL_Landing_20120724.pdf) [Aug. 6, 2012 - Video from rover looks down on Mars during landing](https://www.nbcnews.com/id/wbna48540619) [WATCH:MSL Sol 3 Update @nasa-jpl](https://www.youtube.com/watch?v=6f8HHQ2U2jg) [Article 14
