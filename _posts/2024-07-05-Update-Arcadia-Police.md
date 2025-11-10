@@ -4,14 +4,27 @@ published: false
 ---
 
 
-
 #NEWS 
 I [tried](ArcadiaPolice@ArcadiaCA.gov) to talk to [you guys](https://www.arcadiaca.gov/protect/police_department/index.php) on [FaceBook]()
 [ArcadiaPolice@ArcadiaCA.gov](mailto:ArcadiaPolice@ArcadiaCA.gov) im going to hit you up from [Holetoanotheruniverse40@gmai.com](mailto:Holetoanotheruniverse40@gmai.com) i want to clear up the name [Thaka](https://www.youtube.com/watch?v=zmY8mG4_3j4&themeRefresh=1)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FArcadiaPD%2Fposts%2Fpfbid02B9AW8azsC3GjAxx1X9jEPfedTFQgRpFBmbLXz3xszzWd7rxtzGDdtTbQdMKUKF7Cl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-<img   alt="image" src="https://github.com/user-attachments/assets/54b1486f-1dc0-40ec-b9fd-385ac7b5b9a3" />
+<img alt="image" src="https://github.com/user-attachments/assets/54b1486f-1dc0-40ec-b9fd-385ac7b5b9a3" />
 
+
+<img alt="image @stateofcalifornia @meta @cisa @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/dbbc5f64-7a66-43bb-9aac-ad5a289c34a3" />
+
+
+## You Can't Use This Feature Right Now
+We limit how often you can post, comment or do other things in a given amount of time in order to help protect the community from spam. You can try again later. Learn More
+
+If you think this doesn't go against our Community Standards let us know.
+
+https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01679/ids/edr/browse/zcam/ZL0_1679_0815988958_098ECM_N0802956ZCAM03029_100085J01_800.jpg #GOODAFTERNOONMrGOVERNOR Governor Newsom someone stole the #SunDial at Union Station Los Angeles ... The University of Arizona this pic helped me see thats a sundial on the rover @BlackGirlsCode Normani
+
+![https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01679/ids/edr/browse/zcam/ZL0_1679_0815988958_098ECM_N0802956ZCAM03029_100085J01_800.jpg](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01679/ids/edr/browse/zcam/ZL0_1679_0815988958_098ECM_N0802956ZCAM03029_100085J01_800.jpg)
+
+<img alt="image" src="https://github.com/user-attachments/assets/38818c78-5f11-4959-a858-8f9ca886f07b" />
 
 ```
 Terry Cinnéidigh Barker NASA Space Communications and Navigation this is way too close to home Defense Information Systems Agency Maxine Waters Congressmember Karen Bass 102.3 RadioFree KJLH https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I
