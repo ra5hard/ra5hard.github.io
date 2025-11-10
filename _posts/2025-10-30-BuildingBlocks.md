@@ -7,7 +7,7 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: @whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) 
-@FoxNews @blackgirlscode @usnavy @Nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia 
+@FoxNews @blackgirlscode @usnavy @Nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia @newshour
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02k4kYe8gMoa6fqU9CSf5tw3fcWe367X9fHGMBDc5yNK8LhZFWqoLU95WJmiGc4iTBl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
