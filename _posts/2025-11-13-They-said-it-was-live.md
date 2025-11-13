@@ -9,6 +9,31 @@ author: RashardKelly @nasa-jpl
 ---
 
 @nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
+
+
+# Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
+[@blueorigin @nasa-jpl @blackgirlscode - WindSPEED @newshour](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/10848x10848.jpg)
+
+## New Glenn Mission NG-2 [Webcast -https://www.blueorigin.com/missions/ng-2](https://www.blueorigin.com/missions/ng-2)
+[PiLOTisBACK @usgs](https://pilot.wr.usgs.gov/) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ecfxcTEl-1I?si=lMVhBhAZySdhl0yA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Watch live: Blue Origin's New Glenn launches NASA's ESCAPADE mission to Mars
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iheyXgtG7EI?si=wtnrX1Gq4KIxQHza" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Index of /ma-cdn02/GOES/data/GOES19/GLM/CONUS/EXTENT3/ [link](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/)
+<video controls width="250" poster="https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/20253170256_GOES19-GLM-CONUS-EXTENT3-625x375.jpg">
+    
+  <source src="https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.mp4" type="video/mp4" />
+
+
+  Download the
+
+  <a href="https://cdn.star.nesdis.noaa.gov/GOES19/GLM/CONUS/EXTENT3/GOES19-CONUS-EXTENT3-625x375.mp4">MP4</a>
+  video.
+</video>
+
 ![ABC7 @blackgirlscode](https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/kabc-lg.svg) 
 <iframe width="640" height="360" src="https://abc7.com/video/embed/?pid=11064936" allowfullscreen frameborder="0"></iframe>
 
