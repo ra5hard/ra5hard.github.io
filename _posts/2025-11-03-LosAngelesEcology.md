@@ -18,6 +18,15 @@ date:   2025-10-09 8:51:06
 ## [#EatonCanyonFire @CityOfLosAngeles](https://recovery.lacounty.gov/eaton-fire/)
 Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) [archive.org/.../AV320250110t224555_002_L1B_RDN](https://archive.org/details/n-02-e-016.-srtmgl-1.2/AV320250110t224555_002_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) ... Taken from [#AViRiS](https://aviris.jpl.nasa.gov/) [DataPortAl](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) / [EarthDataSearch](https://search.earthdata.nasa.gov/search?q=aviris)  @PodaaC @NASA-GiSS @Nasa-JPL [@Whitehouse](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZbnxTEo3oTvzkB743GdjGFFcjXH9KTF15QGggy9iDTG8RAJMm2LSRkqMc5d6G9il&id=100084464911565)
 
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000270/full/pct:25/0/default.jpg?fbclid=IwY2xjawODQCZleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHl1WXxZUERnNEzlRVmJZ95cIEILzI2UpEfvQ55NCWI1QV6FECs_fXCdwp3io_aem_Tq2c3569pbZggjXEjdsd1g)
+
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001845/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPvlleHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHhkUglJ8jCxVoDuF920JNKVW3TDRTbLCdDG7VFhKH-bouJCL7zUm-HacsIeR_aem_nRr_7SVRvE2mEAC1oRPHMw)
+
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPd5leHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjt6s4g6DGPGj-tS_csxPfnflXNU22OtxcJpaM2Hw9cPZBS0PTfXi7dzU_Wv_aem_I0geKLDNiCH2duPzyLI77A">]( https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:ct001797/full/pct:25/0/default.jpg?fbclid=IwY2xjawODPd5leHRuA2FlbQIxMABicmlkETBib1BLcGpUR01PT2htUllxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHjt6s4g6DGPGj-tS_csxPfnflXNU22OtxcJpaM2Hw9cPZBS0PTfXi7dzU_Wv_aem_I0geKLDNiCH2duPzyLI77A)
+
+[<img src="https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000280/full/pct:25/0/default.jpg">](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4364:g4364l:pm000280/full/pct:25/0/default.jpg)
 
 @StateOfCalifornia KARENBASS @Cityoflosangeles @emit-sds
 I found a directory with what looks to be a vegitation index starting in 1981, los angeles has lost a lot of its luster and needs tlc! [EarthDAta_LP_DAAC_](https://www.earthdata.nasa.gov/centers/lp-daac) [Index of VIP01.004:](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004/)
@@ -568,6 +577,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
