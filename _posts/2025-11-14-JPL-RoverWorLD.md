@@ -11,6 +11,27 @@ author: "RashardKelly @nasa-jpl"
 [DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
 <object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
 
+
+
+### MICRODEVICES LABORATORY 
+2024 | ANNUAL REPORT ::: 
+CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
+[DOWNLOAD](https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf)
+<img   alt="2024  ANNUAL REPORT @nasa-jpl" src="https://github.com/user-attachments/assets/9d51d89a-2185-439d-a7c9-76e1fe1733da" />
+2023 | ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia
+[DOWNLOAD](https://d2pn8kiwq2w21t.cloudfront.net/documents/2023-annual-report.pdf)
+<img  alt="2023  ANNUAL REPORT @emit-sds @whitehouse @stateofcalifornia " src="https://github.com/user-attachments/assets/ddffc09f-3aed-4aab-88a7-28ecb53e4c76" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLifeAtMeta%2Fposts%2Fpfbid02rgw12GdoU148DekQQswJ8jZ4wADppXqDripNLL1EdpNydZugphEtmT2mtLyhfThAl&show_text=true&width=500" width="500" height="754" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+Thaka Sartu
+Supervisor Holly J. Mitchell this is our #AnnualReport https://microdevices.jpl.nasa.gov/about-mdl/annual-reports/2024%20MDL%20Annual%20Report.pdf House of Representatives (United States) Representative Sydney Kamlager-Dove Congressmember Karen Bass Normani Secretary of War Pete Hegseth Vice President JD Vance President Donald J. Trump Advanced Fertility Center of Chicago First Lady of Georgia Marty Kemp ############################ -#rashard NASA Jet Propulsion Laboratory
+
+<img alt="@emit-sds @whitehouse @stateofcalifornia" src="https://github.com/user-attachments/assets/1c6da31d-2c4d-4502-a19d-b3fcdccf789f" />
+
+
+[@blackgirlscode APHEXTWiN](https://soundcloud.com/richarddjames/sets/blackbox-life-recorder-21f-1?si=46fa6a18b5cc4b838c5c9b8eacf68ff2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
 # Mars Reconnaissance Orbiter (MRO)
 Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
 @BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
