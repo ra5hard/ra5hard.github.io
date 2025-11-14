@@ -32,6 +32,10 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 I found a directory with what looks to be a vegitation index starting in 1981, los angeles has lost a lot of its luster and needs tlc! [EarthDAta_LP_DAAC_](https://www.earthdata.nasa.gov/centers/lp-daac) [Index of VIP01.004:](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004/)
 ::[1981](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004//1981.01.01/VIP01.A1981001.004.2016175124032.jpg)::: [1997](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004//1997.03.10/VIP01.A1997069.004.2016176133929.jpg) ;;; [2014](https://e4ftl01.cr.usgs.gov/MEASURES/VIP01.004//2014.12.31/VIP01.A2014365.004.2016178021533.jpg) ..........
 
+[ALBEDO+NiGHTLiGHTS @blackgirlscode](https://worldview.earthdata.nasa.gov/?v=-136.58048258042453,17.608802560591986,-60.35183612707429,55.44520884707259&as=2025-09-16-T00%3A00%3A00Z&ae=2025-09-26-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,VIIRS_NOAA20_DayNightBand(opacity=0.63),VIIRS_SNPP_DayNightBand(hidden),VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance(hidden),MODIS_Combined_L3_Black_Sky_Albedo_Daily,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2025-11-12-T23%3A16%3A42Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/67deb09d-fa0b-438c-a26e-2d1c77806378" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/46d1b35b-3265-4965-922e-0f22e008732c" />
 
@@ -577,6 +581,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
