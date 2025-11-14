@@ -11,6 +11,12 @@ author: "RashardKelly @nasa-jpl"
 [DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
 <object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
 
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds
+<img  alt="image" src="https://github.com/user-attachments/assets/c0ecd138-5a3e-4396-a4d1-dcc93c262b1e" />
+
+
 ## [SOL4518]
 [DOWNLOAD @nasa-jpl @nasa-pds @podaac @usgs @blackgirlscode @newshour](https://ia800800.us.archive.org/24/items/RashardNasaEarthDataRiverWatch/Sol4518.gif)
 <img alt="image" src="https://github.com/user-attachments/assets/75b71010-6d76-4737-a0ba-8bd86f714ec9" />
