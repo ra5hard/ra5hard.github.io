@@ -18,7 +18,6 @@ author: "RashardKelly @nasa-jpl"
 # Earth Resources Technology Satellite (ERTS) - 1973 [Watch](https://youtu.be/6isYzkXlTHc)
 [Sentinel-6B Launch](https://youtu.be/k4RaWqobggI)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6isYzkXlTHc?si=6eetkQONc6Z8_aPJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fTmIUypawcs?si=78fMA0w8AR4dvEzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
