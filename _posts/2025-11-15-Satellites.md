@@ -13,6 +13,10 @@ author: "RashardKelly @nasa-jpl"
 [Watch @blackgirlscode @nasajpl @stateofCalifornia](https://youtu.be/1n4SjH6URAo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+@nasa @whitehouse @dhs-gov someone is polluting the library air supply b4 our meeting @podaac @eu-cdse imma grab a smoke hopefully im not injured anyfurther by [Normani kidnappers](https://youtu.be/blycHkWPWMY?si=ZTrkq4SVYnqaCN55) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fae3aa71-72a9-4fd8-ab12-8dc2f60395bb" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/16edc450-db09-47de-ac50-8fc7c4614662" />
 
 # Earth Resources Technology Satellite (ERTS) - 1973 [Watch](https://youtu.be/6isYzkXlTHc)
