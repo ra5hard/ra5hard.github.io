@@ -1,4 +1,7 @@
 
+[@nasa Tune in @blackgirlscode](https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN)
+<img alt="image" src="https://github.com/user-attachments/assets/d212c1f5-a854-480f-8d17-3cee617536b4" />
+
 
 ![The Copernicus Browser makes it possible to browse and download full resolution images from all Copernicus missions.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Copernicus_Logo_240.png)
 [Introduction to the CDSE website and Copernicus Browser](https://youtu.be/GecNCdilbig) <~ `HOMEWORK!` 
