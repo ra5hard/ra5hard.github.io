@@ -7,6 +7,11 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+# @ESA WEB TV
+@nasa-jpl @stateofcalifornia @r-spacex
+Esa is supposed to broadcast the lauch here @TheSpaceDevs @BLackgirlscode @CityOfLosanGeles
+
+<object class="scroller" data="https://watch.esa.int/two/" type="text/html"></object>
 
 # Sentinel-6B Prelaunch Media Teleconference
 
