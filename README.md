@@ -1,3 +1,10 @@
+
+
+![The Copernicus Browser makes it possible to browse and download full resolution images from all Copernicus missions.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Copernicus_Logo_240.png)
+[Introduction to the CDSE website and Copernicus Browser](https://youtu.be/GecNCdilbig) <~ `HOMEWORK!` 
+`DATAPRoDuCT!` ~> [browser.dataspace.copernicus.eu @podaac @blackgilscode @nasa-jpl @whitehouse @Cityoflosangeles @StateofCalifornia](https://browser.dataspace.copernicus.eu/?zoom=7&lat=34.31551&lng=-118.20968&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX19CfAtfewtzv5kYlONWnlpXnpY%2Bor3NOMKTf%2FVYPesB9%2BssYQzSXXADxmZ2Rm9JHz%2B6xAHix815EdGBIYInfOZ7%2BcgiDZy0GoSdSOdwkiDV8I7eWhEdLDIn&datasetId=S3OLCI_CDAS&fromTime=2023-02-10T00%3A00%3A00.000Z&toTime=2023-02-10T23%3A59%3A59.999Z&layerId=2_OTCI&demSource3D=%22MAPZEN%22&cloudCoverage=13&dateMode=SINGLE)
+<img  alt="image" src="https://github.com/user-attachments/assets/5a1b1815-6755-4ab2-970e-bafa9521856c" />
+
 hi @nasa-jpl @nasa-develp @nasa @whitehouse its a checking @blackgirlscode
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
