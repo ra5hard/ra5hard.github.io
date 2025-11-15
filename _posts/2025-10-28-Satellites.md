@@ -9,6 +9,7 @@ author: "RashardKelly @nasa-jpl"
 
 
 # Sentinel-6B Prelaunch Media Teleconference
+[(NASA Mission Trailer)](https://youtu.be/k4RaWqobggI?si=CbCwSemd8DnVDiFf)
 [Watch @blackgirlscode @nasajpl @stateofCalifornia](https://youtu.be/1n4SjH6URAo)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
