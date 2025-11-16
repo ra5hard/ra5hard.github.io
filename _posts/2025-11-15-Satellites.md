@@ -53,6 +53,21 @@ Long Beach Public Library we have a launch meeting in an hour dail in if you lik
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0utHY3gMoiiAworXrPkk3PChvh7tLXBetsWhJ5fW1smgHw2WmxnXHMPpBUKdAUz4Cl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+# Mars Reconnaissance Orbiter (MRO)
+Project [pdf](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+@BlackgirlsCode i wanna beg @normani on @github to never reply @nasa-pds ---
+
+`EXCERPTFROM` : [MRO 31-468 @nasa-jpl @TheSpaceDevs @BlueOrigin](https://planetarydata.jpl.nasa.gov/img/data/mro/marci/mrom_0001/document/mro_arch_plan.pdf)
+Assuming that the MRO Primary Science Mission extends for 2 Earth years and is supported by
+two nominally 8 hour X Band 34 m DSN passes per day and three 70m passes per week, the
+spacecraft is capable of returning a total of up to 34 terabits (Tbits) of data, transmitting at rates
+which vary throughout the mission from 20 to 100 and back to 20 gigabits (Gbits) of data per
+day. The lowest data rates occur at the start of the Primary Science Mission when the EarthMars range is greatest, and the highest data rates occur when the range is small, a period
+extending from late October 2007 to June 2008. Table 2 shows telemetry data volumes allocated
+to each instrument, based on full mission success criteria of 26 Tb data downlinked for all
+instruments combined. It is expected that 34.5 Tb as opposed to 26 Tb of data will be
+
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
