@@ -1,0 +1,4965 @@
+%PDF-1.5%‚„œ”
+1 0 obj<</Metadata 2 0 R/OCProperties<</D<</ON[5 0 R 6 0 R]/Order 7 0 R/RBGroups[]>>/OCGs[5 0 R 6 0 R]>>/Pages 3 0 R/Type/Catalog>>endobj2 0 obj<</Length 70086/Subtype/XML/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.2-c063 53.352624, 2008/07/30-18:05:41        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">sentinel-3_neg</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">
+         <xmp:CreatorTool>Adobe Illustrator CS4</xmp:CreatorTool>
+         <xmp:CreateDate>2012-04-20T14:19:34+02:00</xmp:CreateDate>
+         <xmp:ModifyDate>2012-04-20T14:19:34+02:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2012-04-20T14:19:34+02:00</xmp:MetadataDate>
+         <xmp:Thumbnails>
+            <rdf:Alt>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK&#xA;DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f&#xA;Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAAEAAwER&#xA;AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA&#xA;AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB&#xA;UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE&#xA;1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ&#xA;qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy&#xA;obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp&#xA;0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo&#xA;+DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A8/4snYq7FXYq7FXYq7FX&#xA;Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY&#xA;q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq&#xA;7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F&#xA;XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX&#xA;Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY&#xA;q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq&#xA;7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F&#xA;XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX&#xA;Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY&#xA;q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq&#xA;7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FU5sPL0stHuiY1PSMfbPzrXjmy03Zss&#xA;guXpj9rq9V2pDGeGPql9jILLy5poIP1dWNKEsS1foYkZsR2fhj0t1p7RzyPOvcE2TyZolyP3lqFa&#xA;lAyFkp9Cmn3jK56LEelOVi1eXqbSbXfyz1C1ga60tmu4UBZ4CP3wA/lps/4H55rc+jMd47h2WHVC&#xA;Wx2LCcwnKdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVTv&#xA;y/p3M/W5FrQ0hBHcdX+joPf5ZtOzdIJnjl9I+91HamsOMcEfqP2BlVtamhahIAqaCub8l50ChZeh&#xA;+WPIyzQTy6qJLQwKJSpooEdK8nYqVHTcV275iZclVW7nYYbEkVSXXGraBbFxDFdAqR6fMIQyncN1&#xA;Uioy38vJqHaMAeRZDpD2dxaLdpIBbkVLt8PGnXlXpmFMEGurtcU4yjxDk8u/Mby/o1/qK6h5dlR7&#xA;idit/aNWCknaRfW9MfF0YeO/jmFqNBku4hycHaOLkZPOWVlYqwKspoynYgjsc1jsmsVdirsVdirs&#xA;VdirsVeg+U/yQ85eaPKsnmfTZLNdNi9bkJpXWX9wKv8ACEYfLfFFpR+V3k+185eetM8t3Vw9rBf+&#xA;vzniAZ19G3kmFA225jpilNfzp/Lax/L7zTa6NZXkt7FcWMd40syqrBnmlj4gLtSkQOKhgGKuxV2K&#xA;uxV7T+S35DaP+YPla61m91S4spbe+ks1ihRGUqkMUnIlt61lIxQS8WxS7FXYq7FXYq7FXYq7FXYq&#xA;7FXoOlacYLCEyAQokali3c/tFQKlviO9BnU6SPDiiB3fe8nrCZZZSPK/u2TfR/NC6TfxzW0XOKvG&#xA;450q6EgkAbgHbLzjJDjDMAdhs9S1vzTZ3elWotTNbRzs3o3rhWt3jKFJSVT1GbirHale9KZiYMXr&#xA;N7+XVy9ZmrH6TXnzFde/8eTAtT0njJH6txFLzoFeCSKUekiAkni/NeKDoUzZeIDyDoxgIPqIPuIO&#xA;wHvvl5IG2e4uri4sYWKvex+lDHyIXkrKyr9Kx8BkMgEQD3ORppSmTEfxfj9FKN9YyXN7Ix0m7Yu5&#xA;Akj5R+pU/bYPHJRmO5pRR4DKhKh9QcuWMyl9Evu/Q8216e0uNYu5rQEQPISCx5Fm/betF+21W6Dr&#xA;nKZZAzJHK3sMQIiAedMq/J78tW/MDzZ+iZLhrSwtoWur64QAuI1ZUCpXbkzOOvucrZl7hqf5Of8A&#xA;ONuiXJ0/VtaW2vogBLDcakiTCoBBdBx41Br0GKHi9z5A0jzB+b7+UvJlysujTzqtrfB/XRYFhWSa&#xA;TmPtcaNTfc7Yq9vP/OP35F6bf2Pl7UtSmOvXsfK3ilu1jmm6jksaqFFSp4jv03xRbxz8y/yhTyR5&#xA;/wBK0f15LzRNWkiNrO9Fl4GURyxuVoOa16gDYjFNvbdb/IL8hdBSGTW7l9NjuH9OGS7vvRVmAqQG&#xA;eg6YoYB+eX5BeX/K3lhfNPleeU2ULxpe2sziVfTmISOWKQAH7bKCDWtaimKQXvXkTRfIOn+RptP8&#xA;s3i3PlpvrHq3KziZRzH77977D7sUPDF/L/8AKOf81/KGjeUNTe6sNQS/Opy2d6XlRobZpIqSIapX&#xA;ifmMUpV+bH5eaDpn50+U/LUUl3Ppuqrp6XZubh5peNxfyQyBZHqVHBdvA4qHpmsfkH+QeizWsOsX&#xA;TadLfFls1ur/ANH1SnHkE50rTmv34oeZ/n7+Rek+R9OtNe8vzTtps84tbq1uGEjRSMpZGRwFPBuB&#xA;B5dDTffZSCm/5Y/84/eUpvJEfnLz5fSW9ncw/WYoEkEEUVufsSSyULFnG6gdiOp6K2q/mF/zj55M&#xA;l8iy+b/y+vpLiC1he6aJpRPDPBFX1TG1AyunE1BJ6UoDitsw/wCcRf8AyW2pf9tmf/qFtsVL5FxS&#xA;jNIjtJNWso70hbN54luWJ4gRFwHJbt8Nd8VfU+m/lB/zjZ5hnfTdDvY7i/dGdVs9RaSZVWlWVWaR&#xA;TT3U4ofOH5i+UG8n+ddV8uGb6wthIoimIALRSxrNGWA25cJBX3xSxvFXYq7FXYqnOh+V9Q1ZPXRk&#xA;hs1cxtO5r8ShSVVFqxPFq9h75fg008n0tGbUwx/UWW2XlfSNPgd44/rN3HxJmnAYU6MVj3Vd6dak&#xA;eObbB2fCJ9XqdTqO0JyB4fStdriS4DIGmmY/Z3YttuPE7ZtQAA6UmRN8yjrbQbf9IR29/cfVElAa&#xA;NCCXIbYCv2Qa7YidjZGTGIH1MuufKcitbDRp0jgiQhlmZq8+RYmoDdfwyMZ1fEnJj4iDE1SV6fLG&#xA;eepQr6F3akqYn2TmtC1K0/ZqCPf6TbV7Hk4t8HqFCX4v8efzL9T0mYTsbco0T0eBDLH6pSQBkHDl&#xA;y5cSNgOuPibbp8A3ty6bi9+WyS6jHqOj2j6lPBLbNH/vJJIjIDOdo+JYUJU/HTwU5g67UiGM0dzs&#xA;7Ts3SSllHECAN3nucw9Yz38mPzLT8v8AzcdUubd7rTrqBrW+iip6gRmVw6ciAWVkGxO4ripfTeje&#xA;avyO/NG+kso7K11PVXjLyR3diy3AjUAFhO0e1Nh8MlcWLz3yL5K0vyX/AM5My6NpzH9HvYy3FlHI&#xA;SzossQYx8jueNGoevHrilmP5nav+SmgefLHV/N+n3Z8yQpBdWF/H9aMdIHJjKiOVYm4Ou6lfn1xQ&#xA;8y/OP80fKXnvzP5IPl+SaQ6dev8AWvWiMVPXltuFK9f7psUsu/5zC/5Rny//AMxsv/JrFQmX5hEn&#xA;/nFC1J3J0fQ6n/npaYqv/wCcfUeT8h7qONS7udQVVUVJJUgAAYoLw7/nHRHj/OrQI5FKOhvVdGFC&#xA;CLGcEEHFkXpP52/+tI+Qf+3T/wB1SXFAd/zmV/0yH/bx/wCxXFQyf/nJr/yTdl/zF2f/ACafFAZH&#xA;bxeWJvyC0ceZ7SW/0BdE0x7+2t/VMhWKOFwR6LJJ8DqGah6A12xVg4/O38kdI8iah5Y8tC7tLWW1&#xA;uorS3aKZwJLhH6vK7tu79ziqZ/8AOIv/AJLbUv8Atsz/APULbYpLyT8kvMX5OaVpOpR+fbSC5vJJ&#xA;0ayaa0a5IiCUYBlRuPxdsVLvzt8xfk5quk6bH5CtILa8jndr1obRrYmIpRQWZF5fF2xUPUfyJ86f&#xA;lDcXGhaJpGji284fo5Ibq/Fmi85YbcNcn11LN8ZRjU0r8zipeJ/85Aade2P5ta8t3c/WpJ5I7iOW&#xA;gUiOSJSiED/fa/B70rioed4pdirsVdirNPy9u2db3Tt2oBdRDsACEl96nkn0Lmy7OzCMiDyLru0c&#xA;JlEEcwUfqvmvSLGSkb/XZwCDFCw9OhFCGm3XdW/Y5eGxzKzdoxjtHcuLh7OlI3LYJn+Xeuw6t69r&#xA;LHFBeIeYSMEB4tu7FmPFvE98r0+rOSxLm3ZdJHH9I2Z3ceWoNQWFmHGeBucMngfA+2ZmPPwSvo4e&#xA;q0njQoGj3oeWy8wWR4tbyOvZ0Uup+lc2UcuKfIvNZNPqcJoxJ926R6NYm4vp7CWRSfXN16PP96Y2&#xA;IWSo69Qij3OVnUQjYBBPvciOlnl4TKMhXOwR+OX2oLVrqya9lH1MyyNIQxZ3BrWhVVWlN9lyQia5&#xA;pOSJkfTZv8fsYb5/1dprtNNjc+lDxmnQE09Z0FFpXj+7VqVAG5Oc12hm4p8I5Reu7Pw8MOI85MRz&#xA;Ac96N+Sf5oaf+XuuX+pXtlLfJeWv1dY4WVSp9RXqeX+rigvXrj/nMPQRC5t/Ll08wHwJJPGik+7B&#xA;XI+7FaeGan+afmi8/MX/AB5G6W+sJKsluigtEkap6QhoeqmP4W8anFNPb9P/AOcw9JNqn6Q8uTpd&#xA;0pILedHjJ8V5qjCvh+JxRTyn80vzV07zn5/0jzNa2M1pb6bBbwyW8rKzsYLmSckFdtxJTFaTX87f&#xA;zt0n8w9J02ystNnsXsZ3md5nRgwZONBxxUBFeZfz50fV/wAnIfIUel3EV5HY6fZm9Z0MRayaFmbi&#xA;Pio3omnzxWkL+TP5/S+QdLuNFv8ATm1HS5JTcQGKQRywuwAcDkCGVuINNqGvjipCda//AM5F6Hqf&#xA;5ieVfNUekXMdv5fS9Sa2Z4y8n1uAxLxI2HEmpritMa8/fnDpnmb80vLnnODT5re10T6l6trIyGST&#xA;6pdvctxI2HIPQVxV355fnDpn5jfoT6jp81j+ivrXqeuyNz+sejTjx8PROKhN/wA1/wA+9H87eR4P&#xA;LlppdxaTwzQSmeV0ZCIUZSKLvvyxUBd+VX/OSt95Q0KHQNY046pp9pUWU8UnpzxoTX0yGDK6ivw9&#xA;KdMVpPPPv/OT2geZvJ2raDBot3bzajA0KTPJGVUkg1IG/bFaY/8Akt+fOj/l95WutGvdLuL2W4vp&#xA;LxZYXRVCvDFHxIbetYicVIeLYpRmkXqWOrWV66l0tZ4pmQdSI3DECvyxV9NS/wDOYfl4RsYvLt20&#xA;lPhVpolUn3IDU+7FFPnnz75z1Dzl5qvfMN/GkM12VCwR1KxxxqERATuaKu57nFLH8VdirsVdirsV&#xA;diqIsL+7sLyK8tJDFcwNyjkHY/0PcYYkg2EEWKL3byF+bHlzU0jtdZkTS9RFAXkPG3kPish2T5P9&#xA;5zOhqQefNxZYK5PadIs4po0liZZI23V0IZSPYjGU1EXxX5lqvmTVabEXlxT/AJGtmAXLC5vNPmJl&#xA;UfpCZWX/AHarcZSKUo0q0kYfNstOoyVXEa97SNPjEuLhF+5LJJJJZGkkYvI5LO7ElmYmpJJ6k5U3&#xA;LcVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdirsVdiqMsdY1&#xA;bTzWwvbi0NeX7iV4t/H4CMVQskkkkjSSMXkclndiSSSakknqTiq3FXYq7FXYq7FXYq7FXYq7FXYq&#xA;7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F&#xA;XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX&#xA;Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY&#xA;q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq&#xA;7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F&#xA;XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX&#xA;Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY&#xA;q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq&#xA;7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7&#xA;FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F&#xA;XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX&#xA;Yq7FXYq//9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Alt>
+         </xmp:Thumbnails>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
+         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
+         <xmpMM:OriginalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+         <xmpMM:DocumentID>xmp.did:76B1B16E17206811A7BAAC0B13C86F7C</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:84fcd181-89f4-664b-a8ca-8223ac9fb3d1</xmpMM:InstanceID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D27F11740720681191099C3B601C4548</stEvt:instanceID>
+                  <stEvt:when>2008-04-17T14:19:15+05:30</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F1174072068118D4ED246B3ADB1C6</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T16:23:06-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FA7F1174072068118D4ED246B3ADB1C6</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T17:10:45-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:EF7F117407206811A46CA4519D24356B</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T22:53:33-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F07F117407206811A46CA4519D24356B</stEvt:instanceID>
+                  <stEvt:when>2008-05-15T23:07:07-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T10:35:43-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/pdf to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T10:40:59-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to &lt;unknown&gt;</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FA7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:26:55-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FB7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:29:01-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FC7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:29:20-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FD7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:30:54-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FE7F117407206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T11:31:22-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:B233668C16206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T12:23:46-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:B333668C16206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T13:27:54-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:B433668C16206811BDDDFD38D0CF24DD</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T13:46:13-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F11740720681197C1BF14D1759E83</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T15:47:57-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F87F11740720681197C1BF14D1759E83</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T15:51:06-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F11740720681197C1BF14D1759E83</stEvt:instanceID>
+                  <stEvt:when>2008-05-16T15:52:22-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FA7F117407206811B628E3BF27C8C41B</stEvt:instanceID>
+                  <stEvt:when>2008-05-22T13:28:01-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FF7F117407206811B628E3BF27C8C41B</stEvt:instanceID>
+                  <stEvt:when>2008-05-22T16:23:53-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:07C3BD25102DDD1181B594070CEB88D9</stEvt:instanceID>
+                  <stEvt:when>2008-05-28T16:45:26-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:params>from application/vnd.adobe.illustrator to application/vnd.adobe.illustrator</stEvt:params>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F87F1174072068119098B097FDA39BEF</stEvt:instanceID>
+                  <stEvt:when>2008-06-02T13:25:25-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F117407206811BB1DBF8F242B6F84</stEvt:instanceID>
+                  <stEvt:when>2008-06-09T14:58:36-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F117407206811ACAFB8DA80854E76</stEvt:instanceID>
+                  <stEvt:when>2008-06-11T14:31:27-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0180117407206811834383CD3A8D2303</stEvt:instanceID>
+                  <stEvt:when>2008-06-11T22:37:35-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:01E540664A3DDD11BD33D3EB8D3A1068</stEvt:instanceID>
+                  <stEvt:when>2008-06-18T22:24:01+07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6B6AE2A5723EDD11A6F1BABF7C5A7A51</stEvt:instanceID>
+                  <stEvt:when>2008-06-19T20:30:34-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0B9FED35200A11689FE8CB9EA85C5459</stEvt:instanceID>
+                  <stEvt:when>2008-06-26T06:07:42-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>
+                     <rdf:Bag>
+                        <rdf:li>/</rdf:li>
+                     </rdf:Bag>
+                  </stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F77F11740720681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T14:43:57+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F87F11740720681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T14:44:12+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F97F11740720681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T14:47:27+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:008011740720681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T14:57:50+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:EFFE579D0920681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T15:08:14+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:AD83D9FD1A20681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T17:20:39+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:92ABEF241E20681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T17:34:22+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:93ABEF241E20681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T17:34:40+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:94ABEF241E20681195FE9725B136658E</stEvt:instanceID>
+                  <stEvt:when>2012-04-18T17:35:35+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>converted</stEvt:action>
+                  <stEvt:parameters>from application/postscript to application/vnd.adobe.illustrator</stEvt:parameters>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:76B1B16E17206811A7BAAC0B13C86F7C</stEvt:instanceID>
+                  <stEvt:when>2012-04-20T14:19:32+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Illustrator CS4</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:94ABEF241E20681195FE9725B136658E</stRef:instanceID>
+            <stRef:documentID>xmp.did:94ABEF241E20681195FE9725B136658E</stRef:documentID>
+            <stRef:originalDocumentID>uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+            <stRef:renditionClass>proof:pdf</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/">
+         <illustrator:StartupProfile>Print</illustrator:StartupProfile>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+         <xmpTPg:NPages>1</xmpTPg:NPages>
+         <xmpTPg:HasVisibleTransparency>False</xmpTPg:HasVisibleTransparency>
+         <xmpTPg:HasVisibleOverprint>False</xmpTPg:HasVisibleOverprint>
+         <xmpTPg:MaxPageSize rdf:parseType="Resource">
+            <stDim:w>9.999838</stDim:w>
+            <stDim:h>9.999838</stDim:h>
+            <stDim:unit>Centimeters</stDim:unit>
+         </xmpTPg:MaxPageSize>
+         <xmpTPg:PlateNames>
+            <rdf:Seq>
+               <rdf:li>Cyan</rdf:li>
+               <rdf:li>Magenta</rdf:li>
+               <rdf:li>Yellow</rdf:li>
+               <rdf:li>Black</rdf:li>
+            </rdf:Seq>
+         </xmpTPg:PlateNames>
+         <xmpTPg:SwatchGroups>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Default Swatch Group</xmpG:groupName>
+                  <xmpG:groupType>0</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>White</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>Black</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Red</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Yellow</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Green</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Cyan</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Blue</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>CMYK Magenta</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>14.999998</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>80.000000</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>35.000004</xmpG:magenta>
+                           <xmpG:yellow>85.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>5.000001</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>19.999998</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>90.000000</xmpG:cyan>
+                           <xmpG:magenta>30.000002</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>30.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>80.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>45.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>70.000000</xmpG:cyan>
+                           <xmpG:magenta>14.999998</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000001</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>25.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>75.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000004</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>35.000004</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>10.000002</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>95.000000</xmpG:magenta>
+                           <xmpG:yellow>19.999998</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>25.000000</xmpG:magenta>
+                           <xmpG:yellow>39.999996</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>39.999996</xmpG:cyan>
+                           <xmpG:magenta>45.000000</xmpG:magenta>
+                           <xmpG:yellow>50.000000</xmpG:yellow>
+                           <xmpG:black>5.000001</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>60.000004</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>55.000000</xmpG:cyan>
+                           <xmpG:magenta>60.000004</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>39.999996</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>25.000000</xmpG:cyan>
+                           <xmpG:magenta>39.999996</xmpG:magenta>
+                           <xmpG:yellow>65.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>30.000002</xmpG:cyan>
+                           <xmpG:magenta>50.000000</xmpG:magenta>
+                           <xmpG:yellow>75.000000</xmpG:yellow>
+                           <xmpG:black>10.000002</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>35.000004</xmpG:cyan>
+                           <xmpG:magenta>60.000004</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>25.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>39.999996</xmpG:cyan>
+                           <xmpG:magenta>65.000000</xmpG:magenta>
+                           <xmpG:yellow>90.000000</xmpG:yellow>
+                           <xmpG:black>35.000004</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>39.999996</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>50.000000</xmpG:cyan>
+                           <xmpG:magenta>70.000000</xmpG:magenta>
+                           <xmpG:yellow>80.000000</xmpG:yellow>
+                           <xmpG:black>70.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>ESA DARK Cyan NEW</xmpG:swatchName>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>52.000000</xmpG:magenta>
+                           <xmpG:yellow>5.000000</xmpG:yellow>
+                           <xmpG:black>14.999999</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>ESA Cyan NEW</xmpG:swatchName>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:tint>100.000000</xmpG:tint>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>21.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Grays</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>100.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>89.999405</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>79.998795</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>69.999702</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>59.999104</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>50.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>39.999401</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>29.998802</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>19.999701</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>9.999103</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>0.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>4.998803</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:groupName>Brights</xmpG:groupName>
+                  <xmpG:groupType>1</xmpG:groupType>
+                  <xmpG:Colorants>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>100.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>75.000000</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>0.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>95.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>85.000000</xmpG:cyan>
+                           <xmpG:magenta>10.000002</xmpG:magenta>
+                           <xmpG:yellow>100.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>100.000000</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.000000</xmpG:yellow>
+                           <xmpG:black>0.000000</xmpG:black>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpG:swatchName>C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                           <xmpG:mode>CMYK</xmpG:mode>
+                           <xmpG:type>PROCESS</xmpG:type>
+                           <xmpG:cyan>60.000004</xmpG:cyan>
+                           <xmpG:magenta>90.000000</xmpG:magenta>
+                           <xmpG:yellow>0.003099</xmpG:yellow>
+                           <xmpG:black>0.003099</xmpG:black>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </xmpG:Colorants>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:SwatchGroups>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Adobe PDF library 9.00</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>endstreamendobj3 0 obj<</Count 1/Kids[8 0 R]/Type/Pages>>endobj8 0 obj<</ArtBox[0.0 0.0 283.46 283.46]/BleedBox[0.0 0.0 283.46 283.46]/Contents 9 0 R/MediaBox[0.0 0.0 283.46 283.46]/Parent 3 0 R/Resources<</ColorSpace<</CS0 10 0 R>>/ExtGState<</GS0 11 0 R>>/Properties<</MC0 5 0 R/MC1 6 0 R>>/Shading<</Sh0 12 0 R/Sh1 13 0 R/Sh2 14 0 R/Sh3 15 0 R/Sh4 16 0 R>>>>/Thumb 17 0 R/TrimBox[0.0 0.0 283.46 283.46]/Type/Page>>endobj9 0 obj<</Length 80570>>stream
+/OC /MC0 BDC 
+0 0 0 1 k
+/GS0 gs
+0 0 283.46 283.46 re
+f
+EMC 
+/OC /MC1 BDC 
+q
+0 283.46 283.46 -283.46 re
+W n
+0 0 0 0 k
+q 1 0 0 1 110.104 128.0156 cm
+0 0 m
+-7.24 0 l
+-7.24 4.646 l
+-0.077 4.646 l
+1.742 4.646 2.438 5.033 2.438 6.001 c
+2.438 7.007 1.433 7.086 -0.077 7.318 c
+-1.432 7.51 l
+-3.833 7.858 -7.24 8.788 -7.24 13.474 c
+-7.24 18.119 -3.987 19.744 0.426 19.744 c
+6.891 19.744 l
+6.891 15.099 l
+0.31 15.099 l
+-1.394 15.099 -2.013 14.789 -2.013 13.822 c
+-2.013 12.893 -1.123 12.893 0.232 12.699 c
+1.858 12.466 l
+4.491 12.078 7.666 10.993 7.666 6.465 c
+7.666 1.433 4.956 0 0 0 c
+f
+Q
+q 1 0 0 1 131.9019 140.2119 cm
+0 0 m
+0 1.818 -0.62 3.29 -2.362 3.29 c
+-2.865 3.29 l
+-4.608 3.29 -5.227 1.818 -5.227 0 c
+-5.227 -0.697 l
+0 -0.697 l
+h
+-5.227 -4.453 m
+-5.149 -6.39 -4.259 -7.55 -2.053 -7.55 c
+4.261 -7.55 l
+4.261 -12.196 l
+-2.439 -12.196 l
+-7.395 -12.196 -10.454 -9.563 -10.454 -4.338 c
+-10.454 -0.389 l
+-10.454 4.297 -7.898 7.548 -2.905 7.548 c
+-2.131 7.548 l
+2.671 7.548 5.23 4.335 5.23 -0.389 c
+5.23 -4.453 l
+h
+f
+Q
+q 1 0 0 1 151.8545 128.0156 cm
+0 0 m
+0 12.196 l
+0 14.015 -0.696 15.099 -2.555 15.099 c
+-5.226 15.099 l
+-5.226 0 l
+-10.456 0 l
+-10.456 19.744 l
+-1.161 19.744 l
+3.213 19.744 5.227 16.997 5.227 12.775 c
+5.227 0 l
+h
+f
+Q
+q 1 0 0 1 168.0391 128.0156 cm
+0 0 m
+-3.679 0 -5.73 1.936 -5.73 6.388 c
+-5.73 15.099 l
+-8.439 15.099 l
+-8.439 19.744 l
+-5.73 19.744 l
+-5.73 25.552 l
+-0.504 25.552 l
+-0.504 19.744 l
+4.143 19.744 l
+4.143 15.099 l
+-0.504 15.099 l
+-0.504 7.046 l
+-0.504 5.459 0.192 4.838 1.471 4.838 c
+4.143 4.838 l
+4.143 0 l
+h
+f
+Q
+175.086 147.76 5.227 -19.744 re
+175.086 128.016 m
+175.086 155.504 5.227 -5.227 re
+f
+q 1 0 0 1 195.4111 128.0156 cm
+0 0 m
+0 12.196 l
+0 14.015 -0.697 15.099 -2.555 15.099 c
+-5.227 15.099 l
+-5.227 0 l
+-10.452 0 l
+-10.452 19.744 l
+-1.161 19.744 l
+3.213 19.744 5.227 16.997 5.227 12.775 c
+5.227 0 l
+h
+f
+Q
+q 1 0 0 1 215.3496 140.2119 cm
+0 0 m
+0 1.818 -0.619 3.29 -2.361 3.29 c
+-2.864 3.29 l
+-4.607 3.29 -5.227 1.818 -5.227 0 c
+-5.227 -0.697 l
+0 -0.697 l
+h
+-5.227 -4.453 m
+-5.149 -6.39 -4.259 -7.55 -2.051 -7.55 c
+4.259 -7.55 l
+4.259 -12.196 l
+-2.438 -12.196 l
+-7.395 -12.196 -10.453 -9.563 -10.453 -4.338 c
+-10.453 -0.389 l
+-10.453 4.297 -7.898 7.548 -2.903 7.548 c
+-2.129 7.548 l
+2.672 7.548 5.227 4.335 5.227 -0.389 c
+5.227 -4.453 l
+h
+f
+Q
+224.836 155.504 5.226 -27.488 re
+f
+234.32 140.251 9.679 -4.646 re
+f
+q 1 0 0 1 252.5938 128.0156 cm
+0 0 m
+-5.109 0 l
+-5.109 4.646 l
+-0.077 4.646 l
+1.898 4.646 2.246 5.266 2.284 6.116 c
+2.284 6.271 l
+2.284 7.473 1.743 8.053 -0.154 8.053 c
+-3.213 8.053 l
+-3.213 12.196 l
+-0.734 12.196 l
+1.51 12.196 1.82 12.699 1.82 13.744 c
+1.781 14.015 l
+1.782 14.042 1.783 14.068 1.783 14.094 c
+1.783 14.863 1.226 15.37 -0.349 15.37 c
+-5.109 15.37 l
+-5.109 19.977 l
+-0.154 19.977 l
+3.601 19.977 6.272 18.273 6.272 15.176 c
+6.272 14.363 l
+6.272 12.699 5.963 11.189 4.298 10.415 c
+5.963 9.679 6.737 8.092 6.737 5.885 c
+6.737 5.071 l
+6.737 0.969 3.794 0 0 0 c
+f
+Q
+Q
+q
+36.288 140.44 m
+36.288 126.152 47.873 114.569 62.159 114.569 c
+62.159 114.569 l
+62.212 114.569 62.263 114.575 62.313 114.575 c
+62.313 114.575 l
+62.313 140.383 l
+88.029 140.383 l
+88.029 140.44 l
+88.029 154.729 76.449 166.312 62.159 166.312 c
+62.159 166.312 l
+47.873 166.312 36.288 154.729 36.288 140.44 c
+W n
+q
+0 g
+-30.2982635 30.2982635 30.2982635 30.2982635 75.5820312 127.0175781 cm
+BX /Sh0 sh EX Q
+Q
+q
+56.948 155.291 m
+57.032 155.249 l
+56.879 155.043 56.825 155.001 v
+56.825 155.001 l
+56.752 154.939 56.684 154.914 56.568 155.036 c
+56.568 155.036 l
+56.704 155.128 l
+56.575 155.155 l
+56.373 155.08 56.168 155.011 55.973 154.927 c
+55.973 154.927 l
+56.063 154.877 l
+56.063 154.767 l
+56.226 154.713 l
+56.213 154.631 l
+56.39 154.628 l
+56.724 154.315 l
+56.724 154.002 l
+56.517 153.946 l
+56.452 154.058 l
+56.287 153.939 l
+56.179 154.128 l
+56.236 154.223 l
+56.035 154.386 l
+55.669 154.511 l
+55.559 154.53 l
+55.614 154.418 l
+55.843 154.362 l
+56.006 154.307 l
+55.853 154.185 l
+55.638 154.2 l
+55.5 154.025 l
+55.637 153.981 l
+55.568 153.876 l
+55.455 153.836 l
+55.635 153.817 l
+55.823 153.871 l
+56.084 153.924 l
+56.408 153.812 l
+56.49 153.84 l
+56.517 153.786 l
+56.381 153.76 l
+56.065 153.544 l
+55.697 153.301 l
+55.384 153.223 l
+55.222 153.292 l
+55.126 153.199 l
+54.813 153.187 l
+54.801 153.447 l
+54.747 153.352 l
+54.743 153.118 l
+54.662 153.053 l
+54.499 152.971 l
+54.498 152.836 l
+54.412 152.757 l
+54.209 152.567 l
+54.059 152.567 l
+54.099 152.458 l
+53.962 152.433 l
+53.951 152.515 l
+53.692 152.368 l
+53.649 152.491 l
+53.692 152.6 l
+53.611 152.6 l
+53.527 152.519 l
+53.567 152.37 l
+53.339 152.328 l
+53.159 152.235 l
+53.063 152.223 l
+53.117 152.113 l
+53.02 151.871 l
+52.828 151.616 l
+52.719 151.627 l
+52.799 151.546 l
+52.663 151.413 l
+52.552 151.087 l
+52.457 151.114 l
+52.524 151.003 l
+52.277 150.748 l
+52.343 150.694 l
+52.277 150.585 l
+52.097 150.585 l
+52.005 150.668 l
+51.979 150.833 l
+51.91 150.751 l
+51.841 150.86 l
+51.966 151.048 l
+51.654 150.984 l
+51.49 151.014 l
+51.313 151.247 l
+51.413 151.297 l
+51.26 151.328 l
+51.114 151.546 l
+51.213 151.748 l
+51.213 151.751 l
+50.35 150.917 49.587 149.989 48.933 148.978 c
+48.933 148.978 l
+49.101 148.998 l
+49.21 148.982 l
+49.29 149.01 l
+49.372 148.93 l
+49.465 148.878 l
+49.481 148.769 l
+49.427 148.636 l
+49.415 148.475 l
+49.375 148.354 l
+49.336 148.327 49.284 148.327 v
+49.284 148.327 l
+49.227 148.327 49.189 148.233 y
+49.189 148.233 l
+49.082 148.217 l
+48.973 148.232 l
+48.893 148.176 l
+48.707 148.176 l
+48.653 148.174 48.641 148.068 48.572 148 c
+48.572 148 l
+48.508 147.936 48.296 147.919 48.293 147.919 c
+48.293 147.919 l
+48.074 147.516 47.879 147.102 47.699 146.682 c
+47.699 146.682 l
+47.739 146.682 l
+47.788 146.642 l
+47.873 146.575 l
+47.912 146.468 l
+47.699 146.442 l
+47.579 146.391 l
+46.829 144.553 46.408 142.549 46.408 140.44 c
+46.408 140.44 l
+46.408 139.259 46.548 138.111 46.795 137.007 c
+46.795 137.007 l
+46.897 136.941 l
+47.034 136.664 l
+47.73 136.42 l
+47.909 136.433 l
+48.483 136.229 l
+48.697 135.944 l
+48.845 135.555 l
+48.908 135.24 l
+48.787 135.1 l
+49.21 134.979 l
+49.257 134.846 l
+49.533 134.794 l
+49.961 134.686 50.028 134.631 v
+50.028 134.631 l
+50.096 134.573 50.104 134.32 y
+50.104 134.32 l
+50.321 134.405 l
+50.862 134.407 51.133 134.329 v
+51.133 134.329 l
+51.329 134.274 51.71 133.905 51.827 133.873 c
+51.827 133.873 l
+51.842 133.867 51.897 133.868 51.961 133.868 c
+51.961 133.868 l
+52.052 133.869 52.163 133.869 52.204 133.852 c
+52.204 133.852 l
+52.27 133.825 52.27 133.753 52.298 133.666 c
+52.298 133.666 l
+52.326 133.577 52.261 132.875 52.228 132.839 c
+52.228 132.839 l
+52.195 132.806 51.467 132.106 51.424 131.95 c
+51.424 131.95 l
+51.382 131.794 51.421 131.041 y
+51.421 131.041 l
+51.334 130.41 51.225 130.257 v
+51.225 130.257 l
+51.115 130.108 51.139 129.892 51.05 129.773 c
+51.05 129.773 l
+50.966 129.653 50.749 129.6 y
+50.749 129.6 l
+53.619 126.581 57.664 124.691 62.158 124.691 c
+62.158 124.691 l
+69.732 124.691 76.049 130.031 77.563 137.148 c
+77.563 137.148 l
+77.472 137.11 l
+77.378 137.198 77.308 137.322 v
+77.308 137.322 l
+77.242 137.438 77.234 137.641 77.197 137.695 c
+77.197 137.695 l
+77.155 137.75 77.127 137.857 77.044 137.951 c
+77.044 137.951 l
+76.964 138.042 76.922 138.175 76.895 138.255 c
+76.895 138.255 l
+76.865 138.337 76.823 138.579 y
+76.823 138.579 l
+76.712 138.686 l
+76.547 138.939 76.518 138.982 v
+76.518 138.982 l
+76.492 139.018 76.409 139.248 76.394 139.301 c
+76.394 139.301 l
+76.381 139.352 76.297 139.568 y
+76.297 139.568 l
+76.243 139.702 76.188 139.796 v
+76.188 139.796 l
+76.13 139.891 76.13 140.025 y
+76.13 140.025 l
+76.18 140.121 l
+76.153 140.385 l
+76.068 140.535 l
+76.096 140.59 76.123 140.629 v
+76.123 140.629 l
+76.148 140.672 76.139 140.732 y
+76.139 140.732 l
+76.081 140.684 76.065 140.646 v
+76.065 140.646 l
+76.055 140.602 75.975 140.521 y
+75.975 140.521 l
+75.87 140.264 l
+75.735 140.219 l
+75.477 140.42 75.424 140.487 v
+75.424 140.487 l
+75.368 140.553 75.38 140.729 y
+75.38 140.729 l
+75.515 140.783 l
+75.525 140.891 l
+75.311 140.809 l
+75.146 140.994 l
+75.025 141.006 74.932 141.059 v
+74.932 141.059 l
+74.703 141.193 l
+74.581 141.297 l
+74.512 141.379 74.474 141.404 v
+74.474 141.404 l
+74.432 141.428 74.111 141.358 74.056 141.358 c
+74.056 141.358 l
+74.003 141.358 73.517 141.294 y
+73.517 141.294 l
+72.923 141.367 l
+72.537 141.466 l
+72.523 141.561 72.495 141.695 72.36 141.709 c
+72.36 141.709 l
+72.227 141.722 72.148 141.6 y
+72.148 141.6 l
+71.986 141.572 71.932 141.545 v
+71.932 141.545 l
+71.878 141.519 71.501 141.788 71.458 141.814 c
+71.458 141.814 l
+71.419 141.839 71.095 142.066 y
+71.095 142.066 l
+70.918 142.335 l
+70.689 142.427 l
+70.689 142.281 l
+70.476 142.238 l
+70.448 142.159 l
+70.597 141.916 l
+70.706 141.703 l
+70.882 141.61 l
+71.057 141.275 l
+71.191 141.044 l
+71.248 141.113 l
+71.191 141.247 l
+71.313 141.436 l
+71.423 141.247 l
+71.408 141.098 l
+71.339 141.003 l
+71.328 140.909 71.423 140.882 v
+71.423 140.882 l
+71.517 140.856 71.744 140.897 71.852 140.909 c
+71.852 140.909 l
+71.961 140.926 71.961 141.02 y
+71.961 141.02 l
+72.16 141.301 l
+72.266 141.534 72.336 141.546 v
+72.336 141.546 l
+72.4 141.561 72.347 141.32 72.418 141.128 c
+72.418 141.128 l
+72.484 140.942 72.588 140.958 72.808 140.89 c
+72.808 140.89 l
+73.024 140.824 73.063 140.757 73.093 140.691 c
+73.093 140.691 l
+73.12 140.621 73.261 140.575 y
+73.261 140.575 l
+73.24 140.313 l
+73.082 140.136 l
+72.895 139.8 72.895 139.748 v
+72.895 139.748 l
+72.895 139.692 72.668 139.515 72.651 139.462 c
+72.651 139.462 l
+72.64 139.408 72.398 139.189 y
+72.398 139.189 l
+71.952 139.03 71.875 138.99 v
+71.875 138.99 l
+71.793 138.947 71.859 138.856 71.82 138.774 c
+71.82 138.774 l
+71.782 138.689 70.542 138.267 70.409 138.267 c
+70.409 138.267 l
+70.273 138.267 70.179 138.106 y
+70.179 138.106 l
+70.072 138.078 69.978 138.078 v
+69.978 138.078 l
+69.886 138.078 69.817 138.238 y
+69.817 138.238 l
+69.721 138.318 l
+69.721 138.522 l
+69.614 138.667 l
+69.655 138.802 69.666 138.872 v
+69.666 138.872 l
+69.68 138.939 69.545 139.1 69.503 139.152 c
+69.503 139.152 l
+69.462 139.207 69.164 139.732 69.124 139.784 c
+69.124 139.784 l
+69.084 139.837 68.922 139.848 y
+68.922 139.848 l
+68.788 139.986 68.761 140.026 v
+68.761 140.026 l
+68.733 140.063 68.704 140.334 y
+68.704 140.334 l
+68.648 140.561 68.554 140.656 v
+68.554 140.656 l
+68.46 140.748 68.352 140.737 y
+68.352 140.737 l
+68.297 140.789 l
+68.205 140.991 l
+68.053 141.182 68.017 141.193 v
+68.017 141.193 l
+67.973 141.208 67.839 141.515 y
+67.839 141.515 l
+67.663 141.61 l
+67.595 141.717 67.611 141.837 v
+67.611 141.837 l
+67.623 141.956 67.608 142.16 y
+67.608 142.16 l
+67.53 141.88 67.489 141.812 v
+67.489 141.812 l
+67.446 141.742 67.501 141.557 y
+67.501 141.557 l
+67.298 141.769 l
+67.204 141.929 67.149 142.009 v
+67.149 142.009 l
+67.094 142.091 67.094 142.171 y
+67.094 142.171 l
+66.996 142.29 l
+67.021 142.208 66.992 142.157 v
+66.992 142.157 l
+66.963 142.101 66.99 142.075 67.032 142.021 c
+67.032 142.021 l
+67.069 141.966 67.137 141.859 67.149 141.78 c
+67.149 141.78 l
+67.163 141.697 67.202 141.643 67.307 141.564 c
+67.307 141.564 l
+67.415 141.484 67.386 141.374 67.44 141.307 c
+67.44 141.307 l
+67.493 141.24 67.64 141.05 67.692 141.007 c
+67.692 141.007 l
+67.92 140.754 l
+67.825 140.738 67.849 140.674 v
+67.849 140.674 l
+67.877 140.604 68.023 140.418 y
+68.023 140.418 l
+68.237 140.225 l
+68.26 139.96 l
+68.324 139.772 l
+68.378 139.568 l
+68.363 139.488 l
+68.538 139.432 68.63 139.298 v
+68.63 139.298 l
+68.72 139.166 68.788 139.013 68.788 138.963 c
+68.788 138.963 l
+68.785 138.907 68.837 138.736 68.906 138.68 c
+68.906 138.68 l
+68.971 138.624 69.106 138.641 y
+69.106 138.641 l
+69.227 138.529 69.291 138.448 v
+69.291 138.448 l
+69.36 138.367 69.438 138.245 y
+69.438 138.245 l
+69.598 138.202 69.637 138.175 v
+69.637 138.175 l
+69.68 138.15 69.772 138.125 69.785 138.03 c
+69.785 138.03 l
+69.798 137.932 69.661 137.911 69.688 137.852 c
+69.688 137.852 l
+69.715 137.8 70.006 137.463 70.102 137.5 c
+70.102 137.5 l
+70.195 137.543 70.357 137.645 y
+70.357 137.645 l
+70.748 137.778 l
+71.216 137.852 l
+71.431 137.947 l
+71.513 137.959 71.539 137.918 v
+71.539 137.918 l
+71.565 137.877 71.539 137.77 y
+71.539 137.77 l
+71.496 137.569 l
+71.37 137.078 71.315 137.052 v
+71.315 137.052 l
+71.263 137.025 71.25 136.918 y
+71.25 136.918 l
+71.274 136.796 71.207 136.676 v
+71.207 136.676 l
+71.138 136.556 70.989 136.33 y
+70.989 136.33 l
+70.634 135.865 70.42 135.676 v
+70.42 135.676 l
+70.205 135.49 70.07 135.383 69.959 135.277 c
+69.959 135.277 l
+69.85 135.171 69.46 134.709 y
+69.46 134.709 l
+69.134 134.417 l
+69.092 134.176 l
+68.968 134.09 68.944 134.054 v
+68.944 134.054 l
+68.863 133.948 68.901 133.745 y
+68.901 133.745 l
+68.954 133.506 l
+68.922 133.155 68.95 133.115 v
+68.95 133.115 l
+68.975 133.076 69.042 132.818 y
+69.042 132.818 l
+69.2 132.67 l
+69.212 132.643 69.227 132.606 v
+69.227 132.606 l
+69.238 132.565 69.182 132.281 y
+69.182 132.281 l
+69.206 132.148 l
+69.194 131.948 l
+69.154 131.652 l
+69.223 131.597 l
+69.074 131.386 68.966 131.302 v
+68.966 131.302 l
+68.432 131.027 l
+68.231 130.764 68.189 130.764 v
+68.189 130.764 l
+68.15 130.764 68.055 130.773 y
+68.055 130.773 l
+68.084 130.698 l
+67.92 130.485 l
+67.784 130.39 l
+67.891 130.108 67.888 130.027 v
+67.888 130.027 l
+67.888 129.948 67.886 129.678 y
+67.886 129.678 l
+67.801 129.345 l
+67.746 129.294 67.68 129.252 v
+67.68 129.252 l
+67.613 129.213 67.438 129.147 67.397 129.137 c
+67.397 129.137 l
+67.358 129.122 67.289 128.973 y
+67.289 128.973 l
+67.273 128.745 l
+67.217 128.518 67.164 128.453 v
+67.164 128.453 l
+67.11 128.389 66.976 128.269 y
+66.976 128.269 l
+66.716 127.864 66.676 127.827 v
+66.676 127.827 l
+66.634 127.788 66.445 127.667 y
+66.445 127.667 l
+66.013 127.19 65.957 127.162 v
+65.957 127.162 l
+65.905 127.136 65.718 127.071 65.649 127.073 c
+65.649 127.073 l
+65.582 127.073 65.369 127.051 y
+65.369 127.051 l
+65.285 126.925 65.221 126.971 v
+65.221 126.971 l
+65.149 127.008 64.99 126.998 y
+64.99 126.998 l
+64.963 126.957 64.87 126.971 v
+64.87 126.971 l
+64.801 126.984 64.678 126.915 64.62 126.877 c
+64.62 126.877 l
+64.599 126.864 64.587 126.854 y
+64.587 126.854 l
+64.521 126.857 l
+64.038 126.977 l
+63.879 127.329 l
+64.017 127.53 64.004 127.621 v
+64.004 127.621 l
+63.989 127.718 63.777 127.919 y
+63.777 127.919 l
+63.726 128.124 63.714 128.176 v
+63.714 128.176 l
+63.701 128.228 63.607 128.418 y
+63.607 128.418 l
+63.437 128.58 63.422 128.662 v
+63.422 128.662 l
+63.41 128.743 63.386 129.091 y
+63.386 129.091 l
+63.228 129.683 l
+63.246 129.951 l
+63.153 130.165 l
+62.982 130.489 62.955 130.557 v
+62.955 130.557 l
+62.929 130.625 62.769 130.784 y
+62.769 130.784 l
+62.708 131.041 l
+62.708 131.238 l
+62.766 131.645 l
+62.834 131.897 l
+62.944 132.097 l
+63.147 132.241 63.16 132.307 v
+63.16 132.307 l
+63.148 132.494 l
+63.202 132.578 l
+63.028 133.083 63.045 133.181 v
+63.045 133.181 l
+63.094 133.422 62.877 133.668 y
+62.877 133.668 l
+63.003 133.745 l
+62.877 133.745 62.839 133.774 v
+62.839 133.774 l
+62.798 133.802 62.784 133.867 62.719 134.016 c
+62.719 134.016 l
+62.654 134.165 62.519 134.246 y
+62.519 134.246 l
+62.307 134.383 62.24 134.491 v
+62.24 134.491 l
+62.174 134.6 62.11 134.695 y
+62.11 134.695 l
+62.139 134.906 62.164 134.972 v
+62.164 134.972 l
+62.19 135.039 62.286 135.146 y
+62.286 135.146 l
+62.195 135.235 62.222 135.32 v
+62.222 135.32 l
+62.25 135.406 62.329 135.521 y
+62.329 135.521 l
+62.331 135.802 l
+62.428 135.896 62.255 136.013 v
+62.255 136.013 l
+62.079 136.133 61.706 136.157 y
+61.706 136.157 l
+61.135 136.541 60.999 136.553 v
+60.999 136.553 l
+60.86 136.561 60.744 136.541 60.542 136.489 c
+60.542 136.489 l
+60.34 136.436 60.019 136.319 y
+60.019 136.319 l
+59.868 136.204 59.775 136.191 v
+59.775 136.191 l
+59.732 136.182 59.632 136.209 59.521 136.236 c
+59.521 136.236 l
+59.389 136.268 59.24 136.3 59.144 136.273 c
+59.144 136.273 l
+58.97 136.221 58.85 136.226 58.7 136.147 c
+58.7 136.147 l
+58.553 136.066 58.44 136.026 58.355 136.04 c
+58.355 136.04 l
+58.268 136.053 58.126 136.191 58.06 136.245 c
+58.06 136.245 l
+57.992 136.297 57.741 136.651 57.675 136.635 c
+57.675 136.635 l
+57.607 136.623 57.568 136.744 y
+57.568 136.744 l
+57.327 136.707 57.315 136.772 v
+57.315 136.772 l
+57.3 136.839 56.93 137.39 56.867 137.527 c
+56.867 137.527 l
+56.802 137.662 56.667 137.877 y
+56.667 137.877 l
+56.528 137.852 56.437 137.92 v
+56.437 137.92 l
+56.348 137.989 56.387 138.162 y
+56.387 138.162 l
+56.602 138.146 l
+56.415 138.283 l
+56.272 138.568 l
+56.375 138.575 56.433 138.644 v
+56.433 138.644 l
+56.49 138.715 56.461 138.887 y
+56.461 138.887 l
+56.583 139.152 56.57 139.192 v
+56.57 139.192 l
+56.557 139.235 56.517 139.343 y
+56.517 139.343 l
+56.507 139.46 56.467 139.515 v
+56.467 139.515 l
+56.426 139.568 56.51 139.759 y
+56.51 139.759 l
+56.416 139.837 56.38 139.837 v
+56.38 139.837 l
+56.335 139.837 56.297 140.026 y
+56.297 140.026 l
+56.446 140.227 56.501 140.308 v
+56.501 140.308 l
+56.556 140.385 56.598 140.611 y
+56.598 140.611 l
+56.832 140.909 56.857 140.96 v
+56.857 140.96 l
+56.879 141.007 57.032 141.24 57.073 141.24 c
+57.073 141.24 l
+57.11 141.24 57.168 141.4 y
+57.168 141.4 l
+57.236 141.561 l
+57.357 141.614 57.424 141.6 v
+57.424 141.6 l
+57.491 141.587 57.683 141.73 57.721 141.757 c
+57.721 141.757 l
+57.761 141.782 57.977 141.915 58.004 141.982 c
+58.004 141.982 l
+58.034 142.049 58.019 142.235 y
+58.019 142.235 l
+57.966 142.276 l
+58.036 142.6 l
+58.134 142.743 58.172 142.759 v
+58.172 142.759 l
+58.212 142.772 58.241 142.893 58.35 142.943 c
+58.35 142.943 l
+58.456 142.999 58.576 143.023 y
+58.576 143.023 l
+58.671 143.182 l
+58.78 143.302 58.78 143.371 v
+58.78 143.371 l
+58.78 143.438 58.855 143.513 y
+58.855 143.513 l
+58.934 143.5 l
+58.97 143.419 59.076 143.408 v
+59.076 143.408 l
+59.184 143.393 59.371 143.387 y
+59.371 143.387 l
+59.453 143.466 l
+59.521 143.453 l
+59.693 143.344 59.733 143.381 v
+59.733 143.381 l
+59.775 143.426 59.882 143.548 y
+59.882 143.548 l
+60.019 143.588 l
+60.152 143.694 60.259 143.732 v
+60.259 143.732 l
+60.367 143.771 60.93 143.804 y
+60.93 143.804 l
+61.331 143.824 61.372 143.824 v
+61.372 143.824 l
+61.413 143.824 61.653 143.819 y
+61.653 143.819 l
+61.707 143.726 61.76 143.738 v
+61.76 143.738 l
+61.815 143.754 61.815 143.86 61.907 143.886 c
+61.907 143.886 l
+62.004 143.913 62.111 143.913 62.151 143.913 c
+62.151 143.913 l
+62.19 143.911 62.204 143.804 62.257 143.804 c
+62.257 143.804 l
+62.311 143.804 62.366 143.923 62.391 143.884 c
+62.391 143.884 l
+62.419 143.842 62.296 143.668 y
+62.296 143.668 l
+62.444 143.459 l
+62.43 143.311 l
+62.4 143.229 l
+62.253 143.137 62.264 143.096 v
+62.264 143.096 l
+62.277 143.056 62.384 143.03 y
+62.384 143.03 l
+62.707 142.795 l
+62.904 142.823 63.038 142.78 v
+63.038 142.78 l
+63.173 142.738 63.254 142.753 63.323 142.711 c
+63.323 142.711 l
+63.388 142.672 63.386 142.591 63.416 142.521 c
+63.416 142.521 l
+63.438 142.455 63.414 142.429 63.56 142.414 c
+63.56 142.414 l
+63.706 142.402 63.76 142.413 63.961 142.304 c
+63.961 142.304 l
+64.161 142.196 64.12 142.128 64.245 142.26 c
+64.245 142.26 l
+64.365 142.394 64.351 142.339 64.365 142.447 c
+64.365 142.447 l
+64.379 142.556 64.285 142.704 64.474 142.768 c
+64.474 142.768 l
+64.664 142.832 64.904 142.818 64.971 142.818 c
+64.971 142.818 l
+65.039 142.818 65.012 142.752 65.023 142.683 c
+65.023 142.683 l
+65.039 142.616 65.253 142.671 y
+65.253 142.671 l
+65.374 142.654 65.441 142.585 v
+65.441 142.585 l
+65.507 142.517 65.561 142.517 65.652 142.517 c
+65.652 142.517 l
+65.747 142.517 65.896 142.501 y
+65.896 142.501 l
+66.031 142.445 l
+66.124 142.472 66.177 142.459 v
+66.177 142.459 l
+66.231 142.442 66.31 142.418 y
+66.31 142.418 l
+66.488 142.601 l
+66.727 142.643 l
+66.928 142.546 l
+67 142.492 l
+67.135 142.469 l
+67.325 142.482 67.377 142.643 v
+67.377 142.643 l
+67.43 142.807 67.574 143.372 y
+67.574 143.372 l
+67.628 143.453 l
+67.574 143.63 l
+67.587 143.778 l
+67.654 143.817 67.68 143.911 v
+67.68 143.911 l
+67.709 144.006 67.613 143.978 y
+67.613 143.978 l
+67.585 143.963 67.531 143.908 v
+67.531 143.908 l
+67.505 143.882 67.486 143.889 67.466 143.896 c
+67.466 143.896 l
+67.446 143.904 67.424 143.911 67.397 143.884 c
+67.397 143.884 l
+67.344 143.829 67.146 143.774 67.021 143.761 c
+67.021 143.761 l
+66.902 143.745 66.808 143.854 66.74 143.893 c
+66.74 143.893 l
+66.672 143.936 66.511 143.906 y
+66.511 143.906 l
+66.496 143.852 l
+66.432 143.76 l
+66.336 143.716 66.256 143.716 v
+66.256 143.716 l
+66.177 143.716 66.013 143.824 y
+66.013 143.824 l
+65.944 143.808 65.905 143.794 v
+65.905 143.794 l
+65.866 143.78 65.797 143.836 y
+65.797 143.836 l
+65.743 143.891 l
+65.905 143.918 l
+65.743 143.97 l
+65.701 144.035 l
+65.729 144.089 l
+65.701 144.186 l
+65.593 144.171 l
+65.525 144.249 l
+65.633 144.358 l
+65.511 144.424 l
+65.579 144.535 l
+65.457 144.521 l
+65.432 144.561 l
+65.443 144.654 65.525 144.749 v
+65.525 144.749 l
+65.578 144.814 65.651 144.81 65.706 144.805 c
+65.706 144.805 l
+65.732 144.803 65.752 144.801 65.766 144.805 c
+65.766 144.805 l
+65.806 144.817 65.969 144.874 y
+65.969 144.874 l
+66.154 144.9 l
+66.06 145.035 l
+66.265 145.048 l
+66.384 145.035 l
+66.709 145.145 l
+66.841 145.254 66.883 145.266 v
+66.883 145.266 l
+66.923 145.279 67.094 145.359 y
+67.094 145.359 l
+67.501 145.242 l
+67.891 145.111 67.945 145.122 v
+67.945 145.122 l
+67.999 145.138 68.405 145.114 68.566 145.22 c
+68.566 145.22 l
+68.725 145.33 68.456 145.544 y
+68.456 145.544 l
+68.522 145.623 68.413 145.68 v
+68.413 145.68 l
+68.306 145.729 67.685 146.011 67.604 146.038 c
+67.604 146.038 l
+67.524 146.064 67.565 146.145 67.511 146.173 c
+67.511 146.173 l
+67.457 146.197 67.459 146.344 y
+67.459 146.344 l
+67.57 146.353 l
+67.558 146.447 67.598 146.542 v
+67.598 146.542 l
+67.638 146.633 67.692 146.595 y
+67.692 146.595 l
+67.52 146.743 l
+67.638 146.782 l
+67.733 146.809 l
+67.81 146.823 67.88 146.866 v
+67.88 146.866 l
+67.945 146.902 67.962 146.947 y
+67.962 146.947 l
+67.852 146.902 67.814 146.92 v
+67.814 146.92 l
+67.772 146.931 67.692 146.866 67.598 146.866 c
+67.598 146.866 l
+67.505 146.866 67.505 146.809 y
+67.505 146.809 l
+67.181 146.677 67.156 146.638 v
+67.156 146.638 l
+67.128 146.595 66.982 146.581 y
+66.982 146.581 l
+66.808 146.53 66.82 146.479 v
+66.82 146.479 l
+66.835 146.423 67.047 146.423 y
+67.047 146.423 l
+67.128 146.273 67.181 146.273 v
+67.181 146.273 l
+67.235 146.273 67.276 146.331 y
+67.276 146.331 l
+67.355 146.315 l
+67.383 146.178 l
+67.316 146.114 67.251 146.155 v
+67.251 146.155 l
+67.181 146.194 67.021 146.087 y
+67.021 146.087 l
+66.687 145.94 66.724 146.02 v
+66.724 146.02 l
+66.766 146.102 66.766 146.219 y
+66.766 146.219 l
+66.593 146.219 l
+66.528 146.246 l
+66.622 146.34 l
+66.687 146.423 l
+66.659 146.479 l
+66.405 146.53 l
+66.481 146.671 l
+66.166 146.423 l
+66.031 146.236 l
+65.894 145.901 l
+65.841 145.928 l
+65.786 145.872 l
+65.867 145.82 l
+65.879 145.741 65.867 145.672 v
+65.867 145.672 l
+65.855 145.605 65.759 145.552 y
+65.759 145.552 l
+65.732 145.365 l
+65.867 145.122 l
+66.015 145.014 l
+65.879 144.977 65.813 144.989 v
+65.813 144.989 l
+65.747 145.002 65.732 144.937 65.693 144.881 c
+65.693 144.881 l
+65.652 144.828 65.545 144.842 y
+65.545 144.842 l
+65.265 144.909 l
+65.196 144.854 l
+65.062 144.909 l
+64.941 144.842 l
+65.039 144.707 l
+64.902 144.679 l
+64.833 144.802 l
+64.748 144.828 l
+64.736 144.697 l
+64.861 144.553 l
+64.93 144.421 l
+64.91 144.376 l
+65.029 144.288 l
+65.103 144.204 l
+65.09 144.118 l
+64.982 144.118 l
+64.939 144.035 l
+64.902 143.943 l
+64.914 143.86 l
+64.955 143.756 l
+64.885 143.729 l
+64.672 143.808 l
+64.553 143.891 l
+64.565 143.986 l
+64.459 144.077 l
+64.5 144.186 l
+64.74 144.171 l
+64.885 144.156 l
+64.86 144.249 l
+64.565 144.279 l
+64.5 144.238 l
+64.463 144.363 l
+64.315 144.468 l
+64.235 144.604 l
+64.153 144.712 l
+64.072 144.888 l
+64.115 145.129 l
+64.06 145.184 l
+63.926 145.263 l
+63.9 145.279 l
+63.739 145.318 l
+63.644 145.382 l
+63.577 145.516 l
+63.497 145.465 l
+63.271 145.555 l
+63.148 145.732 l
+63.014 146.012 l
+62.949 145.877 l
+62.878 145.945 l
+62.769 146.079 l
+62.782 146.172 l
+62.54 146.145 l
+62.54 146.037 l
+62.622 145.858 l
+62.54 145.835 l
+62.593 145.726 l
+62.713 145.7 l
+62.904 145.502 l
+63.009 145.258 l
+63.129 145.123 l
+63.278 145.114 l
+63.414 145.114 l
+63.386 145.003 l
+63.546 144.922 l
+63.734 144.842 l
+63.842 144.734 l
+63.852 144.643 l
+63.68 144.696 l
+63.64 144.749 l
+63.573 144.749 l
+63.49 144.589 l
+63.588 144.548 l
+63.665 144.424 l
+63.558 144.319 l
+63.573 144.223 l
+63.386 144.091 l
+63.289 144.105 l
+63.343 144.281 l
+63.414 144.331 l
+63.371 144.495 l
+63.291 144.63 l
+63.129 144.749 l
+63.049 144.869 l
+62.74 144.922 l
+62.7 144.989 l
+62.578 145.097 l
+62.433 145.163 l
+62.366 145.258 l
+62.229 145.367 l
+62.164 145.566 l
+62.085 145.618 l
+61.991 145.714 61.949 145.755 v
+61.949 145.755 l
+61.907 145.793 61.762 145.714 61.722 145.703 c
+61.722 145.703 l
+61.681 145.689 61.642 145.539 y
+61.642 145.539 l
+61.548 145.528 l
+61.44 145.422 l
+61.278 145.392 l
+61.077 145.484 l
+60.852 145.606 60.718 145.432 60.69 145.34 c
+60.69 145.34 l
+60.662 145.248 60.77 145.276 y
+60.77 145.276 l
+60.756 145.156 l
+60.718 145.021 l
+60.583 144.954 60.528 144.926 v
+60.528 144.926 l
+60.475 144.899 60.288 144.859 y
+60.288 144.859 l
+60.153 144.697 60.114 144.643 v
+60.114 144.643 l
+60.073 144.589 60.044 144.416 y
+60.044 144.416 l
+60.114 144.31 l
+60.124 144.242 60.073 144.189 v
+60.073 144.189 l
+60.019 144.134 59.952 144.081 y
+59.952 144.081 l
+59.952 143.987 l
+59.792 143.906 59.752 143.866 v
+59.752 143.866 l
+59.71 143.826 59.752 143.734 59.658 143.734 c
+59.658 143.734 l
+59.563 143.734 59.442 143.718 y
+59.442 143.718 l
+59.269 143.706 l
+59.228 143.64 59.133 143.612 v
+59.133 143.612 l
+59.039 143.588 58.985 143.594 y
+58.985 143.594 l
+58.902 143.54 l
+58.757 143.652 l
+58.77 143.745 58.649 143.817 v
+58.649 143.817 l
+58.53 143.881 58.451 143.771 y
+58.451 143.771 l
+58.369 143.817 l
+58.276 143.771 l
+58.195 143.801 l
+58.25 143.866 58.236 143.948 v
+58.236 143.948 l
+58.224 144.028 58.25 144.149 y
+58.25 144.149 l
+58.154 144.175 l
+58.117 144.215 l
+58.154 144.324 58.224 144.499 v
+58.224 144.499 l
+58.288 144.671 58.276 144.833 y
+58.276 144.833 l
+58.302 144.874 l
+58.25 144.912 l
+58.263 145.114 l
+58.236 145.224 l
+58.21 145.409 l
+58.263 145.465 l
+58.384 145.555 l
+58.665 145.597 l
+58.679 145.516 l
+58.891 145.544 l
+59.214 145.516 l
+59.253 145.507 59.319 145.502 v
+59.319 145.502 l
+59.348 145.502 l
+59.431 145.502 59.658 145.459 59.699 145.49 c
+59.699 145.49 l
+59.738 145.515 59.835 145.729 y
+59.835 145.729 l
+59.885 145.839 59.938 146.087 y
+59.938 146.087 l
+60.059 145.94 l
+60.03 146.05 l
+59.91 146.224 l
+59.897 146.356 l
+59.83 146.41 59.804 146.45 v
+59.804 146.45 l
+59.777 146.49 59.632 146.56 y
+59.632 146.56 l
+59.617 146.654 l
+59.445 146.762 l
+59.228 146.789 l
+59.189 146.884 l
+59.234 147.016 l
+59.512 147.057 l
+59.617 147.002 l
+59.779 147.044 l
+59.727 147.15 l
+59.66 147.298 l
+59.835 147.298 l
+59.886 147.19 59.954 147.163 v
+59.954 147.163 l
+60.021 147.137 60.046 147.242 60.073 147.284 c
+60.073 147.284 l
+60.102 147.325 60.331 147.418 60.343 147.471 c
+60.343 147.471 l
+60.356 147.527 60.356 147.581 60.422 147.594 c
+60.422 147.594 l
+60.491 147.607 60.73 147.82 60.879 147.969 c
+60.879 147.969 l
+60.901 148.021 60.917 148.088 60.931 148.156 c
+60.931 148.156 l
+60.944 148.224 60.972 148.168 y
+60.972 148.168 l
+60.987 148.033 l
+61.105 148.009 l
+61.051 148.183 l
+61.096 148.288 61.133 148.317 v
+61.133 148.317 l
+61.174 148.342 61.57 148.489 y
+61.57 148.489 l
+61.678 148.433 l
+61.785 148.592 l
+61.655 148.81 l
+61.653 149.053 l
+61.6 149.279 l
+61.878 149.393 61.918 149.46 v
+61.918 149.46 l
+61.959 149.529 62.195 149.327 y
+62.195 149.327 l
+62.195 149.194 l
+61.925 149.072 l
+61.991 148.937 l
+62.042 148.711 l
+62.352 148.654 l
+62.498 148.72 l
+62.591 148.666 l
+62.839 148.531 l
+63.157 148.726 63.212 148.778 v
+63.212 148.778 l
+63.264 148.83 63.533 148.895 63.602 148.881 c
+63.602 148.881 l
+63.668 148.868 63.655 148.737 y
+63.655 148.737 l
+63.95 148.782 63.961 148.837 v
+63.961 148.837 l
+63.978 148.892 64.247 148.957 y
+64.247 148.957 l
+64.127 149.027 l
+63.956 149.373 63.956 149.444 v
+63.956 149.444 l
+63.956 149.508 64.05 149.466 64.053 149.505 c
+64.053 149.505 l
+64.053 149.547 64.094 149.68 y
+64.094 149.68 l
+64.229 149.814 l
+64.401 149.678 l
+64.426 149.543 l
+64.574 149.502 64.602 149.555 v
+64.602 149.555 l
+64.631 149.61 64.617 149.927 64.607 150.02 c
+64.607 150.02 l
+64.599 150.076 64.581 150.044 64.553 150.011 c
+64.553 150.011 l
+64.535 149.99 64.511 149.968 64.483 149.973 c
+64.483 149.973 l
+64.42 149.986 64.393 150.16 y
+64.393 150.16 l
+64.395 150.254 64.474 150.292 v
+64.474 150.292 l
+64.557 150.332 64.691 150.439 64.799 150.439 c
+64.799 150.439 l
+64.905 150.437 65.012 150.356 y
+65.012 150.356 l
+65.358 150.551 l
+65.533 150.542 l
+65.626 150.651 l
+65.299 150.73 l
+65.328 150.85 l
+64.951 150.708 l
+64.759 150.723 l
+64.542 150.548 64.433 150.511 v
+64.433 150.511 l
+64.326 150.474 64.215 150.57 64.179 150.583 c
+64.179 150.583 l
+64.139 150.598 63.994 150.762 y
+63.994 150.762 l
+63.983 151.098 l
+63.907 151.49 63.95 151.566 v
+63.95 151.566 l
+63.989 151.649 64.058 151.662 y
+64.058 151.662 l
+64.292 151.993 l
+64.416 152.101 l
+64.431 152.385 l
+64.271 152.509 l
+64.121 152.509 l
+63.85 152.296 l
+63.808 152.149 l
+63.869 151.982 l
+63.736 151.786 l
+63.438 151.561 l
+63.232 151.363 l
+63.228 150.999 l
+63.212 150.77 l
+63.334 150.764 l
+63.443 150.712 l
+63.588 150.523 l
+63.598 150.374 l
+63.366 150.282 l
+63.288 150.339 l
+63.124 150.286 l
+63.518 150.214 l
+63.228 149.895 l
+63.223 149.692 l
+63.291 149.585 l
+63.234 149.422 63.221 149.383 v
+63.221 149.383 l
+63.207 149.342 63.018 149.198 y
+63.018 149.198 l
+62.936 149.239 l
+62.913 149.226 l
+62.826 149.187 l
+62.798 148.957 l
+62.515 148.974 l
+62.465 149.191 l
+62.441 149.433 l
+62.257 149.76 l
+62.164 149.947 l
+62.098 150.231 l
+62.077 150.501 l
+61.994 150.313 l
+61.882 150.016 l
+61.868 149.927 61.678 149.834 v
+61.678 149.834 l
+61.488 149.742 61.379 149.798 y
+61.379 149.798 l
+61.139 149.934 l
+61.077 150.259 l
+61.174 150.376 l
+60.988 150.73 l
+60.993 151.014 l
+61.021 151.161 l
+61.264 151.169 l
+61.141 151.225 l
+61.28 151.397 l
+61.553 151.519 l
+61.604 151.627 l
+61.701 151.704 l
+61.969 151.673 l
+61.835 151.808 l
+61.947 151.927 l
+62.079 151.861 l
+62.269 151.937 l
+62.393 152.112 l
+62.069 151.982 l
+62.029 152.077 l
+62.18 152.222 l
+62.37 152.503 l
+62.63 152.916 l
+62.632 153.199 l
+62.826 153.345 l
+62.843 153.52 l
+63.358 153.944 l
+63.426 153.878 l
+63.581 153.989 l
+63.617 154.105 l
+63.901 154.1 l
+63.991 153.949 l
+64.115 154.044 l
+64.023 154.123 l
+64.159 154.244 64.172 154.284 v
+64.172 154.284 l
+64.184 154.325 64.401 154.267 y
+64.401 154.267 l
+64.552 154.307 l
+65.209 154.164 l
+65.057 154.046 l
+65.326 153.88 l
+65.421 154 l
+65.626 154.023 65.624 153.969 v
+65.624 153.969 l
+65.624 153.918 65.556 153.904 y
+65.556 153.904 l
+66.39 153.76 l
+66.87 153.509 66.963 153.481 v
+66.963 153.481 l
+67.06 153.453 67.189 153.211 y
+67.189 153.211 l
+67.213 152.859 67.09 152.807 v
+67.09 152.807 l
+66.969 152.757 66.835 152.743 66.713 152.744 c
+66.713 152.744 l
+66.59 152.746 65.8 152.971 y
+65.8 152.971 l
+65.678 153.081 l
+65.49 153.083 l
+65.649 152.956 l
+65.542 152.866 l
+65.773 152.877 l
+66.198 152.536 l
+66.225 152.388 l
+66.422 152.087 l
+66.785 152.033 l
+66.721 152.285 66.626 152.315 v
+66.626 152.315 l
+66.531 152.343 66.506 152.385 y
+66.506 152.385 l
+66.681 152.451 l
+66.963 152.257 67.017 152.296 v
+67.017 152.296 l
+67.069 152.337 67.137 152.376 y
+67.137 152.376 l
+67.286 152.333 l
+67.101 152.593 l
+67.088 152.743 67.158 152.769 v
+67.158 152.769 l
+67.229 152.802 67.323 153.004 67.401 153.001 c
+67.401 153.001 l
+67.481 153.001 67.738 152.94 67.765 152.98 c
+67.765 152.98 l
+67.789 153.021 67.768 153.128 y
+67.768 153.128 l
+67.671 153.185 67.606 153.263 v
+67.606 153.263 l
+67.541 153.345 67.2 153.737 67.33 153.775 c
+67.33 153.775 l
+67.461 153.812 67.705 153.786 67.784 153.77 c
+67.784 153.77 l
+67.865 153.759 67.973 153.716 y
+67.973 153.716 l
+68.146 153.487 68.079 153.487 v
+68.079 153.487 l
+68.012 153.487 67.957 153.556 67.891 153.5 c
+67.891 153.5 l
+67.822 153.448 67.81 153.382 y
+67.81 153.382 l
+68.063 153.152 l
+68.314 153.175 l
+68.401 153.549 68.401 153.602 v
+68.401 153.602 l
+68.403 153.657 68.824 153.886 y
+68.824 153.886 l
+69.278 154.197 l
+69.372 154.223 69.439 154.223 v
+69.439 154.223 l
+69.507 154.223 69.236 154.023 y
+69.236 154.023 l
+69.167 153.743 l
+69.45 153.836 l
+69.436 153.848 l
+69.465 154.048 l
+69.874 154.166 l
+67.594 155.452 64.965 156.19 62.158 156.19 c
+62.158 156.19 l
+60.331 156.19 58.581 155.865 56.948 155.291 c
+57.123 152.488 m
+57.3 152.526 l
+57.34 152.416 l
+57.475 152.509 l
+57.595 152.48 l
+57.595 152.399 l
+57.603 152.21 l
+57.711 152.141 l
+57.72 151.966 l
+57.636 151.791 l
+57.513 151.644 l
+57.281 151.519 57.21 151.519 v
+57.21 151.519 l
+57.144 151.519 56.803 151.377 y
+56.803 151.377 l
+56.272 151.574 l
+56.164 151.644 l
+56.029 151.649 l
+56.004 151.718 l
+56.168 151.861 l
+56.075 151.915 56.035 151.906 v
+56.035 151.906 l
+55.994 151.89 55.876 151.906 y
+55.876 151.906 l
+55.876 151.975 l
+56.078 151.997 l
+56.161 152.05 l
+56.229 152.169 l
+56.013 152.132 l
+55.785 152.167 l
+55.799 152.234 l
+55.975 152.257 l
+55.895 152.296 l
+55.938 152.43 l
+56.02 152.43 l
+56.072 152.348 l
+56.098 152.402 l
+56.274 152.465 l
+56.353 152.399 l
+56.38 152.276 l
+56.38 152.194 l
+56.429 152.109 l
+56.456 152.178 l
+56.526 152.231 l
+56.502 152.365 l
+56.84 152.399 l
+56.934 152.385 l
+57.056 152.328 l
+h
+59.027 149.76 m
+59.044 149.814 59.043 149.834 59.083 149.876 c
+59.083 149.876 l
+59.123 149.92 59.386 149.946 59.459 149.961 c
+59.459 149.961 l
+59.535 149.973 59.497 149.806 y
+59.497 149.806 l
+59.415 149.756 l
+59.333 149.705 l
+59.3 149.503 l
+59.522 149.724 l
+59.748 149.637 l
+59.716 149.449 59.714 149.41 v
+59.714 149.41 l
+59.712 149.369 59.658 149.329 y
+59.658 149.329 l
+59.67 149.261 l
+59.502 149.161 l
+59.582 149.131 l
+59.801 148.881 l
+59.798 148.785 l
+60.021 148.617 l
+60.075 148.292 l
+60.153 148.18 l
+60.145 148.317 l
+60.29 148.271 60.343 148.228 v
+60.343 148.228 l
+60.395 148.186 60.406 148.107 y
+60.406 148.107 l
+60.36 147.945 60.343 147.905 v
+60.343 147.905 l
+60.331 147.864 60.252 147.906 y
+60.252 147.906 l
+60.206 147.816 l
+60.338 147.78 60.378 147.741 v
+60.378 147.741 l
+60.42 147.703 60.343 147.677 60.265 147.625 c
+60.265 147.625 l
+60.12 147.552 60.007 147.556 59.919 147.559 c
+59.919 147.559 l
+59.881 147.56 59.847 147.562 59.818 147.558 c
+59.818 147.558 l
+59.773 147.558 59.708 147.474 59.658 147.483 c
+59.658 147.483 l
+59.603 147.496 59.55 147.556 y
+59.55 147.556 l
+59.429 147.519 l
+59.409 147.418 59.3 147.376 v
+59.3 147.376 l
+59.261 147.362 59.18 147.434 y
+59.18 147.434 l
+59.112 147.381 l
+58.991 147.376 l
+58.921 147.325 l
+58.843 147.367 l
+58.953 147.443 l
+58.994 147.508 l
+59.108 147.574 l
+59.151 147.636 l
+59.259 147.677 l
+59.448 147.694 l
+59.557 147.703 l
+59.463 147.748 l
+59.33 147.74 l
+59.234 147.768 l
+59.172 147.854 l
+59.044 147.793 l
+59.06 147.877 l
+59.215 148.031 l
+59.234 148.148 l
+59.155 148.135 l
+59.117 148.179 l
+59.228 148.309 l
+59.348 148.303 l
+59.477 148.447 l
+59.423 148.505 59.371 148.547 v
+59.371 148.547 l
+59.319 148.589 59.337 148.696 y
+59.337 148.696 l
+59.423 148.854 l
+59.215 148.788 59.136 148.782 v
+59.136 148.782 l
+59.058 148.778 59.035 148.873 59.02 148.937 c
+59.02 148.937 l
+59.008 148.999 59.083 149.15 y
+59.083 149.15 l
+59.106 149.279 59.072 149.274 v
+59.072 149.274 l
+59.032 149.273 58.949 149.099 y
+58.949 149.099 l
+58.955 149.317 l
+58.957 149.383 l
+58.949 149.503 l
+58.803 149.577 l
+58.833 149.643 l
+58.942 149.61 l
+59.005 149.699 59.027 149.76 v
+61.544 149.318 m
+61.522 149.376 61.614 149.491 y
+61.614 149.491 l
+61.815 149.622 l
+61.898 149.717 l
+62.046 149.822 l
+62.096 149.674 62.085 149.607 v
+62.085 149.607 l
+62.069 149.541 62.014 149.499 y
+62.014 149.499 l
+61.976 149.584 61.92 149.582 v
+61.92 149.582 l
+61.807 149.56 61.607 149.31 61.555 149.31 c
+61.555 149.31 l
+61.549 149.31 61.546 149.312 61.544 149.318 c
+58.394 148.704 m
+58.504 148.74 l
+58.37 148.798 l
+58.44 148.85 l
+58.566 148.908 58.658 148.923 v
+58.658 148.923 l
+58.749 148.937 58.806 148.93 y
+58.806 148.93 l
+58.874 148.916 58.926 148.886 v
+58.926 148.886 l
+58.979 148.855 58.986 148.709 58.997 148.654 c
+58.997 148.654 l
+59.009 148.599 58.874 148.564 y
+58.874 148.564 l
+58.91 148.51 58.926 148.468 v
+58.926 148.468 l
+58.937 148.427 58.929 148.268 58.928 148.214 c
+58.928 148.214 l
+58.926 148.158 58.842 148.081 y
+58.842 148.081 l
+58.893 148.027 l
+58.555 147.942 l
+58.444 147.854 l
+58.366 147.922 l
+58.309 147.856 l
+58.188 147.851 l
+58.176 147.931 l
+58.08 147.854 l
+57.963 147.948 l
+58.021 148.096 l
+58.103 148.161 l
+58.295 148.156 l
+58.365 148.245 l
+58.12 148.231 l
+58.193 148.36 l
+58.301 148.342 l
+58.302 148.41 l
+58.077 148.472 l
+58.077 148.555 l
+58.185 148.537 l
+58.095 148.621 l
+58.26 148.682 l
+58.298 148.657 l
+58.324 148.639 l
+58.404 148.594 l
+h
+48.479 147.207 m
+48.623 147.284 l
+48.477 147.329 l
+48.565 147.369 l
+49.102 147.976 l
+49.202 148.205 l
+49.424 148.245 l
+49.336 148.027 l
+49.21 147.937 l
+49.1 147.663 l
+49.221 147.716 l
+49.342 147.576 l
+49.568 147.57 49.589 147.551 v
+49.589 147.551 l
+49.61 147.532 49.662 147.389 49.662 147.369 c
+49.662 147.369 l
+49.662 147.348 49.725 147.209 49.717 147.19 c
+49.717 147.19 l
+49.713 147.17 49.717 147.15 49.717 147.102 c
+49.717 147.102 l
+49.717 147.055 49.648 146.884 49.625 146.891 c
+49.625 146.891 l
+49.587 146.894 49.404 147.039 y
+49.404 147.039 l
+49.284 147 l
+49.117 146.983 l
+49.227 147.118 l
+49.174 147.145 l
+48.973 147.192 l
+48.731 147.25 48.724 147.209 v
+48.724 147.209 l
+48.721 147.17 48.545 147.157 y
+48.545 147.157 l
+h
+61.835 145.072 m
+61.853 145.215 l
+61.934 145.295 l
+61.92 145.336 l
+61.976 145.391 l
+62 145.254 l
+62.011 145.106 l
+61.943 144.985 l
+h
+61.794 144.3 m
+61.835 144.421 l
+61.799 144.473 l
+61.802 144.74 l
+61.764 144.782 l
+61.941 144.9 l
+62.035 144.888 l
+62.113 144.723 l
+62.057 144.615 l
+62.11 144.561 l
+62.077 144.359 l
+61.959 144.376 l
+61.876 144.297 l
+h
+65.12 144.257 m
+64.973 144.376 l
+64.968 144.439 l
+65.062 144.369 l
+65.191 144.326 l
+65.253 144.288 l
+65.241 144.222 l
+h
+63.177 144.22 m
+63.246 144.189 l
+63.223 144.098 63.207 144.043 v
+63.207 144.043 l
+63.196 143.991 63.254 143.948 63.238 143.826 c
+63.238 143.826 l
+63.221 143.706 63.119 143.869 y
+63.119 143.869 l
+63.038 143.857 l
+62.917 143.929 l
+62.858 144.004 l
+62.743 143.997 l
+62.625 144.055 l
+62.692 144.12 l
+62.766 144.124 l
+62.906 144.142 l
+63.041 144.14 l
+h
+67.253 143.61 m
+67.307 143.64 67.376 143.68 y
+67.376 143.68 l
+67.332 143.6 l
+67.279 143.546 l
+67.332 143.492 67.295 143.478 v
+67.295 143.478 l
+67.253 143.465 67.172 143.438 y
+67.172 143.438 l
+67.188 143.399 67.12 143.371 v
+67.12 143.371 l
+67.054 143.344 66.946 143.33 66.934 143.381 c
+66.934 143.381 l
+66.919 143.438 66.919 143.504 y
+66.919 143.504 l
+66.961 143.557 66.998 143.546 v
+66.998 143.546 l
+67.038 143.53 l
+67.093 143.6 l
+67.124 143.595 67.161 143.595 v
+67.161 143.595 l
+67.193 143.595 67.229 143.599 67.253 143.61 c
+70.851 131.756 m
+70.854 131.891 l
+70.88 131.971 l
+70.978 132.001 l
+71.044 132.052 l
+71.044 132.238 l
+71.113 132.238 71.126 132.289 v
+71.126 132.289 l
+71.138 132.343 71.207 132.382 y
+71.207 132.382 l
+71.219 132.223 l
+71.309 132.032 l
+71.389 131.684 l
+71.44 131.457 l
+71.466 131.389 71.357 131.394 71.345 131.441 c
+71.345 131.441 l
+71.333 131.498 71.305 131.525 71.24 131.54 c
+71.24 131.54 l
+71.172 131.556 71.292 131.403 y
+71.292 131.403 l
+71.115 131.152 71.128 131.112 v
+71.128 131.112 l
+71.141 131.069 71.168 131.018 y
+71.168 131.018 l
+71.138 130.788 70.782 130.027 y
+70.782 130.027 l
+70.58 129.642 70.58 129.561 v
+70.58 129.561 l
+70.58 129.479 70.523 129.335 70.4 129.213 c
+70.4 129.213 l
+70.279 129.095 70.179 129.091 70.03 129.116 c
+70.03 129.116 l
+69.884 129.145 69.759 129.262 69.772 129.301 c
+69.772 129.301 l
+69.785 129.341 69.772 129.428 y
+69.772 129.428 l
+69.746 129.505 69.707 129.597 y
+69.707 129.597 l
+69.633 129.842 69.671 129.973 v
+69.671 129.973 l
+69.707 130.1 69.873 130.275 y
+69.873 130.275 l
+69.983 130.386 l
+69.923 130.68 69.932 130.812 v
+69.932 130.812 l
+69.941 130.946 69.908 131.084 69.949 131.135 c
+69.949 131.135 l
+69.989 131.188 70.043 131.26 y
+70.043 131.26 l
+70.096 131.349 70.152 131.416 v
+70.152 131.416 l
+70.214 131.49 70.273 131.44 y
+70.273 131.44 l
+70.367 131.438 l
+70.463 131.478 l
+70.65 131.655 l
+70.759 131.764 l
+70.785 131.716 l
+h
+W n
+q
+0 g
+17.5181274 0 0 -17.5181274 61.015625 146.4604492 cm
+BX /Sh1 sh EX Q
+Q
+q
+61.898 149.717 m
+61.815 149.622 l
+61.614 149.491 l
+61.522 149.376 61.544 149.318 v
+61.544 149.318 l
+61.564 149.256 61.796 149.557 61.92 149.582 c
+61.92 149.582 l
+61.976 149.584 62.014 149.499 y
+62.014 149.499 l
+62.127 149.541 62.142 149.607 v
+62.142 149.607 l
+62.155 149.674 62.046 149.822 y
+62.046 149.822 l
+h
+W n
+q
+0 g
+15.120224 0 0 -15.120224 61.2602539 146.6787109 cm
+BX /Sh2 sh EX Q
+Q
+q
+67.253 143.61 m
+67.202 143.585 67.093 143.6 y
+67.093 143.6 l
+67.038 143.53 l
+66.998 143.546 l
+66.961 143.557 66.919 143.504 y
+66.919 143.504 l
+66.919 143.438 66.934 143.381 v
+66.934 143.381 l
+66.946 143.33 67.054 143.344 67.12 143.371 c
+67.12 143.371 l
+67.188 143.399 67.172 143.438 y
+67.172 143.438 l
+67.253 143.465 67.295 143.478 v
+67.295 143.478 l
+67.332 143.492 67.279 143.546 y
+67.279 143.546 l
+67.332 143.6 l
+67.376 143.68 l
+67.307 143.64 67.253 143.61 v
+W n
+q
+0 g
+14.9718933 0 0 -14.9718781 61.3056641 146.9858398 cm
+BX /Sh2 sh EX Q
+Q
+q
+71.126 132.289 m
+71.113 132.238 71.044 132.238 y
+71.044 132.238 l
+71.044 132.052 l
+70.978 132.001 l
+70.88 131.971 l
+70.854 131.891 l
+70.851 131.756 l
+70.785 131.716 l
+70.759 131.764 l
+70.65 131.655 l
+70.463 131.478 l
+70.367 131.438 l
+70.273 131.44 l
+70.214 131.49 70.152 131.416 v
+70.152 131.416 l
+70.096 131.349 70.043 131.26 y
+70.043 131.26 l
+69.989 131.188 69.949 131.135 v
+69.949 131.135 l
+69.908 131.084 69.941 130.946 69.932 130.812 c
+69.932 130.812 l
+69.923 130.68 69.983 130.386 y
+69.983 130.386 l
+69.873 130.275 l
+69.707 130.1 69.671 129.973 v
+69.671 129.973 l
+69.633 129.842 69.707 129.597 y
+69.707 129.597 l
+69.746 129.505 69.772 129.428 v
+69.772 129.428 l
+69.785 129.341 69.772 129.301 v
+69.772 129.301 l
+69.759 129.262 69.884 129.145 70.03 129.116 c
+70.03 129.116 l
+70.179 129.091 70.279 129.095 70.4 129.213 c
+70.4 129.213 l
+70.523 129.335 70.58 129.479 70.58 129.561 c
+70.58 129.561 l
+70.58 129.642 70.782 130.027 y
+70.782 130.027 l
+71.138 130.788 71.168 131.018 v
+71.168 131.018 l
+71.141 131.069 71.128 131.112 v
+71.128 131.112 l
+71.115 131.152 71.292 131.403 y
+71.292 131.403 l
+71.172 131.556 71.24 131.54 v
+71.24 131.54 l
+71.305 131.525 71.333 131.498 71.345 131.441 c
+71.345 131.441 l
+71.357 131.394 71.466 131.389 71.44 131.457 c
+71.44 131.457 l
+71.389 131.684 l
+71.309 132.032 l
+71.219 132.223 l
+71.207 132.382 l
+71.138 132.343 71.126 132.289 v
+W n
+q
+0 g
+14.7745972 0 0 -14.7745819 61.2089844 146.78125 cm
+BX /Sh2 sh EX Q
+Q
+q
+49.261 148.205 m
+49.161 147.976 l
+48.623 147.369 l
+48.534 147.329 l
+48.682 147.284 l
+48.537 147.207 l
+48.604 147.157 l
+48.779 147.17 48.784 147.209 v
+48.784 147.209 l
+48.789 147.25 49.031 147.192 y
+49.031 147.192 l
+49.233 147.145 l
+49.286 147.118 l
+49.174 146.983 l
+49.342 147 l
+49.461 147.039 l
+49.645 146.894 49.683 146.891 v
+49.683 146.891 l
+49.706 146.884 49.775 147.055 49.775 147.102 c
+49.775 147.102 l
+49.775 147.15 49.771 147.17 49.775 147.19 c
+49.775 147.19 l
+49.784 147.209 49.721 147.348 49.721 147.369 c
+49.721 147.369 l
+49.721 147.389 49.668 147.532 49.647 147.551 c
+49.647 147.551 l
+49.627 147.57 49.399 147.576 y
+49.399 147.576 l
+49.279 147.716 l
+49.157 147.663 l
+49.269 147.937 l
+49.395 148.027 l
+49.48 148.245 l
+h
+W n
+q
+0 g
+14.722702 0 0 -14.722702 61.3623047 146.737793 cm
+BX /Sh2 sh EX Q
+Q
+q
+50.749 129.6 m
+50.966 129.653 51.05 129.773 v
+51.05 129.773 l
+51.139 129.892 51.115 130.108 51.225 130.257 c
+51.225 130.257 l
+51.334 130.41 51.421 131.041 y
+51.421 131.041 l
+51.382 131.794 51.424 131.95 v
+51.424 131.95 l
+51.467 132.106 52.195 132.806 52.228 132.839 c
+52.228 132.839 l
+52.261 132.875 52.326 133.577 52.298 133.666 c
+52.298 133.666 l
+52.27 133.753 52.27 133.825 52.204 133.852 c
+52.204 133.852 l
+52.163 133.869 52.052 133.869 51.961 133.868 c
+51.961 133.868 l
+51.897 133.868 51.842 133.867 51.827 133.873 c
+51.827 133.873 l
+51.71 133.905 51.329 134.274 51.133 134.329 c
+51.133 134.329 l
+50.862 134.407 50.321 134.405 y
+50.321 134.405 l
+50.104 134.32 l
+50.096 134.573 50.028 134.631 v
+50.028 134.631 l
+49.961 134.686 49.533 134.794 y
+49.533 134.794 l
+49.257 134.846 l
+49.21 134.979 l
+48.787 135.1 l
+48.908 135.24 l
+48.845 135.555 l
+48.697 135.944 l
+48.483 136.229 l
+47.909 136.433 l
+47.73 136.42 l
+47.034 136.664 l
+46.897 136.941 l
+46.795 137.007 l
+47.426 134.176 48.82 131.632 50.749 129.6 c
+W n
+q
+0 g
+14.712326 0 0 -14.712326 61.3115234 146.737793 cm
+BX /Sh2 sh EX Q
+Q
+q
+49.269 148.982 m
+49.159 148.998 l
+48.992 148.978 l
+48.768 148.631 48.548 148.285 48.352 147.919 c
+48.352 147.919 l
+48.353 147.919 48.567 147.936 48.632 148 c
+48.632 148 l
+48.699 148.068 48.712 148.174 48.767 148.176 c
+48.767 148.176 l
+48.951 148.176 l
+49.031 148.232 l
+49.141 148.217 l
+49.249 148.233 l
+49.286 148.327 49.342 148.327 v
+49.342 148.327 l
+49.395 148.327 49.432 148.354 y
+49.432 148.354 l
+49.473 148.475 l
+49.486 148.636 l
+49.54 148.769 l
+49.523 148.878 l
+49.43 148.93 l
+49.349 149.01 l
+h
+W n
+q
+0 g
+14.7036743 0 0 -14.7036743 61.3476562 146.7392578 cm
+BX /Sh2 sh EX Q
+Q
+q
+47.757 146.682 m
+47.714 146.585 47.677 146.488 47.637 146.391 c
+47.637 146.391 l
+47.757 146.442 l
+47.972 146.468 l
+47.931 146.575 l
+47.848 146.642 l
+47.797 146.682 l
+h
+W n
+q
+0 g
+14.7179871 0 0 -14.7179871 61.3623047 146.7373047 cm
+BX /Sh2 sh EX Q
+Q
+q
+64.973 144.376 m
+65.12 144.257 l
+65.241 144.222 l
+65.253 144.288 l
+65.191 144.326 l
+65.062 144.369 l
+64.968 144.439 l
+h
+W n
+q
+0 g
+14.7920685 0 0 -14.7920685 61.2685547 146.7509766 cm
+BX /Sh2 sh EX Q
+Q
+q
+51.271 151.751 m
+51.271 151.748 l
+51.171 151.546 l
+51.319 151.328 l
+51.471 151.297 l
+51.372 151.247 l
+51.548 151.014 l
+51.712 150.984 l
+52.025 151.048 l
+51.899 150.86 l
+51.97 150.751 l
+52.036 150.833 l
+52.063 150.668 l
+52.156 150.585 l
+52.335 150.585 l
+52.402 150.694 l
+52.335 150.748 l
+52.583 151.003 l
+52.515 151.114 l
+52.61 151.087 l
+52.721 151.413 l
+52.858 151.546 l
+52.779 151.627 l
+52.889 151.616 l
+53.079 151.871 l
+53.176 152.113 l
+53.121 152.223 l
+53.218 152.235 l
+53.397 152.328 l
+53.626 152.37 l
+53.586 152.519 l
+53.671 152.6 l
+53.75 152.6 l
+53.708 152.491 l
+53.75 152.368 l
+54.008 152.515 l
+54.022 152.433 l
+54.158 152.458 l
+54.117 152.567 l
+54.267 152.567 l
+54.472 152.757 l
+54.555 152.836 l
+54.558 152.971 l
+54.721 153.053 l
+54.801 153.118 l
+54.805 153.352 l
+54.859 153.447 l
+54.87 153.187 l
+55.184 153.199 l
+55.281 153.292 l
+55.442 153.223 l
+55.756 153.301 l
+56.123 153.544 l
+56.44 153.76 l
+56.576 153.786 l
+56.55 153.84 l
+56.467 153.812 l
+56.143 153.924 l
+55.881 153.871 l
+55.693 153.817 l
+55.515 153.836 l
+55.625 153.876 l
+55.696 153.981 l
+55.558 154.025 l
+55.697 154.2 l
+55.911 154.185 l
+56.065 154.307 l
+55.901 154.362 l
+55.672 154.418 l
+55.617 154.53 l
+55.726 154.511 l
+56.092 154.386 l
+56.294 154.223 l
+56.237 154.128 l
+56.344 153.939 l
+56.512 154.058 l
+56.576 153.946 l
+56.782 154.002 l
+56.782 154.315 l
+56.448 154.628 l
+56.272 154.631 l
+56.283 154.713 l
+56.122 154.767 l
+56.122 154.877 l
+56.031 154.927 l
+54.247 154.166 52.642 153.081 51.271 151.751 c
+W n
+q
+0 g
+14.708374 0 0 -14.708374 61.3505859 146.7363281 cm
+BX /Sh2 sh EX Q
+Q
+q
+56.575 155.155 m
+56.704 155.128 l
+56.568 155.036 l
+56.684 154.914 56.752 154.939 56.825 155.001 c
+56.825 155.001 l
+56.879 155.043 57.032 155.249 y
+57.032 155.249 l
+56.948 155.291 l
+56.823 155.247 56.698 155.201 56.575 155.155 c
+W n
+q
+0 g
+16.7129364 0 0 -16.7129364 61.2773437 145.2763672 cm
+BX /Sh2 sh EX Q
+Q
+q
+59.518 149.961 m
+59.445 149.946 59.181 149.92 59.142 149.876 c
+59.142 149.876 l
+59.102 149.834 59.105 149.814 59.085 149.76 c
+59.085 149.76 l
+59.063 149.699 59.001 149.61 y
+59.001 149.61 l
+58.891 149.643 l
+58.862 149.577 l
+59.008 149.503 l
+59.015 149.383 l
+59.014 149.317 l
+59.008 149.099 l
+59.09 149.273 59.129 149.274 v
+59.129 149.274 l
+59.164 149.279 59.142 149.15 y
+59.142 149.15 l
+59.065 148.999 59.078 148.937 v
+59.078 148.937 l
+59.094 148.873 59.117 148.778 59.196 148.782 c
+59.196 148.782 l
+59.274 148.788 59.482 148.854 y
+59.482 148.854 l
+59.396 148.696 l
+59.377 148.589 59.431 148.547 v
+59.431 148.547 l
+59.482 148.505 59.534 148.447 y
+59.534 148.447 l
+59.406 148.303 l
+59.287 148.309 l
+59.175 148.179 l
+59.213 148.135 l
+59.293 148.148 l
+59.274 148.031 l
+59.118 147.877 l
+59.105 147.793 l
+59.23 147.854 l
+59.293 147.768 l
+59.387 147.74 l
+59.522 147.748 l
+59.615 147.703 l
+59.505 147.694 l
+59.316 147.677 l
+59.209 147.636 l
+59.167 147.574 l
+59.053 147.508 l
+59.012 147.443 l
+58.902 147.367 l
+58.98 147.325 l
+59.049 147.376 l
+59.171 147.381 l
+59.238 147.434 l
+59.32 147.362 59.359 147.376 v
+59.359 147.376 l
+59.467 147.418 59.486 147.519 y
+59.486 147.519 l
+59.609 147.556 l
+59.661 147.496 59.716 147.483 v
+59.716 147.483 l
+59.765 147.474 59.831 147.558 59.877 147.558 c
+59.877 147.558 l
+59.906 147.562 59.939 147.56 59.977 147.559 c
+59.977 147.559 l
+60.064 147.556 60.178 147.552 60.323 147.625 c
+60.323 147.625 l
+60.402 147.677 60.478 147.703 60.437 147.741 c
+60.437 147.741 l
+60.394 147.78 60.264 147.816 y
+60.264 147.816 l
+60.311 147.906 l
+60.389 147.864 60.402 147.905 v
+60.402 147.905 l
+60.418 147.945 60.465 148.107 y
+60.465 148.107 l
+60.454 148.186 60.402 148.228 v
+60.402 148.228 l
+60.349 148.271 60.203 148.317 y
+60.203 148.317 l
+60.212 148.18 l
+60.134 148.292 l
+60.079 148.617 l
+59.856 148.785 l
+59.858 148.881 l
+59.639 149.131 l
+59.559 149.161 l
+59.728 149.261 l
+59.716 149.329 l
+59.77 149.369 59.773 149.41 v
+59.773 149.41 l
+59.775 149.449 59.806 149.637 y
+59.806 149.637 l
+59.582 149.724 l
+59.359 149.503 l
+59.392 149.705 l
+59.474 149.756 l
+59.556 149.806 l
+59.591 149.961 59.526 149.961 v
+59.526 149.961 l
+59.523 149.961 59.521 149.961 59.518 149.961 c
+W n
+q
+0 g
+14.7056427 0 0 -14.7056427 61.3496094 146.7392578 cm
+BX /Sh2 sh EX Q
+Q
+q
+58.717 148.923 m
+58.624 148.908 58.498 148.85 y
+58.498 148.85 l
+58.428 148.798 l
+58.561 148.74 l
+58.451 148.704 l
+58.462 148.594 l
+58.382 148.639 l
+58.358 148.657 l
+58.317 148.682 l
+58.154 148.621 l
+58.244 148.537 l
+58.136 148.555 l
+58.136 148.472 l
+58.361 148.41 l
+58.36 148.342 l
+58.252 148.36 l
+58.178 148.231 l
+58.422 148.245 l
+58.352 148.156 l
+58.162 148.161 l
+58.079 148.096 l
+58.02 147.948 l
+58.138 147.854 l
+58.234 147.931 l
+58.245 147.851 l
+58.369 147.856 l
+58.424 147.922 l
+58.502 147.854 l
+58.614 147.942 l
+58.953 148.027 l
+58.9 148.081 l
+58.984 148.158 58.986 148.214 v
+58.986 148.214 l
+58.989 148.268 58.994 148.427 58.984 148.468 c
+58.984 148.468 l
+58.97 148.51 58.931 148.564 y
+58.931 148.564 l
+59.068 148.599 59.054 148.654 v
+59.054 148.654 l
+59.044 148.709 59.036 148.855 58.984 148.886 c
+58.984 148.886 l
+58.931 148.916 58.865 148.93 y
+58.865 148.93 l
+58.85 148.932 58.824 148.932 v
+58.824 148.932 l
+58.799 148.932 58.762 148.93 58.717 148.923 c
+W n
+q
+0 g
+14.7111206 0 0 -14.7111206 61.3505859 146.7368164 cm
+BX /Sh2 sh EX Q
+Q
+q
+57.182 152.488 m
+57.114 152.328 l
+56.993 152.385 l
+56.897 152.399 l
+56.561 152.365 l
+56.584 152.231 l
+56.516 152.178 l
+56.488 152.109 l
+56.437 152.194 l
+56.437 152.276 l
+56.413 152.399 l
+56.332 152.465 l
+56.157 152.402 l
+56.129 152.348 l
+56.078 152.43 l
+55.994 152.43 l
+55.954 152.296 l
+56.033 152.257 l
+55.857 152.234 l
+55.842 152.167 l
+56.072 152.132 l
+56.288 152.169 l
+56.219 152.05 l
+56.136 151.997 l
+55.935 151.975 l
+55.935 151.906 l
+56.053 151.89 56.092 151.906 v
+56.092 151.906 l
+56.134 151.915 56.227 151.861 y
+56.227 151.861 l
+56.063 151.718 l
+56.088 151.649 l
+56.223 151.644 l
+56.331 151.574 l
+56.862 151.377 l
+57.203 151.519 57.268 151.519 v
+57.268 151.519 l
+57.34 151.519 57.571 151.644 y
+57.571 151.644 l
+57.695 151.791 l
+57.779 151.966 l
+57.768 152.141 l
+57.661 152.21 l
+57.652 152.399 l
+57.652 152.48 l
+57.533 152.509 l
+57.398 152.416 l
+57.358 152.526 l
+h
+W n
+q
+0 g
+14.7052917 0 0 -14.7052917 61.3520508 146.7382813 cm
+BX /Sh2 sh EX Q
+Q
+q
+61.92 145.336 m
+61.934 145.295 l
+61.853 145.215 l
+61.835 145.072 l
+61.943 144.985 l
+62.068 145.106 l
+62 145.254 l
+61.976 145.391 l
+h
+W n
+q
+0 g
+15.5533752 0 0 -15.5533752 61.1142578 146.7451172 cm
+BX /Sh2 sh EX Q
+Q
+q
+61.764 144.782 m
+61.802 144.74 l
+61.799 144.473 l
+61.835 144.421 l
+61.794 144.3 l
+61.876 144.297 l
+62.015 144.376 l
+62.077 144.359 l
+62.11 144.561 l
+62.057 144.615 l
+62.113 144.723 l
+62.035 144.888 l
+61.941 144.9 l
+h
+W n
+q
+0 g
+14.6967926 0 0 -14.6967926 61.2963867 146.7363281 cm
+BX /Sh2 sh EX Q
+Q
+q
+63.099 144.14 m
+62.965 144.142 l
+62.824 144.124 l
+62.751 144.12 l
+62.682 144.055 l
+62.8 143.997 l
+62.916 144.004 l
+62.975 143.929 l
+63.097 143.857 l
+63.176 143.869 l
+63.279 143.706 63.297 143.826 v
+63.297 143.826 l
+63.311 143.948 63.255 143.991 63.266 144.043 c
+63.266 144.043 l
+63.283 144.098 63.305 144.189 y
+63.305 144.189 l
+63.236 144.22 l
+h
+W n
+q
+0 g
+15.8746185 0 0 -15.8746185 61.3491211 147.0219727 cm
+BX /Sh2 sh EX Q
+Q
+q
+64.401 154.267 m
+64.184 154.325 64.172 154.284 v
+64.172 154.284 l
+64.159 154.244 64.023 154.123 y
+64.023 154.123 l
+64.115 154.044 l
+63.991 153.949 l
+63.901 154.1 l
+63.617 154.105 l
+63.581 153.989 l
+63.426 153.878 l
+63.358 153.944 l
+62.843 153.52 l
+62.826 153.345 l
+62.632 153.199 l
+62.63 152.916 l
+62.37 152.503 l
+62.18 152.222 l
+62.029 152.077 l
+62.069 151.982 l
+62.393 152.112 l
+62.269 151.937 l
+62.079 151.861 l
+61.947 151.927 l
+61.835 151.808 l
+61.969 151.673 l
+61.701 151.704 l
+61.604 151.627 l
+61.553 151.519 l
+61.28 151.397 l
+61.141 151.225 l
+61.264 151.169 l
+61.021 151.161 l
+60.993 151.014 l
+60.988 150.73 l
+61.174 150.376 l
+61.077 150.259 l
+61.139 149.934 l
+61.379 149.798 l
+61.488 149.742 61.678 149.834 v
+61.678 149.834 l
+61.868 149.927 61.882 150.016 y
+61.882 150.016 l
+61.994 150.313 l
+62.077 150.501 l
+62.098 150.231 l
+62.164 149.947 l
+62.257 149.76 l
+62.441 149.433 l
+62.465 149.191 l
+62.515 148.974 l
+62.798 148.957 l
+62.826 149.187 l
+62.913 149.226 l
+62.936 149.239 l
+63.018 149.198 l
+63.207 149.342 63.221 149.383 v
+63.221 149.383 l
+63.234 149.422 63.291 149.585 y
+63.291 149.585 l
+63.223 149.692 l
+63.228 149.895 l
+63.518 150.214 l
+63.124 150.286 l
+63.288 150.339 l
+63.366 150.282 l
+63.598 150.374 l
+63.588 150.523 l
+63.443 150.712 l
+63.334 150.764 l
+63.212 150.77 l
+63.228 150.999 l
+63.232 151.363 l
+63.438 151.561 l
+63.736 151.786 l
+63.869 151.982 l
+63.808 152.149 l
+63.85 152.296 l
+64.121 152.509 l
+64.271 152.509 l
+64.431 152.385 l
+64.416 152.101 l
+64.292 151.993 l
+64.058 151.662 l
+63.989 151.649 63.95 151.566 v
+63.95 151.566 l
+63.907 151.49 63.983 151.098 y
+63.983 151.098 l
+63.994 150.762 l
+64.139 150.598 64.179 150.583 v
+64.179 150.583 l
+64.215 150.57 64.326 150.474 64.433 150.511 c
+64.433 150.511 l
+64.542 150.548 64.759 150.723 y
+64.759 150.723 l
+64.951 150.708 l
+65.328 150.85 l
+65.299 150.73 l
+65.626 150.651 l
+65.533 150.542 l
+65.358 150.551 l
+65.012 150.356 l
+64.905 150.437 64.799 150.439 v
+64.799 150.439 l
+64.691 150.439 64.557 150.332 64.474 150.292 c
+64.474 150.292 l
+64.395 150.254 64.393 150.16 y
+64.393 150.16 l
+64.42 149.986 64.483 149.973 v
+64.483 149.973 l
+64.511 149.968 64.535 149.99 64.553 150.011 c
+64.553 150.011 l
+64.581 150.044 64.599 150.076 64.607 150.02 c
+64.607 150.02 l
+64.617 149.927 64.631 149.61 64.602 149.555 c
+64.602 149.555 l
+64.574 149.502 64.426 149.543 y
+64.426 149.543 l
+64.401 149.678 l
+64.229 149.814 l
+64.094 149.68 l
+64.053 149.547 64.053 149.505 v
+64.053 149.505 l
+64.05 149.466 63.956 149.508 63.956 149.444 c
+63.956 149.444 l
+63.956 149.373 64.127 149.027 y
+64.127 149.027 l
+64.247 148.957 l
+63.978 148.892 63.961 148.837 v
+63.961 148.837 l
+63.95 148.782 63.655 148.737 y
+63.655 148.737 l
+63.668 148.868 63.602 148.881 v
+63.602 148.881 l
+63.533 148.895 63.264 148.83 63.212 148.778 c
+63.212 148.778 l
+63.157 148.726 62.839 148.531 y
+62.839 148.531 l
+62.591 148.666 l
+62.498 148.72 l
+62.352 148.654 l
+62.042 148.711 l
+61.991 148.937 l
+61.925 149.072 l
+62.195 149.194 l
+62.195 149.327 l
+61.959 149.529 61.918 149.46 v
+61.918 149.46 l
+61.878 149.393 61.6 149.279 y
+61.6 149.279 l
+61.653 149.053 l
+61.655 148.81 l
+61.785 148.592 l
+61.678 148.433 l
+61.57 148.489 l
+61.174 148.342 61.133 148.317 v
+61.133 148.317 l
+61.096 148.288 61.051 148.183 y
+61.051 148.183 l
+61.105 148.009 l
+60.987 148.033 l
+60.972 148.168 l
+60.944 148.224 60.931 148.156 v
+60.931 148.156 l
+60.917 148.088 60.901 148.021 60.879 147.969 c
+60.879 147.969 l
+60.73 147.82 60.491 147.607 60.422 147.594 c
+60.422 147.594 l
+60.356 147.581 60.356 147.527 60.343 147.471 c
+60.343 147.471 l
+60.331 147.418 60.102 147.325 60.073 147.284 c
+60.073 147.284 l
+60.046 147.242 60.021 147.137 59.954 147.163 c
+59.954 147.163 l
+59.886 147.19 59.835 147.298 y
+59.835 147.298 l
+59.66 147.298 l
+59.727 147.15 l
+59.779 147.044 l
+59.617 147.002 l
+59.512 147.057 l
+59.234 147.016 l
+59.189 146.884 l
+59.228 146.789 l
+59.445 146.762 l
+59.617 146.654 l
+59.632 146.56 l
+59.777 146.49 59.804 146.45 v
+59.804 146.45 l
+59.83 146.41 59.897 146.356 y
+59.897 146.356 l
+59.91 146.224 l
+60.03 146.05 l
+60.059 145.94 l
+59.938 146.087 l
+59.885 145.839 59.835 145.729 v
+59.835 145.729 l
+59.738 145.515 59.699 145.49 v
+59.699 145.49 l
+59.658 145.459 59.431 145.502 59.348 145.502 c
+59.348 145.502 l
+59.319 145.502 l
+59.253 145.507 59.214 145.516 y
+59.214 145.516 l
+58.891 145.544 l
+58.679 145.516 l
+58.665 145.597 l
+58.384 145.555 l
+58.263 145.465 l
+58.21 145.409 l
+58.236 145.224 l
+58.263 145.114 l
+58.25 144.912 l
+58.302 144.874 l
+58.276 144.833 l
+58.288 144.671 58.224 144.499 v
+58.224 144.499 l
+58.154 144.324 58.117 144.215 y
+58.117 144.215 l
+58.154 144.175 l
+58.25 144.149 l
+58.224 144.028 58.236 143.948 v
+58.236 143.948 l
+58.25 143.866 58.195 143.801 y
+58.195 143.801 l
+58.276 143.771 l
+58.369 143.817 l
+58.451 143.771 l
+58.53 143.881 58.649 143.817 v
+58.649 143.817 l
+58.77 143.745 58.757 143.652 y
+58.757 143.652 l
+58.902 143.54 l
+58.985 143.594 l
+59.039 143.588 59.133 143.612 v
+59.133 143.612 l
+59.228 143.64 59.269 143.706 y
+59.269 143.706 l
+59.442 143.718 l
+59.563 143.734 59.658 143.734 v
+59.658 143.734 l
+59.752 143.734 59.71 143.826 59.752 143.866 c
+59.752 143.866 l
+59.792 143.906 59.952 143.987 y
+59.952 143.987 l
+59.952 144.081 l
+60.019 144.134 60.073 144.189 v
+60.073 144.189 l
+60.124 144.242 60.114 144.31 y
+60.114 144.31 l
+60.044 144.416 l
+60.073 144.589 60.114 144.643 v
+60.114 144.643 l
+60.153 144.697 60.288 144.859 y
+60.288 144.859 l
+60.475 144.899 60.528 144.926 v
+60.528 144.926 l
+60.583 144.954 60.718 145.021 y
+60.718 145.021 l
+60.756 145.156 l
+60.77 145.276 l
+60.662 145.248 60.69 145.34 v
+60.69 145.34 l
+60.718 145.432 60.852 145.606 61.077 145.484 c
+61.077 145.484 l
+61.278 145.392 l
+61.44 145.422 l
+61.548 145.528 l
+61.642 145.539 l
+61.681 145.689 61.722 145.703 v
+61.722 145.703 l
+61.762 145.714 61.907 145.793 61.949 145.755 c
+61.949 145.755 l
+61.991 145.714 62.085 145.618 y
+62.085 145.618 l
+62.164 145.566 l
+62.229 145.367 l
+62.366 145.258 l
+62.433 145.163 l
+62.578 145.097 l
+62.7 144.989 l
+62.74 144.922 l
+63.049 144.869 l
+63.129 144.749 l
+63.291 144.63 l
+63.371 144.495 l
+63.414 144.331 l
+63.343 144.281 l
+63.289 144.105 l
+63.386 144.091 l
+63.573 144.223 l
+63.558 144.319 l
+63.665 144.424 l
+63.588 144.548 l
+63.49 144.589 l
+63.573 144.749 l
+63.64 144.749 l
+63.68 144.696 l
+63.852 144.643 l
+63.842 144.734 l
+63.734 144.842 l
+63.546 144.922 l
+63.386 145.003 l
+63.414 145.114 l
+63.278 145.114 l
+63.129 145.123 l
+63.009 145.258 l
+62.904 145.502 l
+62.713 145.7 l
+62.593 145.726 l
+62.54 145.835 l
+62.622 145.858 l
+62.54 146.037 l
+62.54 146.145 l
+62.782 146.172 l
+62.769 146.079 l
+62.878 145.945 l
+62.949 145.877 l
+63.014 146.012 l
+63.148 145.732 l
+63.271 145.555 l
+63.497 145.465 l
+63.577 145.516 l
+63.644 145.382 l
+63.739 145.318 l
+63.9 145.279 l
+63.926 145.263 l
+64.06 145.184 l
+64.115 145.129 l
+64.072 144.888 l
+64.153 144.712 l
+64.235 144.604 l
+64.315 144.468 l
+64.463 144.363 l
+64.5 144.238 l
+64.565 144.279 l
+64.86 144.249 l
+64.885 144.156 l
+64.74 144.171 l
+64.5 144.186 l
+64.459 144.077 l
+64.565 143.986 l
+64.553 143.891 l
+64.672 143.808 l
+64.885 143.729 l
+64.955 143.756 l
+64.914 143.86 l
+64.902 143.943 l
+64.939 144.035 l
+64.982 144.118 l
+65.09 144.118 l
+65.103 144.204 l
+65.029 144.288 l
+64.91 144.376 l
+64.93 144.421 l
+64.861 144.553 l
+64.736 144.697 l
+64.748 144.828 l
+64.833 144.802 l
+64.902 144.679 l
+65.039 144.707 l
+64.941 144.842 l
+65.062 144.909 l
+65.196 144.854 l
+65.265 144.909 l
+65.545 144.842 l
+65.652 144.828 65.693 144.881 v
+65.693 144.881 l
+65.732 144.937 65.747 145.002 65.813 144.989 c
+65.813 144.989 l
+65.879 144.977 66.015 145.014 y
+66.015 145.014 l
+65.867 145.122 l
+65.732 145.365 l
+65.759 145.552 l
+65.855 145.605 65.867 145.672 v
+65.867 145.672 l
+65.879 145.741 65.867 145.82 y
+65.867 145.82 l
+65.786 145.872 l
+65.841 145.928 l
+65.894 145.901 l
+66.031 146.236 l
+66.166 146.423 l
+66.481 146.671 l
+66.405 146.53 l
+66.659 146.479 l
+66.687 146.423 l
+66.622 146.34 l
+66.528 146.246 l
+66.593 146.219 l
+66.766 146.219 l
+66.766 146.102 66.724 146.02 v
+66.724 146.02 l
+66.687 145.94 67.021 146.087 y
+67.021 146.087 l
+67.181 146.194 67.251 146.155 v
+67.251 146.155 l
+67.316 146.114 67.383 146.178 y
+67.383 146.178 l
+67.355 146.315 l
+67.276 146.331 l
+67.235 146.273 67.181 146.273 v
+67.181 146.273 l
+67.128 146.273 67.047 146.423 y
+67.047 146.423 l
+66.835 146.423 66.82 146.479 v
+66.82 146.479 l
+66.808 146.53 66.982 146.581 y
+66.982 146.581 l
+67.128 146.595 67.156 146.638 v
+67.156 146.638 l
+67.181 146.677 67.505 146.809 y
+67.505 146.809 l
+67.505 146.866 67.598 146.866 v
+67.598 146.866 l
+67.692 146.866 67.772 146.931 67.814 146.92 c
+67.814 146.92 l
+67.852 146.902 67.962 146.947 y
+67.962 146.947 l
+67.945 146.902 67.88 146.866 v
+67.88 146.866 l
+67.81 146.823 67.733 146.809 y
+67.733 146.809 l
+67.638 146.782 l
+67.52 146.743 l
+67.692 146.595 l
+67.638 146.633 67.598 146.542 v
+67.598 146.542 l
+67.558 146.447 67.57 146.353 y
+67.57 146.353 l
+67.459 146.344 l
+67.457 146.197 67.511 146.173 v
+67.511 146.173 l
+67.565 146.145 67.524 146.064 67.604 146.038 c
+67.604 146.038 l
+67.685 146.011 68.306 145.729 68.413 145.68 c
+68.413 145.68 l
+68.522 145.623 68.456 145.544 y
+68.456 145.544 l
+68.725 145.33 68.566 145.22 v
+68.566 145.22 l
+68.405 145.114 67.999 145.138 67.945 145.122 c
+67.945 145.122 l
+67.891 145.111 67.501 145.242 y
+67.501 145.242 l
+67.094 145.359 l
+66.923 145.279 66.883 145.266 v
+66.883 145.266 l
+66.841 145.254 66.709 145.145 y
+66.709 145.145 l
+66.384 145.035 l
+66.265 145.048 l
+66.06 145.035 l
+66.154 144.9 l
+65.969 144.874 l
+65.806 144.817 65.766 144.805 v
+65.766 144.805 l
+65.752 144.801 65.732 144.803 65.706 144.805 c
+65.706 144.805 l
+65.651 144.81 65.578 144.814 65.525 144.749 c
+65.525 144.749 l
+65.443 144.654 65.432 144.561 y
+65.432 144.561 l
+65.457 144.521 l
+65.579 144.535 l
+65.511 144.424 l
+65.633 144.358 l
+65.525 144.249 l
+65.593 144.171 l
+65.701 144.186 l
+65.729 144.089 l
+65.701 144.035 l
+65.743 143.97 l
+65.905 143.918 l
+65.743 143.891 l
+65.797 143.836 l
+65.866 143.78 65.905 143.794 v
+65.905 143.794 l
+65.944 143.808 66.013 143.824 y
+66.013 143.824 l
+66.177 143.716 66.256 143.716 v
+66.256 143.716 l
+66.336 143.716 66.432 143.76 y
+66.432 143.76 l
+66.496 143.852 l
+66.511 143.906 l
+66.672 143.936 66.74 143.893 v
+66.74 143.893 l
+66.808 143.854 66.902 143.745 67.021 143.761 c
+67.021 143.761 l
+67.146 143.774 67.344 143.829 67.397 143.884 c
+67.397 143.884 l
+67.424 143.911 67.446 143.904 67.466 143.896 c
+67.466 143.896 l
+67.486 143.889 67.505 143.882 67.531 143.908 c
+67.531 143.908 l
+67.585 143.963 67.613 143.978 y
+67.613 143.978 l
+67.709 144.006 67.68 143.911 v
+67.68 143.911 l
+67.654 143.817 67.587 143.778 y
+67.587 143.778 l
+67.574 143.63 l
+67.628 143.453 l
+67.574 143.372 l
+67.43 142.807 67.377 142.643 v
+67.377 142.643 l
+67.325 142.482 67.135 142.469 y
+67.135 142.469 l
+67 142.492 l
+66.928 142.546 l
+66.727 142.643 l
+66.488 142.601 l
+66.31 142.418 l
+66.231 142.442 66.177 142.459 v
+66.177 142.459 l
+66.124 142.472 66.031 142.445 y
+66.031 142.445 l
+65.896 142.501 l
+65.747 142.517 65.652 142.517 v
+65.652 142.517 l
+65.561 142.517 65.507 142.517 65.441 142.585 c
+65.441 142.585 l
+65.374 142.654 65.253 142.671 y
+65.253 142.671 l
+65.039 142.616 65.023 142.683 v
+65.023 142.683 l
+65.012 142.752 65.039 142.818 64.971 142.818 c
+64.971 142.818 l
+64.904 142.818 64.664 142.832 64.474 142.768 c
+64.474 142.768 l
+64.285 142.704 64.379 142.556 64.365 142.447 c
+64.365 142.447 l
+64.351 142.339 64.365 142.394 64.245 142.26 c
+64.245 142.26 l
+64.12 142.128 64.161 142.196 63.961 142.304 c
+63.961 142.304 l
+63.76 142.413 63.706 142.402 63.56 142.414 c
+63.56 142.414 l
+63.414 142.429 63.438 142.455 63.416 142.521 c
+63.416 142.521 l
+63.386 142.591 63.388 142.672 63.323 142.711 c
+63.323 142.711 l
+63.254 142.753 63.173 142.738 63.038 142.78 c
+63.038 142.78 l
+62.904 142.823 62.707 142.795 y
+62.707 142.795 l
+62.384 143.03 l
+62.277 143.056 62.264 143.096 v
+62.264 143.096 l
+62.253 143.137 62.4 143.229 y
+62.4 143.229 l
+62.43 143.311 l
+62.444 143.459 l
+62.296 143.668 l
+62.419 143.842 62.391 143.884 v
+62.391 143.884 l
+62.366 143.923 62.311 143.804 62.257 143.804 c
+62.257 143.804 l
+62.204 143.804 62.19 143.911 62.151 143.913 c
+62.151 143.913 l
+62.111 143.913 62.004 143.913 61.907 143.886 c
+61.907 143.886 l
+61.815 143.86 61.815 143.754 61.76 143.738 c
+61.76 143.738 l
+61.707 143.726 61.653 143.819 y
+61.653 143.819 l
+61.413 143.824 61.372 143.824 v
+61.372 143.824 l
+61.331 143.824 60.93 143.804 y
+60.93 143.804 l
+60.367 143.771 60.259 143.732 v
+60.259 143.732 l
+60.152 143.694 60.019 143.588 y
+60.019 143.588 l
+59.882 143.548 l
+59.775 143.426 59.733 143.381 v
+59.733 143.381 l
+59.693 143.344 59.521 143.453 y
+59.521 143.453 l
+59.453 143.466 l
+59.371 143.387 l
+59.184 143.393 59.076 143.408 v
+59.076 143.408 l
+58.97 143.419 58.934 143.5 y
+58.934 143.5 l
+58.855 143.513 l
+58.78 143.438 58.78 143.371 v
+58.78 143.371 l
+58.78 143.302 58.671 143.182 y
+58.671 143.182 l
+58.576 143.023 l
+58.456 142.999 58.35 142.943 v
+58.35 142.943 l
+58.241 142.893 58.212 142.772 58.172 142.759 c
+58.172 142.759 l
+58.134 142.743 58.036 142.6 y
+58.036 142.6 l
+57.966 142.276 l
+58.019 142.235 l
+58.034 142.049 58.004 141.982 v
+58.004 141.982 l
+57.977 141.915 57.761 141.782 57.721 141.757 c
+57.721 141.757 l
+57.683 141.73 57.491 141.587 57.424 141.6 c
+57.424 141.6 l
+57.357 141.614 57.236 141.561 y
+57.236 141.561 l
+57.168 141.4 l
+57.11 141.24 57.073 141.24 v
+57.073 141.24 l
+57.032 141.24 56.879 141.007 56.857 140.96 c
+56.857 140.96 l
+56.832 140.909 56.598 140.611 y
+56.598 140.611 l
+56.556 140.385 56.501 140.308 v
+56.501 140.308 l
+56.446 140.227 56.297 140.026 y
+56.297 140.026 l
+56.335 139.837 56.38 139.837 v
+56.38 139.837 l
+56.416 139.837 56.51 139.759 y
+56.51 139.759 l
+56.426 139.568 56.467 139.515 v
+56.467 139.515 l
+56.507 139.46 56.517 139.343 y
+56.517 139.343 l
+56.557 139.235 56.57 139.192 v
+56.57 139.192 l
+56.583 139.152 56.461 138.887 y
+56.461 138.887 l
+56.49 138.715 56.433 138.644 v
+56.433 138.644 l
+56.375 138.575 56.272 138.568 y
+56.272 138.568 l
+56.415 138.283 l
+56.602 138.146 l
+56.387 138.162 l
+56.348 137.989 56.437 137.92 v
+56.437 137.92 l
+56.528 137.852 56.667 137.877 y
+56.667 137.877 l
+56.802 137.662 56.867 137.527 v
+56.867 137.527 l
+56.93 137.39 57.3 136.839 57.315 136.772 c
+57.315 136.772 l
+57.327 136.707 57.568 136.744 y
+57.568 136.744 l
+57.607 136.623 57.675 136.635 v
+57.675 136.635 l
+57.741 136.651 57.992 136.297 58.06 136.245 c
+58.06 136.245 l
+58.126 136.191 58.268 136.053 58.355 136.04 c
+58.355 136.04 l
+58.44 136.026 58.553 136.066 58.7 136.147 c
+58.7 136.147 l
+58.85 136.226 58.97 136.221 59.144 136.273 c
+59.144 136.273 l
+59.24 136.3 59.389 136.268 59.521 136.236 c
+59.521 136.236 l
+59.632 136.209 59.732 136.182 59.775 136.191 c
+59.775 136.191 l
+59.868 136.204 60.019 136.319 y
+60.019 136.319 l
+60.34 136.436 60.542 136.489 v
+60.542 136.489 l
+60.744 136.541 60.86 136.561 60.999 136.553 c
+60.999 136.553 l
+61.135 136.541 61.706 136.157 y
+61.706 136.157 l
+62.079 136.133 62.255 136.013 v
+62.255 136.013 l
+62.428 135.896 62.331 135.802 y
+62.331 135.802 l
+62.329 135.521 l
+62.25 135.406 62.222 135.32 v
+62.222 135.32 l
+62.195 135.235 62.286 135.146 y
+62.286 135.146 l
+62.19 135.039 62.164 134.972 v
+62.164 134.972 l
+62.139 134.906 62.11 134.695 y
+62.11 134.695 l
+62.174 134.6 62.24 134.491 v
+62.24 134.491 l
+62.307 134.383 62.519 134.246 y
+62.519 134.246 l
+62.654 134.165 62.719 134.016 v
+62.719 134.016 l
+62.784 133.867 62.798 133.802 62.839 133.774 c
+62.839 133.774 l
+62.877 133.745 63.003 133.745 y
+63.003 133.745 l
+62.877 133.668 l
+63.094 133.422 63.045 133.181 v
+63.045 133.181 l
+63.028 133.083 63.202 132.578 y
+63.202 132.578 l
+63.148 132.494 l
+63.16 132.307 l
+63.147 132.241 62.944 132.097 y
+62.944 132.097 l
+62.834 131.897 l
+62.766 131.645 l
+62.708 131.238 l
+62.708 131.041 l
+62.769 130.784 l
+62.929 130.625 62.955 130.557 v
+62.955 130.557 l
+62.982 130.489 63.153 130.165 y
+63.153 130.165 l
+63.246 129.951 l
+63.228 129.683 l
+63.386 129.091 l
+63.41 128.743 63.422 128.662 v
+63.422 128.662 l
+63.437 128.58 63.607 128.418 y
+63.607 128.418 l
+63.701 128.228 63.714 128.176 v
+63.714 128.176 l
+63.726 128.124 63.777 127.919 y
+63.777 127.919 l
+63.989 127.718 64.004 127.621 v
+64.004 127.621 l
+64.017 127.53 63.879 127.329 y
+63.879 127.329 l
+64.038 126.977 l
+64.521 126.857 l
+64.587 126.854 l
+64.599 126.864 64.62 126.877 v
+64.62 126.877 l
+64.678 126.915 64.801 126.984 64.87 126.971 c
+64.87 126.971 l
+64.963 126.957 64.99 126.998 y
+64.99 126.998 l
+65.149 127.008 65.221 126.971 v
+65.221 126.971 l
+65.285 126.925 65.369 127.051 y
+65.369 127.051 l
+65.582 127.073 65.649 127.073 v
+65.649 127.073 l
+65.718 127.071 65.905 127.136 65.957 127.162 c
+65.957 127.162 l
+66.013 127.19 66.445 127.667 y
+66.445 127.667 l
+66.634 127.788 66.676 127.827 v
+66.676 127.827 l
+66.716 127.864 66.976 128.269 y
+66.976 128.269 l
+67.11 128.389 67.164 128.453 v
+67.164 128.453 l
+67.217 128.518 67.273 128.745 y
+67.273 128.745 l
+67.289 128.973 l
+67.358 129.122 67.397 129.137 v
+67.397 129.137 l
+67.438 129.147 67.613 129.213 67.68 129.252 c
+67.68 129.252 l
+67.746 129.294 67.801 129.345 y
+67.801 129.345 l
+67.886 129.678 l
+67.888 129.948 67.888 130.027 v
+67.888 130.027 l
+67.891 130.108 67.784 130.39 y
+67.784 130.39 l
+67.92 130.485 l
+68.084 130.698 l
+68.055 130.773 l
+68.15 130.764 68.189 130.764 v
+68.189 130.764 l
+68.231 130.764 68.432 131.027 y
+68.432 131.027 l
+68.966 131.302 l
+69.074 131.386 69.223 131.597 y
+69.223 131.597 l
+69.154 131.652 l
+69.194 131.948 l
+69.206 132.148 l
+69.182 132.281 l
+69.238 132.565 69.227 132.606 v
+69.227 132.606 l
+69.212 132.643 69.2 132.67 y
+69.2 132.67 l
+69.042 132.818 l
+68.975 133.076 68.95 133.115 v
+68.95 133.115 l
+68.922 133.155 68.954 133.506 y
+68.954 133.506 l
+68.901 133.745 l
+68.863 133.948 68.944 134.054 v
+68.944 134.054 l
+68.968 134.09 69.092 134.176 y
+69.092 134.176 l
+69.134 134.417 l
+69.46 134.709 l
+69.85 135.171 69.959 135.277 v
+69.959 135.277 l
+70.07 135.383 70.205 135.49 70.42 135.676 c
+70.42 135.676 l
+70.634 135.865 70.989 136.33 y
+70.989 136.33 l
+71.138 136.556 71.207 136.676 v
+71.207 136.676 l
+71.274 136.796 71.25 136.918 y
+71.25 136.918 l
+71.263 137.025 71.315 137.052 v
+71.315 137.052 l
+71.37 137.078 71.496 137.569 y
+71.496 137.569 l
+71.539 137.77 l
+71.565 137.877 71.539 137.918 v
+71.539 137.918 l
+71.513 137.959 71.431 137.947 y
+71.431 137.947 l
+71.216 137.852 l
+70.748 137.778 l
+70.357 137.645 l
+70.195 137.543 70.102 137.5 v
+70.102 137.5 l
+70.006 137.463 69.715 137.8 69.688 137.852 c
+69.688 137.852 l
+69.661 137.911 69.798 137.932 69.785 138.03 c
+69.785 138.03 l
+69.772 138.125 69.68 138.15 69.637 138.175 c
+69.637 138.175 l
+69.598 138.202 69.438 138.245 y
+69.438 138.245 l
+69.36 138.367 69.291 138.448 v
+69.291 138.448 l
+69.227 138.529 69.106 138.641 y
+69.106 138.641 l
+68.971 138.624 68.906 138.68 v
+68.906 138.68 l
+68.837 138.736 68.785 138.907 68.788 138.963 c
+68.788 138.963 l
+68.788 139.013 68.72 139.166 68.63 139.298 c
+68.63 139.298 l
+68.538 139.432 68.363 139.488 y
+68.363 139.488 l
+68.378 139.568 l
+68.324 139.772 l
+68.26 139.96 l
+68.237 140.225 l
+68.023 140.418 l
+67.877 140.604 67.849 140.674 v
+67.849 140.674 l
+67.825 140.738 67.92 140.754 y
+67.92 140.754 l
+67.692 141.007 l
+67.64 141.05 67.493 141.24 67.44 141.307 c
+67.44 141.307 l
+67.386 141.374 67.415 141.484 67.307 141.564 c
+67.307 141.564 l
+67.202 141.643 67.163 141.697 67.149 141.78 c
+67.149 141.78 l
+67.137 141.859 67.069 141.966 67.032 142.021 c
+67.032 142.021 l
+66.99 142.075 66.963 142.101 66.992 142.157 c
+66.992 142.157 l
+67.021 142.208 66.996 142.29 y
+66.996 142.29 l
+67.094 142.171 l
+67.094 142.091 67.149 142.009 v
+67.149 142.009 l
+67.204 141.929 67.298 141.769 y
+67.298 141.769 l
+67.501 141.557 l
+67.446 141.742 67.489 141.812 v
+67.489 141.812 l
+67.53 141.88 67.608 142.16 y
+67.608 142.16 l
+67.623 141.956 67.611 141.837 v
+67.611 141.837 l
+67.595 141.717 67.663 141.61 y
+67.663 141.61 l
+67.839 141.515 l
+67.973 141.208 68.017 141.193 v
+68.017 141.193 l
+68.053 141.182 68.205 140.991 y
+68.205 140.991 l
+68.297 140.789 l
+68.352 140.737 l
+68.46 140.748 68.554 140.656 v
+68.554 140.656 l
+68.648 140.561 68.704 140.334 y
+68.704 140.334 l
+68.733 140.063 68.761 140.026 v
+68.761 140.026 l
+68.788 139.986 68.922 139.848 y
+68.922 139.848 l
+69.084 139.837 69.124 139.784 v
+69.124 139.784 l
+69.164 139.732 69.462 139.207 69.503 139.152 c
+69.503 139.152 l
+69.545 139.1 69.68 138.939 69.666 138.872 c
+69.666 138.872 l
+69.655 138.802 69.614 138.667 y
+69.614 138.667 l
+69.721 138.522 l
+69.721 138.318 l
+69.817 138.238 l
+69.886 138.078 69.978 138.078 v
+69.978 138.078 l
+70.072 138.078 70.179 138.106 y
+70.179 138.106 l
+70.273 138.267 70.409 138.267 v
+70.409 138.267 l
+70.542 138.267 71.782 138.689 71.82 138.774 c
+71.82 138.774 l
+71.859 138.856 71.793 138.947 71.875 138.99 c
+71.875 138.99 l
+71.952 139.03 72.398 139.189 y
+72.398 139.189 l
+72.64 139.408 72.651 139.462 v
+72.651 139.462 l
+72.668 139.515 72.895 139.692 72.895 139.748 c
+72.895 139.748 l
+72.895 139.8 73.082 140.136 y
+73.082 140.136 l
+73.24 140.313 l
+73.261 140.575 l
+73.12 140.621 73.093 140.691 v
+73.093 140.691 l
+73.063 140.757 73.024 140.824 72.808 140.89 c
+72.808 140.89 l
+72.588 140.958 72.484 140.942 72.418 141.128 c
+72.418 141.128 l
+72.347 141.32 72.4 141.561 72.336 141.546 c
+72.336 141.546 l
+72.266 141.534 72.16 141.301 y
+72.16 141.301 l
+71.961 141.02 l
+71.961 140.926 71.852 140.909 v
+71.852 140.909 l
+71.744 140.897 71.517 140.856 71.423 140.882 c
+71.423 140.882 l
+71.328 140.909 71.339 141.003 y
+71.339 141.003 l
+71.408 141.098 l
+71.423 141.247 l
+71.313 141.436 l
+71.191 141.247 l
+71.248 141.113 l
+71.191 141.044 l
+71.057 141.275 l
+70.882 141.61 l
+70.706 141.703 l
+70.597 141.916 l
+70.448 142.159 l
+70.476 142.238 l
+70.689 142.281 l
+70.689 142.427 l
+70.918 142.335 l
+71.095 142.066 l
+71.419 141.839 71.458 141.814 v
+71.458 141.814 l
+71.501 141.788 71.878 141.519 71.932 141.545 c
+71.932 141.545 l
+71.986 141.572 72.148 141.6 y
+72.148 141.6 l
+72.227 141.722 72.36 141.709 v
+72.36 141.709 l
+72.495 141.695 72.523 141.561 72.537 141.466 c
+72.537 141.466 l
+72.923 141.367 l
+73.517 141.294 l
+74.003 141.358 74.056 141.358 v
+74.056 141.358 l
+74.111 141.358 74.432 141.428 74.474 141.404 c
+74.474 141.404 l
+74.512 141.379 74.581 141.297 y
+74.581 141.297 l
+74.703 141.193 l
+74.932 141.059 l
+75.025 141.006 75.146 140.994 y
+75.146 140.994 l
+75.311 140.809 l
+75.525 140.891 l
+75.515 140.783 l
+75.38 140.729 l
+75.368 140.553 75.424 140.487 v
+75.424 140.487 l
+75.477 140.42 75.735 140.219 y
+75.735 140.219 l
+75.87 140.264 l
+75.975 140.521 l
+76.055 140.602 76.065 140.646 v
+76.065 140.646 l
+76.081 140.684 76.139 140.732 y
+76.139 140.732 l
+76.148 140.672 76.123 140.629 v
+76.123 140.629 l
+76.096 140.59 76.068 140.535 y
+76.068 140.535 l
+76.153 140.385 l
+76.18 140.121 l
+76.13 140.025 l
+76.13 139.891 76.188 139.796 v
+76.188 139.796 l
+76.243 139.702 76.297 139.568 y
+76.297 139.568 l
+76.381 139.352 76.394 139.301 v
+76.394 139.301 l
+76.409 139.248 76.492 139.018 76.518 138.982 c
+76.518 138.982 l
+76.547 138.939 76.712 138.686 y
+76.712 138.686 l
+76.823 138.579 l
+76.865 138.337 76.895 138.255 v
+76.895 138.255 l
+76.922 138.175 76.964 138.042 77.044 137.951 c
+77.044 137.951 l
+77.127 137.857 77.155 137.75 77.197 137.695 c
+77.197 137.695 l
+77.234 137.641 77.242 137.438 77.308 137.322 c
+77.308 137.322 l
+77.378 137.198 77.472 137.11 y
+77.472 137.11 l
+77.563 137.148 l
+77.79 138.212 77.913 139.309 77.913 140.44 c
+77.913 140.44 l
+77.913 146.334 74.669 151.464 69.874 154.166 c
+69.874 154.166 l
+69.465 154.048 l
+69.436 153.848 l
+69.45 153.836 l
+69.167 153.743 l
+69.236 154.023 l
+69.507 154.223 69.439 154.223 v
+69.439 154.223 l
+69.372 154.223 69.278 154.197 y
+69.278 154.197 l
+68.824 153.886 l
+68.403 153.657 68.401 153.602 v
+68.401 153.602 l
+68.401 153.549 68.314 153.175 y
+68.314 153.175 l
+68.063 153.152 l
+67.81 153.382 l
+67.822 153.448 67.891 153.5 v
+67.891 153.5 l
+67.957 153.556 68.012 153.487 68.079 153.487 c
+68.079 153.487 l
+68.146 153.487 67.973 153.716 y
+67.973 153.716 l
+67.865 153.759 67.784 153.77 v
+67.784 153.77 l
+67.705 153.786 67.461 153.812 67.33 153.775 c
+67.33 153.775 l
+67.2 153.737 67.541 153.345 67.606 153.263 c
+67.606 153.263 l
+67.671 153.185 67.768 153.128 y
+67.768 153.128 l
+67.789 153.021 67.765 152.98 v
+67.765 152.98 l
+67.738 152.94 67.481 153.001 67.401 153.001 c
+67.401 153.001 l
+67.323 153.004 67.229 152.802 67.158 152.769 c
+67.158 152.769 l
+67.088 152.743 67.101 152.593 y
+67.101 152.593 l
+67.286 152.333 l
+67.137 152.376 l
+67.069 152.337 67.017 152.296 v
+67.017 152.296 l
+66.963 152.257 66.681 152.451 y
+66.681 152.451 l
+66.506 152.385 l
+66.531 152.343 66.626 152.315 v
+66.626 152.315 l
+66.721 152.285 66.785 152.033 y
+66.785 152.033 l
+66.422 152.087 l
+66.225 152.388 l
+66.198 152.536 l
+65.773 152.877 l
+65.542 152.866 l
+65.649 152.956 l
+65.49 153.083 l
+65.678 153.081 l
+65.8 152.971 l
+66.59 152.746 66.713 152.744 v
+66.713 152.744 l
+66.835 152.743 66.969 152.757 67.09 152.807 c
+67.09 152.807 l
+67.213 152.859 67.189 153.211 y
+67.189 153.211 l
+67.06 153.453 66.963 153.481 v
+66.963 153.481 l
+66.87 153.509 66.39 153.76 y
+66.39 153.76 l
+65.556 153.904 l
+65.624 153.918 65.624 153.969 v
+65.624 153.969 l
+65.626 154.023 65.421 154 y
+65.421 154 l
+65.326 153.88 l
+65.057 154.046 l
+65.209 154.164 l
+64.552 154.307 l
+h
+W n
+q
+0 g
+14.707016 0 0 -14.707016 61.2924805 146.7382813 cm
+BX /Sh2 sh EX Q
+Q
+q
+77.698 150.175 m
+73.031 150.74 l
+72.544 150.433 l
+69.481 143.232 l
+69.712 141.782 l
+67.326 136.461 l
+56.567 145.261 l
+54.35 144.407 l
+54.072 144.257 53.934 144.043 53.899 143.829 c
+53.899 143.829 l
+50.74 147.888 l
+41.437 143.373 l
+46.481 135.047 l
+56.73 140.067 l
+56.632 140.315 l
+54.503 143.051 l
+54.644 143.043 54.802 143.076 54.97 143.165 c
+54.97 143.165 l
+54.891 143.098 56.487 143.807 y
+56.487 143.807 l
+66.808 135.306 l
+65.39 132.143 l
+68.219 124.507 l
+70.813 124.024 l
+71.362 123.849 72.714 121.69 77.109 123.211 c
+77.109 123.211 l
+80.062 123.211 l
+83.775 130.71 l
+84.625 131.024 84.812 131.71 84.511 132.143 c
+84.511 132.143 l
+84.51 132.144 84.555 132.129 84.6 132.115 c
+84.6 132.115 l
+84.644 132.099 84.687 132.085 84.687 132.086 c
+84.687 132.086 l
+84.685 132.102 84.486 132.229 84.443 132.322 c
+84.443 132.322 l
+84.521 132.509 l
+84.827 133.402 l
+88.07 141.189 l
+87.726 142.049 l
+90.215 146.859 l
+87.994 152.552 l
+79.133 153.088 l
+h
+W n
+q
+0 g
+48.7783203 0 0 -48.7783203 41.4365234 137.8789063 cm
+BX /Sh3 sh EX Q
+Q
+q
+21.25 134.023 m
+24.313 124.149 l
+56.73 140.067 l
+56.632 140.315 l
+50.74 147.888 l
+h
+W n
+q
+0 g
+41.2426453 0 0 -41.24263 1.3955078 136.0185547 cm
+BX /Sh4 sh EX Q
+Q
+q
+0 283.46 283.46 -283.46 re
+W n
+0 0 0 0 K
+0.402 w 4 M 1 j 1 J 
+q 1 0 0 1 72.6875 134.5234 cm
+0 0 m
+-2.955 7.101 l
+-3.211 8.709 l
+-0.147 15.909 l
+0.339 16.216 l
+4.985 15.653 l
+3.863 13.33 l
+6.008 7.739 l
+14.867 7.202 l
+15.02 7.561 l
+15.377 6.666 l
+12.14 -1.122 l
+0 0 l
+h
+S
+Q
+q 1 0 0 1 79.1284 153.0874 cm
+0 0 m
+8.86 -0.536 l
+11.082 -6.229 l
+1.966 -5.718 l
+0 0 l
+h
+S
+Q
+q 1 0 0 1 79.1284 153.0874 cm
+0 0 m
+-2.578 -5.234 l
+-0.433 -10.825 l
+1.966 -5.718 l
+0 0 l
+h
+S
+Q
+q 1 0 0 1 90.21 146.8584 cm
+0 0 m
+-2.656 -5.133 l
+-11.515 -4.596 l
+-9.115 0.511 l
+0 0 l
+h
+S
+Q
+q 1 0 0 1 83.4165 130.3564 cm
+0 0 m
+-3.271 -7.292 l
+-5.792 -7.083 l
+S
+Q
+q 1 0 0 1 70.9585 124.0234 cm
+0 0 m
+-2.602 0.566 l
+2.045 10.499 l
+13.869 9.378 l
+13.458 8.458 l
+S
+Q
+q 1 0 0 1 21.25 134.0234 cm
+0 0 m
+3.063 -9.875 l
+35.477 6.044 l
+35.377 6.292 l
+29.486 13.865 l
+0 0 l
+h
+S
+Q
+q 1 0 0 1 80.729 125.6289 cm
+0 0 m
+-0.605 -0.813 -1.243 -1.27 v
+-1.881 -1.725 -2.485 -2.088 -2.983 -2.262 c
+-3.48 -2.437 -5.004 -2.867 -6.571 -2.966 c
+-8.078 -2.941 -9.014 -2.346 v
+-9.95 -1.749 -10.34 -0.765 -9.95 0.297 c
+-9.953 0.265 l
+-9.473 1.517 -8.302 2.245 v
+-7.19 2.936 -4.942 4.028 -2.863 3.953 c
+-1.354 3.918 -0.447 3.139 v
+0.275 2.521 0.655 1.267 0 0 c
+S
+Q
+q 1 0 0 1 71.0024 123.9551 cm
+0 0 m
+-0.68 0.919 -0.779 1.16 v
+-0.878 1.4 -1.036 2.027 -0.771 2.791 c
+-0.506 3.554 0.208 4.268 y
+0.331 4.424 0.331 5.005 y
+0.232 5.286 0.199 5.376 v
+0.166 5.467 0.174 5.534 0.265 5.65 c
+0.355 5.767 0.646 5.815 0.846 5.791 c
+1.044 5.765 1.044 5.609 y
+1.077 5.27 1.102 5.212 v
+1.126 5.152 1.342 5.045 y
+2.145 5.542 3.248 5.881 v
+4.35 6.222 5.518 6.412 6.338 6.455 c
+7.546 6.583 8.971 5.72 v
+9.758 5.244 9.972 4.744 10.047 4.371 c
+10.121 3.999 10.168 3.652 10.067 2.894 c
+S
+Q
+q 1 0 0 1 84.5034 132.1455 cm
+0 0 m
+-0.111 0.461 -0.534 0.745 v
+-0.632 0.811 -1.516 1.393 -2.597 1.008 c
+-3.287 0.763 -3.728 0.286 -3.952 -0.223 c
+-4.176 -0.733 -3.915 -1.354 y
+S
+Q
+q 1 0 0 1 84.5073 132.1436 cm
+0 0 m
+0.231 -0.631 -0.456 -1.462 -1.534 -1.857 c
+-2.612 -2.252 -3.673 -2.062 -3.905 -1.432 c
+-4.136 -0.803 -3.449 0.028 -2.371 0.426 c
+-1.292 0.82 -0.231 0.631 0 0 c
+h
+S
+Q
+q 1 0 0 1 53.75 144.0859 cm
+0 0 m
+2.813 1.174 l
+15.307 -9.043 l
+14.916 -10.315 l
+2.733 -0.278 l
+0.826 -1.191 0.906 -1.125 v
+0.281 -0.375 0.375 -0.5 0 0 c
+h
+S
+Q
+q 1 0 0 1 67.417 136.6768 cm
+0 0 m
+2.201 4.909 l
+5.28 -2.58 l
+0.875 -12.05 l
+-2.031 -4.533 l
+-0.725 -1.618 l
+S
+Q
+q 1 0 0 1 31.0288 138.3281 cm
+0 0 m
+3.846 -8.742 l
+S
+Q
+q 1 0 0 1 41.4365 143.3726 cm
+0 0 m
+4.938 -8.099 l
+S
+Q
+EMC 
+Q
+endstreamendobj17 0 obj<</BitsPerComponent 8/ColorSpace 18 0 R/Filter[/ASCII85Decode/FlateDecode]/Height 35/Length 146/Width 35>>stream
+8;YdGelL2<Nu<b*g&s)aOH<+7W8\HL>Vf'kKqI8@(r'k]3Q8qr@M/I>?O,'3&`FqL
+J"?U#&85FcY&YNe["3%d!7[8!p]/63\3=^/C.90j5?9)a&5tiCO6c-4EU\b,k0`fV
+h")+c!57pZEW~>endstreamendobj18 0 obj[/Indexed/DeviceRGB 255 19 0 R]endobj19 0 obj<</Filter[/ASCII85Decode/FlateDecode]/Length 428>>stream
+8;X]O>EqN@%''O_@%e@?J;%+8(9e>X=MR6S?i^YgA3=].HDXF.R$lIL@"pJ+EP(%0
+b]6ajmNZn*!='OQZeQ^Y*,=]?C.B+\Ulg9dhD*"iC[;*=3`oP1[!S^)?1)IZ4dup`
+E1r!/,*0[*9.aFIR2&b-C#s<Xl5FH@[<=!#6V)uDBXnIr.F>oRZ7Dl%MLY\.?d>Mn
+6%Q2oYfNRF$$+ON<+]RUJmC0I<jlL.oXisZ;SYU[/7#<&37rclQKqeJe#,UF7Rgb1
+VNWFKf>nDZ4OTs0S!saG>GGKUlQ*Q?45:CI&4J'_2j<etJICj7e7nPMb=O6S7UOH<
+PO7r\I.Hu&e0d&E<.')fERr/l+*W,)q^D*ai5<uuLX.7g/>$XKrcYp0n+Xl_nU*O(
+l[$6Nn+Z_Nq0]s7hs]`XX1nZ8&94a\~>endstreamendobj12 0 obj<</AntiAlias false/ColorSpace 20 0 R/Coords[0.0 0.0 1.0 0.0]/Domain[0.0 1.0]/Extend[true true]/Function 21 0 R/ShadingType 2>>endobj13 0 obj<</AntiAlias false/ColorSpace 10 0 R/Coords[0.0 0.0 0.0 0.0 0.0 1.0]/Domain[0.0 1.0]/Extend[true true]/Function 22 0 R/ShadingType 3>>endobj14 0 obj<</AntiAlias false/ColorSpace 20 0 R/Coords[0.0 0.0 0.0 0.0 0.0 1.0]/Domain[0.0 1.0]/Extend[true true]/Function 23 0 R/ShadingType 3>>endobj15 0 obj<</AntiAlias false/ColorSpace 20 0 R/Coords[0.0 0.0 1.0 0.0]/Domain[0.0 1.0]/Extend[true true]/Function 24 0 R/ShadingType 2>>endobj16 0 obj<</AntiAlias false/ColorSpace 20 0 R/Coords[0.0 0.0 1.0 0.0]/Domain[0.0 1.0]/Extend[true true]/Function 25 0 R/ShadingType 2>>endobj20 0 obj/DeviceCMYKendobj25 0 obj<</Bounds[0.333878 0.638031]/Domain[0.0 1.0]/Encode[0.0 1.0 1.0 0.0 1.0 0.0]/FunctionType 3/Functions[26 0 R 27 0 R 28 0 R]>>endobj26 0 obj<</C0[0.850006 0.210007 0.0 0.0]/C1[0.850006 0.210007 0.0 0.0]/Domain[0.0 1.0]/FunctionType 2/N 1.0>>endobj27 0 obj<</C0[0.800003 0.416 0.0399933 0.119995]/C1[0.850006 0.210007 0.0 0.0]/Domain[0.0 1.0]/FunctionType 2/N 1.90599>>endobj28 0 obj<</C0[1.0 0.520004 0.0500031 0.149994]/C1[0.800003 0.416 0.0399933 0.119995]/Domain[0.0 1.0]/FunctionType 2/N 1.09422>>endobj24 0 obj<</Bounds[0.00613403 0.496933]/Domain[0.0 1.0]/Encode[0.0 1.0 0.0 1.0 1.0 0.0]/FunctionType 3/Functions[29 0 R 30 0 R 31 0 R]>>endobj29 0 obj<</C0[1.0 0.520004 0.0500031 0.149994]/C1[1.0 0.520004 0.0500031 0.149994]/Domain[0.0 1.0]/FunctionType 2/N 1.0>>endobj30 0 obj<</C0[1.0 0.520004 0.0500031 0.149994]/C1[0.850006 0.210007 0.0 0.0]/Domain[0.0 1.0]/FunctionType 2/N 2.71938>>endobj31 0 obj<</C0[1.0 0.520004 0.0500031 0.149994]/C1[0.850006 0.210007 0.0 0.0]/Domain[0.0 1.0]/FunctionType 2/N 2.10567>>endobj23 0 obj<</Bounds[0.00564575]/Domain[0.0 1.0]/Encode[0.0 1.0 0.0 1.0]/FunctionType 3/Functions[26 0 R 32 0 R]>>endobj32 0 obj<</C0[0.850006 0.210007 0.0 0.0]/C1[1.0 0.520004 0.0500031 0.149994]/Domain[0.0 1.0]/FunctionType 2/N 1.0>>endobj10 0 obj[/DeviceN[/Cyan/Magenta/Yellow]/DeviceCMYK 33 0 R 34 0 R]endobj22 0 obj<</Bounds[0.00564575]/Domain[0.0 1.0]/Encode[0.0 1.0 0.0 1.0]/FunctionType 3/Functions[35 0 R 36 0 R]>>endobj35 0 obj<</C0[0.0196075 0.00390625 0.00390625]/C1[0.0196075 0.00390625 0.00390625]/Domain[0.0 1.0]/FunctionType 2/N 1.0>>endobj36 0 obj<</C0[0.0196075 0.00390625 0.00390625]/C1[0.850006 0.210007 0.0]/Domain[0.0 1.0]/FunctionType 2/N 1.0>>endobj33 0 obj<</Domain[0.0 1.0 0.0 1.0 0.0 1.0]/FunctionType 4/Length 317/Range[0.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0]>>stream
+{2 index 1.000000 cvr exch sub 4 1 roll 1 index 1.000000 cvr exch sub 
+4 1 roll 0 index 1.000000 cvr exch sub 4 1 roll 1.000000 4 1 
+roll 7 -1 roll 1.000000 cvr exch sub 7 1 roll 6 -1 roll 1.000000 
+cvr exch sub 6 1 roll 5 -1 roll 1.000000 cvr exch sub 5 1 
+roll 4 -1 roll 1.000000 cvr exch sub 4 1 roll pop pop pop }endstreamendobj34 0 obj<</Process 37 0 R/Subtype/NChannel>>endobj37 0 obj<</ColorSpace/DeviceCMYK/Components[/Cyan/Magenta/Yellow/Black]>>endobj21 0 obj<</Bounds[0.00564575]/Domain[0.0 1.0]/Encode[0.0 1.0 0.0 1.0]/FunctionType 3/Functions[38 0 R 39 0 R]>>endobj38 0 obj<</C0[0.0196075 0.00390625 0.00390625 0.0]/C1[0.0196075 0.00390625 0.00390625 0.0]/Domain[0.0 1.0]/FunctionType 2/N 1.0>>endobj39 0 obj<</C0[0.0196075 0.00390625 0.00390625 0.0]/C1[1.0 0.520004 0.0500031 0.149994]/Domain[0.0 1.0]/FunctionType 2/N 1.0>>endobj5 0 obj<</Intent 40 0 R/Name(Layer 3)/Type/OCG/Usage 41 0 R>>endobj6 0 obj<</Intent 42 0 R/Name(Layer 4)/Type/OCG/Usage 43 0 R>>endobj42 0 obj[/View/Design]endobj43 0 obj<</CreatorInfo<</Creator(Adobe Illustrator 14.0)/Subtype/Artwork>>>>endobj40 0 obj[/View/Design]endobj41 0 obj<</CreatorInfo<</Creator(Adobe Illustrator 14.0)/Subtype/Artwork>>>>endobj11 0 obj<</AIS false/BM/Normal/CA 1.0/OP false/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op false>>endobj7 0 obj[6 0 R 5 0 R]endobj44 0 obj<</CreationDate(D:20120420141934+02'00')/Creator(Adobe Illustrator CS4)/ModDate(D:20120420141934+02'00')/Producer(Adobe PDF library 9.00)/Title(sentinel-3_neg)>>endobjxref0 450000000000 65535 f
+0000000016 00000 n
+0000000156 00000 n
+0000070319 00000 n
+0000000000 00000 f
+0000155685 00000 n
+0000155755 00000 n
+0000156170 00000 n
+0000070370 00000 n
+0000070733 00000 n
+0000154261 00000 n
+0000156057 00000 n
+0000152202 00000 n
+0000152345 00000 n
+0000152496 00000 n
+0000152647 00000 n
+0000152790 00000 n
+0000151354 00000 n
+0000151641 00000 n
+0000151689 00000 n
+0000152933 00000 n
+0000155293 00000 n
+0000154335 00000 n
+0000154017 00000 n
+0000153487 00000 n
+0000152961 00000 n
+0000153103 00000 n
+0000153221 00000 n
+0000153351 00000 n
+0000153631 00000 n
+0000153761 00000 n
+0000153889 00000 n
+0000154137 00000 n
+0000154705 00000 n
+0000155158 00000 n
+0000154455 00000 n
+0000154585 00000 n
+0000155211 00000 n
+0000155413 00000 n
+0000155551 00000 n
+0000155941 00000 n
+0000155972 00000 n
+0000155825 00000 n
+0000155856 00000 n
+0000156199 00000 n
+trailer<</Size 45/Root 1 0 R/Info 44 0 R/ID[<97A8F47DA1034214A09C1DA10E6CD04E><CE8C9010FA3944A4AF0C86ABC9681401>]>>startxref156377%%EOF
