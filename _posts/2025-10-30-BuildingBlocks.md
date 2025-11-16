@@ -6,6 +6,11 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+[Link](https://www.facebook.com/permalink.php?story_fbid=pfbid02tMw7tVsyEqpQJ18XC8sjS7N1MCSfY8rMsxKdrjwwYguK7GuFjKgdoQDRn4stEvCnl&id=100084464911565)
+<img alt="image" src="https://github.com/user-attachments/assets/c147af9a-2dba-430e-bf77-d56403259d69" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e3c929b0-59ad-4479-b4e2-671a04e1ed30" />
+
 [@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: @whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) 
 @FoxNews @blackgirlscode @usnavy @Nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia @newshour
 
