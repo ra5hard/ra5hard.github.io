@@ -13,6 +13,14 @@ Esa is supposed to broadcast the lauch here @TheSpaceDevs @BLackgirlscode @CityO
 
 <object class="scroller" data="https://watch.esa.int/two/" type="text/html"></object>
 
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02fhpk7QC2aaP2aKnZshTrUG5qHhse4XtdvmUgXVdFPuMnMaCUGAUNvLMUwXwTGgknl%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> @usgs 
+
+[weather criteria](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf)
+[@blackgirlscode](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf?fbclid=IwY2xjawOF9-1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyCGNhbGxzaXRlAjMwAAEeCGFwbmkH3z_RGn8kPx8-sZnLlZ8H-RxzGf2kUurelarGA67ZYXn1rSJcLFw_aem_-CSU-_e-ezurVDMNuf1dhQ) 
+
+
 # Sentinel-6B Prelaunch Media Teleconference
 
 [@nasa Tune in @blackgirlscode](https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN)
