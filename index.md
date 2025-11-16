@@ -28,7 +28,7 @@ mermaid: true
 
   {% endfor %}
 
-
+[@blackgirlscode https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000032_abobHopePatrioticHall_VID_20251105_084946_236.mp4](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000032_abobHopePatrioticHall_VID_20251105_084946_236.mp4) @emit-sds 
   
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
