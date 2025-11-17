@@ -124,9 +124,7 @@ OF A UNIFORMLY ROTATING OR RAPIDLY ROTATING VEHICLE
 UTILIZING THE OUTPUTS FROM SOLAR SENSORS
 AND A LATERAL MAGNETOMETER - PDF](https://ntrs.nasa.gov/api/citations/19660010191/downloads/19660010191.pdf)
 
-### Deep Space Climate Observatory
-(DSCOVR; formerly known as Triana, unofficially known as GoreSat
-[Wiki](https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory) :: [WikiTALK](https://en.wikipedia.org/wiki/Talk:Deep_Space_Climate_Observatory) 
+
 
 ## REAL TIME SOLAR WIND
 [swpc.noaa.gov - CLickHere](https://www.swpc.noaa.gov/products/real-time-solar-wind)
@@ -134,11 +132,18 @@ AND A LATERAL MAGNETOMETER - PDF](https://ntrs.nasa.gov/api/citations/1966001019
 ### NOAA SPACE WEATHER SCALES
 The NOAA Space Weather Scales were introduced as a way to communicate to the general public the current and future space weather conditions and their possible effects on people and systems.
 [Link - CLiCKHERE - For MApLegend](https://www.swpc.noaa.gov/noaa-scales-explanation)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e3ce5cfe-adcf-4dec-87d4-2ef27ab48bdd" />
 
+
+### Deep Space Climate Observatory
+(DSCOVR; formerly known as Triana, unofficially known as GoreSat
+[Wiki](https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory) :: [WikiTALK](https://en.wikipedia.org/wiki/Talk:Deep_Space_Climate_Observatory) 
+[DSCOVR - DATAPORTAL](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/) 
 ![MAgnet](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111518-6hr.png)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4906270e-b513-4738-b3db-41eed895b963" />
+
 [DSCOVR - DATAPORTAL](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/) 
 `UPDATE 2025-10-15: DSCOVR spacecraft status has improved since the anomaly on 2025-07-15. Magnetometer (MAG) data flow resumed 2025-10-02 at 15:49 UTC, with initial measurements that appear reasonably similar to ACE data. The Faraday Cup instrument was recovered as of 2025-10-10 at 19:18 UTC. DSCOVR is currently not being tracked 24/7, as tracking priority is given to other operational space weather missions.`
 
