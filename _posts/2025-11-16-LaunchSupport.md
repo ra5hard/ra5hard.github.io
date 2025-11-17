@@ -99,12 +99,22 @@ conditions for wind, waves, lightning,
 and precipitation
 
 
-![DNS_NOW @nasa-jpl @blackgirlscode](https://eyes.nasa.gov/apps/dsn-now/images/dsn_logo.png)
-DOWN 6:52pm from @cityoflosangeles @airbus [CLiCK_Here_For_Monitoring_Tool](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1cf13458-e555-4092-aec0-edeffadaac16" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/3774a906-185b-42f8-9aaf-8f84e3ce39cb" />
 
+![DNS_NOW @nasa-jpl @blackgirlscode](https://eyes.nasa.gov/apps/dsn-now/images/dsn_logo.png)
+
+#NEAR SPACE NETWORK 
+ToolONLinE [[CLiCKHERE @nasa-jpl @r-spacex](https://scan-now.gsfc.nasa.gov/scan)
+@blackgirlscode
+
+DSN DOWN 6:52pm from @cityoflosangeles @airbus [CLiCK_Here_For DSN _Monitoring_Tool](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+
+[Ocean guardian ready: second Copernicus Sentinel-6 satellite heads to launch site](https://www.airbus.com/en/newsroom/press-releases/2025-07-ocean-guardian-ready-second-copernicus-sentinel-6-satellite-shipped)
 
 
 ![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3_neg.jpg)
