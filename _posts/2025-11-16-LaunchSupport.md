@@ -201,3 +201,8 @@ At the very least i got intimate with a girl and im running from people bc she i
 ![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3.jpg)
 
 ![NWS](https://www.swpc.noaa.gov/sites/all/themes/swx/nws_logo.svg)
+
+
+
+[blogspot @JHUAPL](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) / [Barbara Thompson @NASA](https://www.blogger.com/profile/12794103242916034865) : The SDO web server has had a hardware failure with its data storage, so some features and data are temporarily unavailable. The team is working to restore access as soon as possible. Please refer to the [Data Access Page](https://sdo.gsfc.nasa.gov/data/dataaccess.php) to find alternate sources of SDO data. 
+![SOLAR DYNamIcs lab](https://sdo.gsfc.nasa.gov/assets/img/site/SDO_Logo_glassy_lg.png)
