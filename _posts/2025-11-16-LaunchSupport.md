@@ -98,6 +98,10 @@ for each location including limit
 conditions for wind, waves, lightning,
 and precipitation
 
+
+![DNS_NOW @nasa-jpl @blackgirlscode](https://eyes.nasa.gov/apps/dsn-now/images/dsn_logo.png)
+DOWN 6:52pm from @cityoflosangeles @airbus [CLiCK_Here_For_Monitoring_Tool](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1cf13458-e555-4092-aec0-edeffadaac16" />
 
 
