@@ -119,12 +119,18 @@ DSN DOWN 6:52pm from @cityoflosangeles @airbus [CLiCK_Here_For DSN _Monitoring_T
 
 [Ocean guardian ready: second Copernicus Sentinel-6 satellite heads to launch site](https://www.airbus.com/en/newsroom/press-releases/2025-07-ocean-guardian-ready-second-copernicus-sentinel-6-satellite-shipped)
 
+[THE DETERMINATION OF THE ORIENTATION
+OF A UNIFORMLY ROTATING OR RAPIDLY ROTATING VEHICLE
+UTILIZING THE OUTPUTS FROM SOLAR SENSORS
+AND A LATERAL MAGNETOMETER - PDF](https://ntrs.nasa.gov/api/citations/19660010191/downloads/19660010191.pdf)
 
 ### Deep Space Climate Observatory
 (DSCOVR; formerly known as Triana, unofficially known as GoreSat
 [Wiki](https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory) :: [WikiTALK](https://en.wikipedia.org/wiki/Talk:Deep_Space_Climate_Observatory) 
 
 
+
+![MAgnet](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111512-6hr.png)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4906270e-b513-4738-b3db-41eed895b963" />
 
