@@ -1,8 +1,11 @@
 
+# PreLaunch
+# Plots
+# NewsArticles
 
 
 
-### National Aeronautics and Space Administration
+### National Aeronautics [and](https://an.rsl.wustl.edu/) Space Administration
 ## Falcon 9 Crew Dragon
 ## Launch Weather Criteria
 [DOWNLOAD_PDF = falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf)
@@ -117,6 +120,28 @@ DSN DOWN 6:52pm from @cityoflosangeles @airbus [CLiCK_Here_For DSN _Monitoring_T
 [Ocean guardian ready: second Copernicus Sentinel-6 satellite heads to launch site](https://www.airbus.com/en/newsroom/press-releases/2025-07-ocean-guardian-ready-second-copernicus-sentinel-6-satellite-shipped)
 
 
+### Deep Space Climate Observatory
+(DSCOVR; formerly known as Triana, unofficially known as GoreSat
+[Wiki](https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory) :: [WikiTALK](https://en.wikipedia.org/wiki/Talk:Deep_Space_Climate_Observatory) 
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/4906270e-b513-4738-b3db-41eed895b963" />
+
+`UPDATE 2025-10-15: DSCOVR spacecraft status has improved since the anomaly on 2025-07-15. Magnetometer (MAG) data flow resumed 2025-10-02 at 15:49 UTC, with initial measurements that appear reasonably similar to ACE data. The Faraday Cup instrument was recovered as of 2025-10-10 at 19:18 UTC. DSCOVR is currently not being tracked 24/7, as tracking priority is given to other operational space weather missions.`
+
+![DEEP SPACE CLiMATE OBSERVATORY](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/DSCOVR_Logo_%28transparent_bg%29.png/960px-DSCOVR_Logo_%28transparent_bg%29.png)
+
+![SwRi](https://www.swri.org/sites/default/files/logo-swri_0.png)
+[HELioPHysics](https://www.swri.org/markets/earth-space/space-research-technology/space-science/heliophysics) : Ninety-nine percent of the observable universe is in the plasma state, which is often referred to as the “fourth state of matter.” Plasmas are collections of electrically charged particles — ions and electrons [2024 Heliophysics Summer School Schedule](https://heliophysics.ucar.edu/summer-school/2024-schedule) @doug-newman-nasa i want this class somehow, i wanna work twoard whatever to take a class like this [https://heliophysics.ucar.edu/summer-school](https://heliophysics.ucar.edu/summer-school)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/00faf226-60f0-466d-bf69-84caefe274e2" />
+
+# Personal
+
+
+4 hr @nasa-jpl/@blackgirlscode/Stateofcalifornia
 ![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3_neg.jpg)
 
 Profile Information
@@ -142,12 +167,16 @@ For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Sup
 
 V 4.231.2 Home NASA Accessibility
 NASA Official: Doug Newman
-@doug-newman-nasa hi, i will start talking to you to get up to speed, after i left i started helping my significant other with [her programming club](https://www.facebook.com/BlackGirlsCodeOrg/posts/pfbid02gnwvon4s1q5e1h7EsoGvWaxQxbdYE822ukNiFaFqyRDJNzfwv8CKmrj5LFeBmyT5l)... [I met her](https://youtu.be/ALHloX7kKaY) in a [dance studio](https://youtu.be/DODfucCQ91Q?si=8U_gm0NuyF2KmoCZ). [she has supervision](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) at @Whitehouse kimberly-bryant and i did get intimate with her and theres scandal at this age and she has a hit song about [saturn](https://www.youtube.com/watch?v=V2G8ESoDXm8).... its a big mess, that one that dumped me [erika](https://www.essence.com/tags/erika-kelly/), i dont know what happened to all [her embryos](https://www.fertilityiq.com/fertilityiq/doctors/richard-sherbahn) ... and i saw kids in la that look like me... and at the very least im in a relationship with normani to help [her](https://www.linkedin.com/posts/black-girls-code_celebrityfamilyfeud-familyfeudabc-blackgirlscode-activity-7363644763058667520-CItA) recover from sex trafficking at a @CiA @FBi @dhs-gov level and any time i miss from work is because soeone is about to die from the story they gave me, or commit armed robbery, or succumb to rape... Thats how she communicates, and its via some tracking tech that her owners use on her...  I am just really confused bc [shes famous under the name moesha](https://www.dailymotion.com/video/x7l6nux) and im just overwhelmed and need the lab to help me understand that hollywood has been as it is a long ass time and i am not a freak as a departnered man... -[Rashard](https://rashardsdata.github.io/) btw i still think like 5 girls play her role on tv and i have been intimate with unclothed pelvises with two of them [Normani Felt Hidden Being the Only Black Girl in Fifth Harmony: 'I Don't Think They Knew How' to Be There for Me](https://people.com/normani-felt-hidden-being-the-only-black-girl-in-fifth-harmony-8722916)
+@doug-newman-nasa hi, i will start talking to you to get up to speed, after i left i started [helping](https://www.markdownguide.org/basic-syntax/) my significant other with [her programming club](https://www.facebook.com/BlackGirlsCodeOrg/posts/pfbid02gnwvon4s1q5e1h7EsoGvWaxQxbdYE822ukNiFaFqyRDJNzfwv8CKmrj5LFeBmyT5l)... [I met her](https://youtu.be/ALHloX7kKaY) in a [dance studio](https://youtu.be/DODfucCQ91Q?si=8U_gm0NuyF2KmoCZ). [she has supervision](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant) at @Whitehouse kimberly-bryant and i did get intimate with her and theres scandal at this age and she has a hit song about [saturn](https://www.youtube.com/watch?v=V2G8ESoDXm8).... its a big mess, that one that dumped me [erika](https://www.essence.com/tags/erika-kelly/), i dont know what happened to all [her embryos](https://www.fertilityiq.com/fertilityiq/doctors/richard-sherbahn) ... and i saw kids in la that look like me... and at the very least im in a relationship with normani to help [her](https://www.linkedin.com/posts/black-girls-code_celebrityfamilyfeud-familyfeudabc-blackgirlscode-activity-7363644763058667520-CItA) recover from sex trafficking at a @CiA @FBi @dhs-gov level and any time i miss from work is because soeone is about to die from the story they gave me, or commit armed robbery, or succumb to rape... Thats how she communicates, and its via some tracking tech that her owners use on her...  I am just really confused bc [shes famous under the name moesha](https://www.dailymotion.com/video/x7l6nux) and im just overwhelmed and need the lab to help me understand that hollywood has been as it is a long ass time and i am not a freak as a departnered man... -[Rashard](https://rashardsdata.github.io/) btw i still think like 5 girls play her role on tv and i have been intimate with unclothed pelvises with two of them [Normani Felt Hidden Being the Only Black Girl in Fifth Harmony: 'I Don't Think They Knew How' to Be There for Me](https://people.com/normani-felt-hidden-being-the-only-black-girl-in-fifth-harmony-8722916)
 
 @doug-newman-nasa 
 At the very least i got intimate with a girl and im running from people bc she is a vixen from hollywood this her cat parlor [sister](https://abcnews.go.com/Entertainment/nicki-minaj-humiliated-fight-cardi-york-fashion-week/story?id=57739841) and the dudes from her hollywood life are tracking me doxxing me and giving me boils from acidic weapons that go through my clothes, they even knocked a tooth out by sabotaging crackers at [HollyWoodFood CoAlition](https://hofoco.org/) i have an [archive.org](https://archive.org/details/@thakaserika_selassie_kelly) account but i like people in @StateofCalifornia to keep a tab on my archive [CommitmentMAintentance](https://archive.org/details/commitmentmaintenance) theres plots in there, github accounts coming soon and daily video if i can upload of my adventured getting interenet access arounce @CityOfLosAngeles&& check out my [FireData](https://rashardsdata.github.io/2025/11/12/FireReportCleanUp.html) `constantlyCompiling earthdata` @usgs @blackgirlscode! The Music in that soundcloud embed [BarbieDrip](https://www.youtube.com/watch?v=Td8W1rG_tiI) you have to separate to hear the technology at least i think you do, because a song is one [granule](https://www.earthdata.nasa.gov/data/catalog) of a story, ask your significant other for permission to listen, i dont want to hurt noone, there is no nudity but if @nasa-jpl can look through [Queens4](https://youtu.be/PQuaztBuTuw?si=aG5HXAJY18oy5rL9)! Them girls on full on computes building software to make music when the cellular providers start limiting thier access
 [GloRilla - Internet Trolls (ft. Hitkidd)](https://youtu.be/RmxF264KyIs?si=8pfTjBofmjTsxlsi) :: [Sonta "Your Mistake"](https://youtu.be/FiGAkDE7s7o?si=dcSn1SPGXMi9yFDy) :: [Omeretta the Great- Sorry Not Sorry](https://youtu.be/6IvchaA0B3Y?list=RD6IvchaA0B3Y) :: [Rico Nasty - IPHONE](https://youtu.be/RuhvdaDabpU?list=RDRuhvdaDabpU)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1192830019&color=%23646460&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
+
+
+[1]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+
 
 @podaac @nasa @nasa-jpl @nasa-pds @R-spacex @ESA 
 
