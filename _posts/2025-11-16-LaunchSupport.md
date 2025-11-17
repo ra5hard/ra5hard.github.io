@@ -103,6 +103,13 @@ conditions for wind, waves, lightning,
 and precipitation
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/0ee8aed9-6cc4-45f9-98d4-1d514ff3b5a1" />
+
+HF Radio: Weak or minor degradation of HF radio communication on sunlit side, occasional loss of radio contact.
+Navigation: Low-frequency navigation signals degraded for brief intervals. [main](https://www.swpc.noaa.gov/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/89ede08e-ff90-4872-bdba-3173f1479390" />
+
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1cf13458-e555-4092-aec0-edeffadaac16" />
