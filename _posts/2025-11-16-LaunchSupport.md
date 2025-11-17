@@ -1,6 +1,7 @@
 
 # PreLaunch
 # Plots
+[WindSpeed @airbus @nasa-jpl 20253201800-GOES18](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/20253191800-20253201800-GOES18-ABI-FD-DMW-1808x1808.gif)
 # NewsArticles
 
 
