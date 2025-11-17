@@ -128,12 +128,18 @@ AND A LATERAL MAGNETOMETER - PDF](https://ntrs.nasa.gov/api/citations/1966001019
 (DSCOVR; formerly known as Triana, unofficially known as GoreSat
 [Wiki](https://en.wikipedia.org/wiki/Deep_Space_Climate_Observatory) :: [WikiTALK](https://en.wikipedia.org/wiki/Talk:Deep_Space_Climate_Observatory) 
 
+## REAL TIME SOLAR WIND
+[swpc.noaa.gov - CLickHere](https://www.swpc.noaa.gov/products/real-time-solar-wind)
+<img  alt="image" src="https://github.com/user-attachments/assets/94be4c5c-d246-4e75-b1ff-70e9483342dc" />
+### NOAA SPACE WEATHER SCALES
+The NOAA Space Weather Scales were introduced as a way to communicate to the general public the current and future space weather conditions and their possible effects on people and systems.
+[Link - CLiCKHERE - For MApLegend](https://www.swpc.noaa.gov/noaa-scales-explanation)
+<img  alt="image" src="https://github.com/user-attachments/assets/e3ce5cfe-adcf-4dec-87d4-2ef27ab48bdd" />
 
-
-![MAgnet](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111512-6hr.png)
+![MAgnet](https://www.ngdc.noaa.gov/dscovr/plots/dscovr_6hr_plots/2025/11/2025111518-6hr.png)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/4906270e-b513-4738-b3db-41eed895b963" />
-
+[DSCOVR - DATAPORTAL](https://www.ngdc.noaa.gov/dscovr/portal/index.html#/) 
 `UPDATE 2025-10-15: DSCOVR spacecraft status has improved since the anomaly on 2025-07-15. Magnetometer (MAG) data flow resumed 2025-10-02 at 15:49 UTC, with initial measurements that appear reasonably similar to ACE data. The Faraday Cup instrument was recovered as of 2025-10-10 at 19:18 UTC. DSCOVR is currently not being tracked 24/7, as tracking priority is given to other operational space weather missions.`
 
 ![DEEP SPACE CLiMATE OBSERVATORY](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/DSCOVR_Logo_%28transparent_bg%29.png/960px-DSCOVR_Logo_%28transparent_bg%29.png)
@@ -188,3 +194,4 @@ At the very least i got intimate with a girl and im running from people bc she i
 
 ![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3.jpg)
 
+![NWS](https://www.swpc.noaa.gov/sites/all/themes/swx/nws_logo.svg)
