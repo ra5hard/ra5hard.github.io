@@ -110,7 +110,16 @@ Navigation: Low-frequency navigation signals degraded for brief intervals. [main
 
 <img alt="image" src="https://github.com/user-attachments/assets/89ede08e-ff90-4872-bdba-3173f1479390" />
 
+![STEREO @nasa @nasa-jpl @emit-sds](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+![SPACE_WEATHER @usgs @blackgirlscode](https://stereo-ssc.nascom.nasa.gov/img2/stereo_new_01.gif)
 
+
+### TodAY 
+![THESUN](https://stereo-ssc.nascom.nasa.gov/browse/2025/11/17/ahead/euvi/195/2048/20251117_032802_n7euA_195.jpg)
+IMPACT/PLASTIC solar wind data
+![impact/PLASTiC @airbus @ESA](https://stereo-ssc.nascom.nasa.gov/beacon/beacon_insitu.gif)
+
+![Ejections](https://stereo-ssc.nascom.nasa.gov/browse/2025/11/17/ahead/cor2/1024/20251117_033156_d7c2A.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1cf13458-e555-4092-aec0-edeffadaac16" />
 
