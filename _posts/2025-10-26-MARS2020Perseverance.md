@@ -10,6 +10,8 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+[The Mars orbiter magnetometer of Tianwen-1: in-flight
+performance and first science results - PDF](https://space.ustc.edu.cn/users/1157234616JDEkdTA1LmZoMy4kUjdEZ2xBRXo4WDhYV3RaNjl5NUxZMA/publication/materials/20221129073139.056_the%2Bmars%2Borbiter%2Bmagnetometer%2Bof%2B%2Btianwen-1%20%2Bin-flight%2Bperformance%2Band%2Bfirst%2Bscience%2Bresults.pdf)
 
 Image of the Week [📸](https://mars.nasa.gov/mars2020/multimedia/raw-images/SIF_1663_0814583833_988EBY_N0791762SRLC02504_0000LMJ)
 ## Mars Perseverance Sol 1663: WATSON Camera
