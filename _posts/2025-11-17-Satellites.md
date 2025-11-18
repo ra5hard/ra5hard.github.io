@@ -10,10 +10,9 @@ author: "RashardKelly @nasa-jpl"
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9b8a80fa-8cb3-4fd9-aad6-28c0bc894305" />
-With a suite of cutting-edge instruments, Sentinel-3 measures systematically Earth’s oceans, land, rivers and lakes, land ice, sea-ice and atmosphere, to monitor and understand long term and large-scale global dynamics
+With a suite of cutting-edge instruments, Sentinel-3 measures systematically Earth’s oceans, land, rivers and lakes, land ice, sea-ice and atmosphere, to monitor and understand long term and large-scale global dynamics [Copernicus Sentinel-3 Ocean and Land Colour Instrument (OLCI)](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/olci/) :: [COPE-S1OP-EOPG-PL-15-0020](https://sentiwiki.copernicus.eu/__attachments/1673407/COPE-S1OP-EOPG-PL-15-0020%20-%20Sentinel%20HLOP%202021%20-%203.1.pdf?inst-v=6a7aebc0-b256-4931-85a9-086517bc4a44) Sentinels High Level Operations Plan (HLOP) 2021 ::: [WiKi @ESA](https://sentiwiki.copernicus.eu/web/sentinel-3) hi @blackgirlscode
 
-[Copernicus Sentinel-3 Ocean and Land Colour Instrument (OLCI)](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/olci/) :: [COPE-S1OP-EOPG-PL-15-0020](https://sentiwiki.copernicus.eu/__attachments/1673407/COPE-S1OP-EOPG-PL-15-0020%20-%20Sentinel%20HLOP%202021%20-%203.1.pdf?inst-v=6a7aebc0-b256-4931-85a9-086517bc4a44) Sentinels High Level Operations Plan (HLOP) 2021 ::: [WiKi @ESA](https://sentiwiki.copernicus.eu/web/sentinel-3) hi @blackgirlscode
-
+![GEOSTATiONARYPAiR @nasa @esa @blackgirlscode](https://upload.wikimedia.org/wikipedia/commons/5/50/Geostationaryjava3D.gif) 
 
 # @ESA WEB TV
 @nasa-jpl @stateofcalifornia @r-spacex
