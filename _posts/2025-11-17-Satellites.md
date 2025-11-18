@@ -9,6 +9,22 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+![@StateOfCalifornia](https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png)
+As U.S. EPA rolls back protections, California launches satellite project to detect and reduce dangerous methane leaks [read @emit-sds @nasa-pds @NASA-DEVELOP](https://www.gov.ca.gov/2025/03/21/as-u-s-epa-rolls-back-protections-california-launches-satellite-project-to-detect-and-reduce-dangerous-methane-leaks/?fbclid=IwY2xjawOIxrdleHRuA2FlbQIxMABicmlkETFlMlpNTDBFMUFoRlM3djk4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrhQkVZgJQnIX51twc1uGw8Zo0EA1QwPqTOwjpC-ODz_UmnWjYZtxLfQWioM_aem_zHJ2N6wwrY8cDKYFk1PG7w)
+
+<img width="720" height="509" alt="image" src="https://github.com/user-attachments/assets/4c7f75fc-b032-4089-979b-1b9ba5fc684c" />
+[@ESA thanks! @emit-sds](https://www.facebook.com/permalink.php?story_fbid=pfbid02Dcq13M1eTxX5DzhJJf49NaVT6hwkSdTaDmysgBH8DYBEiRjeXoxBtSHib16gEncpl&id=100084464911565)
+[it was too cloudy for me to see it](https://www.facebook.com/permalink.php?story_fbid=pfbid02NLubXGpAgtqDPQ3V39y3yYpcvuYFF3EgPaCUjc1RYA3Vr6kzdY8r6JiwKwXHeGeql&id=100084464911565) but i may have spotted a faint white light through the clouds
+[Repost `Tom Jennings` on Fb](https://www.facebook.com/permalink.php?story_fbid=pfbid02JKJo915LkAQkdWzyfsxE2bP5coRcSkoB1tAP7W1c4TPdmtQahwwEMh6zQBqeFBC6l&id=100084464911565) [LAUNCH SUPPORT FB POST on @airbus](https://www.facebook.com/permalink.php?story_fbid=pfbid0pk2yM8jhhiSDwVxudXAoDiBZBV9FCFmoaJNBzq64tDzxyWHPykptAPTmwyKYiKE2l&id=100084464911565) /// @nasa-jpl @cityoflosangeles @dhs-gov @commercegov i created this file for the [Sentinel-6b laucnch](https://www.youtube.com/watch?v=6tyr0ld2ZB4)
+`2025-11-16-LaunchSupport.md` [link](https://github.com/ThakaRashard/rashardmro/edit/master/_posts/2025-11-16-LaunchSupport.md) and can update it so i can add that fun card like functionality for my blogging here at work @nasa-pds [launch awareness post](https://www.facebook.com/permalink.php?story_fbid=pfbid0EaRAMj56SMZkUFC9bt3kz3G7o6yqLL4HWjQ3YXTe8rdFwhmeVebv5jzBquADWi1ql&id=100084464911565) [launch awareess 2](https://www.facebook.com/permalink.php?story_fbid=pfbid02Fk8GnvU6kmuBJqjK4VRVetMfLhU8iCXDgFAWnqnzhwrY6YyDYbPDv5KA8r4rzRczl&id=100084464911565) [DSN NOW WAS NOT WORKiNG @nasa-pds](https://www.facebook.com/permalink.php?story_fbid=pfbid024mKf6QFMGbF3rqkPwtBBhjwnYnEPriNS84PoLvaMKqBL4W61wwPdXH5aEAup3F3bl&id=100084464911565)
+
+
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/85fe2a3b-5cbd-4298-8335-277f8cd6436c" />
+
+@TheSpaceDevs [MathML Core @blackgirlscode](https://w3c.github.io/mathml-core/#the-top-level-math-element)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ab8ef8ac-aab6-403f-ad09-1c43db76ef9e" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/9b8a80fa-8cb3-4fd9-aad6-28c0bc894305" />
 
 With a suite of cutting-edge instruments, Sentinel-3 measures systematically Earth’s oceans, land, rivers and lakes, land ice, sea-ice and atmosphere, to monitor and understand long term and large-scale global dynamics [Copernicus Sentinel-3 Ocean and Land Colour Instrument OLCI](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/olci/) / [COPE-S1OP-EOPG-PL-15-0020](https://sentiwiki.copernicus.eu/__attachments/1673407/COPE-S1OP-EOPG-PL-15-0020%20-%20Sentinel%20HLOP%202021%20-%203.1.pdf?inst-v=6a7aebc0-b256-4931-85a9-086517bc4a44) Sentinels High Level Operations Plan (HLOP) 2021 / [WiKi @ESA](https://sentiwiki.copernicus.eu/web/sentinel-3) hi @blackgirlscode
