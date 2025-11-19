@@ -8,7 +8,7 @@ image: Overview_HD.png
 
 
 
-
+[SmolderingHills](https://archive.org/download/commitmentmaintenance/0000000_A_000_CCAA_smolderingHills_wasjustContrast_withVegetationNORMANi_VID_20251118_090419.mp4) @blackgirlscode I need to show the damage in Eaton from stream @nasa-jpl
 
 
 
