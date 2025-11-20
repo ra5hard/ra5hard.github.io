@@ -1,5 +1,5 @@
 ---
-layout: earth
+layout: default
 title:  "Notes for @nasa-jpl HR"
 published: true
 permalink: /for_nasa_jpl_hr
