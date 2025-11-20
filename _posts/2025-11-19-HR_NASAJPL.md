@@ -10,7 +10,71 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+### # California_Linux: 
+#### Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
+[ViEW_ARCHiVE](https://archive.org/download/commitmentmaintenance)
+@cityoflosangeles @nasa-jpl @nasa-pds [MayOR_KAREN_BASS](https://www.facebook.com/100084464911565/videos/764029446698006/)
+[@StateOfCalifornia gavin.newsom@ca.gov](https://www.facebook.com/100084464911565/videos/764029446698006/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
+
+[RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e11cc6d1-e634-4254-81a5-a06105800a4a" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/541e08e1-bfb0-4cfa-bc6d-4a7a8cb9a06c" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bcce8034-9e00-46fe-8e5e-54b4f90b5a27" />
+
+<img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/76c9fb94-63db-4f4d-94fe-68de9ca280d3" />
+
+<img  alt=" rashard coral erika @blackgirlscode " src="https://github.com/user-attachments/assets/4fef2bba-3383-4ac5-b41a-d061e9ff6da7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4419f9f9-f56f-4c9e-9ff4-f275b43e6566" />
+
+
+<img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/09d55b1e-5c7a-47ea-963e-c506fcb6eb36" />
+
+<img    alt="image" src="https://github.com/user-attachments/assets/54ba4768-1c60-4eda-94d3-3bb796dcd795" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5424fbf-b981-4a78-9819-8c5d78402dfc" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/40320ffc-521f-427c-ae06-fc5fab7ab4d3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/73252199-ff61-4c3e-9a4e-efc21f4bad1b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/a9325e1f-b298-4688-8227-69d6eff075d4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6eb1ab4d-b469-435e-8f9e-ed17ac2c44a3" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff607eb4-2f94-46a6-98cc-68166fa0c453" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ea91e936-9b21-4e92-84f2-a825dccf9ff0" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6efe872c-d8d4-451c-9051-7666fc087b9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+
 ![sentinel 3 @nasa @emit-sds @stateofcalifornia @cityoflosangeles @blackgirlscode _ normani TYRA...](https://www.esa.int/eologos/images/sentinel-3_neg.jpg)
+
+
 
 Profile Information
 Name: Rashard I Kelly
