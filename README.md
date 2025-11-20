@@ -98,10 +98,24 @@ The Story of NASA's Spaceflight Tracking and Data Network
 ![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
 ![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
 
-![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
-
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
+
+[RESUME @blackgirlscode](https://thakarashard.github.io/RESUME/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b1734f10-55bc-4d31-822b-577feef59eb7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bcce8034-9e00-46fe-8e5e-54b4f90b5a27" />
+
+<img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/76c9fb94-63db-4f4d-94fe-68de9ca280d3" />
+
+<img  alt=" rashard coral erika @blackgirlscode " src="https://github.com/user-attachments/assets/4fef2bba-3383-4ac5-b41a-d061e9ff6da7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4419f9f9-f56f-4c9e-9ff4-f275b43e6566" />
 
 <img  alt="image @blackgirlscode " src="https://github.com/user-attachments/assets/7e8f5285-5edb-432a-8c0d-bd8da9f8f945" />
 
