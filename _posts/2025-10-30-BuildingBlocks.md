@@ -6,6 +6,11 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+@noaagov @commercegov @nasa-jpl [@NASA-DEVELOP](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation) I left a comment a few days after discovrEpic stopped sending pics and the magnet 🧲 data got interrupted... looking for correlation @blackgirlscode @cityoflosangeles @stateofcalifornia
+
+
+
 [Link](https://www.facebook.com/permalink.php?story_fbid=pfbid02tMw7tVsyEqpQJ18XC8sjS7N1MCSfY8rMsxKdrjwwYguK7GuFjKgdoQDRn4stEvCnl&id=100084464911565)
 <img alt="image" src="https://github.com/user-attachments/assets/c147af9a-2dba-430e-bf77-d56403259d69" />
 
