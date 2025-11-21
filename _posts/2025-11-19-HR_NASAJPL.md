@@ -13,6 +13,22 @@ author: "RashardKelly @nasa-jpl"
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gaB14iEwGqYHcA1KDa8ytDsWBpyxzCVadbeJtr523ARMSF5mSncyNPokJne5Z6Dml%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<div class="tupperware">
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/cf235152-a4cc-4ec7-a00c-20bb73d452da" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/251e879a-9023-499f-b3b9-7d358aa6db44" />
+
+</div>
+
+Arcadia Police Department (CA) NASA Jet Propulsion Laboratory Congressmember Karen Bass Normani Brandy Michelle Obama Los Angeles County Board of Supervisors 
+Thaka Sartu
+Brandy United Nations Office for Outer Space Affairs (UNOOSA) Normani https://gist.github.com/.../57d7874e695debf31ffe933855fd5b01 Karen Bass Supervisor Holly J. MitchellSupervisor Janice Hahn
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/800855743547015168" data-did="7cd216a5299cb2deeb983c9221fa24c04cf97d99"><a href="https://rashardmro.tumblr.com/post/800855743547015168">https://rashardmro.tumblr.com/post/800855743547015168</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
 @nasa-jpl @blackgirlscode [FridayNov21](https://www.google.com/search?sca_esv=9bd0e26604fdbc2f&rlz=1C1GCEJ_enUS1189US1189&q=november+21&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJgeXKnD4z7v_UXM32TmNnj1AiDPbPo_OFZLlB6cXa3f-GUf2_feRiFK2D2hbiHxQSH3uL8xuDRnlO2B4yDrM3CLjkXbjjOJI7VbCRDAbhwajKXFTWqDAtPpcKk5GzA2KStrzJNkhBGFrtmRcBV9X9uT87WGQA&sa=X&ved=2ahUKEwjR1bfw_oORAxVPJEQIHQg1NAQQ0pQJegQIFhAB&biw=958&bih=952&dpr=1)
 
 Kimberly Bryant, Founder Black Girls CODE Normani Brandy Georgia Department of Human Services #citationchallenge Black Girls Code Keisha Lance Bottoms some of them are tracked via L.A. County Department of Public Social Services the wise thing for #DFCS is to team with NASA - National Aeronautics and Space Administration via NASA's Kennedy Space Center , FEMA Federal Emergency Management Agency, the United States [Air Force](https://www.losangeles.spaceforce.mil/News/Article-Display/Article/4009111/the-sexual-assault-prevention-and-response-office-and-its-volunteer-victim-advo/) and NASA Jet Propulsion Laboratory to get the girls records straight... in the mean time this will help deter #DataThieves [Supervisor](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) Karen Bass [#BlackGirlSoftLife](https://www.tumblr.com/tagged/soft%20life) #blackgirlsinrealestate #BlackGirlsInTech
