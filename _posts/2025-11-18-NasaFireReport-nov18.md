@@ -97,7 +97,7 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 <img  alt="" src="https://github.com/user-attachments/assets/50ea44d1-a3e1-4d27-8859-1bdc34f8dcad" />
 
 
-![@cityoflosangeles @nasa-jpl @stateofcalifornia @blackgirlscode](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png)
+![LOSANGELES](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png)
 
 
 
