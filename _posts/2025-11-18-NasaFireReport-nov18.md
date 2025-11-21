@@ -7,12 +7,109 @@ image: Overview_HD.png
 ---
 
 
+### hotlinks  <a href="jpl.nasa.gov#{{ site.url }}{{ site.baseurl }}" itemscope itemtype="https://schema.org/EducationalOrganization" itemprop="name"> @NASA-JPL </a>
+[USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
+[DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
+[NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
+
+
+
+[WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE########@BlackGirLSCode Who is Brandy?########
+{% endhighlight %}
+
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+
 
 {% highlight python %}
 1 # HOLE_TO_ANOTHER_UNiVERSE#####@NASA-JPL######hiCORAL###
 2 # ### How Wildfire Looked Across @CityOfLosAngeles #####
 3 # @StateOfCalifornia #`BrandyNorwood @BlackGirlsCode `##
 {% endhighlight %}
+
+
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+{% highlight python %}
+2 # ### How Wildfire looks across the continent ##############
+3 # ANOTHER########`BrandyNorwood @BlackGirlsCode `Production#
+{% endhighlight %}
+
+[+ @cityoflosangeles DEC 23-to-2025 JAN 14 FireActiity @stateofcalifornia .gif DOWNLOAD](https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024%20DEC%2023-to-2025%20JAN%2014.gif) @nasa-jpl @emit-sds @TheSpaceDevs @BlueOrigin @r-spacex @NOAAgov
+
+<video controls  width="400" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+
+
+</video>
+
+
+## EatonCanyon
+the mushy shit is the burned property 
+[MAP @emit-sds @blackgirlscode](https://ladsweb.modaps.eosdis.nasa.gov/stream/map?fbclid=IwY2xjawOMnSdleHRuA2FlbQIxMABicmlkETAwSXZtWGFDa01STXdNVjdVc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHggULxKKFIa5HI45xUdLoAPP_UX_PFG07XFonam8kxVmzdSkv8wz1QTKE9jU_aem_Y0XfASbU01QpdyNbdKYTJA#map=12.66/-13142008.56/4053000.61)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/78211215-c9cf-494f-85f0-8d949af9f319" />
+<img  alt="image" src="https://github.com/user-attachments/assets/0626984b-bb1d-4777-89b1-59ce99d3d17c" />
+
+
+[SmolderingHills](https://archive.org/download/commitmentmaintenance/0000000_A_000_CCAA_smolderingHills_wasjustContrast_withVegetationNORMANi_VID_20251118_090419.mp4) @blackgirlscode I need to show the damage in Eaton from stream @nasa-jpl
+
+
+Land disturbance + Aerosol [map](https://worldview.earthdata.nasa.gov/?v=-123.43056203280857,32.50679015913837,-115.28568397199821,39.79431263460027&as=2025-09-16-T00%3A00%3A00Z&ae=2025-09-26-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),VIIRS_NOAA20_DayNightBand(hidden,opacity=0.63),VIIRS_SNPP_DayNightBand(hidden),VIIRS_SNPP_GapFilled_BRDF_Corrected_DayNightBand_Radiance(hidden),MODIS_Combined_L3_Black_Sky_Albedo_Daily,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&ab=on&t=2025-02-13-T23%3A16%3A42Z)
+<img  alt="image" src="https://github.com/user-attachments/assets/38e9f986-72ab-47e7-b102-ae1066f3a423" />
+
+
+## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
+
+<picture itemprop="event" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00139_palisades_esi_map.png" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/f3d59612-1486-433a-b178-c3e0814f05fd"  />
+</picture>
+ 
+<img src="https://ecostress.jpl.nasa.gov/downloads/gallery/wildfire/00155_gifford_fire.png" alt="ECO image"/>
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0b5fa1b9-1e5d-4eb1-bfad-4c31bf2a8968" />
+
+[@stateofcalifornia Did Lack of Cityhood hurt Altadena ? @latimes @datadesk @whitehouse](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/21ALTADENA_EATON_FiRE_2feb686a-eb67-43fe-a787-b0ea4bc6e29e.pdf)
+
+
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE#####@NASA-JPL######hiCORAL###
+2 # ### How Wildfire Looked Across @CityOfLosAngeles #####
+3 # @StateOfCalifornia #`BrandyNorwood @BlackGirlsCode `##
+{% endhighlight %}
+
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa its great firedata!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[@datadesk related firedata @nasa-jpl @nasa-pds @nasa .pdf](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/0iceraidupdateSimpleScanStation20250813171923.pdf)
+[summerofresistance @cityoflosangeles](https://ia601002.us.archive.org/9/items/interviewwith-dr-carol-stoker/1_6_20summerofresistanceSimpleScanStation20250620100012.pdf)
+
 
 
 
@@ -188,3 +285,13 @@ Megan Lorick, [Malibu R](https://en.wikipedia.org/wiki/Talk:Malibu,_California)e
 
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/800778421846376448/v2" data-did="ca4cf2cd30b6a90ac10d339e1098ff35c193772d"  ><a href="https://www.tumblr.com/rashardmro/800778421846376448/shaadithakarashardricothaka">https://www.tumblr.com/rashardmro/800778421846376448/shaadithakarashardricothaka</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cffdb822-2d36-4040-8e0a-0abc89406dd5" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ec14a445-6362-4e09-b5a4-a00211150683" />
+
+[@noaa VJ102DNB - VIIRS/JPSS1 Day/Night Band Moderate Resolution 6-Min L1B Swath 750m](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/VJ102DNB/) imported to [@googleearth](https://earth.google.com/web/@45.60697552,-90.76771692,4433.58548918a,11587353.5756886d,30y,303.16120364h,0t,0r/data=CgRCAggBQgIIAEoICJHM754FEAA) via [NasaWorldView_KeyholeMarkeup](https://worldview.earthdata.nasa.gov/?v=-229.26900829080392,-84.93081573071159,95.84926740923699,75.08833559040231&z=4&ics=true&ici=5&icd=60&l=AERONET_ANGSTROM_440-870NM,AERONET_AOD_500NM,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_NOAA21_DayNightBand(hidden),VIIRS_NOAA20_DayNightBand(hidden),OMI_Aerosol_Index(hidden),BlueMarble_ShadedRelief(hidden)&lg=true&t=2025-09-02-T23%3A07%3A30Z) ~_[KMZ_EXPORT @blackgirlscode](https://github.com/kellyrashardiman/kellyrashardiman.github.io/blob/master/assets/scripts/snapshot-2023-10-22T00_00_00Z.kmz)
+<img   alt="image" src="https://github.com/user-attachments/assets/37b3e896-5228-40ca-82c2-79215cdf43e0" />
+
