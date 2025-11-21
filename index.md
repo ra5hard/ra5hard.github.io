@@ -13,7 +13,7 @@ mermaid: true
 ### Currently Compiling g_e, [m/s^2](https://mars.nasa.gov/files/resources/Planet-Mars-Quick-Facts_Mars-nasa-gov.pdf)
 [@usgs / @blackgirlscode @nasa-pds](https://pilot.wr.usgs.gov/?fbclid=IwY2xjawODA_9leHRuA2FlbQIxMABicmlkETA4VmJyN3dxU2FsWDlEdjB6c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHup5yqlMXp04opT_a1ZZmPfZAdcKSG0vzSifv0KFmj_ZcuEXm-1Qk6FB5KaZ_aem_Er7ncAdKQGSE6BVBA1ESQg)
 
-[@lacmta car 1174 alone broke down]
+[@lacmta car 1174 alone broke down] @nasa-jpl @blackgirlscode normani Brandy I'm heading home 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
   {% for post in site.posts %}
