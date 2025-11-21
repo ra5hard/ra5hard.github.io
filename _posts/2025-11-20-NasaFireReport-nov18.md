@@ -41,7 +41,7 @@ image: Overview_HD.png
 <img  alt="image" src="https://github.com/user-attachments/assets/5f0760db-0d97-401a-9dd2-c83b4965bc94" />
 
 
-<video controls  width="400" height="auto">
+<video controls  width="auto" height="auto">
    <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
 
   <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
@@ -57,10 +57,10 @@ image: Overview_HD.png
 
 [+ @cityoflosangeles DEC 23-to-2025 JAN 14 FireActiity @stateofcalifornia .gif DOWNLOAD](https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024%20DEC%2023-to-2025%20JAN%2014.gif) @nasa-jpl @emit-sds @TheSpaceDevs @BlueOrigin @r-spacex @NOAAgov
 
-<video controls  width="400" height="auto">
-   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+<video controls  width="auto" height="auto">
+   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2021JUL15-to-2021JUL301-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
 
-  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
+  <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2021JUL15-to-2021JUL301-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
 
 
 </video>
@@ -72,6 +72,9 @@ the mushy part is the burned property
 
 <img  alt="image" src="https://github.com/user-attachments/assets/78211215-c9cf-494f-85f0-8d949af9f319" />
 <img  alt="image" src="https://github.com/user-attachments/assets/0626984b-bb1d-4777-89b1-59ce99d3d17c" />
+
+
+[Copernicus](https://rashardnasalosangelesjpl.github.io/2025/11/20/NasaFireReport-nov18.html?fbclid=IwY2xjawOMsCBleHRuA2FlbQIxMABicmlkETBKR2VUTmVrZGt2NHI3WWtCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj2dNr7zaSgEqUWFA_IcPpB_hQr4Ojr0dXjZraR_9Hk3MSmUJlGtNeLM_S0u_aem_CwUa63JvcJjok6msipq1YA)
 
 ![@StateOfCAlifornia](https://dn710104.ca.archive.org/0/items/n-02-e-016.-srtmgl-1.2/AV320250111t210400_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)
 
