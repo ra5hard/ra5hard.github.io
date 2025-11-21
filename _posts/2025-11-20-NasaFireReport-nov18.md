@@ -41,6 +41,11 @@ image: Overview_HD.png
 <img  alt="image" src="https://github.com/user-attachments/assets/5f0760db-0d97-401a-9dd2-c83b4965bc94" />
 
 
+[Copernicus](https://rashardnasalosangelesjpl.github.io/2025/11/20/NasaFireReport-nov18.html?fbclid=IwY2xjawOMsCBleHRuA2FlbQIxMABicmlkETBKR2VUTmVrZGt2NHI3WWtCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHj2dNr7zaSgEqUWFA_IcPpB_hQr4Ojr0dXjZraR_9Hk3MSmUJlGtNeLM_S0u_aem_CwUa63JvcJjok6msipq1YA)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6a405154-79d2-4e9b-9fff-272097c697d2" />
+
+
 <video controls  width="auto" height="auto">
    <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2024DEC26-to-2025JAN14-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4" />
 
@@ -49,6 +54,7 @@ image: Overview_HD.png
 
 </video>
 
+<img  alt="image" src="https://github.com/user-attachments/assets/7c280688-7946-40be-b537-1649e900f5f6" />
 
 {% highlight python %}
 2 # ### How Wildfire looks across the continent ##############
