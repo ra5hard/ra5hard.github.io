@@ -13,6 +13,17 @@ author: "RashardKelly @nasa-jpl"
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+@nasa-jpl @blackgirlscode [FridayNov21](https://www.google.com/search?sca_esv=9bd0e26604fdbc2f&rlz=1C1GCEJ_enUS1189US1189&q=november+21&tbm=nws&source=lnms&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIeqDdErwP5rACeJAty2zADJgeXKnD4z7v_UXM32TmNnj1AiDPbPo_OFZLlB6cXa3f-GUf2_feRiFK2D2hbiHxQSH3uL8xuDRnlO2B4yDrM3CLjkXbjjOJI7VbCRDAbhwajKXFTWqDAtPpcKk5GzA2KStrzJNkhBGFrtmRcBV9X9uT87WGQA&sa=X&ved=2ahUKEwjR1bfw_oORAxVPJEQIHQg1NAQQ0pQJegQIFhAB&biw=958&bih=952&dpr=1)
+
+Kimberly Bryant, Founder Black Girls CODE Normani Brandy Georgia Department of Human Services #citationchallenge Black Girls Code Keisha Lance Bottoms some of them are tracked via L.A. County Department of Public Social Services the wise thing for #DFCS is to team with NASA - National Aeronautics and Space Administration via NASA's Kennedy Space Center , FEMA Federal Emergency Management Agency, the United States [Air Force](https://www.losangeles.spaceforce.mil/News/Article-Display/Article/4009111/the-sexual-assault-prevention-and-response-office-and-its-volunteer-victim-advo/) and NASA Jet Propulsion Laboratory to get the girls records straight... in the mean time this will help deter #DataThieves [Supervisor](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) Karen Bass [#BlackGirlSoftLife](https://www.tumblr.com/tagged/soft%20life) #blackgirlsinrealestate #BlackGirlsInTech
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Ynv9KHgBFVNhvimi7oVi4Fd4aLiYDVdUHX2DV1gsRvobWfcnEcT4F1rSQBM56kRKl%26id%3D100084464911565&show_text=true&width=500" width="500" height="764" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+#hygienetips Los Angeles County Board of Supervisors #BugWarfare is not addressed often .. I got a lot of bugs in my hair Congressmember Karen Bass while on the train and at breakfast... I saw a lady that look like Erika Brandy if that's corals mom I'm concerned and need a fresh start NPR Keisha Lance Bottoms Essence #relationshipAdvice duped into a relationship with an older person that's at a development cycle that overlaps Normani it's not fair 😩🤕🤕🤕🤕🤧😪😵😫😩😰😳🤯😓😟😥😢😢😢😢😢😢😭 WSAV News 3 On Your Side -#rashard NASA Mars Kash Doll I get you Georgia Division of Family & Children Services ... That's what's up DeKalb County Police Department Gavin Newsom #floodrelief NASA Earthdata 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gKyXs8V8kF5XWN2X6fCH2wNXCGCoKcQkeKv3VNq6dK6xCJBCehWYYghKjxSzN1Ghl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+
 ### # California_Linux: 
 #### Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS
 [ViEW_ARCHiVE](https://archive.org/download/commitmentmaintenance)
