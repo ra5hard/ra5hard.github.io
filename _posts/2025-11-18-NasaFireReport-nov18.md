@@ -73,6 +73,7 @@ the mushy part is the burned property
 <img  alt="image" src="https://github.com/user-attachments/assets/78211215-c9cf-494f-85f0-8d949af9f319" />
 <img  alt="image" src="https://github.com/user-attachments/assets/0626984b-bb1d-4777-89b1-59ce99d3d17c" />
 
+![@StateOfCAlifornia](https://dn710104.ca.archive.org/0/items/n-02-e-016.-srtmgl-1.2/AV320250111t210400_006_L1B_RDN_3f4aef90_RDN_BROWSE.jpg)
 
 ## [#EatonCanyonFire @CityOfLosAngeles](https://recovery.lacounty.gov/eaton-fire/)
 Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) [archive.org/.../AV320250110t224555_002_L1B_RDN](https://archive.org/details/n-02-e-016.-srtmgl-1.2/AV320250110t224555_002_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) ... Taken from [#AViRiS](https://aviris.jpl.nasa.gov/) [DataPortAl](https://popo.jpl.nasa.gov/mmgis-aviris/?mission=AVIRIS&site=ert&mapLon=-93.95507812500001&mapLat=40.245991504199026&mapZoom=4&globeLon=undefined&globeLat=undefined&globeZoom=undefined&panePercents=0,100,0&on=e4d92155-7af4-4ec3-ba97-1d6e4639c5d6$1.00,d068949c-3a21-45c0-8aa9-7dd29bfc8adc$1.00&startTime=2006-04-01T00:00:01.000Z&endTime=2024-02-15T21:27:02.653Z) / [EarthDataSearch](https://search.earthdata.nasa.gov/search?q=aviris)  @PodaaC @NASA-GiSS @Nasa-JPL [@Whitehouse](https://www.facebook.com/permalink.php?story_fbid=pfbid0JZbnxTEo3oTvzkB743GdjGFFcjXH9KTF15QGggy9iDTG8RAJMm2LSRkqMc5d6G9il&id=100084464911565)
@@ -152,6 +153,7 @@ Land disturbance + Aerosol [map](https://worldview.earthdata.nasa.gov/?v=-123.43
 
 
 
+![AViRiS](https://dn710104.ca.archive.org/0/items/n-02-e-016.-srtmgl-1.2/AV320250110t225250_001_L1B_RDN_3f4aef90_RDN_BROWSE.jpg) 
 
 ## Ecostress [gallery](https://ecostress.jpl.nasa.gov/wildfire_gallery)
 
