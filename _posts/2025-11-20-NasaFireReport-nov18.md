@@ -23,12 +23,18 @@ image: Overview_HD.png
 
 <img alt="image" src="https://github.com/user-attachments/assets/b7ba4c09-7b70-4797-95d3-e866ecdafec1" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/f8808bd9-929f-4f54-9707-40681fe74b1e" />
+
 Time Averaged Map of HCHO column amount daily 0.1 deg. [OMI OMHCHOd v003] molecules/cm^2
 over 2025-01-01 - 2025-01-31
 
 <img alt="GIOVANNI-output2hQt0RlE" src="https://github.com/user-attachments/assets/c05f8fc6-7b21-483e-8f16-f3070540dad9" />
 
-<img alt="image" src="https://github.com/user-attachments/assets/f8808bd9-929f-4f54-9707-40681fe74b1e" />
+ime Averaged Map of Aerosol Single Scattering Albedo 483.5 nm daily 0.25 deg. [OMI OMAEROe v003]
+over 2025-01-01 - 2025-01-31
+
+<img  alt="GIOVANNI-outputVL3Fgam1" src="https://github.com/user-attachments/assets/46c1817b-55b6-4f68-9635-7e7b86b13582" />
+
 
 {% highlight ruby %}
 1 # HOLE_TO_ANOTHER_UNiVERSE##############################
