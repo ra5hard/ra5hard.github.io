@@ -6,7 +6,7 @@ mermaid: true
 
 
 
-{% include nav.html %}
+
 
 
 ## Rashard Kelly NasaJpl MRO JUNO iSS 
@@ -26,7 +26,7 @@ mermaid: true
 
   {% endfor %}
 
-
+{% include nav.html %}
 
   
 <script type="module">
