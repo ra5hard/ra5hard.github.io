@@ -6,12 +6,15 @@ permalink: /var/log
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9a06b3f2-19d7-4a8b-9457-8d586e21dadf" />
 
+[@usgs / @blackgirlscode @nasa-pds](https://pilot.wr.usgs.gov/?fbclid=IwY2xjawODA_9leHRuA2FlbQIxMABicmlkETA4VmJyN3dxU2FsWDlEdjB6c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHup5yqlMXp04opT_a1ZZmPfZAdcKSG0vzSifv0KFmj_ZcuEXm-1Qk6FB5KaZ_aem_Er7ncAdKQGSE6BVBA1ESQg)
 
+[@lacmta car 1174 alone broke down] @nasa-jpl @blackgirlscode normani Brandy I'm heading home 
+[@blackgirlscode https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000032_abobHopePatrioticHall_VID_20251105_084946_236.mp4](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000032_abobHopePatrioticHall_VID_20251105_084946_236.mp4) @emit-sds 
 <iframe src="https://archive.org/embed/Keen4e-sw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 # ./linux
-![RHEL10 @redhatofficial](https://raw.githubusercontent.com/ricothakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg)
+![RHEL10 @redhatofficial](https://raw.githubusercontent.com/thakarashard/linux/refs/heads/master/Documentation/rhel10annoucnement.jpg)
 <iframe src="https://archive.org/embed/aaliyah-one-in-a-million" width="500" height="60" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <h2>What's next? Red Hat Enterprise Linux 10 and beyond</h2>
