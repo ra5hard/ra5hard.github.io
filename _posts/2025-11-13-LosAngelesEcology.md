@@ -14,7 +14,7 @@ date:   2025-10-09 8:51:06
 [comment]: <> (Emergency Files )
 
 #### News @CityOfLosAngeles @nasa-jpl
-
+**_Rodney King riots officer says LA Mayor Karen Bass responded ‘too late’ to anti-ICE violence: ‘History is repeating’_** 
 A former Los Angeles police officer who was on duty during the 1992 Rodney King riots fears “history is repeating itself” as chaos continues over anti-ICE protests. [_Read_](https://nypost.com/2025/06/11/us-news/rodney-king-riots-officer-says-la-mayor-karen-bass-responded-too-late-to-anti-ice-violence/?fbclid=IwY2xjawOPKAhleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR7dNZx4QklC_CGQJCCoq4G8-_DS1bnQ3SwfwCaV5u0Y9IT-ghf6xqivuj5kaQ_aem_c050VnjaTNIvfR5o5AlaJA)
  [Alex Oliveira](https://nypost.com/author/alex-oliveira/)
 
@@ -975,6 +975,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
