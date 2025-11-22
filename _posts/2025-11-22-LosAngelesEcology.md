@@ -13,6 +13,31 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+
+
+Los Angeles Cryosphere
+_Time Averaged Map of Snow depth hourly 0.125 deg. [NLDAS Model NLDAS_NOAH0125_H v2.0] m
+over 2025-11-15 00:00:00Z - 2025-11-17 23:00:00Z, Region 120.1575W, 31.0645N, 115.3674W, 35.2833N_
+<img  alt="image" src="https://github.com/user-attachments/assets/a15d37c4-661d-4f62-9b8d-c4cebcc7fe9d" />
+
+<video controls poster="https://archive.org/download/the-hillbillies-of-beverly-hills-unaired-pilot-episode-for-the-beverly-hillbillies-1962/the-hillbillies-of-beverly-hills-unaired-pilot-episode-for-the-beverly-hillbillies-1962.thumbs/The%20Hillbillies%20of%20Beverly%20Hills%20unaired%20pilot%20episode%20for%20the%20Beverly%20Hillbillies%20%281962%29_000114.jpg" > 
+
+
+<source src="https://dn720408.ca.archive.org/0/items/the-hillbillies-of-beverly-hills-unaired-pilot-episode-for-the-beverly-hillbillies-1962/The%20Hillbillies%20of%20Beverly%20Hills%20unaired%20pilot%20episode%20for%20the%20Beverly%20Hillbillies%20%281962%29.mp4" type="video/mp4">
+
+
+</video> 
+
+
+<div class="tupperware">
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/6d8f4f45-e13f-442e-9883-eec2cc86b432" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f9d4dd94-126f-479d-8346-e02bffc5b725" />
+
+</div>
+
+
 #### News @CityOfLosAngeles @nasa-jpl
 **_Rodney King riots officer says LA Mayor Karen Bass responded ‘too late’ to anti-ICE violence: ‘History is repeating’_** 
 A former Los Angeles police officer who was on duty during the 1992 Rodney King riots fears “history is repeating itself” as chaos continues over anti-ICE protests. [_Read_](https://nypost.com/2025/06/11/us-news/rodney-king-riots-officer-says-la-mayor-karen-bass-responded-too-late-to-anti-ice-violence/?fbclid=IwY2xjawOPKAhleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAwyNTYyODEwNDA1NTgAAR7dNZx4QklC_CGQJCCoq4G8-_DS1bnQ3SwfwCaV5u0Y9IT-ghf6xqivuj5kaQ_aem_c050VnjaTNIvfR5o5AlaJA)
@@ -47,7 +72,7 @@ Supervisor [Holly J. Mitchell](https://women.ca.gov/los-angeles-county-superviso
 # Eaton Fire aerial footage around Altadena
 <img  alt="image" src="https://github.com/user-attachments/assets/787b00c7-a85f-40f3-85d3-4e149fc19c85" />
 
-<video controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
+eo controls poster="https://github.com/user-attachments/assets/58e6c43e-a3fb-43fc-a737-c3e319d0e4d5" > 
 
 
 <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/000broadcastabc10_EatonFireaerialfootagearoundAltadena.mp4" type="video/mp4">
@@ -975,6 +1000,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
