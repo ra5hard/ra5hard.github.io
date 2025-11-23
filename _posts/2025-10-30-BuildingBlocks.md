@@ -7,6 +7,11 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+
+
+DATA ALERT: Anomaly affecting the OPERA DSWx-S1 product: OPERA has discovered a processing error affecting DSWx-S1 data products generated from May 2025 onwards. This error is causing Sentinel-1A (S1A) and Sentinel-1C (S1C) data to be incorrectly mixed into a single product.
+This issue is currently under investigation by the OPERA team. As a precaution, the OPERA team has temporarily stopped the production of DSWx-S1 while they resolve this matter. We will provide more information as soon as it becomes available. We apologize for any inconvenience this may cause.[https://podaac.jpl.nasa.gov/](https://podaac.jpl.nasa.gov/)
+
 @noaagov @commercegov @nasa-jpl [@NASA-DEVELOP](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation) I left a comment a few days after discovrEpic stopped sending pics and the magnet 🧲 data got interrupted... looking for correlation @blackgirlscode @cityoflosangeles @stateofcalifornia
 
 
