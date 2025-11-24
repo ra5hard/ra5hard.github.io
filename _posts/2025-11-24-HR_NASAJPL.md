@@ -2,8 +2,8 @@
 layout: default
 title:  "Notes for @nasa-jpl HR"
 published: true
-permalink: /for_nasa_jpl_hr
-tags: earth nsn "Near Space Network" gds 
+permalink: /hr
+tags: earth hr NearSpaceNetwork gds 
 image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
@@ -12,8 +12,11 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" />
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gaB14iEwGqYHcA1KDa8ytDsWBpyxzCVadbeJtr523ARMSF5mSncyNPokJne5Z6Dml%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0asNukzcA2ohcxazhghJ68WNhJdXrN49VTLcvwKUmZzP1K6ENe6V9bt1PBxZn3ExSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+`<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gaB14iEwGqYHcA1KDa8ytDsWBpyxzCVadbeJtr523ARMSF5mSncyNPokJne5Z6Dml%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`
 
 <div class="tupperware">
 	
@@ -35,6 +38,7 @@ Kimberly Bryant, Founder Black Girls CODE Normani Brandy Georgia Department of H
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Ynv9KHgBFVNhvimi7oVi4Fd4aLiYDVdUHX2DV1gsRvobWfcnEcT4F1rSQBM56kRKl%26id%3D100084464911565&show_text=true&width=500" width="500" height="764" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 #hygienetips Los Angeles County Board of Supervisors #BugWarfare is not addressed often .. I got a lot of bugs in my hair Congressmember Karen Bass while on the train and at breakfast... I saw a lady that look like Erika Brandy if that's corals mom I'm concerned and need a fresh start NPR Keisha Lance Bottoms Essence #relationshipAdvice duped into a relationship with an older person that's at a development cycle that overlaps Normani it's not fair 😩🤕🤕🤕🤕🤧😪😵😫😩😰😳🤯😓😟😥😢😢😢😢😢😢😭 WSAV News 3 On Your Side -#rashard NASA Mars Kash Doll I get you Georgia Division of Family & Children Services ... That's what's up DeKalb County Police Department Gavin Newsom #floodrelief NASA Earthdata 
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gKyXs8V8kF5XWN2X6fCH2wNXCGCoKcQkeKv3VNq6dK6xCJBCehWYYghKjxSzN1Ghl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
