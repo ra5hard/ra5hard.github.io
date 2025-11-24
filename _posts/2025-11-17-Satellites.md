@@ -9,6 +9,8 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+[GOES18 HELiOPHYSiCS_Dir](https://cdn.star.nesdis.noaa.gov/GOES18/SUVI/FD/Fe094/)
+
 ![@StateOfCalifornia](https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png)
 
 As U.S. EPA rolls back protections, California launches satellite project to detect and reduce dangerous methane leaks [read @emit-sds @nasa-pds @NASA-DEVELOP](https://www.gov.ca.gov/2025/03/21/as-u-s-epa-rolls-back-protections-california-launches-satellite-project-to-detect-and-reduce-dangerous-methane-leaks/?fbclid=IwY2xjawOIxrdleHRuA2FlbQIxMABicmlkETFlMlpNTDBFMUFoRlM3djk4c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHrhQkVZgJQnIX51twc1uGw8Zo0EA1QwPqTOwjpC-ODz_UmnWjYZtxLfQWioM_aem_zHJ2N6wwrY8cDKYFk1PG7w)
