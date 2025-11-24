@@ -7,6 +7,7 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+[GOES18 HELiOPHYSiCS_Dir](https://cdn.star.nesdis.noaa.gov/GOES18/SUVI/FD/Fe094/)
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
