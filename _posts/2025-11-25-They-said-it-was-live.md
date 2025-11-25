@@ -10,6 +10,10 @@ author: RashardKelly @nasa-jpl
 
 @nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
 
+### _Artemis II crewmember Jeremy Hansen_ 
+Join us live from the Canadian Space Agency for an exclusive Q&A session, hosted by Fred Bastien, where you can ask your questions to astronaut and Artemis II crewmember Jeremy Hansen. This is Jeremy last visit in Canada before the launch of the Artemis II mission, planned for early 2026.
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid029h28rw2nHBusBD7LdfzYT7nJUrP87rvkAQvh3aPtpwyb9Gwf4Z68x3nd6wu8Jag3l%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 # Currently Compling [@BlueOrigin Mission Support](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ) , [NG-2](https://www.blueorigin.com/missions/ng-2?fbclid=IwY2xjawOCAHZleHRuA2FlbQIxMABicmlkETBic1BNSFRXUm54aEhrTDNJc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoCPPkqq_v8XG6vXP30vOUet9_PSLSURjZ7j9z1Z7_MWD5vSo1EBs469lGtG_aem_LyXE2x3-K1K-ukSVrkNFSQ)
 [@blueorigin @nasa-jpl @blackgirlscode - WindSPEED @newshour](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/10848x10848.jpg)
