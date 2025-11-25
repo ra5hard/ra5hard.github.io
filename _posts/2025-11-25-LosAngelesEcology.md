@@ -13,6 +13,19 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-copernicusLA' | sort: 'date'  %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 [FireFiles Commit bbceab2
 ](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846)
 <img  alt="image" src="https://github.com/user-attachments/assets/8e915e99-def3-4dab-829d-c59a2704c538" />
@@ -1002,6 +1015,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
