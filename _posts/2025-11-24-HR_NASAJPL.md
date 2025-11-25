@@ -12,7 +12,7 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-
+@nasa-jpl Los Angeles Wildfires as seen by sentinel2 [a](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1509630831053786-timelapse.mp4) [b](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1015826333215209-timelapse.mp4) @blackgirlscode @cityoflosangeles
 # Entomological warfare 
 
 <a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
