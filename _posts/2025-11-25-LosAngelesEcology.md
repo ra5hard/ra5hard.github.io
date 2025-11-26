@@ -14,6 +14,15 @@ date:   2025-10-09 8:51:06
 [comment]: <> (Emergency Files )
 
 
+
+<video controls  > 
+
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AA_0000AVID_20251123_191233_244.mp4" type="video/mp4">
+
+
+</video> 
+
 <div class="tupperware">
     
 {% for image in site.static_files %}
@@ -26,8 +35,11 @@ date:   2025-10-09 8:51:06
 
 </div>
 
-[FireFiles Commit bbceab2
+## [FireFiles Commit bbceab2
 ](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9a06b3f2-19d7-4a8b-9457-8d586e21dadf" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/8e915e99-def3-4dab-829d-c59a2704c538" />
 
 Los Angeles Cryosphere
@@ -1015,6 +1027,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
