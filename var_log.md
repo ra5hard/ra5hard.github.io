@@ -10,6 +10,19 @@ permalink: /var/log
 
 [@lacmta car 1174 alone broke down] @nasa-jpl @blackgirlscode normani Brandy I'm heading home 
 [@blackgirlscode https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000032_abobHopePatrioticHall_VID_20251105_084946_236.mp4](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000032_abobHopePatrioticHall_VID_20251105_084946_236.mp4) @emit-sds 
+
+<h1># Los Angeles Thermal Anomolies</h1>
+<p class="npf_quote">2025 WildFires</p>
+<figure class="tmblr-full" data-orig-height="720" data-orig-width="1280" data-npf='{"type":"video","provider":"tumblr","url":"https://va.media.tumblr.com/tumblr_t6ba8j3CwL1agemft.mp4","media":{"url":"https://va.media.tumblr.com/tumblr_t6ba8j3CwL1agemft.mp4","type":"video/mp4","width":1280,"height":720},"poster":[{"media_key":"c7186efa1f97d365e7a5201a857f2e22:11b96e8146d27f22-01","type":"image/jpeg","width":540,"height":304,"url":"https://64.media.tumblr.com/c7186efa1f97d365e7a5201a857f2e22/11b96e8146d27f22-01/s540x810/52bae986e3dfd8624aa2faacde03286015d692f4.jpg"}]}'><video controls="controls" autoplay="autoplay" playsinline="playsinline" muted="muted" poster="https://64.media.tumblr.com/c7186efa1f97d365e7a5201a857f2e22/11b96e8146d27f22-01/s540x810/52bae986e3dfd8624aa2faacde03286015d692f4.jpg"><source src="https://va.media.tumblr.com/tumblr_t6ba8j3CwL1agemft.mp4" type="video/mp4"></source></video>
+</figure>
+<div class="npf_row"><figure class="tmblr-full" data-orig-height="589" data-orig-width="1000"><img src="https://64.media.tumblr.com/936319eefb25e25b00aafb33d4b7aba5/11b96e8146d27f22-80/s1280x1920/400f9d76dff31e6cb0dd6ca959cb9827164ac250.gifv" data-orig-height="589" data-orig-width="1000" srcset="https://64.media.tumblr.com/936319eefb25e25b00aafb33d4b7aba5/11b96e8146d27f22-80/s1280x1920/400f9d76dff31e6cb0dd6ca959cb9827164ac250.gifv 1000w" sizes="(max-width: 1000px) 100vw, 1000px"></figure>
+</div>
+<div class="npf_row"><figure class="tmblr-full" data-orig-height="526" data-orig-width="725"><img src="https://64.media.tumblr.com/dd07c44b47bc8a6a3ed7f4cb45c56f48/11b96e8146d27f22-85/s1280x1920/56c81291dd135210fb46a6a2dfc894462da4f18d.gifv" data-orig-height="526" data-orig-width="725" srcset="https://64.media.tumblr.com/dd07c44b47bc8a6a3ed7f4cb45c56f48/11b96e8146d27f22-85/s1280x1920/56c81291dd135210fb46a6a2dfc894462da4f18d.gifv 725w" sizes="(max-width: 725px) 100vw, 725px"></figure>
+</div>
+<div class="npf_row"><figure class="tmblr-full" data-orig-height="571" data-orig-width="1139"><img src="https://64.media.tumblr.com/78222c94bb4f816a058d7d57ff943d68/11b96e8146d27f22-6e/s1280x1920/be6ca653700c48cb6c66496fa1d068d117ba01ec.gifv" data-orig-height="571" data-orig-width="1139" srcset="https://64.media.tumblr.com/78222c94bb4f816a058d7d57ff943d68/11b96e8146d27f22-6e/s1280x1920/be6ca653700c48cb6c66496fa1d068d117ba01ec.gifv 1139w" sizes="(max-width: 1139px) 100vw, 1139px"></figure>
+</div>
+<div class="npf_row"><figure class="tmblr-full" data-orig-height="688" data-orig-width="1169"><img src="https://64.media.tumblr.com/3a5406bc57c72e680538c56c1675186a/11b96e8146d27f22-bc/s1280x1920/0c3e0662a12116dd3327f9ee7585d1dcda92fd86.gifv" data-orig-height="688" data-orig-width="1169" srcset="https://64.media.tumblr.com/3a5406bc57c72e680538c56c1675186a/11b96e8146d27f22-bc/s1280x1920/0c3e0662a12116dd3327f9ee7585d1dcda92fd86.gifv 1169w" sizes="(max-width: 1169px) 100vw, 1169px"></figure>
+</div>
 <iframe src="https://archive.org/embed/Keen4e-sw" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
