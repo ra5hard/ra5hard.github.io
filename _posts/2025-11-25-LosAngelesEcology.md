@@ -31,6 +31,7 @@ date:   2025-10-09 8:51:06
 
 ![¥](https://waterandpower.org/1%20Historic%20Photos%201/Flood_1938.jpg)
 
+![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
 
 <div class="tupperware">
     
