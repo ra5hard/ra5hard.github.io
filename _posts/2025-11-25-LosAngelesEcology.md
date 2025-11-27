@@ -41,8 +41,8 @@ date:   2025-10-09 8:51:06
 
 <video controls> 
 
-<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
-<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2025AUG01-to-2025SEP04-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/ezgif-8f3701776d5d3cd3.mp4" type="video/mp4">
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/ezgif-8f3701776d5d3cd3.mp4" type="video/mp4">
 
 </video> 
 
@@ -1071,6 +1071,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
