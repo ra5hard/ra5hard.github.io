@@ -14,12 +14,14 @@ date:   2025-10-09 8:51:06
 [comment]: <> (Emergency Files )
 
 
-<video controls> 
+<video controls  > 
 
-<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
-<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AA_0000AVID_20251123_191233_244.mp4" type="video/mp4">
+
 
 </video> 
+
 
 
 
@@ -48,25 +50,27 @@ date:   2025-10-09 8:51:06
 
 </div>
 
-[Los Angeles River - The Unpredictable!](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [@ladwp history](https://ladpw.org/wmd/watershed/LA/History.cfm)
- @blackgirlscode @podaac
 
+<video controls> 
 
-
-<video controls  > 
-
-
-<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AA_0000AVID_20251123_191233_244.mp4" type="video/mp4">
-
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
 
 </video> 
 
 
-![π√π](https://waterandpower.org/M7%20Historic%20Photos%20M7/LA_River_1931.jpg) 
+[Los Angeles River - The Unpredictable!](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [@ladwp history](https://ladpw.org/wmd/watershed/LA/History.cfm)
+ @blackgirlscode @podaac
 
-![¥](https://waterandpower.org/1%20Historic%20Photos%201/Flood_1938.jpg)
 
 ![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
+[recovery.lacounty.gov](https://recovery.lacounty.gov/)
+[DamageMaps and more!](https://recovery.lacounty.gov/eaton-fire/)
+[DisasterPlanning](https://planning.lacounty.gov/disaster-recovery/) 
+[NASA Disasters Mapping Portal](https://disasters-nasa.hub.arcgis.com/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/29e5e3f5-3f6b-463f-933a-5d503a4b3f0a" />
+
+@cityoflosangeles @stateofcalifornia 
 
 <div class="tupperware">
     
@@ -81,6 +85,14 @@ date:   2025-10-09 8:51:06
 </div>
 
 ## [FireFiles Commit bbceab2](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846)
+
+
+
+
+
+![π√π](https://waterandpower.org/M7%20Historic%20Photos%20M7/LA_River_1931.jpg) 
+
+![¥](https://waterandpower.org/1%20Historic%20Photos%201/Flood_1938.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9a06b3f2-19d7-4a8b-9457-8d586e21dadf" />
 
@@ -1071,6 +1083,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
