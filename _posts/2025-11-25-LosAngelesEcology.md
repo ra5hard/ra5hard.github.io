@@ -13,6 +13,41 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
+
+<video controls> 
+
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+
+</video> 
+
+
+
+# GLifford Fire
+2021 to 2025 Area Comparison
+100% Contained
+131,614 Acres
+2 Counties: San Luis Obispo, Santa Barbara
+[@StateOfCalifornia](https://www.fire.ca.gov/incidents/2025/8/1/gifford-fire)
+
+<div class="tupperware">
+ 
+<video controls> 
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/ezgif-743af2e85bf09573.mp4" type="video/mp4">
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/ezgif-743af2e85bf09573.mp4" type="video/mp4">
+
+</video> 
+
+<video controls> 
+
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AAA_0000AW_DTLA_BIRDFEEDiNG_VID_20251126_105508_700.mp4" type="video/mp4">
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/nasa-worldview-2025AUG01-to-2025SEP04-ezgif.com-gif-to-mp4-converter.mp4" type="video/mp4">
+
+</video> 
+
+</div>
+
 [Los Angeles River - The Unpredictable!](https://waterandpower.org/museum/Los_Angeles_River_The_Unpredictable!.html) [@ladwp history](https://ladpw.org/wmd/watershed/LA/History.cfm)
  @blackgirlscode @podaac
 
@@ -1036,6 +1071,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
