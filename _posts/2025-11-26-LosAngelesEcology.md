@@ -22,8 +22,10 @@ date:   2025-10-09 8:51:06
 
 </video> 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A127431138&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/cigarette-brandy-2011" title="Cigarette - Brandy (new unreleased song)" target="_blank" style="color: #cccccc; text-decoration: none;">Cigarette - Brandy (new unreleased song)</a></div>
 
-
+[arcgis 2025fire](https://gis.earthdata.nasa.gov/portal/home/group.html?sortField=title&sortOrder=asc&id=28d7f98c410f4b2b9abfe89a755ce162#content) 
+[palisades @esri](https://gis.earthdata.nasa.gov/portal/home/item.html?id=d5cfe94588854455a443980c5bd52e3a) [portal of disaster](https://disasters-nasa.hub.arcgis.com/)
 
 # GLifford Fire
 2021 to 2025 Area Comparison
@@ -87,6 +89,7 @@ date:   2025-10-09 8:51:06
 ## [FireFiles Commit bbceab2](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846)
 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2159976291&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dareerickson" title="DareErickson" target="_blank" style="color: #cccccc; text-decoration: none;">DareErickson</a> · <a href="https://soundcloud.com/dareerickson/1996-vol-1" title="1996 Vol. 1 | Jump Up Drum &amp; Bass" target="_blank" style="color: #cccccc; text-decoration: none;">1996 Vol. 1 | Jump Up Drum &amp; Bass</a></div>
 
 
 
@@ -1083,6 +1086,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
