@@ -3,6 +3,16 @@ title: Update Arcadia Police
 published: false
 ---
 
+[wildfire @emit-sds](https://archive.org/download/commitmentmaintenance/ezgif-743af2e85bf09573.mp4) [wildfire @datadesk](https://archive.org/download/commitmentmaintenance/ezgif-8f3701776d5d3cd3.mp4)
+
+[https://5WILDFIRE2VID_20251126_225215_114.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2VID_20251126_225215_114.mp4)
+
+
+[/21_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/commitmentmaintenance/21_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+[https://WILDFIRE2_20251126_224338_353.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2_20251126_224338_353.mp4)
+
+[WILDFIRE1VID_20251126_224319_400.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE1VID_20251126_224319_400.mp4) @nasa @blackgirlscode @dhs-gov @cityoflosangeles @stateofcalifornia @usnavy @podaac @emit-sds
 
 <div class="tupperware">
 	
