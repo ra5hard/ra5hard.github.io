@@ -9,7 +9,8 @@ tags: covid
 
 # Covid BrainDumP
 
-
+[covid timeline @cdc @nas-jpl cdc.gov/museum/timeline/covid19.html](https://www.cdc.gov/museum/timeline/covid19.html)
+ 
 [odni.gov
 https://www.dni.gov
 Unclassified Summary of Assessment on COVID-19 Origins](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-Summary-of-Assessment-on-COVID-19-Origins.pdf)
