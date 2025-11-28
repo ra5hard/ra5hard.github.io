@@ -10,6 +10,20 @@ tags: covid
 # Covid BrainDumP
 
 
+[odni.gov
+https://www.dni.gov
+Unclassified Summary of Assessment on COVID-19 Origins](https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-Summary-of-Assessment-on-COVID-19-Origins.pdf)
+
+Key Takeaways
+The IC assesses that SARS-CoV-2, the virus that causes COVID-19, probably emerged and 
+infected humans through an initial small-scale exposure that occurred no later than November 
+2019 with the first known cluster of COVID-19 cases arising in Wuhan, China in December 
+2019. In addition, the IC was able to reach broad agreement on several other key issues. We 
+judge the virus was not developed as a biological weapon. Most agencies also assess with low 
+confidence that SARS-CoV-2 probably was not genetically engineered; however, two agencies 
+believe there was not sufficient evidence to make an assessment either way. Finally, the IC 
+assesses China’s officials did not have foreknowledge of the virus before the initial outbreak of 
+COVID-19 emerged.
 [On the Controversies Surrounding the Lab-Leak Theory of COVID-19 nig.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12040609/)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid02HXiSri6NpyFS9oJ5s2teikPQHqHvQGc4sVP2F45Bqqma6ujKiACvLaX5cEsJzUzbl&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
