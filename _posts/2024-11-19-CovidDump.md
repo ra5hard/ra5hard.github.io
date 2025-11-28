@@ -11,7 +11,7 @@ tags: covid
 
 ### COVID pandemic started in Wuhan market animals after all, suggests latest study
 The finding comes from a reanalysis of genomic data.
-By Smriti Mallapaty
+By [Smriti](https://pubmed.ncbi.nlm.nih.gov/?cmd=search&term=Smriti%20Mallapaty) [Mallapaty](https://scholar.google.co.uk/scholar?as_q=&btnG=Search+Scholar&as_sauthors=%22Smriti%2BMallapaty%22)
 
 [The hunt for the origin of the COVID-19 pandemic has new leads. Researchers have identified half a dozen animal species that could have passed SARS-CoV-2, the coronavirus that causes COVID-19, to people, by reanalysing genomes collected from an animal market in Wuhan, China1. The study establishes the presence of animals and the virus at the market, although it does not confirm whether the animals themselves were infected with the virus.
  [read](https://www.nature.com/articles/d41586-024-03026-9)
