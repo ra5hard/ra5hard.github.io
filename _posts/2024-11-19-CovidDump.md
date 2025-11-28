@@ -1,13 +1,16 @@
 ---
 layout: covid
 title:  "CovidDump"
-date:   2025-08-18 22:51:06 -0800
+date:   2025-11-18 22:51:06 -0800
 published: true
 image: Coronavirus._SARS-CoV-2.png
 tags: covid
 ---
 
 # Covid BrainDumP
+
+
+[On the Controversies Surrounding the Lab-Leak Theory of COVID-19 nig.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC12040609/)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Frashard.kelly.1%2Fposts%2Fpfbid02HXiSri6NpyFS9oJ5s2teikPQHqHvQGc4sVP2F45Bqqma6ujKiACvLaX5cEsJzUzbl&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
