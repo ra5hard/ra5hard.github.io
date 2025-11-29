@@ -66,6 +66,7 @@ Abt[Erika](https://www.essence.com/tags/erika-kelly/)
 
 <img  alt="last peice before movint to oakland @blackgirlscode" src="https://github.com/user-attachments/assets/cad6ec07-4e4e-41e9-bf47-43f61279663e" />
 
+<img   alt=" @blackgirlscode i think i did this with kashdoll or the black normani" src="https://github.com/user-attachments/assets/f2c3380e-cca7-4ae3-9bd7-2b399d9fa2b1" />
 
 
 @nasa-jpl Los Angeles Wildfires as seen by sentinel2 [a](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1509630831053786-timelapse.mp4) [b](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1015826333215209-timelapse.mp4) @blackgirlscode @cityoflosangeles
