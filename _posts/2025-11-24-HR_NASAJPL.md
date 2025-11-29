@@ -17,6 +17,8 @@ author: "RashardKelly @nasa-jpl"
 Abt[Erika](https://www.essence.com/tags/erika-kelly/)
 <img   alt=" . @blackgirlscode I was always uncomfortable with erika, and Muna, muna told me to go back and write moon in my Freeway striagh, she with other me, it felt so unnatural, she just pretty... trice hates that shit period" src="https://github.com/user-attachments/assets/dd2057d3-e340-4fc7-8fb7-8ad398c3fe33" />
 
+<img  alt=" @blackgirlscode this paint smelled like candy, i was not high, i dont belive that at all, i think u get a stomach ache if u breath in too much @cityoflosangeles KARENBASS" src="https://github.com/user-attachments/assets/f743445e-cb5b-453f-be15-3951a20ede65" />
+
 
 [Beach High School: Home](https://beach.sccpss.com/)
 <img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
