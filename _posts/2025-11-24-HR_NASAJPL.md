@@ -14,6 +14,10 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+
+<img  alt=" @blackgirlscode i made this brand up with Muna Ahmed @nasa-jpl" src="https://github.com/user-attachments/assets/1d88339c-fb00-4bbd-abea-352f4aa9513b" />
+
+
 Abt[Erika](https://www.essence.com/tags/erika-kelly/)
 <img   alt=" . @blackgirlscode I was always uncomfortable with erika, and Muna, muna told me to go back and write moon in my Freeway striagh, she with other me, it felt so unnatural, she just pretty... trice hates that shit period" src="https://github.com/user-attachments/assets/dd2057d3-e340-4fc7-8fb7-8ad398c3fe33" />
 
