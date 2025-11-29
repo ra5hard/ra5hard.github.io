@@ -13,6 +13,9 @@ author: "RashardKelly @nasa-jpl"
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+[Beach High School: Home](https://beach.sccpss.com/)
+<img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
+
 # Entomological warfare 
 
 <a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
