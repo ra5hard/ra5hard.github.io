@@ -12,6 +12,11 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+<img   alt=" Coral is standing in front of a buddy from my child hood peice, he write with network on frieghts as well, there is a process and im willing to hold until my family situation clear up so i dont disable a mission accidentally @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/4107f65e-96bd-4053-b81e-69198bbc3738" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/75310e7a-5186-414a-93e5-abcff7712cca" />
 
 # Entomological warfare 
