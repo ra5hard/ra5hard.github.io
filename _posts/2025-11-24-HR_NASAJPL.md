@@ -14,14 +14,6 @@ author: "RashardKelly @nasa-jpl"
 
 
 
-<img alt=" Coral is standing in front of a buddy from my child hood peice, he write with network on frieghts as well, there is a process and im willing to hold until my family situation clear up so i dont disable a mission accidentally @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/aa23f0a5-63cf-4412-8a95-8cd5c9004119" />
-
-
-<img   alt="NASA Jet Propulsion Laboratory i had to follow a story question Kash Doll Normani on what #NASER_AHMED is i really dont know and dont want him around, im sus on dat nigga Department of Homeland Security Wages & Sons Funeral Home & Crematory Congressmember Karen Bass Black Girls Code Wayne A. I. Frederick #LatriceMoniqueFitzpatrick NASA's Transiting Exoplanet Survey Satellite - TESS @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/4107f65e-96bd-4053-b81e-69198bbc3738" />
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/75310e7a-5186-414a-93e5-abcff7712cca" />
-
 # Entomological warfare 
 
 <a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
@@ -34,6 +26,15 @@ EW is a specific type of [biological warfare](https://pmc.ncbi.nlm.nih.gov/artic
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0asNukzcA2ohcxazhghJ68WNhJdXrN49VTLcvwKUmZzP1K6ENe6V9bt1PBxZn3ExSl%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 `<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02gaB14iEwGqYHcA1KDa8ytDsWBpyxzCVadbeJtr523ARMSF5mSncyNPokJne5Z6Dml%26id%3D100084464911565&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`
+
+<img alt=" Coral is standing in front of a buddy from my child hood peice, he write with network on frieghts as well, there is a process and im willing to hold until my family situation clear up so i dont disable a mission accidentally @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/aa23f0a5-63cf-4412-8a95-8cd5c9004119" />
+
+
+<img   alt="NASA Jet Propulsion Laboratory i had to follow a story question Kash Doll Normani on what #NASER_AHMED is i really dont know and dont want him around, im sus on dat nigga Department of Homeland Security Wages & Sons Funeral Home & Crematory Congressmember Karen Bass Black Girls Code Wayne A. I. Frederick #LatriceMoniqueFitzpatrick NASA's Transiting Exoplanet Survey Satellite - TESS @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/4107f65e-96bd-4053-b81e-69198bbc3738" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/75310e7a-5186-414a-93e5-abcff7712cca" />
+
 
 
 # Nija Shares New Song ‘Heaven’
