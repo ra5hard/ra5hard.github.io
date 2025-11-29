@@ -13,6 +13,8 @@ author: "RashardKelly @nasa-jpl"
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+
+Abt[Erika](https://www.essence.com/tags/erika-kelly/)
 <img   alt=" . @blackgirlscode I was always uncomfortable with erika, and Muna, muna told me to go back and write moon in my Freeway striagh, she with other me, it felt so unnatural, she just pretty... trice hates that shit period" src="https://github.com/user-attachments/assets/dd2057d3-e340-4fc7-8fb7-8ad398c3fe33" />
 
 
