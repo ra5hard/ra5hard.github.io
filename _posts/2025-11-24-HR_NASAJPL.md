@@ -12,6 +12,10 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a253c4cc-fcea-4766-919c-83e7fef57aa0" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e85ef252-c0d8-40ee-9288-56d60699e8a6" />
+
 # Stranger Danger
 Living in East Atlanta Villiage, one of the fun things about being a homedweller is the community dropping in on the many people who book shows, this was a graffiti show and coral wrote on some skater `Art PEice` I dont know if thats connected to her kidnapping or her mothers dissapearnce 
 
@@ -20,7 +24,11 @@ Living in East Atlanta Villiage, one of the fun things about being a homedweller
 <img  alt="image" src="https://github.com/user-attachments/assets/c267e7ae-56dd-49de-b982-4f3c69af0b4e" />
 <img  alt="image" src="https://github.com/user-attachments/assets/be7bb17f-47c2-4ed6-ab6f-851de6939637" />
 <img  alt="image" src="https://github.com/user-attachments/assets/b7b50563-0f48-47ae-ab09-8f8b5b20cf71" />
+<img   alt="image" src="https://github.com/user-attachments/assets/a253c4cc-fcea-4766-919c-83e7fef57aa0" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e85ef252-c0d8-40ee-9288-56d60699e8a6" />
 </div>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fc81fe4e-7583-4df4-8959-09618697062e" />
 
 # Corals Art for me and either Normani or NickiMinaj
 <img  alt="image" src="https://github.com/user-attachments/assets/11448718-c2e5-4de8-bed6-cd4e3f083f80" />
