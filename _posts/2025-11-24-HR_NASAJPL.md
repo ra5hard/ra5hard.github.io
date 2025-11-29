@@ -12,6 +12,7 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/75310e7a-5186-414a-93e5-abcff7712cca" />
 
 # Entomological warfare 
 
