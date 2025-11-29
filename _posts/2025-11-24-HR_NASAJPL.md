@@ -14,7 +14,10 @@ author: "RashardKelly @nasa-jpl"
 
 
 
-<img   alt=" Coral is standing in front of a buddy from my child hood peice, he write with network on frieghts as well, there is a process and im willing to hold until my family situation clear up so i dont disable a mission accidentally @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/4107f65e-96bd-4053-b81e-69198bbc3738" />
+<img alt=" Coral is standing in front of a buddy from my child hood peice, he write with network on frieghts as well, there is a process and im willing to hold until my family situation clear up so i dont disable a mission accidentally @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/aa23f0a5-63cf-4412-8a95-8cd5c9004119" />
+
+
+<img   alt="NASA Jet Propulsion Laboratory i had to follow a story question Kash Doll Normani on what #NASER_AHMED is i really dont know and dont want him around, im sus on dat nigga Department of Homeland Security Wages & Sons Funeral Home & Crematory Congressmember Karen Bass Black Girls Code Wayne A. I. Frederick #LatriceMoniqueFitzpatrick NASA's Transiting Exoplanet Survey Satellite - TESS @nasa-pds -Rashard @nasa-Develop @blueorigin" src="https://github.com/user-attachments/assets/4107f65e-96bd-4053-b81e-69198bbc3738" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/75310e7a-5186-414a-93e5-abcff7712cca" />
