@@ -13,32 +13,6 @@ author: "RashardKelly @nasa-jpl"
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
-
-<img  alt=" @blackgirlscode, i was in love" src="https://github.com/user-attachments/assets/65111c82-be97-4c55-9538-bfa947ec7e0a" />
-
-<img   alt=" @nasa-jpl @nasa-pds i did not make the background, i was just having fun with my new type an trying new backgrounds" src="https://github.com/user-attachments/assets/89b4fcb2-994e-4ad1-af2d-ae415b789921" />
-
-
-<img  alt=" @blackgirlscode i made this brand up with Muna Ahmed @nasa-jpl" src="https://github.com/user-attachments/assets/1d88339c-fb00-4bbd-abea-352f4aa9513b" />
-
-
-Abt[Erika](https://www.essence.com/tags/erika-kelly/)
-<img   alt=" . @blackgirlscode I was always uncomfortable with erika, and Muna, muna told me to go back and write moon in my Freeway striagh, she with other me, it felt so unnatural, she just pretty... trice hates that shit period" src="https://github.com/user-attachments/assets/dd2057d3-e340-4fc7-8fb7-8ad398c3fe33" />
-
-<img  alt=" @blackgirlscode this paint smelled like candy, i was not high, i dont belive that at all, i think u get a stomach ache if u breath in too much @cityoflosangeles KARENBASS" src="https://github.com/user-attachments/assets/f743445e-cb5b-453f-be15-3951a20ede65" />
-
-
-[Beach High School: Home](https://beach.sccpss.com/)
-<img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
-
-<img alt="i was given the name TUCK to teach me letters and it was a joke to hide after i used shep faiery handle OBEY @blackgirlscode @TheSpaceDevs" src="https://github.com/user-attachments/assets/08ef3e21-1933-4416-9ba8-ba0516f4493b" />
-
-
-<img alt="first peice @blackgirlscode Pane sounded like a dumb thing to write over and over again at that stage of the game @nasa-jpl" src="https://github.com/user-attachments/assets/ee9104b2-0698-4804-9420-0cdec4eb17d0" />
-
-<img  alt="last peice before movint to oakland @blackgirlscode" src="https://github.com/user-attachments/assets/cad6ec07-4e4e-41e9-bf47-43f61279663e" />
-
-
 # Entomological warfare 
 
 <a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
@@ -68,7 +42,35 @@ Brandy Normani #TYRA #LATRiCE Howard University https://soundcloud.com/nija-musi
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid038GEjnrQMJkPbXAm9gSa3865b2ac5xxCXVDcuUeyijTGPcmRXra4txSPESDNKPwagl%26id%3D100084464911565&show_text=true&width=500" width="500" height="0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+<img  alt=" @blackgirlscode, i was in love" src="https://github.com/user-attachments/assets/65111c82-be97-4c55-9538-bfa947ec7e0a" />
+
+<img   alt=" @nasa-jpl @nasa-pds i did not make the background, i was just having fun with my new type an trying new backgrounds" src="https://github.com/user-attachments/assets/89b4fcb2-994e-4ad1-af2d-ae415b789921" />
+
+
+<img  alt=" @blackgirlscode i made this brand up with Muna Ahmed @nasa-jpl" src="https://github.com/user-attachments/assets/1d88339c-fb00-4bbd-abea-352f4aa9513b" />
+
+
+Abt[Erika](https://www.essence.com/tags/erika-kelly/)
+<img   alt=" . @blackgirlscode I was always uncomfortable with erika, and Muna, muna told me to go back and write moon in my Freeway striagh, she with other me, it felt so unnatural, she just pretty... trice hates that shit period" src="https://github.com/user-attachments/assets/dd2057d3-e340-4fc7-8fb7-8ad398c3fe33" />
+
+<img  alt=" @blackgirlscode this paint smelled like candy, i was not high, i dont belive that at all, i think u get a stomach ache if u breath in too much @cityoflosangeles KARENBASS" src="https://github.com/user-attachments/assets/f743445e-cb5b-453f-be15-3951a20ede65" />
+
+
+[Beach High School: Home](https://beach.sccpss.com/)
+<img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
+
+<img alt="i was given the name TUCK to teach me letters and it was a joke to hide after i used shep faiery handle OBEY @blackgirlscode @TheSpaceDevs" src="https://github.com/user-attachments/assets/08ef3e21-1933-4416-9ba8-ba0516f4493b" />
+
+
+<img alt="first peice @blackgirlscode Pane sounded like a dumb thing to write over and over again at that stage of the game @nasa-jpl" src="https://github.com/user-attachments/assets/ee9104b2-0698-4804-9420-0cdec4eb17d0" />
+
+<img  alt="last peice before movint to oakland @blackgirlscode" src="https://github.com/user-attachments/assets/cad6ec07-4e4e-41e9-bf47-43f61279663e" />
+
+
+
 @nasa-jpl Los Angeles Wildfires as seen by sentinel2 [a](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1509630831053786-timelapse.mp4) [b](https://archive.org/download/commitmentmaintenance/Sentinel-2_L2A-1015826333215209-timelapse.mp4) @blackgirlscode @cityoflosangeles
+
+<img   alt="image" src="https://github.com/user-attachments/assets/741d419e-3cde-4315-b859-e6badc4eaead" />
 
 <div class="tupperware">
 	
