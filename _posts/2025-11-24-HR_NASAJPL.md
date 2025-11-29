@@ -16,6 +16,9 @@ author: "RashardKelly @nasa-jpl"
 [Beach High School: Home](https://beach.sccpss.com/)
 <img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
 
+
+<img alt="first peice @blackgirlscode Pane sounded like a dumb thing to write over and over again at that stage of the game @nasa-jpl" src="https://github.com/user-attachments/assets/ee9104b2-0698-4804-9420-0cdec4eb17d0" />
+
 <img  alt="last peice before movint to oakland @blackgirlscode" src="https://github.com/user-attachments/assets/cad6ec07-4e4e-41e9-bf47-43f61279663e" />
 
 
