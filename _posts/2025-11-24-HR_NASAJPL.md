@@ -16,6 +16,9 @@ author: "RashardKelly @nasa-jpl"
 [Beach High School: Home](https://beach.sccpss.com/)
 <img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
 
+<img  alt="last peice before movint to oakland @blackgirlscode" src="https://github.com/user-attachments/assets/cad6ec07-4e4e-41e9-bf47-43f61279663e" />
+
+
 # Entomological warfare 
 
 <a href="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3"><img   alt="image" src="https://github.com/user-attachments/assets/8fd1d90f-77e6-4b18-9651-8b0aea49c5d3" style="width: 25%; height: auto;"/></a>
