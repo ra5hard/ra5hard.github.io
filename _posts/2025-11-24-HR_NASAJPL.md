@@ -12,9 +12,26 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+# DEAR_LATRiCE
+@howard-university-web-services 
+@nasa-jpl she will clean me up or clean me out! ther is no inbetween! @StateOfCalifornia 
+I dont know how to figure out what to tell you, i dont want you throwing me in jail! 
+LATRiCE I am linking Facebook post here numbered [1](https://www.facebook.com/permalink.php?story_fbid=pfbid0sLeDCNkXMbWWXFm75D7MSYgk3NA3minH4euQLefDLEjJTzopz5BeP52ZEfxi29H8l&id=100084464911565) , [2 Naser Ahmed broke up our communication at one point](https://www.facebook.com/permalink.php?story_fbid=pfbid0uAFNNMab6EfPM2h16F35cE8krCNvxu7nHFnw1UzpU3BCy2W2Z6K6hHPScY5yCeZyl&id=100084464911565) [3 Erika in my care](https://www.facebook.com/permalink.php?story_fbid=pfbid0t8HuD6EKR6F1dF5MtQ64rKU5ZPCYhSQaPMq3ppCSGSbAcTwNr4GuVyEsGNMd42iZl&id=100084464911565) , [4 my mothers funeral](https://www.facebook.com/permalink.php?story_fbid=pfbid02Zi7AXaGXbvebAY8LL2xodfNjqFiqUHLH2t2J67arzeYdaTe2sJAAedCCJJCgAmLxl&id=100084464911565), [5 the ivf trip](https://www.facebook.com/permalink.php?story_fbid=pfbid0sZrd5fS9rHN1mbudEt9SCrg5WKNNetQPmQMBdiLUJuSsVYaJhgHShUvMXXwKRCXml&id=100084464911565), [My Muna Death Tribute](https://www.facebook.com/permalink.php?story_fbid=pfbid02CmgzJfyaHnqbsWtSAQZ3rR2B1bQqkaeq1mZ2iTCKSZqEqLhixzrAr6J3iCR8e5X1l&id=100084464911565) , [6 Howard LeaderShip Repost](https://www.facebook.com/permalink.php?story_fbid=pfbid02STNKreMm8NDWKZYj4X9NBb4NdTw1faXyaQYVzakS1MNQFFZqjvPZuqnvMYRsv1Vl&id=100084464911565) 
 
-<img   alt="image" src="https://github.com/user-attachments/assets/a253c4cc-fcea-4766-919c-83e7fef57aa0" />
-<img  alt="image" src="https://github.com/user-attachments/assets/e85ef252-c0d8-40ee-9288-56d60699e8a6" />
+<div class="tupperware">
+<img alt="image" src="https://github.com/user-attachments/assets/569a88b8-3c97-4485-9afa-122c7f05c7f8" />
+<img alt="image" src="https://github.com/user-attachments/assets/b3d13906-e4aa-4198-a720-a8982ea32a75" />
+
+</div>
+
+
+#LatriceMoniqueFitzpatrick ... hi... I can use some confirmation to be honest, so im posting ur tough guys on my feed with my complaints! You pulled #TheOkeyDoke when we were talking about moving in together 5 years ago, now im begging you to help me get organized... Its working, so idk im just uncomfortable, you can hurt me so bad! I dont know where Coral is and that darkskin girl showed me her boobs in Saudi Arabia and then via android browser surviellence so theres two intimate periods since i left 631 Moreland... I think thats it if you are Brandy / Normani and its a girl that play Kash Doll, and like erika i dont want to set up any agreements or arrangements where im forced to leave smoeone open to danger #RelationshipTalk Department of Homeland Security Essence -#Rashard NASA Jet Propulsion Laboratory / International Space Station
+
+Howard University Wayne A. I. Frederick Lydia Sermons hi my name is rashard.
+https://thakarashard.github.io/rashardmro/hr Howard University Wayne A. I. Frederick Lydia Sermons hi my name is rashard. I when on a few dates qwith a girl that identified herself as #Latrice_Monique_Fitzpatrick, she sorta do the breakups where she in my life again somehow and i think she may have gotten kidnapped at some point because.. Scratch that, there was a girl i went out with after i met her Normani / Erica Banks i really dont know if its #Latrice because i have been reciviing communications that Brandy (at least the role) is #Latrice and i feel that there may be more than one #BrandyNorwood because #LatriceMonique still fits the description... Im going to talk to my job on my blog and include some of her social channels . During #CovidLockdown my kid og tremoved and She was really into me keeping up with her... Kinda violent tbh! aNd whatever her relationsip status is i need her to know im not doing anything obscene with her memory or trust. #VirTiServ, i made a logo for her business and promised i would help. Im in a helpdesk/ datascience role NASA Jet Propulsion Laboratory / International Space Station / NASA/JPL Physical Oceanography Data Center and since its all public info and she is from a government household, i have been using the business hashtag to catergorize some things and I see results so I think she is working, not just the idea -#Rashard Rashard Iman Kelly-AhmedOsman Rashard Iman Kelly Lovebomrz Tuck Everlasting Canton Police Department, GA https://www.essence.com/tags/erika-kelly/ <~ Department of Homeland Security U.S. Immigration and Customs Enforcement Governor Gavin Newsom Brian Kemp
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid04cp2ELsbt6VxL5YDsBgs9yjYshRdq7ioVXP2L3LhdadhVM2UxXui2YBjz3GHMfHol%26id%3D100084464911565&show_text=true&width=500" width="500" height="761" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 
 # Stranger Danger
 Living in East Atlanta Villiage, one of the fun things about being a homedweller is the community dropping in on the many people who book shows, this was a graffiti show and coral wrote on some skater `Art PEice` I dont know if thats connected to her kidnapping or her mothers dissapearnce 
