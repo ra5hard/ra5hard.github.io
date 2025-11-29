@@ -11,10 +11,13 @@ author: "RashardKelly @nasa-jpl"
 
 Volcanic Eruption [Ethiopia](https://volcano.si.edu/volcano.cfm?vn=221091) 
 [NorthEastAfrica FireMap 11/29/2025](https://firms.modaps.eosdis.nasa.gov/map/#d:2025-11-24,2025-11-24;l:fires_all,countries,noaa20_crtc,earth;@40.0,10.5,6.8z)
-:: news [Ethiopian volcanic plume @ESA](https://www.esa.int/ESA_Multimedia/Images/2025/11/Ethiopian_volcanic_plume)
+	:: news [Ethiopian volcanic plume @ESA](https://www.esa.int/ESA_Multimedia/Images/2025/11/Ethiopian_volcanic_plume) :: [Ethiopian](https://www.theguardian.com/world/2025/nov/24/ethiopian-volcano-hayli-gubbi-erupts-first-time-12000-years?fbclid=IwY2xjawOYKqpleHRuA2FlbQIxMABicmlkETF4ZXdIZzM2R3d3M2psb1lIc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoS9HcouOXP5oAOGx1XN1zEx21nse7Toyz0aXxEhIHupfB9_ke1d40xW0GAz_aem_BZjnOz9D4dJxmm85a1ShuA) volcano erupts for first time in 12,000 years 
 
 
 I am so behind in my webinars, and now i got tested, i saw the report a few days ago and im having trouble fiding the eruption in the tools i have bookmarked so far, gonna eat , @blackgirlscode @nasa-jpl 
+
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@cnn/video/7576548703821925646" data-video-id="7576548703821925646" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@cnn" href="https://www.tiktok.com/@cnn?refer=embed">@cnn</a> Videos show large plumes of smoke as Ethiopia&#39;s Hayli Gubbi volcano erupts for the first time in 10,000 years, spewing ash high into the sky and impacting air travel thousands of miles away in India. <a title="cnn," target="_blank" href="https://www.tiktok.com/tag/cnn%2C?refer=embed">#cnn,</a> <a title="news" target="_blank" href="https://www.tiktok.com/tag/news?refer=embed">#news</a> <a target="_blank" title="♬ original sound - CNN" href="https://www.tiktok.com/music/original-sound-7576548978385373966?refer=embed">♬ original sound - CNN</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cc272b72-3010-46bf-b022-7eca0e026ab7" />
 
@@ -26,6 +29,7 @@ I am so behind in my webinars, and now i got tested, i saw the report a few days
 
 <img  alt="image" src="https://github.com/user-attachments/assets/465e4c7d-6b10-4937-b164-a3c6ba21e33c" />
 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Q9eUbPqeRqoA6Zu2SghFXJmzjJoY2sbqhD4uDjmncGDKzGwF4f9yfpasNWdab1rxl%26id%3D100084464911565&show_text=true&width=500" width="500" height="858" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [GOES18 HELiOPHYSiCS_Dir](https://cdn.star.nesdis.noaa.gov/GOES18/SUVI/FD/Fe094/)
 
