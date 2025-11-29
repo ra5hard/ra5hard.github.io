@@ -13,10 +13,13 @@ author: "RashardKelly @nasa-jpl"
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+<img   alt=" . @blackgirlscode I was always uncomfortable with erika, and Muna, muna told me to go back and write moon in my Freeway striagh, she with other me, it felt so unnatural, she just pretty... trice hates that shit period" src="https://github.com/user-attachments/assets/dd2057d3-e340-4fc7-8fb7-8ad398c3fe33" />
+
+
 [Beach High School: Home](https://beach.sccpss.com/)
 <img  alt="image" src="https://github.com/user-attachments/assets/58cc7cfd-1187-447d-99c6-13d016e0fd69" />
 
-<img width="1362" height="640" alt="i was given the name TUCK to teach me letters and it was a joke to hide after i used shep faiery handle OBEY @blackgirlscode @TheSpaceDevs" src="https://github.com/user-attachments/assets/08ef3e21-1933-4416-9ba8-ba0516f4493b" />
+<img alt="i was given the name TUCK to teach me letters and it was a joke to hide after i used shep faiery handle OBEY @blackgirlscode @TheSpaceDevs" src="https://github.com/user-attachments/assets/08ef3e21-1933-4416-9ba8-ba0516f4493b" />
 
 
 <img alt="first peice @blackgirlscode Pane sounded like a dumb thing to write over and over again at that stage of the game @nasa-jpl" src="https://github.com/user-attachments/assets/ee9104b2-0698-4804-9420-0cdec4eb17d0" />
