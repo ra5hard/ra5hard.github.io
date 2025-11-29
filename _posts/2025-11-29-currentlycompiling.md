@@ -7,6 +7,26 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+Volcanic Eruption [Ethiopia](https://volcano.si.edu/volcano.cfm?vn=221091) 
+[NorthEastAfrica FireMap 11/29/2025](https://firms.modaps.eosdis.nasa.gov/map/#d:2025-11-24,2025-11-24;l:fires_all,countries,noaa20_crtc,earth;@40.0,10.5,6.8z)
+:: news [Ethiopian volcanic plume @ESA](https://www.esa.int/ESA_Multimedia/Images/2025/11/Ethiopian_volcanic_plume)
+
+
+I am so behind in my webinars, and now i got tested, i saw the report a few days ago and im having trouble fiding the eruption in the tools i have bookmarked so far, gonna eat , @blackgirlscode @nasa-jpl 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cc272b72-3010-46bf-b022-7eca0e026ab7" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b833e2a7-27da-4ddd-9fd1-1d4f5ed21228" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fb7cfd33-4c07-46d4-88a0-9b3e30e35371" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fbcd21a1-b458-43ab-b8ff-8669b9d22ffc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/465e4c7d-6b10-4937-b164-a3c6ba21e33c" />
+
+
 [GOES18 HELiOPHYSiCS_Dir](https://cdn.star.nesdis.noaa.gov/GOES18/SUVI/FD/Fe094/)
 
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
