@@ -8,7 +8,7 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-In 2007, [BAE Systems](https://github.com/baesystemsdigital) delivered a 32 MJ prototype (muzzle energy) to the U.S. Navy.[80] The same amount of energy is released by the detonation of 4.8 kg (11 lb) of C4.[readlater](https://en.wikipedia.org/wiki/Railgun#Tests) @blackgirlascode @nasa-jpl
+In 2007, [BAE Systems](https://github.com/baesystemsdigital) delivered a 32 MJ prototype (muzzle energy) to the U.S. Navy.[80] The same amount of energy is released by the detonation of 4.8 kg (11 lb) of C4.[readlater](https://en.wikipedia.org/wiki/Railgun#Tests) @blackgirlscode @nasa-jpl
 
 
 # Finding Trice
