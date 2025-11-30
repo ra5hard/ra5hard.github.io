@@ -12,7 +12,10 @@ date:   2025-10-09 8:51:06
 
 [comment]: <> (Emergency Files )
 
-# CryosPhere\
+inducis
+[California - White Pages - Los Angeles Extended Area - June 1945 [A through LANEG](https://www.loc.gov/item/usteledirec02283/)
+
+# CryosPhere
 <img  alt="image" src="https://github.com/user-attachments/assets/9882be58-faab-488a-8caf-ce8aac1d9a7f" />
 
 <img  alt="GIOVANNI-output68rWhEod" src="https://github.com/user-attachments/assets/89b2a505-f7a3-4116-ace5-25c740b65327" />
