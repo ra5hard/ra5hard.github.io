@@ -13,7 +13,7 @@ date:   2025-10-09 8:51:06
 [comment]: <> (Emergency Files )
 
 inducis
-[California - White Pages - Los Angeles Extended Area - June 1945 [A through LANEG](https://www.loc.gov/item/usteledirec02283/) [Los Angeles on Weather-gov](https://www.weather.gov/lox/) [Weather-gov api @blackgirlscode](https://www.weather.gov/documentation/services-web-api)
+[California - White Pages - Los Angeles Extended Area - June 1945 [A through LANEG](https://www.loc.gov/item/usteledirec02283/) [Los Angeles on Weather-gov](https://www.weather.gov/lox/) [Weather-gov api @blackgirlscode](https://www.weather.gov/documentation/services-web-api) [api GitHub](https://weather-gov.github.io/api/)
 
 # CryosPhere
 <img  alt="image" src="https://github.com/user-attachments/assets/9882be58-faab-488a-8caf-ce8aac1d9a7f" />
