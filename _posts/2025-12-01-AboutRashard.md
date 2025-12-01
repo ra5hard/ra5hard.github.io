@@ -32,7 +32,7 @@ image: rashardMRO.jpeg
 </video> 
 ```
 
-# Stranger Danger
+# Stranger Danger ?
 Living in East Atlanta Villiage, one of the fun things about being a homedweller is the community dropping in on the many people who book shows, this was a graffiti show and coral wrote on some skater `Art PEice` I dont know if thats connected to her kidnapping or her mothers dissapearnce 
 
 
