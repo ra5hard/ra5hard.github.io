@@ -19,6 +19,21 @@ image: Overview_HD.png
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+# NewsPAper CLippings
+[@emit-sds @nasa-pds](https://archive.org/details/CAssiniDatastoredownload_6308_175)
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-fb1' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 [January 8th 2025 Formaldehyde (HCHO)](https://browser.dataspace.copernicus.eu/?zoom=11&lat=34.02677&lng=-118.49133&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX196Emnj9aFIDONOPrSkNLylsCza32OUFefVJ64hJNBD5RS8kRDWldz0WVXdPSJvNXXJb87xfpqbQ%2Bqp%2B8gEHfrTHeIbgct0qj51OKr%2FdrbtHFyE7HBtrF1H&datasetId=S5_HCHO_CDAS&fromTime=2025-01-08T00%3A00%3A00.000Z&toTime=2025-01-08T23%3A59%3A59.999Z&layerId=HCHO_VISUALIZED&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
 <img alt="image" src="https://github.com/user-attachments/assets/b7ba4c09-7b70-4797-95d3-e866ecdafec1" />
