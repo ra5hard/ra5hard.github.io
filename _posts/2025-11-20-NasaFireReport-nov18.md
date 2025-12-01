@@ -20,7 +20,9 @@ image: Overview_HD.png
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 # FireMaps
-[link @nasa-jpl @stateofcalifornia @dhs-gov](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846)
+[link @nasa-jpl @stateofcalifornia @dhs-gov](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846) :: [other plots @blackgirlscode](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/fca6b6fb-8651-4159-a660-2bb6b3bd63cf" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/8151d7ff-69bb-4e02-862a-ca871780193c" />
 
