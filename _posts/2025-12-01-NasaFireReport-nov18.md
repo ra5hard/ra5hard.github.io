@@ -42,6 +42,23 @@ image: Overview_HD.png
 </div>
 
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/e10a06b5-60b2-4d1b-b8dd-5cdadcef13b2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8344ce08-b305-46d0-ad17-a1cfacc1cbdf" />
+
+[wildfire @emit-sds](https://archive.org/download/commitmentmaintenance/ezgif-743af2e85bf09573.mp4) [wildfire @datadesk](https://archive.org/download/commitmentmaintenance/ezgif-8f3701776d5d3cd3.mp4)
+
+[https://5WILDFIRE2VID_20251126_225215_114.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2VID_20251126_225215_114.mp4)
+
+
+[/21_adult_EntertainmentZoning_LOS_ANGELES.pdf](https://archive.org/download/commitmentmaintenance/21_adult_EntertainmentZoning_LOS_ANGELES.pdf)
+
+[https://WILDFIRE2_20251126_224338_353.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE2_20251126_224338_353.mp4)
+
+[WILDFIRE1VID_20251126_224319_400.mp4](https://archive.org/download/commitmentmaintenance/000000_AAA_000_CZez2025WILDFIRE1VID_20251126_224319_400.mp4)
+
+
 <div class="tupperware">
     
 {% for image in site.static_files %}
