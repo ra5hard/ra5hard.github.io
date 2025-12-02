@@ -19,6 +19,12 @@ image: Overview_HD.png
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+### Regular City Council - 12/2/25
+Link @nasa-jpl @cityoflosangeles [FireVictimsSpeak @noaagov @emit-sds](https://youtu.be/045braI5CN4)
+<img  alt="image" src="https://github.com/user-attachments/assets/b0dee975-fbd4-4374-b340-29a124fa5384" />
+
+<iframe width="943" height="539" src="https://www.youtube.com/embed/045braI5CN4" title="Regular City Council - 12/2/25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # FireMaps
 [link @nasa-jpl @stateofcalifornia @dhs-gov](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846) :: [other plots @blackgirlscode](https://github.com/ThakaRashard/rashardmro/tree/master/assets/pl0ts) 
 
