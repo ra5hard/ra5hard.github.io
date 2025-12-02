@@ -67,19 +67,6 @@ body {
 */
 picture { display:inline-block };
 
-pre {
-  display: grid;
-  grid-template-columns: auto ;	
-  border: 1px solid dodgerblue;
-  border-radius: 5px;
-  width:80%;
-  height: 200px;
-  overflow-y: scroll;
-  overflow-x: auto;
-  scrollbar-color: dodgerblue #F2F2F250;
-  white-space: pre;
-  word-wrap: break-word;
-}
 
 
 .top-container {
@@ -622,13 +609,17 @@ code {
   font-size: 13px;
   color: #efefef;
   text-shadow: 0px 1px 0px #000;
-  margin: 0 4px;
-  padding: 2px 6px;
+  margin: 0 2px;
+  padding: 4px 4px;
   background: #333;
   border-radius: 2px;
-  overflow-y: scroll;
-  max-height: 40vh;
+  white-space: wrap;
+    column-fill: balance-all;
+  word-break: break-all;
 }
+
+
+
 
 pre {
   padding: 8px 15px;
@@ -637,7 +628,8 @@ pre {
   border: 1px solid #c7c7c7;
   overflow: auto;
   overflow-y: hidden;
-
+  scrollbar-color: dodgerblue #F2F2F250;
+  word-wrap: break-word;
   code {
     margin: 0px;
     padding: 0px;
