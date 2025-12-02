@@ -439,3 +439,8 @@ Megan Lorick, [Malibu R](https://en.wikipedia.org/wiki/Talk:Malibu,_California)e
 
 [SmolderingHills](https://archive.org/download/commitmentmaintenance/0000000_A_000_CCAA_smolderingHills_wasjustContrast_withVegetationNORMANi_VID_20251118_090419.mp4) @blackgirlscode I need to show the damage in Eaton from stream @nasa-jpl
 
+
+# Remembering Altadena
+@blackgirlscode i love u guys... wow what a album 
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A362465363&color=%23973c24&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kelelam" title="KELELA" target="_blank" style="color: #cccccc; text-decoration: none;">KELELA</a> · <a href="https://soundcloud.com/kelelam/sets/take-me-apart-1" title="Take Me Apart" target="_blank" style="color: #cccccc; text-decoration: none;">Take Me Apart</a></div>
