@@ -2,12 +2,23 @@
 @import "fonts";
 /* @import "rouge-base16-dark";@import "normalize"; */
 @import url("https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100..800&display=swap");
+@font-face {
+  font-family: Cluster;
+  src: url(https://raw.githubusercontent.com/ThakaRashard/thakarashardOLD/master/assets/fonts/clusrg__.ttf);
+}
+@import url('https://cdn.rawgit.com/lonekorean/gist-syntax-themes/d49b91b3/stylesheets/idle-fingers.css');
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+
 
 html {
   background-size: 100%;
   font: normal 13px/18px "Martian Mono", Arial, "Lucida Sans Unicode", verdana,
     lucida, sans-serif;
-
   font-variation-settings: "wdth" 100;
 
   margin: 0px;
@@ -54,7 +65,7 @@ body {
   overflow-x: auto;
 }
 */
-
+picture { display:inline-block };
 
 pre {
   display: grid;
@@ -142,6 +153,8 @@ background: #0D0D0D50;
   /* part 2 of 2 centering hack */
   voice-family: '"}"';
   voice-family: inherit;
+	 word-break: break-all;
+  hyphens: auto;
   box-shadow: rgba(219, 54, 45, 0.4) 5px 5px, rgba(219, 54, 45, 0.3) 10px 10px,
     rgba(219, 54, 45, 0.2) 15px 15px, rgba(219, 54, 45, 0.1) 20px 20px,
     rgba(219, 54, 45, 0.05) 25px 25px;
@@ -152,6 +165,12 @@ background: #0D0D0D50;
 
 section img {
   height: auto;
+	max-width: 100%;
+}
+
+::selection {
+  color: #aaff00;
+  background: #454b1b;
 }
 
 /* css class-declarations cannot start with a number */
@@ -598,8 +617,7 @@ blockquote {
 
 code {
 	  display:flex;
-  width:92vw;
-  overflow-x: auto;
+   overflow-x: auto;
   white-space: pre;
   word-wrap: break-word;
   font-family: "Martian Mono", Monaco, Bitstream Vera Sans Mono, Lucida Console,
