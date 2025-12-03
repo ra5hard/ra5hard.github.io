@@ -22,9 +22,17 @@ TIME	7:25 AM
 TIMEZONE Los Angeles
 
 [Link](https://plus.nasa.gov/scheduled-video/international-space-station-change-of-command-ceremony-3/?fbclid=IwY2xjawOdZsdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEedFWJ-nGwpmDT3vzWSguMrgqs-GWDFTAhq4ZNe-p4q5GWrinhS6COZmb2YcA_aem_xRPsSpo5aXQnv2DJbEPsuA)
-<img  alt="image" src="https://github.com/user-attachments/assets/ed0d14a4-feb7-44a0-8a49-c303e685028b" />
 
-<img src="https://github.com/.../8344ce08-b305-46d0-ad17-a1cfacc1cbdf" alt="image"/>  [#MikeFinke](https://www.nasa.gov/people/edward-michael-mike-fincke/) NASA/Women.of.ISS International Space Station #Mike , to get to the meaty Keisha Lance Bottoms can tell you the situation and i can make a report at some point  NASA Earthdata / / / Normani Kash Doll #LAtrice_Monique_Fitzpatrick if you guys get this message can you #introduceYourselves & tell Mike about #Coral_Iris_KElly Essence I need you to report on Erikas status as well DeKalb County Sheriff's Office Decatur GA Atlanta Woman Who Went Missing On Superbowl Sunday Has Been Found Safe
+<div class="tupperware"> 
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/86b7e979-d309-42f4-ba9a-9369f4acdbcf" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3c9660cf-a82c-4f4c-8fc2-929b3ef6d0a2" />
+<img  alt="image" src="https://github.com/user-attachments/assets/18cad6dc-1791-403a-8df6-76bd48594268" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e1cfa1f9-267a-4646-bcb7-1c8be0a40f16" />
+
+</div> 
+
+[#MikeFinke](https://www.nasa.gov/people/edward-michael-mike-fincke/) NASA/Women.of.ISS International Space Station #Mike , to get to the meaty Keisha Lance Bottoms can tell you the situation and i can make a report at some point  NASA Earthdata / / / Normani Kash Doll #LAtrice_Monique_Fitzpatrick if you guys get this message can you #introduceYourselves & tell Mike about #Coral_Iris_KElly Essence I need you to report on Erikas status as well DeKalb County Sheriff's Office Decatur GA Atlanta Woman Who Went Missing On Superbowl Sunday Has Been Found Safe
 Nearly two months after her disappearance, Georgia's DeKalb County Police say that Erika Renee Johnson Kelly has been found safe. https://www.essence.com/.../erika-renee-johnson-kelly.../ Supervisor Holly J. Mitchell Supervisor Janice Hahn Congressmember Karen Bass https://www.essence.com/tags/erika-kelly/ Family Seeks Answers In Disappearance Of Atlanta Woman Last Seen On Superbowl Sunday
 Erika Kelly is approximately 5’5 in height, weighing 140 lbs. Anyone with information should contact the DeKalb County Police at 770-724-7710. https://www.essence.com/.../erika-kelly-missing-atlanta.../ FBI - Los Angeles Mori & Associates Kimberly Bryant, Founder Black Girls CODE Howard University Wayne A. I. Frederick https://www.facebook.com/essence/posts/the-search-for-erika-renee-johnson-kelly-ended-this-week/10158235880782855/ Georgia Division of Family & Children Services Planned Parenthood L.A. County Department of Public Social Services CAL FIRE Governor Gavin Newsom    EARTHDATA LOGIN @TheSpaceDevs @BlueOrigin @nasa-jpl @nasa-pds
  Rashard Kelly
