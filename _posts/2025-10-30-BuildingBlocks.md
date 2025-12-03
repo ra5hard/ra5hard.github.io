@@ -2,12 +2,20 @@
 layout: class
 mermaid: true
 published: true
+permalink: /changelog
 title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+@nasa-pds 
+citations are broken on some images @nasa-jpl @emit-sds @nasa @blackgirlscode 
+Source `http://solarsystem.nasa.gov/multimedia/display.cfm?IM_ID=2149 ` resolves to `https://solarsystem.nasa.gov/multimedia/display/?IM_ID=2149` 
+Page not found
+The page you requested either doesn't exist anymore, or was moved.
 
+You can try searching for the topic, or follow the links below.
+<img   alt="image" src="https://github.com/user-attachments/assets/1d6b0681-3aee-47e4-881a-0358d46c4b54" />
 
 DATA ALERT: Anomaly affecting the OPERA DSWx-S1 product: OPERA has discovered a processing error affecting DSWx-S1 data products generated from May 2025 onwards. This error is causing Sentinel-1A (S1A) and Sentinel-1C (S1C) data to be incorrectly mixed into a single product.
 This issue is currently under investigation by the OPERA team. As a precaution, the OPERA team has temporarily stopped the production of DSWx-S1 while they resolve this matter. We will provide more information as soon as it becomes available. We apologize for any inconvenience this may cause.[https://podaac.jpl.nasa.gov/](https://podaac.jpl.nasa.gov/)
