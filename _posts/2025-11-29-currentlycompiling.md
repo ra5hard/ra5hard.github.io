@@ -7,6 +7,20 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+[https://github.com/ThakaRashard/rashardmro/tree/master/assets%2Fimages%2Fgallery-texasgavinsupport](https://github.com/ThakaRashard/rashardmro/tree/master/assets%2Fimages%2Fgallery-texasgavinsupport)
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-texasgavinsupport' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 
 <div class="tupperware">
     
