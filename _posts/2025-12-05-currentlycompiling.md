@@ -8,6 +8,17 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+@ESA please forgive me, i put you on the back burner because I was busy studying rocks [Martian Geology](https://archive.org/details/mars-geology-imaging-gifs) 
+
+<iframe src="https://archive.org/embed/mars-geology-imaging-gifs" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+<img alt="image" src="https://github.com/user-attachments/assets/78dca5a9-2946-4f40-bbe0-814685cd8ae2" />
+
+@BLackgirlsCode Latrice Fits is our purest file format, that dumps pics, and for the ppl that wanna rob me for NFT . . If the data is always BrandNew, what do you do? im exhausted! @nasa-jpl 
+
+[FITS Liberator Basics instruction video](https://esahubble.org/videos/ann2104a/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/941a753f-942b-43a0-9023-ea775254122e" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/441a66e8-2572-40ec-866f-0f7842221c4c" />
 
