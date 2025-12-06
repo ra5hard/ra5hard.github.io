@@ -7,6 +7,24 @@ image: ESP_062216_2660_RGB.NOMAP.browse.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e2c43b75-b34f-4931-a227-e59e1b981e8a" />
+
+<div class="section_2col">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-mars' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+
 # JPL Open Source Rover Project
 [DOCS](https://open-source-rover.readthedocs.io/en/latest/) / [GiT](https://github.com/nasa-jpl/open-source-rover)
 <object data="https://jplopensourcerover.com/#!/home" width="100%" height=400px ></object>
