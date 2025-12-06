@@ -7,6 +7,10 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+[CERES](https://ceres.larc.nasa.gov/) @nasa + @blackgirlscode 
+![CEREs](https://ceres.larc.nasa.gov/images/CERES_logo_small.png)
+
 [https://github.com/ThakaRashard/rashardmro/tree/master/assets%2Fimages%2Fgallery-texasgavinsupport](https://github.com/ThakaRashard/rashardmro/tree/master/assets%2Fimages%2Fgallery-texasgavinsupport)
 
 <div class="tupperware">
