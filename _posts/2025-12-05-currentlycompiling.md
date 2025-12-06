@@ -8,8 +8,12 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-[CERES](https://ceres.larc.nasa.gov/) @nasa + @blackgirlscode 
+[CERES](https://ceres.larc.nasa.gov/) @nasa + @blackgirlscode About ASDC
+The Mission of the Atmospheric Science Data Center (ASDC) is to be a leading provider of atmospheric science data products and services to the science community through agility, innovation, and technical excellence.
+
 ![CEREs](https://ceres.larc.nasa.gov/images/CERES_logo_small.png)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/878b3ea1-e1b8-4399-9843-b3fa5c320f7e" />
 
 [https://github.com/ThakaRashard/rashardmro/tree/master/assets%2Fimages%2Fgallery-texasgavinsupport](https://github.com/ThakaRashard/rashardmro/tree/master/assets%2Fimages%2Fgallery-texasgavinsupport)
 
