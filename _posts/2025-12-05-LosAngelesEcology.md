@@ -14,6 +14,8 @@ date:   2025-10-09 8:51:06
 
 ### Los Angeles County
 
+![EatonCAnyon](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_006_250930_L090_CX_01/crparc_09118_25032_006_250930_L090_CX_01.gif?fbclid=IwY2xjawOlk7ZleHRuA2FlbQIxMABicmlkETBEY3dQbkJjeUdFRWNlUU9Gc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlDtNQUvD6ZJX-tmlaOdNeILHayWaw7KdF5S2ct2XIlY9fr14DYt5DS4mjOU_aem_8WvMLtGJZVfZsUfQIaJBDQ)
+
 
 Map of California Subsidence and Uplift
 Scientists mapped land sinking (indicated in blue) in coastal California cities and in parts of the Central Valley due to factors like soil compaction, erosion, and groundwater withdrawal. They also tracked uplift hot spots (shown in red), including i... Credit: NASA Earth Observatory
@@ -538,6 +540,7 @@ Los Angeles-Area Landslide Expands
 ![S1C_IW_GRDH_1SDV_20251006T014931_20251006T014956_004435_008C8B_0EE3](https://github.com/user-attachments/assets/e9162420-aaeb-4222-9c1e-6ee004b516c9)
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/18c2c93e-d128-480a-9b4f-986a065e35e5" />
 
 
 
@@ -1207,6 +1210,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
