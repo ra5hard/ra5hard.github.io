@@ -13,6 +13,13 @@ date:   2025-10-09 8:51:06
 [comment]: <> (Emergency Files )
 
 ### Los Angeles County
+
+Regular City Council - 12/9/25 [watch](https://youtu.be/3D5MrlaPBkQ)
+Climate Resilience Districts
+Overview and Approach [PDF](https://rcpa.ca.gov/wp-content/uploads/2024/10/County-of-Los-Angeles-Climate-Resilience-Districts-Report-2024.pdf)  ::::::::: SMART_LA [PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)  / How Will LA Look in 2028? A Look at the City's Plan To ... [pdf](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf)  @cityoflosangeles @emit-sds [smartla](https://ita.lacity.gov/smartla2028) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/42d6b2f9-8f72-4c66-83f8-0ec799a1e7c9" />
+
 Aquatic Report [LinK @nasa-jpl](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.67/-13147350.80/3999217.77&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) [inland glendale / hollyrock](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.11/-13158609.97/4049796.63&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [The Palisades](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.26/-13195663.95/4034960.19&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [Eaton Canyon](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.10/-13151400.61/4054694.41&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0)   @nasa-jpl @blackgirlscode @datadesk @stateofcalifornia @cbs-news-data @COBIS-HU hi latrice i cant look at tick tok yet im not ready for the news 
 @CityOfLosAngeles @StateOFCalifornia @BlacakGirlsCode there is some way to get [ms mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) and [Mayor Bass](https://yandex.com.tr/gundem/entertainment/los-angeles-belediye-baskani-yanginlar-surerken-gana-gezisinden-donmedigi-icin-elestiriliyor-943710) to see this link. They are really into climate data here [Ms Hahn](https://lacounty.gov/government/board-of-supervisors/janice-hahn/) too @nasa-jpl
 
@@ -1183,6 +1190,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
