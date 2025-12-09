@@ -14,6 +14,9 @@ date:   2025-10-09 8:51:06
 
 ### Los Angeles County
 
+NASA’s UAVSAR airborne radar instrument captured data in fall 2024 showing the motion of landslides on the Palos Verdes Peninsula following record-breaking rainfall in Southern California in 2023 and another heavy-precipitation winter in 2024. Darker red indicates faster motion. Credit: NASA Earth Observatory [read @nasa-jpl](https://www.jpl.nasa.gov/news/nasa-radar-imagery-reveals-details-about-los-angeles-area-landslides/)
+![Landslidevelosity](https://d2pn8kiwq2w21t.cloudfront.net/images/1-PIA26495-PV_landslides.width-1320.jpg) @CityOfLosAngeles
+
 Regular City Council - 12/9/25 [watch](https://youtu.be/3D5MrlaPBkQ)
 Climate Resilience Districts
 Overview and Approach [PDF](https://rcpa.ca.gov/wp-content/uploads/2024/10/County-of-Los-Angeles-Climate-Resilience-Districts-Report-2024.pdf)  ::::::::: SMART_LA [PDF](https://ita.lacity.gov/sites/g/files/wph1626/files/2021-05/SmartLA2028%20-%20Smart%20City%20Strategy.pdf)  / How Will LA Look in 2028? A Look at the City's Plan To ... [pdf](https://s42263.pcdn.co/wp-content/uploads/2023/01/230103_dot.LA_How-Will-LA-Look-in-2023.pdf)  @cityoflosangeles @emit-sds [smartla](https://ita.lacity.gov/smartla2028) 
@@ -1190,6 +1193,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
