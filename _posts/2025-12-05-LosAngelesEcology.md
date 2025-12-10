@@ -14,6 +14,22 @@ date:   2025-10-09 8:51:06
 
 ### Los Angeles County
 
+Tink - Fake Love [watch](https://youtu.be/FSlFD6DnxeQ?list=RDFiGAkDE7s7o)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/90c8f0c4-c7de-4c97-8102-e37f6df8d6f3" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/88f88311-9170-42dc-afaa-6d06e0060cd8" />
+
+
+<img  alt="2025-12-08-00_00_2025-12-08-23_59_Sentinel-2_L2A_False_color (1)" src="https://github.com/user-attachments/assets/bde3f74e-fb61-4537-ac4e-fef4ea04a844" />
+
+<img alt="2025-12-08-00_00_2025-12-08-23_59_Sentinel-2_L2A_False_color" src="https://github.com/user-attachments/assets/e025bc2d-4775-4d34-9090-9494ce36ef23" />
+
+the coast looks cleaner @stateofcalifornia @cityoflosangeles 
+<img  alt="image" src="https://github.com/user-attachments/assets/fa8d71f3-8f4b-4a5b-8594-7a11a74179e1" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/c31a2f2c-c425-4072-bbb6-216877afc438" />
+
 NASA's Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR), a reconfigurable, polarimetric L-band SAR, is specifically designed to acquire airborne repeat track SAR data for differential interferometric measurements. Differential interferometry can provide key deformation measurements, and is important for studies of earthquakes, volcanoes, and other dynamically changing phenomena.
 ![EatonCAnyon](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_006_250930_L090_CX_01/crparc_09118_25032_006_250930_L090_CX_01.gif?fbclid=IwY2xjawOlk7ZleHRuA2FlbQIxMABicmlkETBEY3dQbkJjeUdFRWNlUU9Gc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlDtNQUvD6ZJX-tmlaOdNeILHayWaw7KdF5S2ct2XIlY9fr14DYt5DS4mjOU_aem_8WvMLtGJZVfZsUfQIaJBDQ)
 
@@ -1211,6 +1227,9 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
 
 
 
