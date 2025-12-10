@@ -7,6 +7,36 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+
+@GitHub Stale and ActiveSessions @blackgirlscode im revoking all for security im scared!
+```
+Long Beach 205.154.246.79
+active
+Your current session
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Dec 09, 2025
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Dec 09, 2025
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Dec 09, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 06, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 04, 2025
+Seen in US
+```
+
 ## Voyager 1 Red Spot Movie
 [link](https://archive.org/details/SPD-SLRSY-2149)
 @nasa-pds 
