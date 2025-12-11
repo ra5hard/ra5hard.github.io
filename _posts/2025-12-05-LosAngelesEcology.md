@@ -17,7 +17,7 @@ date:   2025-12-10 8:51:06
 
 ### Los Angeles County
 The 1992 Los Angeles riots/uprising was a series of riots and civil disturbances that occurred in Los Angeles County, California, United States, during April and May 1992.
-[wiki](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots)
+[wiki](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots) : [wikiTalk](https://en.wikipedia.org/wiki/Talk:1992_Los_Angeles_riots)
 
 Documentary
 - [LA 92 Full Doc National Geographic](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) [LA92 _ Trailer](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) @natgeosociety
@@ -1269,6 +1269,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
