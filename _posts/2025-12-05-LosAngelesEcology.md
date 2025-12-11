@@ -6,13 +6,55 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2025-10-09 8:51:06 
+date:   2025-12-10 8:51:06 
 ---
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
 [comment]: <> (Emergency Files )
 
 ### Los Angeles County
+The 1992 Los Angeles riots/uprising was a series of riots and civil disturbances that occurred in Los Angeles County, California, United States, during April and May 1992.
+[wiki](https://en.wikipedia.org/wiki/1992_Los_Angeles_riots) : [wikiTalk](https://en.wikipedia.org/wiki/Talk:1992_Los_Angeles_riots)
+
+Documentary
+- [LA 92 Full Doc National Geographic](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) [LA92 _ Trailer](https://youtu.be/DcFuY_lPwh8?si=xh53ZxD_hRRoZ3zg) @natgeosociety
+[youtube](https://youtu.be/uaotkHlHJwo?si=j5SGrNoepeT_i2UR)
+[@netflix](https://www.netflix.com/title/80184131) @StateOfCalifornia : LongBeach Public Library `Oh no! This title currently isn’t available to watch in your country.` + [DiscussionGuide](https://films.nationalgeographic.com/la-92-discussion-guide)  @nasa-jpl @emit-sds @whitehouse @cityoflosangeles @blackgirlscode
+- The Day After the L.A. Riots (1992 Life & Times Broadcast)  
+@PBS SoCal [Watch](https://youtu.be/dujzeuh_8mU)
+- L.A.’s 1992 Civil Unrest: The Causes and Legacy
+USC Dornsife College of Letters, Arts and Sciences [Watch](https://youtu.be/BTNzW9wM-Wo) @NetDem-USC
+<img alt="image" width="50%" src="https://github.com/user-attachments/assets/8896c63c-8c49-4fd2-a111-cb9e56153152" />
+
+
+
+
+1992 LA RIOTS @CityOfLosAngeles
+[Harvey](https://www.linkedin.com/in/harvey-levin-997229304) [Levin](https://www.imdb.com/name/nm0505608/) - before [TMZ](https://youtu.be/np0XaQqwGYM?si=4EuYiL4C-twApUBw) - reporting for CBS LA
+@cbs-news-data  @blackgirlscode [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0UPGVWwjTMcVQ6TxgbimptHaYVa16oiSUxk6uTmuKEjDzQyKuY97U6LfZ8MQ2Rz36l&id=100084464911565)
+[watch](https://www.youtube.com/watch?v=YqA1Qj2MAu0)
+
+#[karenBass](https://www.dailymail.co.uk/news/karen-bass/index.html)  im going to listen in, i was kidnapped around this time Essence NASA Jet Propulsion Laboratory https://youtu.be/YqA1Qj2MAu0?si=LfGXpJ5ny6asniiJ #Yo_Latrice sartu is my ibeji twin... i really dont know what it means in america, our village was torn apart and someone blew up our market in a helicopter. I dont know if it was los angeles or somolia but mymomma put on the bunny ears man, an we here! Black Girls Code Normani thats y i can still love you, the shit just hurt Los Angeles County Board of Supervisors and im tired of being tortutrd by people who make bad vacation chioces and catalog shop #RelationshipTruths Virgin Mary Ethiopian Orthodox Tewahedo Cathedral i dont remember church, but i remember people The Ministry of Foreign Affairs of Ethiopia Secretary Sean Duffy
+<img  alt="image" src="https://github.com/user-attachments/assets/71e6963d-80cb-4f22-9eb1-edb8ce80217d" />
+
+
+{% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO#################LATrice########################
+3 # ANOTHER###############################################
+4 # UNiVERSE###@BlackGirLSCode Im plotting Displacement########
+{% endhighlight %}
+
+
+LosAnGeles Displacement CSV Data @asfadmin [for](https://registry.opendata.aws/nasa-operal3disp-s1v1/) @cityoflosangeles 
+[CouncilWoman Traci Park](https://cd11.lacity.gov/about/traci-park) - [download .csv file](https://github.com/ThakaRashard/rashardlearned/blob/master/assets/plots/asf-opera-displacement-2025-12-10_04-16-35.csv)
+<img  alt="image" src="https://github.com/user-attachments/assets/22b7dd88-b5ae-49dd-94b8-345f40dc5031" />
+
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 
 Tink - Fake Love [watch](https://youtu.be/FSlFD6DnxeQ?list=RDFiGAkDE7s7o)
 
@@ -1227,6 +1269,15 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
+
+
+
 
 
 
