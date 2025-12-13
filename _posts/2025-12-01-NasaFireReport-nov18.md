@@ -19,6 +19,22 @@ image: Overview_HD.png
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+# EatonCanyon Before and after 
+
+2022
+![2022](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_22001_013_220413_L090_CX_01/crparc_09118_22001_013_220413_L090_CX_01.gif)
+
+2025
+![2025](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_007_250930_L090_CX_01/crparc_09118_25032_007_250930_L090_CX_01.gif) 
+
+
+
+`Run ID	       Site Name       	NASA Log #	Investigator	Start Lat	Start Lon	Stop Lat	Stop Lon	Start GMT	Stop GMT	    Comments `
+`p00_r09	LA Wildfire E-W (orthocorrected)	 192015 	 Robert Green 	 34.02867 	 -118.85900 	 34.18483 	 -117.84950 	 1947 	 1956 	 LA Wildfire E -) W`
+BKN CLDS SMOKE? 
+![Aviris f250501t01p00r09_geo.jpeg](https://aviris.jpl.nasa.gov/ql/25qlook/f250501t01p00r09_geo.jpeg)
+
+
 ### Regular City Council - 12/2/25
 Link @nasa-jpl @cityoflosangeles [FireVictimsSpeak @noaagov @emit-sds](https://youtu.be/045braI5CN4)
 <img  alt="image" src="https://github.com/user-attachments/assets/b0dee975-fbd4-4374-b340-29a124fa5384" />
