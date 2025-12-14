@@ -9,6 +9,24 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+# Phoenix
+Phoenix was a lander sent to the surface of Mars to search for evidence of past or present microbial life.
+
+<div class="section_2col">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-phoenix' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+<img   alt="image" src="https://github.com/user-attachments/assets/22c63b48-2222-4dc9-9f34-8df3f294eb05" />
+
+
 
 [link](https://codepen.io/thakarashard/pen/BaEmOWr)
 
