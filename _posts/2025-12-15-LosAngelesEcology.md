@@ -19,6 +19,28 @@ date:   2025-12-10 8:51:06
 
 
 ### Sunshine Canyon LAndFill
+
+![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
+[recovery.lacounty.gov](https://recovery.lacounty.gov/)
+[DamageMaps and more!](https://recovery.lacounty.gov/eaton-fire/)
+[DisasterPlanning](https://planning.lacounty.gov/disaster-recovery/) 
+[NASA Disasters Mapping Portal](https://disasters-nasa.hub.arcgis.com/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/29e5e3f5-3f6b-463f-933a-5d503a4b3f0a" />
+
+@cityoflosangeles @stateofcalifornia 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-copernicusLA' | sort: 'date'  %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02YXXnq165NkHR1WyqsbDPehVG249XZaadCiY37rZLG4PooDkWwfEMBxJy2LHfGhufl%26id%3D100084464911565&show_text=true&width=500" width="500" height="704" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0246gFF86krNNZraSuTMgaivuGuLy6mUCoqUJ6dCbRZC1BmdYBaAkEhr8YyP78j6w5l%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -192,26 +214,7 @@ dataretrival :  [Rashard](https://rashardiman.github.io/) [Kelly](https://rashar
  @blackgirlscode @podaac
 
 
-![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
-[recovery.lacounty.gov](https://recovery.lacounty.gov/)
-[DamageMaps and more!](https://recovery.lacounty.gov/eaton-fire/)
-[DisasterPlanning](https://planning.lacounty.gov/disaster-recovery/) 
-[NASA Disasters Mapping Portal](https://disasters-nasa.hub.arcgis.com/) 
-<img  alt="image" src="https://github.com/user-attachments/assets/29e5e3f5-3f6b-463f-933a-5d503a4b3f0a" />
 
-@cityoflosangeles @stateofcalifornia 
-
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-copernicusLA' | sort: 'date'  %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-
-</div>
 
 ## [FireFiles Commit bbceab2](https://github.com/ThakaRashard/rashardmro/commit/bbceab2c2106ab120f8ec30b77a4cde036db1846)
 
@@ -1286,6 +1289,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
