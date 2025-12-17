@@ -8,6 +8,19 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/d887ee8e-b647-45a3-96a4-53f0befc39c3" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0N4erMhqwNtVvE1PniAHa7gxW7rFuG1AYBqWDmm5xJao5LgW8cG1K5id6bfgkuXc4l%26id%3D100084464911565&show_text=true&width=500" width="500" height="806" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1094cc30-a436-4e5e-8a91-20ae5dce625a" />
+
+
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/802776264095203328" data-did="e16325db4d3e5a8083e44da0ad6f82673643865a"><a href="https://rashardmro.tumblr.com/post/802776264095203328/eatoncanyon-before-and">https://rashardmro.tumblr.com/post/802776264095203328/eatoncanyon-before-and</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/b5ac8822-2594-4e89-8154-7a9ec05ea34e" />
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02uvbam4TLj1ahrYNwLUpxwuBgCzPq14KcWRrvHsxCB6RHdqDaSegeHw2TTzUAXy5Ml%26id%3D100084464911565&show_text=true&width=500" width="500" height="640" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
 @ESA please forgive me, i put you on the back burner because I was busy studying rocks [Martian Geology](https://archive.org/details/mars-geology-imaging-gifs) 
 
 
