@@ -12,6 +12,9 @@ author: "RashardKelly @nasa-jpl"
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Bir697CaXAk8FmEhdq22R8xWVA6jGuT73aTH583BMUHtj6rsqfFDCV4AFNpbNmJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/683eaa86-06c4-4b54-b215-cb412920f998" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1e1714c9-57df-454a-8bf0-1bcba80838c3" />
 
 @podaac @nasa <- img cred @caltech
@@ -26,6 +29,19 @@ author: "RashardKelly @nasa-jpl"
 <img  alt="image" src="https://github.com/user-attachments/assets/b5ac8822-2594-4e89-8154-7a9ec05ea34e" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02uvbam4TLj1ahrYNwLUpxwuBgCzPq14KcWRrvHsxCB6RHdqDaSegeHw2TTzUAXy5Ml%26id%3D100084464911565&show_text=true&width=500" width="500" height="640" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+<img   alt="2025-12-17-00_00_2025-12-17-23_59_Sentinel-2_L2A_NDSI (1)" src="https://github.com/user-attachments/assets/3fc8ac30-369c-4736-97d5-210d8a36527f" />
+
+
+<img alt="2025-12-17-00_00_2025-12-17-23_59_Sentinel-2_L2A_False_color (3)" src="https://github.com/user-attachments/assets/9fd8ee16-8603-42a7-abc8-91a83dbbdf1b" />
+
+
+<img  alt="2025-12-17-00_00_2025-12-17-23_59_Sentinel-2_L2A_False_color (2)" src="https://github.com/user-attachments/assets/fe82cd6e-101d-46e9-b030-ed4397ad83e2" />
+
+
+<img alt="2025-12-17-00_00_2025-12-17-23_59_Sentinel-2_L2A_False_color (1)" src="https://github.com/user-attachments/assets/4fd53344-352e-49de-9a25-471e93d9760d" />
+
+<img  alt="2025-12-17-00_00_2025-12-17-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/170af046-1816-472f-992a-e5ee14465c96" />
 
 @ESA please forgive me, i put you on the back burner because I was busy studying rocks [Martian Geology](https://archive.org/details/mars-geology-imaging-gifs) 
 
