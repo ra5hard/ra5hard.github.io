@@ -9,6 +9,16 @@ author: "RashardKelly @nasa-jpl"
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d887ee8e-b647-45a3-96a4-53f0befc39c3" />
+@nasa-jpl @blackgirlscode @emit-sds @cityoflosangeles @stateofcalifornia @cbs-news-data @datadesk @newshour
+
+#DTLANEWSPEOPLE NOLA City Council #AGU25 ABC World News Tonight with David Muir hi david, i was on Copernicus EU and got some recent images of #TheSaltonSea CBS LA KTLA 5 News NBC LA hi E! News Normani #Coachella2025 is not far from there, im surveying the area like that, #latricefitzpatrick #virtiserv im so awkward you told me your name was #Patrice under a differnt circumstance Wayne A. I. Frederick Howard University Santa Barbara County Board of Supervisors Los Angeles County Board of Supervisors Mayor Karen Bass Essence Keisha Lance Bottoms LAPD Missing Persons Unit - MPU Kash Doll Latto  https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-17-currentlycompiling.md < KTLA Weather NASA Jet Propulsion Laboratory Axiom Space Blue Origin Defense Information Systems Agency // hi Black Girls Code -#rashard NASA Earthdata @
+```
+Warning! You are engaging in behavior that may be considered annoying or abusive by other users. Facebook's systems determined that you were going too fast when taking an action. You must significantly slow down. Further misuse of site features may result in a temporary block or your account being permanently disabled.
+
+If you think this doesn't go against our Community Standards let us know. Give feedback
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ac01307e-0098-4263-816f-fb41d8f2013a" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Bir697CaXAk8FmEhdq22R8xWVA6jGuT73aTH583BMUHtj6rsqfFDCV4AFNpbNmJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
