@@ -12,6 +12,15 @@ author: "RashardKelly @nasa-jpl"
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Bir697CaXAk8FmEhdq22R8xWVA6jGuT73aTH583BMUHtj6rsqfFDCV4AFNpbNmJl%26id%3D100084464911565&show_text=true&width=500" width="500" height="866" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
+<img alt="image" src="https://github.com/user-attachments/assets/4ce65843-c5e1-4fbe-a7db-c7302ac49af3" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/744d8f60-ab0f-4ba1-a13a-f9f1fb40e7d0" />
+
+L.A. Ecology @CityOfLosAngeles @Nasa-jpl
+Written on December 10, 2025
+December 10th, 2025 by RashardKelly @nasa-jpl [LiNK](https://holetoanotheruniverse40.github.io/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/12/10/LosAngelesEcology.html?fbclid=IwY2xjawOwIR1leHRuA2FlbQIxMABicmlkETFTNHp6WXRVYWprSkg4akpyc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHkYKJ2oQd_dtKxXYeyqCa6SWsWHzbyUp27lWnZlRqPNc5OjE0WUxemyR6fds_aem_9UnrjafGqDaqdcHUPPq7vw)
+Shared with Public [LiNK](https://www.facebook.com/permalink.php?story_fbid=pfbid02BddQ9hiLnAcX1aGi7KBHTDM1uZL29sbN8qYbyaBPpGhBKBtqf3VthkSZos1K2zfhl&id=100084464911565)
+#ECOSTRESS #ThermalRadiometeR #ZOe_A_PiE UCLA #AGU25 International Space Station // #virtiserv #latricefitzpatrick Black Girls Code Normani https://holetoanotheruniverse40.github.io/.../LosAngelesE... Supervisor Holly J. Mitchell Karen Bass LAPD Missing Persons Unit - MPU -#rashardkelly NASA Solar System Exploration NASA Earth NASA/JPL Physical Oceanography Data Center DEFCON Hacking Conference <~ #Trice i wanna go when its safe! Copernicus EU See less
 
 <img  alt="image" src="https://github.com/user-attachments/assets/683eaa86-06c4-4b54-b215-cb412920f998" />
 
