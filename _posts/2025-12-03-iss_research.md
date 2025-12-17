@@ -11,6 +11,42 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+@NASA-Openscapes hi its rashard from MRO @nasa-jpl here are some files for the city of new orleleans @TheSpaceDevs @StateofCalifornia @nasa-jpl from [#theEcostressMission](https://ecostress.jpl.nasa.gov/gallerylist) @blackgirlscode ill make a wrap up if i get another sesh @CityOflosangeles see [MyBinder](https://thakarashard.github.io/mybinder/) and My [HomePage](https://thakarashard.github.io) 
+
+<div class="section_2col">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-nola' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+
+
+Aquatic Report [LinK @nasa-jpl](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.67/-13147350.80/3999217.77&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) [inland glendale / hollyrock](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.11/-13158609.97/4049796.63&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [The Palisades](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.26/-13195663.95/4034960.19&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0) ; [Eaton Canyon](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.10/-13151400.61/4054694.41&layers=aqv_tss_20251203_sentinel:1.00:0.00:30.00:default&grids=1,0)   @nasa-jpl @blackgirlscode @datadesk @stateofcalifornia @cbs-news-data @COBIS-HU hi latrice i cant look at tick tok yet im not ready for the news 
+@CityOfLosAngeles @StateOFCalifornia @BlacakGirlsCode there is some way to get [ms mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) and [Mayor Bass](https://yandex.com.tr/gundem/entertainment/los-angeles-belediye-baskani-yanginlar-surerken-gana-gezisinden-donmedigi-icin-elestiriliyor-943710) to see this link. They are really into climate data here [Ms Hahn](https://lacounty.gov/government/board-of-supervisors/janice-hahn/) too @nasa-jpl
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/26259a23-d2a6-4dd5-85a9-f83f6a6101ed" />
+<img  alt="image" src="https://github.com/user-attachments/assets/61800d91-8ad0-4036-93c7-d23d928a4ae2" />
+<img  alt="EATON CANYONE" src="https://github.com/user-attachments/assets/095fd1db-01e0-4d3c-a819-f2886b015257" />
+
+
+inducis
+[California - White Pages - Los Angeles Extended Area - June 1945 [A through LANEG](https://www.loc.gov/item/usteledirec02283/) [Los Angeles on Weather-gov](https://www.weather.gov/lox/) [Weather-gov api @blackgirlscode](https://www.weather.gov/documentation/services-web-api) [api GitHub](https://weather-gov.github.io/api/)
+
+# CryosPhere
+<img  alt="image" src="https://github.com/user-attachments/assets/9882be58-faab-488a-8caf-ce8aac1d9a7f" />
+
+<img  alt="GIOVANNI-output68rWhEod" src="https://github.com/user-attachments/assets/89b2a505-f7a3-4116-ace5-25c740b65327" />
+
 ## International Space Station Change of Command Ceremony
 @blackgirlscode @stateofCalifornia @cityoflosangeles
 ISS Expedition 74 Change of Command Ceremony (Ryzhikov hands over ISS command to Fincke).
