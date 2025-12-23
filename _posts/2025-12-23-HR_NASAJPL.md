@@ -9,6 +9,40 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+# Rashard Kelly NasaJpl MRO JUNO iSS
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+ # FaceBook Account
+ ` alt="image trying to make a new facebook account"` 
+ @nasa-jpl @blackgirlscode @nasa-pds @cityoflosangeles @stateofcalifornia
+<img   alt="image trying to make a new facebook account" src="https://github.com/user-attachments/assets/e431a6b7-be69-491f-b8c2-2338f875346c" />
+@meta pleas look for the sting `Re: LosAngeles:Karen Bass / Mark Zuckerberg / Menlo Park City Government [Link] My name is rashard kelly, im a victim of the federal doxxing playboy magazine has been maintaining via foot soldiers in southern california and atlanta. They Login illicitly and disable accounts. Mark can you fix my account ? ThakaSartu and reset the password for Rashard Iman Kelly Ahmed-Osman? I dont have a phone number and geting stopped at the checkpoint URL. -#Rashard NASAEARTHDATA ` in the following accounts 
+```
+"records@fb.com" <records@fb.com>,
+"appeals@fb.com" <appeals@fb.com>,
+"security@facebookmail.com" <security@facebookmail.com>,
+"phish@fb.com" <phish@fb.com>,
+"bnash@menlopark.gov" <bnash@menlopark.gov>,
+"jnwise@menlopark.gov" <jnwise@menlopark.gov>,
+"dcombs@menlopark.gov" <dcombs@menlopark.gov>,
+"jdschmidt@menlopark.gov" <jdschmidt@menlopark.gov>,
+"cttaylor@menlopark.gov" <cttaylor@menlopark.gov>,
+"FHWA.PressOffice@dot.gov" <FHWA.PressOffice@dot.gov>,
+"MediaRelations@fcc.gov" <MediaRelations@fcc.gov>,
+"susana.p.douglas@nasa.gov" <susana.p.douglas@nasa.gov>,
+"lyudmyla.p@nasa.gov" <lyudmyla.p@nasa.gov>,
+"shri.g.agarwal@jpl.nasa.gov" <shri.g.agarwal@jpl.nasa.gov>
+```
+<div class="tupperware">
+<img   alt="image" src="https://github.com/user-attachments/assets/0c6214e8-de9f-4004-a5a6-7ae99776778b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/38da1fc7-b5ec-448f-8b4b-c5767818a4ae" />
+
+</div>
+
+<img   alt="image trying to make a new facebook account" src="https://github.com/user-attachments/assets/e431a6b7-be69-491f-b8c2-2338f875346c" />
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
