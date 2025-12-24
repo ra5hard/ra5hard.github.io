@@ -10,7 +10,7 @@ author: "RashardKelly @nasa-jpl"
 
 
 ## Curiosity 
-The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies.
+The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies. [ReadMore](https://svs.gsfc.nasa.gov/30707/)
 ![Curiosity Selfies](https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030707/curiosity_selfies_2012-2015_print.jpg)
 
 ## imagemagick coalasce
