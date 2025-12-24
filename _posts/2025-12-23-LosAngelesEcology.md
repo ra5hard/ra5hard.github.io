@@ -17,9 +17,44 @@ date:   2025-12-10 8:51:06
 
 ### Los Angeles County
 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+
+[comment]: <> (Emergency Files )
+[Time MAchine - Mind in a Spin](https://youtu.be/HWwCVqWmgro) @blackgirlscode its really wet and a ton of water in the LARiVER @usgs @nasa-jpl @cityoflosangeles @stateofcalifornia, [The water dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-120.51266%2C32.21552%2C-115.01255%2C35.28935%5D&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-120.51265674752948%2C32.21551532000953%2C-115.01255370831964%2C35.28934616530745%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A3%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) is showing increased discharge at the whittier dam, im going ot upload some footage... [SkyZoo Truck Jewels](https://youtu.be/m-Vz08HZPwk)... There was flooding near LATTC [`WatcHNow`](https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000000_qRivercheK_latriceLikeness_maybe_freight_VirtiSerV_VID_20251224_114756_060.mp4) high water levels in the Los Angeles River at the Metro Los Angeles Eline Passover [WatchNow](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_qRivercheK_latriceLikeness_maybe_freight_VirtiSerV_VID_20251224_094151_923.mp4) , [TheComptonCreek](https://parks.lacounty.gov/compton-creek-walking-path-phase-i/) at the Metro [A_LiNE](https://laist.com/news/transportation/metro-a-line-extension-opening-san-gabriel-valley) crossover [Watch](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_qRivercheK_latriceLikeness_maybe_freight_VirtiSerV_VID_20251224_121758_189.mp4), and the cossover into LongBeach [WatchNOW](https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000000_qRivercheK_latriceLikeness_maybe_freight_VirtiSerV_VID_20251224_122005_155.mp4) @cbs-news-data @newshour @washingtonpost i really dont know how to communicate man.. its coming # California_Linux: Maintaining Commitment NasaJpl_3arthdata MRO/JUNO:ECOSTRESS-BlackGirlsCodeVID 20251024 024214 336
+by Rashard Kelly [Archive.oRG](https://archive.org/details/commitmentmaintenance/0000000000_qRivercheK_latriceLikeness_maybe_freight_VirtiSerV_VID_20251224_084513_436.mp4)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/431a3156-2c0b-4d06-ae07-480999e77733" />
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a96a1abc-5748-4b9b-ba5e-991baf0accbb" />
+
+[map]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.28035%2C33.94008%2C-117.95076%2C34.0757%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.28035354614259%2C33.94008448680239%2C-117.95076370239259%2C34.07569681246808%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C17%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A3%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+@nasa-jpl @cityoflosangeles #Virtiserv @blackgirlscode i dont knwow if anyone is monitoring the hackathon github, but since im benched on @meta right now she relayed to keep her up to date here @COBIS-HU she may contact you `Latrice Fitzpatrick` @howard-university-web-services
+<img   alt="image" src="https://github.com/user-attachments/assets/01e701c2-4a19-45fb-83ee-274f396b942c" />
+
+
+Longbeach from [Aster](https://asterweb.jpl.nasa.gov/map/) <~ @Nasa-jpl [DataProduct](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/standard-data-products) ... `geophysical measurements from various types of instruments` && `Standard data products are those with an internally consistent, well-calibrated record of Earth’s geophysical properties to support science.` [ReadMore](https://www.earthdata.nasa.gov/data/catalog)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/de51bbfe-2c11-4bbe-90d0-dfe43a33dd0a" />
+
+
+[LA_HARBOR](https://asterweb.jpl.nasa.gov/gallery/images/LA-Harbor.jpg) img cred @nasa-jpl / @caltech maybe @UCLA 
+<img  alt="image" src="https://github.com/user-attachments/assets/c1779206-2e3c-436c-9047-57c61779b02a" />
+
+### Los Angeles County
+@CityOfLosAngeles @StateOfCalifornia we have a dataset compiled that will let you explore the power plants in America
+@whitehouse @nasa-jpl @blackgirlscode @emit-sds @nasa-pds
+[View Map](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,steel_plants,country-outline,hlsl30-ndvi,hlss30-ndvi,firefly;@-113.6,35.2,6.8z)
+
+
 see [Teslabits](https://thakarashard.github.io/ricothaka/tesla)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/dd429320-c5b8-417d-ac83-37cdfc926cea" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/aa9c0836-d2d5-4552-a25d-f0be4ccaad4c" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/e17b7cbe-4d32-4921-9a6d-c1780c2506fc" />
 
@@ -1302,6 +1337,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
