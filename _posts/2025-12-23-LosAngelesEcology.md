@@ -83,18 +83,6 @@ see [Teslabits](https://thakarashard.github.io/ricothaka/tesla)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/92da3970-b281-4f3c-84ef-bd4777dead72" />
 
-
-### Sunshine Canyon LAndFill
-
-![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
-[recovery.lacounty.gov](https://recovery.lacounty.gov/)
-[DamageMaps and more!](https://recovery.lacounty.gov/eaton-fire/)
-[DisasterPlanning](https://planning.lacounty.gov/disaster-recovery/) 
-[NASA Disasters Mapping Portal](https://disasters-nasa.hub.arcgis.com/) 
-<img  alt="image" src="https://github.com/user-attachments/assets/29e5e3f5-3f6b-463f-933a-5d503a4b3f0a" />
-
-@cityoflosangeles @stateofcalifornia 
-
 <div class="tupperware">
     
 {% for image in site.static_files %}
@@ -107,12 +95,39 @@ see [Teslabits](https://thakarashard.github.io/ricothaka/tesla)
 
 </div>
 
+### Sunshine Canyon LAndFill
+
+![stateofcaliforna](https://recovery.lacounty.gov/wp-content/uploads/2021/07/la-county-recovers-style-logo.png)
+[recovery.lacounty.gov](https://recovery.lacounty.gov/)
+[DamageMaps and more!](https://recovery.lacounty.gov/eaton-fire/)
+[DisasterPlanning](https://planning.lacounty.gov/disaster-recovery/) 
+[NASA Disasters Mapping Portal](https://disasters-nasa.hub.arcgis.com/) 
+<img  alt="image" src="https://github.com/user-attachments/assets/29e5e3f5-3f6b-463f-933a-5d503a4b3f0a" />
+
+@cityoflosangeles @stateofcalifornia 
 
 
+
+[An illustrated history of Los Angeles County, California](https://archive.org/details/illustratedhisto01lewi/page/575/mode/2up)
+<iframe src="https://archive.org/embed/illustratedhisto01lewi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) [The history of forgetting : Los Angeles and the erasure of memory](https://archive.org/details/historyofforgett0000klei)
+
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+El Pueblo de Nuestra Señora la Reina de los Ángeles del Río de Porciúncula (English: The town of Our Lady the Queen of the Angels of the River of the Porciuncula), shortened to Pueblo de los Ángeles, was the Spanish civilian pueblo settled in 1781, which became the [American metropolis of Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles#Government). The pueblo was built using labor from the adjacent village of Yaanga and was totally dependent on local Indigenous labor for its survival
+[Read LaReina PDF](https://ia601405.us.archive.org/14/items/lareinalosangele00hill/lareinalosangele00hill.pdf) [related tweet](https://x.com/RicoThaka/status/1785810853646021084) [WELCOME TO LA REINA](https://www.lareinala.com/our-history) [The History of Los Angeles](https://lacity.gov/government/history-los-angeles) Historically, the areas of present day Los Angeles was home to the Chumash and Tongva Native American tribes. On September 4, 1781 a group of settlers consisting of 14 families numbering 44 individuals of Native American, African and European heritage journeyed more than one-thousand miles across the desert from present-day northern Mexico and established a farming community in the area naming it "El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula" which in English translated to "The Town of Our Lady the Queen of the Angels of Porciúncula". Over time this community would grow under the flags of Spain, Mexico and eventually the United States to become one of the largest metropolitan cities in the world, the City of [Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles). 
+![La Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg) By Unknown author - <a rel="nofollow" class="external free" href="https://tessa.lapl.org/cdm/search/searchterm/00032727">https://tessa.lapl.org/cdm/search/searchterm/00032727</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7035575">Link</a>
+
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02YXXnq165NkHR1WyqsbDPehVG249XZaadCiY37rZLG4PooDkWwfEMBxJy2LHfGhufl%26id%3D100084464911565&show_text=true&width=500" width="500" height="704" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid0246gFF86krNNZraSuTMgaivuGuLy6mUCoqUJ6dCbRZC1BmdYBaAkEhr8YyP78j6w5l%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 ### NASA's ECOSTRESS Captures Short-Lived Heat Wave in L.A. Area
 July 21, [2025](https://youtu.be/4abP93C1MAU) 
 
@@ -543,20 +558,6 @@ The Eaton Fire burning north of Pasadena has burned about 1.6 square miles.  Aer
 The Port of Los Angeles: a History
 <iframe src="https://archive.org/embed/csmha_000279" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-[An illustrated history of Los Angeles County, California](https://archive.org/details/illustratedhisto01lewi/page/575/mode/2up)
-<iframe src="https://archive.org/embed/illustratedhisto01lewi" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-[LaHistoryArchive](https://www.lahistoryarchive.org/) [East Los Angeles : history of a barrio](https://archive.org/details/eastlosangeleshi0000romo/page/n9/mode/2up) [Front page : 100 years of the Los Angeles times, 1881-1981](https://archive.org/details/frontpage100year0000unse/page/n9/mode/2up) [The history of forgetting : Los Angeles and the erasure of memory](https://archive.org/details/historyofforgett0000klei)
-
-### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
-
-[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
-
-<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-
-El Pueblo de Nuestra Señora la Reina de los Ángeles del Río de Porciúncula (English: The town of Our Lady the Queen of the Angels of the River of the Porciuncula), shortened to Pueblo de los Ángeles, was the Spanish civilian pueblo settled in 1781, which became the [American metropolis of Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles#Government). The pueblo was built using labor from the adjacent village of Yaanga and was totally dependent on local Indigenous labor for its survival
-[Read LaReina PDF](https://ia601405.us.archive.org/14/items/lareinalosangele00hill/lareinalosangele00hill.pdf) [related tweet](https://x.com/RicoThaka/status/1785810853646021084) [WELCOME TO LA REINA](https://www.lareinala.com/our-history) [The History of Los Angeles](https://lacity.gov/government/history-los-angeles) Historically, the areas of present day Los Angeles was home to the Chumash and Tongva Native American tribes. On September 4, 1781 a group of settlers consisting of 14 families numbering 44 individuals of Native American, African and European heritage journeyed more than one-thousand miles across the desert from present-day northern Mexico and established a farming community in the area naming it "El Pueblo de Nuestra Señora la Reina de los Ángeles de Porciúncula" which in English translated to "The Town of Our Lady the Queen of the Angels of Porciúncula". Over time this community would grow under the flags of Spain, Mexico and eventually the United States to become one of the largest metropolitan cities in the world, the City of [Los Angeles](https://en.wikipedia.org/wiki/Pueblo_de_Los_%C3%81ngeles). 
-![La Plaza](https://upload.wikimedia.org/wikipedia/commons/b/bc/LosAngeles-Plaza-1869.jpg) By Unknown author - <a rel="nofollow" class="external free" href="https://tessa.lapl.org/cdm/search/searchterm/00032727">https://tessa.lapl.org/cdm/search/searchterm/00032727</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=7035575">Link</a>
 
 
 # [Los Angeles Fires](https://www.earthdata.nasa.gov/news/worldview-image-archive/wildfires-los-angeles-california) : [Palisades](https://www.earthdata.nasa.gov/news/worldview-image-archive/palisades-eaton-fires-los-angeles-california) : [Pepperdine](https://emergency.pepperdine.edu/)
@@ -1358,6 +1359,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
