@@ -10,7 +10,7 @@ author: "RashardKelly @nasa-jpl"
 
 @nasa-jpl my new login script
 
-,,,
+'''
 
 Name: Rashard I Kelly
 Email Address: holetoanotheruniverse40@gmail.com
@@ -30,6 +30,7 @@ Linux localhost 4.19.191 #1 SMP PREEMPT Fri Dec 5 09:50:13 CST 2025 aarch64 Andr
  11:05:42 up 5 days, 21:19,  load average: 13.63, 14.10, 14.96
 ~ $
 
+'''
 ,,,
 latrice @blackgirlscode @cityoflosangeles 
  [billieJean](https://www.longbeach.gov/library) closes at 5 today and the 31st @nasa_jpl
