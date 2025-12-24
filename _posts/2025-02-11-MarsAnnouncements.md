@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mars_News
+categories: mars
 image: Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
 ---
 
