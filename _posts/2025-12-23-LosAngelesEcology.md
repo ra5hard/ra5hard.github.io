@@ -16,10 +16,20 @@ date:   2025-12-10 8:51:06
 
 [comment]: <> (Emergency Files )
 
-### Los Angeles County
-
+### Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+
+
+<video controls preload="none" poster="https://github.com/user-attachments/assets/b8e63043-f24a-41e5-9ce8-7e710f248cb1" > 
+
+
+<source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/0000000_AA_0000AVID_20251123_191233_244.mp4" type="video/mp4">
+<source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000_AA_0000AVID_20251123_191233_244.mp4" type="video/mp4">
+
+
+</video> 
+
 
 
 [comment]: <> (Emergency Files )
@@ -29,6 +39,10 @@ portal](https://earth.gsfc.nasa.gov/gwm) //// Energy and Water Consumption Analy
 Team Members: Yash Kansal, Meera G K, Yeyan Wang, Crystal Wang, Shweta Joshi [LiNK](https://github.com/yashkansal97/LA_Energy_Water_Analysis) - cite @yashkansal97
 
 <img  alt="image" src="https://github.com/user-attachments/assets/431a3156-2c0b-4d06-ae07-480999e77733" />
+
+![NEWS](https://www.weather.gov/images/lox/WxStory/WeatherStory3.png) @cityoflosangeles @blackgirlscode @stateofcalifornia 
+
+
 
 @usgs pleas pass to [KarenBass](https://www.congress.gov/member/karen-bass/B001270) @nasa-jpl @nasa-pds 
 [MAP]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-119.25925%2C33.5306%2C-116.96386%2C34.4751%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-119.2592525902595%2C33.530603519924476%2C-116.96385559719359%2C34.47509865097331%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C17%2C18%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A3%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
@@ -209,7 +223,7 @@ inducis
 
 <img  alt="GIOVANNI-output68rWhEod" src="https://github.com/user-attachments/assets/89b2a505-f7a3-4116-ace5-25c740b65327" />
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02wcsdfeAauke4WzSfHhrq8Y3HNzpascmbQBHiaohSAKbfMmfsFJcR4qvDWDqKjXW8l%26id%3D100084464911565&show_text=true&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+`<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02wcsdfeAauke4WzSfHhrq8Y3HNzpascmbQBHiaohSAKbfMmfsFJcR4qvDWDqKjXW8l%26id%3D100084464911565&show_text=true&width=500" width="500" height="703" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`
 
 <video controls  > 
 
@@ -1344,6 +1358,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
