@@ -7,6 +7,9 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+latrice @blackgirlscode @cityoflosangeles 
+ [billieJean](https://www.longbeach.gov/library) closes at 5 today and the 31st @nasa_jpl
 my @vsco @blackgirlscode @nasa-pds @nasa-jpl @cityoflosangeles
 
 [RashardSartu](https://vsco.co/rashardsartu/gallery) / [earthdatarashard](https://vsco.co/earthdatarashard/gallery)
