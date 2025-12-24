@@ -19,6 +19,10 @@ image: Overview_HD.png
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+[lafires_tempo_20250106_lrg](https://archive.org/details/lafires_tempo_20250106_lrg/IMG_20250120_143102_595.jpg) @cityoflosangeles @nasa-jpl fire reporting during the fires @blackgirlscode @podaac
+
+
 # EatonCanyon Before and after 
 
 2022
