@@ -8,6 +8,29 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
+@nasa-jpl my new login script
+
+,,,
+
+Name: Rashard I Kelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Wed Dec 24 11:05:42 PST 2025
+    December 2025
+Su Mo Tu We Th Fr Sa
+    1  2  3  4  5  6
+ 7  8  9 10 11 12 13
+14 15 16 17 18 19 20
+21 22 23 24 25 26 27
+28 29 30 31
+
+Linux localhost 4.19.191 #1 SMP PREEMPT Fri Dec 5 09:50:13 CST 2025 aarch64 Android
+ 11:05:42 up 5 days, 21:19,  load average: 13.63, 14.10, 14.96
+~ $
+
+,,,
 latrice @blackgirlscode @cityoflosangeles 
  [billieJean](https://www.longbeach.gov/library) closes at 5 today and the 31st @nasa_jpl
 my @vsco @blackgirlscode @nasa-pds @nasa-jpl @cityoflosangeles
