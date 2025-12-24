@@ -13,6 +13,27 @@ author: "RashardKelly @nasa-jpl"
 The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies. [ReadMore](https://svs.gsfc.nasa.gov/30707/)
 ![Curiosity Selfies](https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030707/curiosity_selfies_2012-2015_print.jpg)
 
+
+<video controls  > 
+
+
+<source src="https://ia800800.us.archive.org/13/items/mars-geology-imaging-gifs/6105_PIA25215.mp4" type="video/mp4">
+
+<source src="https://ia600800.us.archive.org/13/items/mars-geology-imaging-gifs/6105_PIA25215.mp4" type="video/mp4">
+
+
+</video> 
+
+<video controls  > 
+
+
+<source src="https://ia600800.us.archive.org/13/items/mars-geology-imaging-gifs/MARS2020FLIGHTPATH_helicam_ingenuity_blackgirlscode_virtiserv_latrice_normani.mp4" type="video/mp4">
+
+<source src="https://ia800800.us.archive.org/13/items/mars-geology-imaging-gifs/MARS2020FLIGHTPATH_helicam_ingenuity_blackgirlscode_virtiserv_latrice_normani.mp4" type="video/mp4">
+
+
+</video> 
+
 ## imagemagick coalasce
 [Link](https://imagemagick.org/script/command-line-options.php#gsc.tab=0)
 
