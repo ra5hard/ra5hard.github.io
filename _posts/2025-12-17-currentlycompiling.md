@@ -7,6 +7,15 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+my @vsco @blackgirlscode @nasa-pds @nasa-jpl @cityoflosangeles
+
+[RashardSartu](https://vsco.co/rashardsartu/gallery) / [earthdatarashard](https://vsco.co/earthdatarashard/gallery)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fd52a019-20e7-443a-9ed4-43a33753ad91" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/fec044b5-4052-4c2a-a298-fe9607ea028a" />
+
+[LAFiRES - ARChiVE](https://archive.org/details/lafires_tempo_20250106_lrg/IMG_20250120_143102_595.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d887ee8e-b647-45a3-96a4-53f0befc39c3" />
 @nasa-jpl @blackgirlscode @emit-sds @cityoflosangeles @stateofcalifornia @cbs-news-data @datadesk @newshour
