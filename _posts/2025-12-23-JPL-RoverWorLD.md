@@ -24,6 +24,14 @@ The Mars Science Laboratory’s Curiosity has the unique ability to capture self
 
 </video> 
 
+
+NEWS
+![mars2020](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+[Ingenuity Mars Helicopter](https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/)
+
+
+
+
 <video controls  > 
 
 
@@ -60,6 +68,28 @@ Phoenix was a lander sent to the surface of Mars to search for evidence of past 
 
 
 [link](https://codepen.io/thakarashard/pen/BaEmOWr)
+
+<div class="tupperware">
+{% for post in site.posts %}
+  {% if post.categories contains 'mars' %}
+
+  <article itemprop="blogPosts" itemscope itemtype="https://schema.org/BlogPosting" >
+  <a href="{{ site.github.url }}{{ post.url }}">
+
+    <div class="featured-post" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }})"{% endif %}>
+  <h2 itemprop="headline"><span>{{ post.title }}</span></h2>
+
+    </div>
+
+  </a>
+
+</article>
+
+  {% endif %}
+{% endfor %}
+
+
+</div>
 
 ![mars](https://mars.nasa.gov/system/resources/detail_files/27872_PIA26209-web.gif) 
 
