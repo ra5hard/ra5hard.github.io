@@ -9,6 +9,16 @@ author: "RashardKelly @nasa-jpl"
 
 
 
+## Curiosity 
+The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies.
+![Curiosity Selfies](https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030707/curiosity_selfies_2012-2015_print.jpg)
+
+## imagemagick coalasce
+[Link](https://imagemagick.org/script/command-line-options.php#gsc.tab=0)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/977fc4e9-213b-4f4c-81ca-43951afa4f66" />
+
+
 # Phoenix
 Phoenix was a lander sent to the surface of Mars to search for evidence of past or present microbial life. [website](https://www.jpl.nasa.gov/missions/phoenix/) 
 
