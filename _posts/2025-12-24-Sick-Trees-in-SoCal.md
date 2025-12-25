@@ -6,6 +6,9 @@ image: under-construction-pikachu.gif
 title: "Sick Trees @StateOfCalifornia : @CityOfLosAngles"
 ---
 
+
+
+2025-09-02- 
 ## Santa Monica 
 @nasa @nasa-jpl @blackgirlscode @nasa-pds
 On my way to church at [St. Augustine by-the-Sea](http://www.saint-augustine.org/), [La First UMC](https://www.lafirstumc.org/) was closed for [SabbathSunday](https://www.catholic.com/tract/sabbath-or-sunday) I saw some lumps on the trees i remember in savannah and think that they are Chemical Weapons used to bring root rot like many of the trees in atlanta. I read further about a fungus that looks the same. If it is natural pheonomena, the big blue flux in
