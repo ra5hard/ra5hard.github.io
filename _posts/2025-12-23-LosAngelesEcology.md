@@ -18,11 +18,12 @@ date:   2025-12-10 8:51:06
 
 ### Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+Earlier ~430 I checked the river crossover near Union Station The water was lower than it was when I visited earlier, I could see the concrete but it was still feeling fast and I would have called a shallow if not for the middle channel [See photo](https://vs.co/5p29m9a8) more @blackgirlscode Virtiserv [earthdataRashard](vsco.co/earthdatarashard) ~[thakasartu](vsco.co/rashardsartu), ~530am as I crossed the bridge little Chinatown and highland Park over the river it was high and flowing strongly from the mountains -rashard @nasa-jpl @weather-gov @cityoflosangeles
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 ?@.&
 
-@
+@nasa
 <video controls  poster="https://github.com/user-attachments/assets/b8e63043-f24a-41e5-9ce8-7e710f248cb1" > 
 
 
