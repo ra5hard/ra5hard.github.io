@@ -18,8 +18,9 @@ date:   2025-12-10 8:51:06
 
 ### Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+?@.&
 
 @
 <video controls  poster="https://github.com/user-attachments/assets/b8e63043-f24a-41e5-9ce8-7e710f248cb1" > 
