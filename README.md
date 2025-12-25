@@ -1,5 +1,6 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS
-
+[DigitalMass Norwich Cathedral - Midnight Mass ](https://www.youtube.com/watch?v=0aWhYF2uTBw) /
+[Midnight Mass at Westminster Abbey | Wednesday 24th December](https://youtu.be/SEiHCNqIqtc) @Cia my chrismas eve @blackgirlscode in the library shivering 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
