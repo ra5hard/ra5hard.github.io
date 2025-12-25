@@ -1,7 +1,8 @@
 ---
 layout: post
 mermaid: true
-published: true
+published: false
+image: under-construction-pikachu.gif
 title: "Sick Trees @StateOfCalifornia : @CityOfLosAngles"
 ---
 
