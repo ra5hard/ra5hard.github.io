@@ -1,41 +1,9 @@
-<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/e25cb230-8830-46da-a9e5-63917d816ce2" />
-
-<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
-
-
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/39f3dee0-5d11-49ee-8e2c-71121b5c3ff9" />
-
-<img  alt="image" src="https://github.com/user-attachments/assets/594a9e34-f93c-4374-a5af-c10259fc37f5" />
-
-<img   alt="image" src="https://github.com/user-attachments/assets/f8406f78-7451-4bcd-96f9-bc6cc161f48c" />
-
-
-<img   alt="image" src="https://github.com/user-attachments/assets/e0b6dccf-6b1d-4eb4-a8c3-6a7ef493ffa2" />
-
-
-<img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
-
-![image](https://github.com/user-attachments/assets/cb8302a6-28eb-44b6-ba37-3cfec0ea11b7)
-
-
-
-
-
-
-[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
-
-![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
-
-
-![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
-![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+<img  alt="image" src="https://github.com/user-attachments/assets/1fd3a55a-a730-490a-81c7-401e183ae03e" />
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
@@ -82,6 +50,42 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e25cb230-8830-46da-a9e5-63917d816ce2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
+
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39f3dee0-5d11-49ee-8e2c-71121b5c3ff9" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/594a9e34-f93c-4374-a5af-c10259fc37f5" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f8406f78-7451-4bcd-96f9-bc6cc161f48c" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e0b6dccf-6b1d-4eb4-a8c3-6a7ef493ffa2" />
+
+
+<img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
+
+![image](https://github.com/user-attachments/assets/cb8302a6-28eb-44b6-ba37-3cfec0ea11b7)
+
+
+
+
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+
+![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
+![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+
 
 
 @blackgirlscode @nasa-jpl 
