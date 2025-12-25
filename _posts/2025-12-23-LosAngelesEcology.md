@@ -18,6 +18,9 @@ date:   2025-12-10 8:51:06
 
 ### Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+
+647am I rode through the Santa Fe dam on the train @usgs large reservoirs were full but not all of them , The water rate monitor looks accurate [look at the data](https://waterdata.usgs.gov/monitoring-location/USGS-11085000/#dataTypeId=continuous-00065-0&period=P7D&showFieldMeasurements=true) - the [🗺️ map 🗾]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=state-ca&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.26669871742645%2C33.89234294269259%2C-117.82541648950564%2C34.591809305057346%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C17%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D)
+
 Earlier ~430 I checked the river crossover near Union Station The water was lower than it was when I visited earlier, I could see the concrete but it was still feeling fast and I would have called a shallow if not for the middle channel [See photo](https://vs.co/5p29m9a8) more @blackgirlscode Virtiserv [earthdataRashard](vsco.co/earthdatarashard) ~[thakasartu](vsco.co/rashardsartu), ~530am as I crossed the bridge little Chinatown and highland Park over the river it was high and flowing strongly from the mountains -rashard @nasa-jpl @weather-gov @cityoflosangeles
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
