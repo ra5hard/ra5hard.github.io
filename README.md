@@ -3,11 +3,26 @@
 [Midnight Mass at Westminster Abbey | Wednesday 24th December](https://youtu.be/SEiHCNqIqtc) @Cia my chrismas eve @blackgirlscode in the library shivering 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
+
+
+![Mars](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/TRA/ORB_000800_000899/TRA_000878_1410/TRA_000878_1410_COLOR.browse.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1fd3a55a-a730-490a-81c7-401e183ae03e" />
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/23816c11-44be-4c2c-99ec-51bf2c1f02ce" />
+<img   alt="image" src="https://github.com/user-attachments/assets/36799593-f2af-4005-92ef-fa19a28412da" />
+
+NewSkills : coalace for robotic story boarding 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6ad49286-bd9f-4037-bc7e-de448b5fe282" />
+
+![hirise M R O](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_090200_090299/ESP_090296_1490/ESP_090296_1490_MIRB.browse.jpg) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
 
