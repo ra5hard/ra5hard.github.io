@@ -8,7 +8,7 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 @meta im going to clean up my phone, possibly get an sdcard from best buy and ssee if i can access @WhatsApp
-@nasa-jpl i needed to get my @redhat training certificate out of my facebook account for that girl from howard `Latrice Fitzpatrick` she very business oriented and if im not supposed to be romantic and i do that style of communication with her, i could miss out on money and possibly access to my daughter! She dropped me off at Dance411 so the image of what i am im not and im terrified! so ill play with this after i go to hollywood best buy for a sub$10 micro sd NAsa Earthdata work is filling up disk space, then theres the hunt for wifi that will actually allow me to upload @cityoflosangeles @stateofcalifornia @blackgirlscode 
+@nasa-jpl i needed to get my @redhat training certificate out of my facebook account for that girl from howard `Latrice Fitzpatrick` she very business oriented and if im not supposed to be romantic and i do that style of communication with her, i could miss out on money and possibly access to my daughter! She dropped me off at [Dance411](https://www.instagram.com/reel/DKiRAo3pcb9/) [[1](https://www.dance411.com/)] so the image of what i am im not and im terrified! so ill play with this after i go to hollywood best buy for a sub$10 micro sd NAsa Earthdata work is filling up disk space, then theres the hunt for wifi that will actually allow me to upload @cityoflosangeles @stateofcalifornia @blackgirlscode 
 
 Enter mobile number
 We’ll send a code via WhatsApp or SMS to confirm the mobile number you give us.
