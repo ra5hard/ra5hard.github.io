@@ -14,6 +14,9 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+@nasa-jpl most of my roms i purchased b4 @blackgirlscode 
+![snes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/2560px-SNES-Mod1-Console-Set.png) 
+
  # FaceBook Account
  ` alt="image trying to make a new facebook account"` 
  @nasa-jpl @blackgirlscode @nasa-pds @cityoflosangeles @stateofcalifornia
