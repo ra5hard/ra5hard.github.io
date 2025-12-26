@@ -7,17 +7,17 @@ image: virtiServ.PNG
 author: "RashardKelly @nasa-jpl"
 ---
 
+## Curiosity 
+The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies. [ReadMore](https://svs.gsfc.nasa.gov/30707/)
+![Curiosity Selfies](https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030707/curiosity_selfies_2012-2015_print.jpg)
 
 
 
+[file](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_047100_047199/ESP_047194_1965_ESP_046983_1965/ESP_047194_1965_ESP_046983_1965_RED.browse.png)
 
 ESP_090296_1490_RED.browse.jpg
 
 ![mars](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_090200_090299/ESP_090296_1490/ESP_090296_1490_RED.browse.jpg)
-
-## Curiosity 
-The Mars Science Laboratory’s Curiosity has the unique ability to capture self-portraits, or selfies. [ReadMore](https://svs.gsfc.nasa.gov/30707/)
-![Curiosity Selfies](https://svs.gsfc.nasa.gov/vis/a030000/a030700/a030707/curiosity_selfies_2012-2015_print.jpg)
 
 
 <video controls  > 
