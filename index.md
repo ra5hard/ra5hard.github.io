@@ -34,7 +34,7 @@ mermaid: true
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
 ### Currently Compiling g_e, [m/s^2](https://mars.nasa.gov/files/resources/Planet-Mars-Quick-Facts_Mars-nasa-gov.pdf)
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Intel_pentium_iii_xeon_800_sl4h8_top.png"  alt="GO" />
+<img src="https://dn721607.ca.archive.org/0/items/fatal-fury-ccm/Cartridge%20-%20Top.jpg"  alt="GO" />
   
 <script type="module">
     import mermaid from '/js/mermaid.esm.min.mjs';
