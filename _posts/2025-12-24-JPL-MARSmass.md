@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  JPL's MarsMAss
+title:  MarsExpL122625
 published: true
 tags: mars dsn "Deep Space Network" roboticss
-image: MasMass_ESP_090296_1490_MIRB_VirtiServ__LAtrice_RashaRDKELLYNASAJPL_M_R_O_DataRetrival.png
+image: virtiServ.PNG
 author: "RashardKelly @nasa-jpl"
 ---
 
