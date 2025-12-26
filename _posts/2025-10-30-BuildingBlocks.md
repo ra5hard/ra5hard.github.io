@@ -7,6 +7,16 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+@meta im going to clean up my phone, possibly get an sdcard from best buy and ssee if i can access @WhatsApp
+@nasa-jpl i needed to get my @redhat training certificate out of my facebook account for that girl from howard `Latrice Fitzpatrick` she very business oriented and if im not supposed to be romantic and i do that style of communication with her, i could miss out on money and possibly access to my daughter! She dropped me off at Dance411 so the image of what i am im not and im terrified! so ill play with this after i go to hollywood best buy for a sub$10 micro sd NAsa Earthdata work is filling up disk space, then theres the hunt for wifi that will actually allow me to upload @cityoflosangeles @stateofcalifornia @blackgirlscode 
+
+Enter mobile number
+We’ll send a code via WhatsApp or SMS to confirm the mobile number you give us.
+Country code
+United States of America (+1)
+Mobile number
+Adding your number here lets Facebook use it to help you log in, protect our community, accurately count people who use our services, and assist you in accessing Facebook and opt-in programs, but not for purposes such as suggesting friends or providing ads. Only you will see this number on your profile. If the number added here is provided elsewhere across Facebook Company Products, it may be used for other purposes including suggesting friends or providing ads.
+<img   alt="image" src="https://github.com/user-attachments/assets/a84a560d-64d3-46a7-9957-3a99f460a1f4" />
 
 
 @GitHub Stale and ActiveSessions @blackgirlscode im revoking all for security im scared!
