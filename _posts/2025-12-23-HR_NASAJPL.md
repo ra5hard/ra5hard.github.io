@@ -14,7 +14,8 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 @meta i was talking to you guys on this page [BuildingBlocks](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-10-30-BuildingBlocks.md) @nasa-jpl @nasa-pds @blackgirlscode
-@nasa-jpl most of my roms i purchased b4 @blackgirlscode 
+@nasa-jpl most of my roms i purchased b4 @blackgirlscode ... @meta i dont know if two mentions will go through, since its the same page, [RashardsChangeMonitoring](https://thakarashard.github.io/rashardmro/changelog) is where i put you bc its an outage for me and my field reporting but for you its a crime scene! this page i use to give @nasa-jpl eyes into the whole situation after [CovidFreakNicKSantaMonica](https://youtu.be/leJNDpm_G10?t=7)
+@stateofCalifornia @cityoflosangeles karen bass / holly mitchell im about ot work on my water report! @la-county-isd
 ![snes](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SNES-Mod1-Console-Set.png/2560px-SNES-Mod1-Console-Set.png) 
 
  # FaceBook Account
