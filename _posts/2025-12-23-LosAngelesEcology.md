@@ -16,11 +16,74 @@ date:   2025-12-10 8:51:06
 
 [comment]: <> (Emergency Files )
 
-### Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+
+### Rushing river
+The rain let up around 2am downtown. Riding into longbeach there was a thick low fyling cloud that gave us a foggy ride in. The ComptonCreek is [now muddy](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKs_rashard_NASAJPL_virtiserV_hi_latrice_VID_20251226_101930_625.mp4) and the Los Angeles River is about [two feet lower](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet_VID_20251227_090736_106.mp4) and the water is flowing slower . . . @SWOT-community hi I have to keep up with the river because @LACMTA sometimes has water on the tracks and M_R_O assigned me to the [NasaFireDept](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/), and gave me a [NasaEarthdataLogin](https://www.earthdata.nasa.gov/data/catalog) and guidance to explore [FireSensingTech](https://firms.modaps.eosdis.nasa.gov/active_fire/) and this year i made great contributions to The Local Newspapers with forensic data for [housing the homeless](https://www.lahsa.org/) in safe habitats and [diagnosing brush fire](https://youtu.be/ROlKx7PG6sY?si=1PmxOPhKyG7nL31b)
+files: [ComtonCreek 12/27](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKs_rashard_NASAJPL_virtiserV_hi_latrice_VID_20251226_101930_625.mp4) ;  [LosAngelesRiver 12/27](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet_VID_20251227_090736_106.mp4)  -rashard @nasa-jpl @weather-gov @cityoflosangeles @la-county-isd @blackgirlscode i sent [normani](https://www.eonline.com/news/1425545/jordan-chiles-normanis-dancing-with-the-stars-finale-dance-explained) a letter [on @tumblr](https://www.tumblr.com/santamonicashaadi/804112033340637184/wefunk-radio-stream?source=share) ... @howard-university-web-services I hope im not bugging you, she is a girl, latrice that is and everything will stop the bugabooing and everything. some girl from her pretty girl tribe got kidnapped in atlanta an they playing some sort of evil board game to get her back and some ppl identity clear for some people that no one can find 
+... I recently forked @meta [facebookresearch/EgoBlur](https://github.com/ThakaRashard/EgoBlur_Rashard), I have to look at the deeper software to figure out how ppl thinking on Facebook, any platoform that is, but this really caught my attention 
+```
+ThisRepositoryContains a command-line interface(CLI) that can detect and blur out faces and license plates(PII) from images and videos. The CLI takes an image or video file as input, runs an anonymization algorithm on it, and writes the blurred output to a specified path. @nasa-jpl @blackGirlsCode im scared of this one so im forking it! @NASA-PDS
+```
+
+anyway looking at @usgs [WaterDashBoard](https://dashboard.waterdata.usgs.gov/api/gwis/2.1.1/service/site?agencyCode=USGS&siteNumber=11101250&open=14375)
+The dam output dropped, i have to keep moving, i hope to track this storm across the missisippi , whats a cloud made up of, its a [long term thing](https://github.com/ThakaRashard/rashardmro/blob/master/docs/1_adult_EntertainmentZoning_LOS_ANGELES.pdf )... i just dont want to be slammed with due dates man 
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/38f17c86-231b-4267-8aad-2dcfeebd0386" />
+
+
+@cbs-news-data the naming convention for the river footage i captured in the last 18hrs or so is https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_waterLevelsdown2feet* 
+
+Websites To Explore 
+[Water and Power Associates](https://waterandpower.org/index.html) 
+Informing the Public about Critical Water and Energy Issues facing Los Angeles and California
+About The Website
+Your gateway to L.A.'s water and power history and current issues. Water and Power Associates' website is a trusted, independent resource for anyone interested in the history and current issues of water and energy in Southern California. It offers:
+
+◆ Objective, non-partisan information on water and power
+
+◆ A vast digital archive of photographs and historical documentation
+
+◆ Educational tools for researchers, students, and civic planners
+
+The website serves as both an advocacy and preservation platform, ensuring that Southern California's infrastructure story is remembered—and that future policy is shaped with insight. @podaac @nasa-jpl [https://waterandpower.org/index.html](https://waterandpower.org/index.html) 
+
+Los Angeles Aqueduct
+Built in 1913, the Los Angeles Aqueduct provides critical water to millions of people.
+[Link](https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct/facts-history) : [Link](https://www.spl.usace.army.mil/Missions/Asset-Management/Los-Angeles-River/)
+[https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct](https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct)
+
+[Water_for_L.A._Brochure_English](https://www.ladwp.com/sites/default/files/documents/Water_for_L.A._Brochure_English.pdf)
+
+L.A. Aqueduct Conditions Reports
+
+[Real Time Data](https://www.ladwp.com/who-we-are/water-system/los-angeles-aqueduct/la-aqueduct-conditions-reports/real-time-data)
+
+[Last Five Days](https://wsoweb.ladwp.com/Aqueduct/realtime/norealtime.htm)
+
+clicking on a station will display a chart of the last five days.
+
+[HISTORY OF THE LOS ANGELES RIVER](https://ladpw.org/wmd/watershed/LA/History.cfm)
+
+
+
+@newshour
+[Application User Workshop 2017 Report](https://swot.jpl.nasa.gov/internal_resources/318/) 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d8b1e1e5-561e-4b61-9c02-64185b366d58" />
+
+- bonus 1940s LOS ANGELES & HOLLYWOOD CALIFORNIA
+- HOME MOVIE   CHINATOWN  OLVERA STREET  XD95595
+- [LinK](https://archive.org/details/XD95595-Los-Angeles-Hollywood-Dam-Signal-Hill-Home-Movie_mos_vwr.mov)
+- 
+<img alt="image" src="https://github.com/user-attachments/assets/77ac5d58-96eb-4e35-bddd-6103849beda3" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/fd57d625-fd4c-4b2e-88dc-df115842b589" />
 
 @stateofCalifornia @cityoflosangeles karen bass / holly mitchell i made a simple water report with an overview of the dam discharge water report! 
-[@nasa-jpl](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-23-HR_NASAJPL.md) @weather-gov @noaa-gov @la-county-isd   [CLicKHere To Watch VideoFile](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4) / Play on [Archive.org](https://archive.org/details/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4)
+[@nasa-jpl](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-23-HR_NASAJPL.md) @weather-gov @noaa-gov -rashard @nasa-jpl @weather-gov @cityoflosangeles @la-county-isd   [CLicKHere To Watch VideoFile](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4) / Play on [Archive.org](https://archive.org/details/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4)
 
 [map]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.00949%2C33.6045%2C-116.94088%2C34.43657%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.00948607240103%2C33.60450029697667%2C-116.94087642863525%2C34.43656670045026%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )  ::: [CountyView]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.208%2C33.04263%2C-116.2139%2C34.5989%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.2079989714281%2C33.042627959524886%2C-116.21390286601236%2C34.5988990647461%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) : [StreetHeatMap](https://dn720700.ca.archive.org/0/items/92357558-1577420919086226-6893021317184880640-n/rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png) 
 
@@ -1414,6 +1477,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
