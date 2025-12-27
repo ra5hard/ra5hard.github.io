@@ -17,11 +17,15 @@ date:   2025-12-10 8:51:06
 [comment]: <> (Emergency Files )
 
 ### Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+<img  alt="image" src="https://github.com/user-attachments/assets/fd57d625-fd4c-4b2e-88dc-df115842b589" />
+
 @stateofCalifornia @cityoflosangeles karen bass / holly mitchell i made a simple water report with an overview of the dam discharge water report! 
 [@nasa-jpl](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-23-HR_NASAJPL.md) @weather-gov @noaa-gov @la-county-isd   [CLicKHere To Watch VideoFile](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4) / Play on [Archive.org](https://archive.org/details/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4)
 
 [map]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.00949%2C33.6045%2C-116.94088%2C34.43657%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.00948607240103%2C33.60450029697667%2C-116.94087642863525%2C34.43656670045026%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )  ::: [CountyView]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.208%2C33.04263%2C-116.2139%2C34.5989%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.2079989714281%2C33.042627959524886%2C-116.21390286601236%2C34.5988990647461%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
 <img   alt="image" src="https://github.com/user-attachments/assets/2812a21b-07db-4744-9641-08a8f1cee800" />
+
+[Cops in Los Angeles County, CA 1992](https://youtu.be/zDkDoQ95gOw) : [The Real LAPD - Episode 11- Super CopAP006302](https://youtu.be/flelgPzmtLE?si=TnwkebO-Ye8Gz_IM)  : [Los Angeles in the 1940s. "Vintage Los Angeles" Hollywood](https://youtu.be/4vNwVD6Xxxg) : [SOUTHERN CALIFORNIA HOLIDAY 1940s TRAVELOGUE](https://youtu.be/H2lr1V_G3vQ) SANTA FE RAILROAD 44214
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0742331b-d1de-4e66-8aca-f0471c0c241a" />
@@ -30,6 +34,10 @@ date:   2025-12-10 8:51:06
 <img  alt="image" src="https://github.com/user-attachments/assets/ff93609c-129f-43c4-a4ae-1a100502ed0b" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/816b1c43-39b2-430e-88df-e96cc9491aa1" />
+
+Sanbernadino
+fsac 1a34758 https://hdl.loc.gov/loc.pnp/fsac.1a34758
+![Sanbernadino](https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34700/1a34758v.jpg)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/bad9a66b-a420-4b2c-87a0-9ea12c564350" />
 
@@ -61,6 +69,10 @@ Team Members: Yash Kansal, Meera G K, Yeyan Wang, Crystal Wang, Shweta Joshi [Li
 <img  alt="image" src="https://github.com/user-attachments/assets/431a3156-2c0b-4d06-ae07-480999e77733" />
 
 ![NEWS](https://www.weather.gov/images/lox/WxStory/WeatherStory3.png) @cityoflosangeles @blackgirlscode @stateofcalifornia 
+
+Digital Id
+http://hdl.loc.gov/loc.gmd/g4051p.rr003220
+<img  alt="image" src="https://github.com/user-attachments/assets/ecc493a4-00a2-4136-8d53-41f4c5ce8f5b" />
 
 
 
@@ -1379,6 +1391,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
