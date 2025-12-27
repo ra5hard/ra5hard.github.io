@@ -22,8 +22,12 @@ date:   2025-12-10 8:51:06
 @stateofCalifornia @cityoflosangeles karen bass / holly mitchell i made a simple water report with an overview of the dam discharge water report! 
 [@nasa-jpl](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-23-HR_NASAJPL.md) @weather-gov @noaa-gov @la-county-isd   [CLicKHere To Watch VideoFile](https://ia600307.us.archive.org/10/items/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4) / Play on [Archive.org](https://archive.org/details/commitmentmaintenance/0000000000_oORivercheKsWaterReport_rashard_NASAJPL_virtiserV_hi_latricE_VID_20251226_155402_176.mp4)
 
-[map]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.00949%2C33.6045%2C-116.94088%2C34.43657%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.00948607240103%2C33.60450029697667%2C-116.94087642863525%2C34.43656670045026%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )  ::: [CountyView]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.208%2C33.04263%2C-116.2139%2C34.5989%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.2079989714281%2C33.042627959524886%2C-116.21390286601236%2C34.5988990647461%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+[map]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.00949%2C33.6045%2C-116.94088%2C34.43657%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.00948607240103%2C33.60450029697667%2C-116.94087642863525%2C34.43656670045026%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )  ::: [CountyView]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.208%2C33.04263%2C-116.2139%2C34.5989%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.2079989714281%2C33.042627959524886%2C-116.21390286601236%2C34.5988990647461%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C13%2C17%2C19%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) : [StreetHeatMap](https://dn720700.ca.archive.org/0/items/92357558-1577420919086226-6893021317184880640-n/rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png) 
+
 <img   alt="image" src="https://github.com/user-attachments/assets/2812a21b-07db-4744-9641-08a8f1cee800" />
+
+San Gabriel River Mouth  [[1](https://vsco.co/rashardsartu/media/694d8a792b18972307f84bbb)] [[2](https://vsco.co/rashardsartu/media/694d8a9bbbe91b9bc35bc5ca)]
+<img  alt="image" src="https://github.com/user-attachments/assets/ede85b5f-7181-425b-90b5-f97bb2a9d87b" />
 
 [Cops in Los Angeles County, CA 1992](https://youtu.be/zDkDoQ95gOw) : [The Real LAPD - Episode 11- Super CopAP006302](https://youtu.be/flelgPzmtLE?si=TnwkebO-Ye8Gz_IM)  : [Los Angeles in the 1940s. "Vintage Los Angeles" Hollywood](https://youtu.be/4vNwVD6Xxxg) : [SOUTHERN CALIFORNIA HOLIDAY 1940s TRAVELOGUE](https://youtu.be/H2lr1V_G3vQ) SANTA FE RAILROAD 44214
 
@@ -33,11 +37,30 @@ date:   2025-12-10 8:51:06
 [Map of](https://worldview.earthdata.nasa.gov/?v=-118.79612105728168,33.664984162767766,-117.29593014201049,34.40961017435811&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(hidden),GRUMP_Settlements,Nuclear_Power_Plant_Locations,GRanD_Dams,GRanD_Reservoirs,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2023-10-22-T06%3A19%3A29Z) resivoirs and settlements and dams, its not as complete as @usgs [WaterDashboard]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.53877%2C33.69921%2C-117.46793%2C34.14027%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.53877132915142%2C33.69921037476071%2C-117.46793076754896%2C34.14027108990786%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C17%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) @la-county-isd 
 <img  alt="image" src="https://github.com/user-attachments/assets/ff93609c-129f-43c4-a4ae-1a100502ed0b" />
 
+
+ Compton Creek [MAP @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.21079%2C33.84444%2C-118.20565%2C33.84869%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.21079313755037%2C33.84444433180912%2C-118.20565402507783%2C33.848685797680616%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C13%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D) @nasa @nasa-jpl @googleearth [Map](https://earth.google.com/web/@33.84737458,-118.2088503,11.22811489a,689.98276283d,35y,0h,0t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA)
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/1f323cbc-3de8-442a-9074-70bdbdd97d93" />
+
+ <img alt="image" src="https://github.com/user-attachments/assets/0862b4ed-1488-4406-8a8d-81bba4ac763f" />
+
+ ![CompTonCreek](https://dn720700.ca.archive.org/0/items/92357558-1577420919086226-6893021317184880640-n/IMG_20251226_102103_543.jpg)
+
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/fe00b195-f0f2-4d8e-ba75-9465d334471d" />
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/daade690-e3fa-49f5-815b-fedaa7ef0505" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ab86848a-b62d-4278-bc34-96609eb095cd" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/816b1c43-39b2-430e-88df-e96cc9491aa1" />
 
 Sanbernadino
 fsac 1a34758 https://hdl.loc.gov/loc.pnp/fsac.1a34758
 ![Sanbernadino](https://tile.loc.gov/storage-services/service/pnp/fsac/1a34000/1a34700/1a34758v.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d37dfb92-84cc-43b4-a733-72ec78f7135e" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/bad9a66b-a420-4b2c-87a0-9ea12c564350" />
 
@@ -1391,6 +1414,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
