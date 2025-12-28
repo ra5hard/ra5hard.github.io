@@ -14,6 +14,33 @@ image: Overview_HD.png
 
 
 
+[Radio Stream - WeFunk](https://www.wefunkradio.com/radio/play) @blackgirlscode that makes it simple [Soma.Fm](https://somafm.com/) if you want no lyrics, someone poisoned my cart! I wanted to add some firedata i lost b4 my session ends ... The comparison map in this article is amazing! [rashardsdata](https://rashardsdata.github.io/2025/11/20/FireReportCleanUp.html)
+
+### The Palisades Fire’s Footprint
+[Link](https://science.nasa.gov/earth/earth-observatory/the-palisades-fires-footprint-153831/) 
+
+<video controls  width="auto" height="auto" poster="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153831/lafires653comp_oli2_20250114_lrg.jpg">
+
+<source src="https://eoimages.gsfc.nasa.gov/images/imagerecords/153000/153831/lafires653comp_oli2_20250114.mp4" type="video/mp4" />
+
+</video>
+
+The Palisades fire ignited around 10:30 a.m. on January 7, 2025, near the Pacific Palisades neighborhood of Los Angeles, California. By midday the next day, the fire had grown to over 11,000 acres (44 square kilometers), and after one week, it had consumed nearly 24,000 acres (97 square kilometers) of wildland and developed areas.
+
+The images above, acquired on January 14 by the OLI-2 (Operational Land Imager-2) on Landsat 9, show the area affected by the fire. In the natural color image (left), visibly charred areas stretch to the north and west of Pacific Palisades. Several lines of bright red or pink fire retardant dropped by aircraft appear along the perimeter of the burned area. (These are more visible in the larger image.)
+
+The false-color image (right) combines shortwave infrared, near infrared, and visible components (OLI bands 6-5-3) of the electromagnetic spectrum. This band combination makes it easier to identify unburned vegetation (green) and recently burned landscape (light to dark brown).
+
+The 1,052 acres (4 square kilometers) burned by the Kenneth fire, which was active January 9–12, appears at the top of both images. This brush fire prompted mandatory evacuation orders, but no structures were damaged by the blaze, according to news reports. Near the coast and adjacent to the Palisades fire’s burned area, land previously charred by the December 2024 Franklin fire remains visible in and around Malibu.
+
+[ReadMore](https://science.nasa.gov/earth/earth-observatory/the-palisades-fires-footprint-153831/)
+<img  alt="image" src="https://github.com/user-attachments/assets/b06b9bc3-7a41-4993-aba2-a7da1b725990" />
+
+![nasa Earth Sciences](https://appliedsciences.nasa.gov/themes/custom/nasa_as/logo.svg)
+[Link](https://appliedsciences.nasa.gov/what-we-do/disasters/disasters-response-coordination-system)
+<img   alt="image" src="https://github.com/user-attachments/assets/04255ac0-5767-473b-9df6-d60a22d13ffb" />
+
+
 [WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
 
 
