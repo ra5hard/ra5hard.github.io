@@ -58,12 +58,6 @@ The 1,052 acres (4 square kilometers) burned by the Kenneth fire, which was acti
 
 [WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
 
-<div class="tupperware_col" markdown="1">
-    
-![lafires653comp_oli2_20250114_lrg](https://github.com/user-attachments/assets/750d5efd-a6ef-46df-8d22-b70169949d47)
-![lafires653comp_oli_20250106_lrg](https://github.com/user-attachments/assets/d4ff9b47-1d51-4282-9544-9a271d77202a)
-
-</div>
 
 
 
