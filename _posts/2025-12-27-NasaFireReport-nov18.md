@@ -7,6 +7,12 @@ image: Overview_HD.png
 ---
 
 
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+[lafires_tempo_20250106_lrg](https://archive.org/details/lafires_tempo_20250106_lrg/IMG_20250120_143102_595.jpg) @cityoflosangeles @nasa-jpl fire reporting during the fires @blackgirlscode @podaac
+
 ### hotlinks  <a href="jpl.nasa.gov#{{ site.url }}{{ site.baseurl }}" itemscope itemtype="https://schema.org/EducationalOrganization" itemprop="name"> @NASA-JPL </a>
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
@@ -34,6 +40,15 @@ The false-color image (right) combines shortwave infrared, near infrared, and vi
 The 1,052 acres (4 square kilometers) burned by the Kenneth fire, which was active January 9–12, appears at the top of both images. This brush fire prompted mandatory evacuation orders, but no structures were damaged by the blaze, according to news reports. Near the coast and adjacent to the Palisades fire’s burned area, land previously charred by the December 2024 Franklin fire remains visible in and around Malibu.
 
 [ReadMore](https://science.nasa.gov/earth/earth-observatory/the-palisades-fires-footprint-153831/)
+
+<div class="tupperware_col" markdown="1">
+    
+![lafires653comp_oli2_20250114_lrg](https://github.com/user-attachments/assets/750d5efd-a6ef-46df-8d22-b70169949d47)
+![lafires653comp_oli_20250106_lrg](https://github.com/user-attachments/assets/d4ff9b47-1d51-4282-9544-9a271d77202a)
+
+</div>
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/b06b9bc3-7a41-4993-aba2-a7da1b725990" />
 
 ![nasa Earth Sciences](https://appliedsciences.nasa.gov/themes/custom/nasa_as/logo.svg)
@@ -43,11 +58,13 @@ The 1,052 acres (4 square kilometers) burned by the Kenneth fire, which was acti
 
 [WeFunkRadio +](https://www.wefunkradio.com/radio/) [latest LordSear](https://soundcloud.com/djlordsear/dj-holly-grove-no-mix-10-24-2025?si=82a4b5f012894629a00dc960f6862f85&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) && [Show 1270 seem good @blackgirlscode](https://www.wefunkradio.com/show/1270/play_aa)
 
+<div class="tupperware_col" markdown="1">
+    
+![lafires653comp_oli2_20250114_lrg](https://github.com/user-attachments/assets/750d5efd-a6ef-46df-8d22-b70169949d47)
+![lafires653comp_oli_20250106_lrg](https://github.com/user-attachments/assets/d4ff9b47-1d51-4282-9544-9a271d77202a)
 
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+</div>
 
-
-[lafires_tempo_20250106_lrg](https://archive.org/details/lafires_tempo_20250106_lrg/IMG_20250120_143102_595.jpg) @cityoflosangeles @nasa-jpl fire reporting during the fires @blackgirlscode @podaac
 
 
 # EatonCanyon Before and after 
