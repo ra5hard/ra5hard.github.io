@@ -10,13 +10,15 @@ image: Overview_HD.png
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-
-[lafires_tempo_20250106_lrg](https://archive.org/details/lafires_tempo_20250106_lrg/IMG_20250120_143102_595.jpg) @cityoflosangeles @nasa-jpl fire reporting during the fires @blackgirlscode @podaac
-
 ### hotlinks  <a href="jpl.nasa.gov#{{ site.url }}{{ site.baseurl }}" itemscope itemtype="https://schema.org/EducationalOrganization" itemprop="name"> @NASA-JPL </a>
 [USGS WaTERDASHBOARD @usgs](https://dashboard.waterdata.usgs.gov/app/nwd/en/)
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
+
+\
+# News
+[Pasadena Drinking Water System Impacted by Eaton Fire](https://www.cityofpasadena.net/city-manager/news/pasadena-drinking-water-system-impacted-by-eaton-fire/) 
+[lafires_tempo_20250106_lrg](https://archive.org/details/lafires_tempo_20250106_lrg/IMG_20250120_143102_595.jpg) @cityoflosangeles @nasa-jpl fire reporting during the fires @blackgirlscode @podaac [Eaton Fire Damage Maps](https://recovery.lacounty.gov/eaton-fire/) [L.A.’s hydrants ran dry during the fires. Residents are still demanding solutions](https://www.latimes.com/environment/story/2025-12-17/la-fires-water-system) [Monrovia - Eaton Fire](https://www.monroviaca.gov/your-government/eaton-fire) [Who was responsible for the Eaton Canyon Fire? - Pasadena](https://www.reddit.com/r/pasadena/comments/1hynfjr/who_was_responsible_for_the_eaton_canyon_fire/) [https://www.reddit.com/r/pasadena/comments/1hynfjr/who_was_responsible_for_the_eaton_canyon_fire/](https://www.pasadenastarnews.com/2025/01/08/unsafe-water-advisory-issued-as-eaton-and-palisades-fires-affect-water-supply/)
 
 
 
