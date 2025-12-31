@@ -17,6 +17,24 @@ date:   2025-12-10 8:51:06
 [comment]: <> (Emergency Files )
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+Worldview Opera Data Set, Los Angeles Land Disturbances [Dec202025](https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z) 
+[https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-118.86053276977968,33.85069318585635,-117.98037344144863,34.287563935803995&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(opacity=0.67),VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA20_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_All,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,Land_Water_Map&lg=true&tr=land_disturbance&s=-118.2433,34.0522&t=2025-12-20-T05%3A00%3A00Z) 
+@LACountyDPH @CityOfLosAngeles @DataDesk @NAsa-jpl @la-county-isd Holly Mitchell / Karen Bass
+<img   alt="image" src="https://github.com/user-attachments/assets/a6cd1425-af31-4b92-80a1-96fc5dd3d88b" />
+
+
+Re: @NASAJPL LosAngeles> "Santa Fe High ScHool LAnd Disturbance*"
+I dont know who to tell.... i just saw it on the map , I emailed people about MAyfair and bumped into a sending limit, i been being followed so i cc a lot of people because i know someone that cares about me will get it via relay, im exiled for reading an book by Mr Franz a Jehovhas Witness Apostate called [Crisis OF Conscience](https://friendsofraymondfranz.com/wp-content/uploads/2020/04/CC2004-Eng.pdf) and my 1st spouse work for playboy, the girl she set me up with got kidnapped and converted vixen, and the new girl like a flighty possum at the fbi and i need to make sure im visible so she dont get a bad story, that pretty will turn ugly quick! @la-county-isd @lacounty-isab Karen Bass / Holly Mitchell, i only talk to you becasue you black and i need help... @blackgirlscode hi 
+-rashard @nasajpl
+[Rio San Gabriel](https://worldview.earthdata.nasa.gov/?v=-118.11601845568582,33.93471907467184,-118.10784476666082,33.93877611927643&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) : [HOMEPAGE](https://web.dusd.net/riosangabriel/)
+
+[DownyUnifiedAnnualReport](https://web.dusd.net/wp-content/uploads/2022/11/Annual-Report2021-22.pdf)
+ [Los Angeles County Departments](https://lacounty.gov/government/departments-commissions-and-agencies/los-angeles-county-departments/)
+@nasa-jpl @usgs Land disturbance [Santafe highschool](https://www.cde.ca.gov/schooldirectory/details?cdscode=19651281937903) [Worldviewlink](https://worldview.earthdata.nasa.gov/?v=-118.0999999897618,33.9309993854133,-118.0807522942565,33.95012653167744&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/edf94ab9-6040-4023-840b-c288e60647f5" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0904b70b-a937-4089-bf09-2eaa0e3291f9" />
 
 
 @CityOfLosAngeles @nasa-JPL Kathey BerGer Hilda Solis Karen Bass Holly Mitchell @StateOfCalifornia 
@@ -1492,6 +1510,12 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
 
 
 
