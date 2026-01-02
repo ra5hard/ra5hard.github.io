@@ -2,6 +2,8 @@
 
 ![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
 
+[@nasa-pds](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms/) 
+
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 [DigitalMass Norwich Cathedral - Midnight Mass ](https://www.youtube.com/watch?v=0aWhYF2uTBw) /
 [Midnight Mass at Westminster Abbey | Wednesday 24th December](https://youtu.be/SEiHCNqIqtc) @Cia my chrismas eve @blackgirlscode in the library shivering 
