@@ -18,6 +18,20 @@ date:   2025-12-10 8:51:06
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+
+### PAlisades Updates
+naming conventions 0000_firedata_virtiserv_SimpleScanStation20260105145139-03.png	05-Jan-2026 23:34	5.2M
+0000_firedata_virtiserv_SimpleScanStation* `LOCATED` [Archive.org CLiCKhere](NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap
+) @Cityoflosangeles @la-county-isd i emailed details to @USGS for todays [MeetingAgendaiTem22](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/52c02cc4-dddb-4cb1-a03b-2be6e4090d66/Agenda%20010626_links.pdf#page=14) <~ @nasa-jpl hi @blackgirlscode hope yall ok ill get instructions at some point gals 
+
+```
+Participate by Phone: (213) 306-3065
+Access code: 2530 234 0269 Password: 2672026
+To Listen by Telephone Only:
+Call: (877) 873-8017 Access Code: 111111 (English) 222222(Espanol)
+```
+![kk](https://ia801702.us.archive.org/15/items/NewsScans_LACOUNTY_NASAJPL_virtiserv_bitmap/0000_firedata_virtiserv_SimpleScanStation20260105145139-13.png) 
+
 ### Compton Creek Empty
 
 [video](https://photos.app.goo.gl/JjEoJx2kE1AMuMEs6)
@@ -1518,6 +1532,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
