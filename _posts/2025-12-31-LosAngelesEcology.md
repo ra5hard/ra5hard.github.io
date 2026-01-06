@@ -28,7 +28,8 @@ https://waterdata.usgs.gov/monitoring-location/USGS-11103000/#dataTypeId=daily-0
   - [MAP](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.34335%2C33.68264%2C-117.87094%2C34.22486%5D&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-118.34335327148439%2C33.682639555508196%2C-117.87094116210939%2C34.22486127351622%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D)
 [Staff @usgs](https://www.usgs.gov/connect/staff-profiles) @la-county-isd Mrs Bass Mrs Mitchell Maxine Waters @sduong97 hi can you tell them about this [BrokenMonitoringStation](https://waterdata.usgs.gov/monitoring-location/USGS-11103000/#dataTypeId=daily-00060-0&period=P1Y&showFieldMeasurements=true) ? -[rashard](holetoanotheruniverse40.github.io)
 
--Rashard @nasaEArthdata sup GasBuddyLAtrice i hope u get this Normani im assuming you working still...
+-Rashard @nasaEArthdata sup GasBuddyLAtrice i hope u get this Normani im assuming you working still... @blackgirlscode
+
 <img   alt="image" src="https://github.com/user-attachments/assets/8bda9900-b19f-4a71-a338-928e2dd818ce" />
 
 ### Antelope Valley : ECOSTRESS
@@ -1550,6 +1551,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
