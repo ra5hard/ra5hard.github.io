@@ -12,6 +12,16 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 [LiNK](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0193) 
 <img  alt="image" src="https://github.com/user-attachments/assets/1fb6a0d3-cb97-41f2-95e6-81451bf75d9d" />
 
+Current // HelioPhysics @nasa-jpl 
+
+Current // [HelioPhysics](https://science.gsfc.nasa.gov/670/aboutheliophysics.html) @nasa-jpl 
+[https://sdo.gsfc.nasa.gov/data/](https://sdo.gsfc.nasa.gov/data/)
+
+<div class="tupperware">
+<img   alt="image" src="https://github.com/user-attachments/assets/3eb819a6-07aa-4021-a89b-480bed53d881" />
+<img   alt="image" src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_0193pfss.jpg" />
+</div>
+
 @github i would like to be guided to more info on `stale connections`
 @LACountyDPH @CityOfLosAngeles @DataDesk @NAsa-jpl @la-county-isd Holly Mitchell / Karen Bass
 I got a computer use card at the long beach library, thanks for any help you all @nasa-jpl @blackgirlscode latrice / normani
