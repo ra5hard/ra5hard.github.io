@@ -7,7 +7,7 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
-@nasa-pds something is wrong with barbara thompsons website. [ImageMagick](https://github.com/ImageMagick/ImageMagick) may be broken. My videos are not playing either that i compile on my [CloudMobile](https://www.cloudmobileusa.com/) in @termux @blackgirlscode so [@ffmpeg](https://github.com/FFmpeg/FFmpeg) wont spit out a good file atm [https://isd.lacounty.gov/](https://isd.lacounty.gov/)  @la-county-isd
+@nasa-pds something is wrong with [barbara thompsons](https://science.gsfc.nasa.gov/sci/bio/barbara.j.thompson) website. [ImageMagick](https://github.com/ImageMagick/ImageMagick) may be broken. My videos are not playing either that i compile on my [CloudMobile](https://www.cloudmobileusa.com/) in @termux @blackgirlscode so [@ffmpeg](https://github.com/FFmpeg/FFmpeg) wont spit out a good file atm [https://isd.lacounty.gov/](https://isd.lacounty.gov/)  @la-county-isd
 
 [LiNK](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0193) 
 <img  alt="image" src="https://github.com/user-attachments/assets/1fb6a0d3-cb97-41f2-95e6-81451bf75d9d" />
