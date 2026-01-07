@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "GraffShit"
-date:   2024-11-12 22:51:06 -0800
+date:   2026-01-06 22:51:06 -0800
 categories: art graffiti coral
 published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
+@karenBass [StyleWars](https://archive.org/download/style-wars_1983/STYLE_WARS_%281983%29/Style%20Wars%20-%20legendary%20graffiti%20documentary%20%281983%29.mp4) @blackgirlscode @Cityoflosangeles missing kids 
+[itwaslive](https://vimeo.com/396000267?fl=pl&fe=sh) @abc7 @datadesk @cbs-news-data ask [@blackgirlscode](https://vimeo.com/396000267?fl=pl&fe=sh) @la-county-isd @lacounty-isab @webb
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b42e9b76-f470-4cdd-9fd9-ffc75874b8ab" />
 
