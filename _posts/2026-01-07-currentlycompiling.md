@@ -7,12 +7,11 @@ image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 ## Updated PAges
-[ThakaRashard](https://thakarashard.github.io/)
-[Rashard MRO @github](https://thakarashard.github.io/rashardmro/2025/12/24/JPL-MARSmass.html) MArs pics @blackgirlscode
+[ThakaRashard](https://thakarashard.github.io/) / [Rashard MRO @github](https://thakarashard.github.io/rashardmro/2025/12/24/JPL-MARSmass.html) MArs pics @blackgirlscode
 [RashardMRO @tumblr](https://rashardmro.tumblr.com/)
-Posts [EcoStress Guide](https://rashardmro.tumblr.com/post/805034354321588224) @nasa-jpl 
-[RashardiMAN](https://rashardiman.github.io/)
+Posts [EcoStress Guide](https://rashardmro.tumblr.com/post/805034354321588224) @nasa-jpl [RashardiMAN](https://rashardiman.github.io/)
 
+<img alt="image" src="https://github.com/user-attachments/assets/9cd65898-ed1a-43f5-9a51-f9c126590bce" />
 
 @ASU @nasa-pds @usgs @Asulibraries
 I wrote you guys a note i lost in my commits, 
