@@ -10,6 +10,7 @@ author: "RashardKelly @nasa-jpl"
 [ThakaRashard](https://thakarashard.github.io/) / [Rashard MRO @github](https://thakarashard.github.io/rashardmro/2025/12/24/JPL-MARSmass.html) MArs pics @blackgirlscode
 [RashardMRO @tumblr](https://rashardmro.tumblr.com/)
 Posts [EcoStress Guide](https://rashardmro.tumblr.com/post/805034354321588224) @nasa-jpl [RashardiMAN](https://rashardiman.github.io/)
+<img width="1920" height="945" alt="2026-01-05-00_00_2026-01-05-23_59_Sentinel-2_L2A_True_color (1)" src="https://github.com/user-attachments/assets/2dd5c586-f6f3-468d-93ca-d223f106b6ea" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/9cd65898-ed1a-43f5-9a51-f9c126590bce" />
 
