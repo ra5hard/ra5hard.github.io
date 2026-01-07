@@ -12,6 +12,14 @@ tags: covid
 # Heliophysics
 The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
 
+
+### IRIS
+Interface Region Imaging Spectrograph
+![iris](https://iris.gsfc.nasa.gov/webdesign/main_header_clear.gif) hi coral 
+[added 1/6/25] @nasa-jpl @nasa-pds hi @blackgirlscode [link](https://science.nasa.gov/mission/iris/)
+
+![https://www.nasa.gov/wp-content/uploads/2023/03/iris_20150428_100823_0.gif](https://www.nasa.gov/wp-content/uploads/2023/03/iris_20150428_100823_0.gif)
+
 ### NASA’s Parker Solar Probe Discovers Natural Radio Emission in Venus’ Atmosphere
 On a mission to “touch the Sun,” NASA's Parker Solar Probe became the first spacecraft to fly through the corona – the Sun’s upper atmosphere – in 2021,During a brief swing by Venus, NASA’s Parker Solar Probe detected a natural radio signal that revealed the spacecraft had flown through the planet’s upper atmosphere.
 ![ParkerSolarProbe](https://science.nasa.gov/wp-content/uploads/2023/03/parker-solar-probe-logo-1024x1024-2304629351.png)
