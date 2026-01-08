@@ -1,3 +1,13 @@
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e96550dd-6454-4786-90a2-2facba8e2fc0" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
 
 <img   alt="facebook still down, @whatsapp needed to give it a fair try @blackgirlscode @nasa-jpl @nasa-pds @la-county-isd @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/71e6f1a4-eaf3-4263-90a0-6971b2c159a6" />
@@ -8,18 +18,12 @@
 
 [@nasa-pds](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms/) 
 
-# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
 [DigitalMass Norwich Cathedral - Midnight Mass ](https://www.youtube.com/watch?v=0aWhYF2uTBw) /
 [Midnight Mass at Westminster Abbey | Wednesday 24th December](https://youtu.be/SEiHCNqIqtc) @Cia my chrismas eve @blackgirlscode in the library shivering 
 
 @blackgirlscode https://ieeexplore.ieee.org/document/9969974
 
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
-[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
-
-<img alt="image" src="https://github.com/user-attachments/assets/e96550dd-6454-4786-90a2-2facba8e2fc0" />
 
 ![Mars](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/TRA/ORB_000800_000899/TRA_000878_1410/TRA_000878_1410_COLOR.browse.jpg)
 
