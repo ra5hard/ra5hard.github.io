@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 title:  "CovidDump"
-date:   2024-11-18 22:51:06 -0800
+date:   2026-01-08 22:51:06 -0800
 published: false
 image: latest_1024_0193.jpg
 tags: covid
@@ -12,6 +12,16 @@ tags: covid
 # Heliophysics
 The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
 
+### About the SOHO Mission
+[SoHo](https://soho.nascom.nasa.gov/freestuff/#VIEWER)
+
+ 
+ 
+SOHO, the Solar & Heliospheric Observatory, is a project of international collaboration between ESA and NASA to study the Sun from its deep core to the outer corona and the solar wind.
+
+SOHO was launched on December 2, 1995. The SOHO spacecraft was built in Europe by an industry team led by prime contractor Matra Marconi Space (now EADS Astrium) under overall management by ESA. The twelve instruments on board SOHO were provided by European and American scientists. Nine of the international instrument consortia are led by European Principal Investigators (PI's), three by PI's from the US. Large engineering teams and more than 200 co-investigators from many institutions supported the PI's in the development of the instruments and in the preparation of their operations and data analysis. NASA was responsible for the launch and is now responsible for mission operations. Large radio dishes around the world which form NASA's Deep Space Network are used for data downlink and commanding. Mission control is based at Goddard Space Flight Center in Maryland.
+
+Further information about SOHO: [PDF](https://soho.nascom.nasa.gov/about/docs/SOHO_Fact_Sheet.pdf) @nasa=pds @blackgirlscode 
 
 ### IRIS
 Interface Region Imaging Spectrograph
