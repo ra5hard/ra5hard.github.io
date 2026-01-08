@@ -18,12 +18,39 @@ date:   2026-01-08 8:51:06
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+
+[MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
+ 
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
+
 ## @blackgirlscode @la-county-isd @cityoflosangeles @stateofcalifornia
 Governor Gavin Newsom delivers his 2026 State of the State address 
 
-@asfadmin [eatonCanyon](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_007_250930_L090_CX_01/crparc_09118_25032_007_250930_L090_CX_01.gif) @la-county-isd [https://build.ca.gov/](https://build.ca.gov/) [build.ca.gov/](https://build.ca.gov/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mppnxokNmOc?si=La4gAmuGfXVMQvhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[Clean Energy](https://www.gov.ca.gov/2026/01/07/governor-newsom-slams-brainless-trump-for-surrendering-global-leadership-ceding-jobs-and-economic-ground-to-china/) [Map of California Energy Sources](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,24hrs;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,cement_plants,gas_flares=2023,gi_steel_plants,mineral_resources,nonferrous_metal,petro_chemical,power_biomass,power_coal,power_gas,power_geothermal,power_hydro,power_oil,power_other,power_solar,power_storage,power_wind,steel_plants,countries,noaa20_snow,volcanoes,earth;@-119.3,37.2,7.2z) <~ @la-county-isd [Holly Mitchell](https://www.linkedin.com/in/holly-j-mitchell-5720361b7) :  [Kathy Barger](https://kathrynbarger.lacounty.gov/category/transportation/) @blackgirlscode if u got downtime share with your responsible family memebers 
+
+<div class="tupperware">
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/59294c7d-4d69-41f4-ba59-d7f2179d53d1" />
+<img  alt="FIRMS_24hrs,24hrs @-119 3,37 2,7 2z" src="https://github.com/user-attachments/assets/4090597d-c6ef-4c36-a9c2-8d06a75d79ea" />
+
+</div>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8b01e8a5-1d44-4ece-a0dc-9ead3bb98790" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e5cedb2c-4dfb-4044-876c-0a6ad4084d2f" />
+
+@asfadmin [eatonCanyon](https://data.asf.alaska.edu/archive/datasets/uavsar/www/UA_crparc_09118_25032_007_250930_L090_CX_01/crparc_09118_25032_007_250930_L090_CX_01.gif) @la-county-isd [https://build.ca.gov/](https://build.ca.gov/) [build.ca.gov/](https://build.ca.gov/)
+
+@nasa-jpl @swot-community @NAsa-OpenScapes [DamBusters 2026 - watch](https://youtu.be/Vnf5XzqOV8g?si=MGQ58QbYpBBaxfZS) 
 
 
 @la-countyisd @LACMTA @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
@@ -1633,6 +1660,8 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
 
 
 
