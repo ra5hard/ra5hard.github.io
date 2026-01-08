@@ -16,7 +16,8 @@ image: Overview_HD.png
 [DSCOVR: EPIC _ Gallery : West Coast Wildfires](https://epic.gsfc.nasa.gov/galleries/2020/wildfires)
 [NASA - LANCE - FiRMS Global Fire Map, Live MAps](https://firms.modaps.eosdis.nasa.gov/map/) with [KML](https://developers.google.com/kml) - [downloads](https://firms.modaps.eosdis.nasa.gov/active_fire/) [@nasa it looks like cal fire uses ViiRS or another one of our climate sats @noaa for this map!](https://www.fire.ca.gov/incidents)
 
-
+[LACOUNTY YEAREND REVIEW FIRE UPDATES](http://la36.org/videos/la-county-close-up-el-condado-con-tigo-ep55-14061) 
+@NASA-DEVELOP @NASA-GISS @EMIT-SDS @STATEOFCALIFORNIA @CITYOFLOSANGELES 
 
 @CityOfLosAngeles @nasa-JPL Kathey BerGer Hilda Solis Karen Bass Holly Mitchell @StateOfCalifornia 
 #Eaton Canyon Land Disturbance [Link](https://worldview.earthdata.nasa.gov/?v=-118.20436944101876,34.13065807907277,-118.00969403326864,34.2401629959322&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) 
