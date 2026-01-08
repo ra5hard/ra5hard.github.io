@@ -1,7 +1,7 @@
 ---
 layout: post
 mermaid: true
-title:  "CovidDump"
+title:  "Heliophysics"
 date:   2026-01-08 22:51:06 -0800
 published: false
 image: latest_1024_0193.jpg
