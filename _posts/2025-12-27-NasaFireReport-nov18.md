@@ -18,7 +18,7 @@ image: Overview_HD.png
 
 [LACOUNTY YEAREND REVIEW FIRE UPDATES](http://la36.org/videos/la-county-close-up-el-condado-con-tigo-ep55-14061) 
 @NASA-DEVELOP @NASA-GISS @EMIT-SDS @STATEOFCALIFORNIA @CITYOFLOSANGELES 
-@blackgirlscode hi Norma I I can't watch county tv on the metro wifi @LACMTA
+@blackgirlscode hi Normani I can't watch county tv on the metro wifi @LACMTA [LBTV4 -LongBeachPublicTelevision](https://www.longbeach.gov/lbtv) is slow to load and won't play and @cityoflosangeles [LaCityView35](https://lacityview.org/) won't show a live feed or load any of the playlist / collections eg. CityCouncil meetings @nasa-jpl @emit-sds
 
 ```
 This site can’t be reached
