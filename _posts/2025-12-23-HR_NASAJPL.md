@@ -14,6 +14,8 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+<img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
+
 # Rashards Online Learning Commitment @Nasa-JPL
 I am behind, however we have FireSensingTraining Soon for Firms and I will catch up on my 2025 classes  as time permits. Hopefuly Internet Access is better this year
 
