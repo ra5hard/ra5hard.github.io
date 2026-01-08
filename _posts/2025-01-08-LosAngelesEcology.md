@@ -18,6 +18,9 @@ date:   2026-01-08 8:51:06
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+![Los Angeles](https://tile.loc.gov/storage-services/service/pnp/pan/6a17000/6a17900/6a17974r.jpg)
+
+@la-county-isd @nasa-jpl @blackgirlscode here's a few pics of vintage [LosAngeles](https://www.loc.gov/item/2007660434/)
 Steve Ackley
 Public Affairs Specialist
 California Water Science Center
