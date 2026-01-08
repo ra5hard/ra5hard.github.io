@@ -14,6 +14,11 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+### 404
+The URL you were looking for cannot be found.
+`https://www.earthdata.nasa.gov/news/blog/earthaccess-earth-science-data-simplifiedl`
 <img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
 
 # Rashards Online Learning Commitment @Nasa-JPL
