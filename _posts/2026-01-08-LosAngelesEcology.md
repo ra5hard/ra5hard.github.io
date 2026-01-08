@@ -23,7 +23,8 @@ Governor Gavin Newsom delivers his 2026 State of the State address
 
 [Sync issues @StateOfCalifornia ?](https://thakarashard.github.io/rashardmro/laecology) 
 
-@stateofcalifornia i think youtube got slowed down ... my best ebonics @nasa-jpl @emit-sds @whitehouse 
+@stateofcalifornia i think @youtube got slowed down ... my best ebonics @nasa-jpl @emit-sds @whitehouse 
+`https://www.youtube.com/watch?v=mppnxokNmOc` @usgs @cityoflosangeles @la-county-isd [Janic Hahn](https://hahn.lacounty.gov/)
 <img   alt="image" src="https://github.com/user-attachments/assets/6ca674f6-6ba9-4d57-9e86-4db59b908363" />
 @cityoflosangeles @la-county-isd [Ms Mitchell](https://www.instagram.com/hollyjmitchell/) / [Ms Bass](https://www.congress.gov/member/karen-bass/B001270) ? 
 [Asked a woman on a date?](https://github.com/user-attachments/assets/b3d13906-e4aa-4198-a720-a8982ea32a75)
@@ -1606,6 +1607,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
