@@ -11,6 +11,18 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+
+## Mars Helicopter Sol 642: Color Camera
+[hires](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00642/ids/edr/browse/heli/HSF_0642_0723948579_000ECM_N0360001HELI00002_000085J01.png) 
+<img  alt="Mars Helicopter Sol 642: Color Camera" src="https://github.com/user-attachments/assets/90c26baf-605a-4e8a-bfa8-dc9c09fa5e9e" />
+
+NASA's Ingenuity Mars Helicopter acquired this image using its high-resolution color camera. This camera is mounted in the helicopter's fuselage and pointed approximately 22 degrees below the horizon.
+
+This image was acquired on Dec. 10, 2022 (Sol 642 of the Perseverance rover mission) at the local mean solar time of 16:31:59. This was the date of Ingenuity's 36th flight.
+
+Image Credit: NASA/JPL-Caltech
+
+
 [The Mars orbiter magnetometer of Tianwen-1: in-flight
 performance and first science results - PDF](https://space.ustc.edu.cn/users/1157234616JDEkdTA1LmZoMy4kUjdEZ2xBRXo4WDhYV3RaNjl5NUxZMA/publication/materials/20221129073139.056_the%2Bmars%2Borbiter%2Bmagnetometer%2Bof%2B%2Btianwen-1%20%2Bin-flight%2Bperformance%2Band%2Bfirst%2Bscience%2Bresults.pdf)
 
