@@ -7,6 +7,12 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+SOHO Realtime Image Viewer (Linux) @blackgirlscode you might find it on archive.org @cityoflosangeles 
+Kicker applet for viewing realtime images of the Sun provided by the SOHO satellite and several other sources ( Download and Information) [Link](https://soho.nascom.nasa.gov/freestuff/#VIEWER) 
+@nasa-pds @kde `Not Found (ocs-web-5)` `https://www.kde-apps.org/content/show.php?content=31311` @nasa-jpl @podacc @hirise @asu  @esa
+
+![SOHO](https://soho.nascom.nasa.gov/freestuff/cdfront2.gif) 
+
 @nasa-pds something is wrong with [barbara thompsons](https://science.gsfc.nasa.gov/sci/bio/barbara.j.thompson) website. [ImageMagick](https://github.com/ImageMagick/ImageMagick) may be broken. My videos are not playing either that i compile on my [CloudMobile](https://www.cloudmobileusa.com/) in @termux @blackgirlscode so [@ffmpeg](https://github.com/FFmpeg/FFmpeg) wont spit out a good file atm [https://isd.lacounty.gov/](https://isd.lacounty.gov/)  @la-county-isd
 
 [LiNK](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0193) 
