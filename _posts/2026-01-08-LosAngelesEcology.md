@@ -25,6 +25,11 @@ Governor Gavin Newsom delivers his 2026 State of the State address
 @nasa-jpl it should be on inthe cafeteria @boeing 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mppnxokNmOc?si=La4gAmuGfXVMQvhq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+@UsNAVY @Code-dot-mil re: Seal Beach [Link](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.02/-13145903.56/3992087.50&layers=aqv_tss_20141124_landsat:1.00:0.00:30.00:default&grids=0,1)  ///////// [/archive/2025/358/LC08_L1TP_041037_20141124_20200910_02_T1/](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2025/358/LC08_L1TP_041037_20141124_20200910_02_T1)
+Total Suspended Solids (TSS) [meaning](https://ntrs.nasa.gov/citations/20210016749) @nasa-giss 
+
+<img alt="image" src="https://github.com/user-attachments/assets/7fc8fdea-8d28-4246-9cc0-f31db95be92d" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8f09f87e-3e14-4c46-85f8-fbc8ab942d34" />
 
@@ -1574,6 +1579,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
