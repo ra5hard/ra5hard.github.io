@@ -11,6 +11,13 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+## Mars Helicopter Sol 43: Color Camera
+[HiREZ](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00043/ids/edr/browse/heli/HSF_0043_0670751650_000ECM_N0000001HELI00000_000085J04.png) @nasa-jpl @nasa GasBuddyLAtrice @blackgirlscode 
+During late December 2025 and January 2026, Mars and Earth are on opposite sides of the Sun, blocking radio communications between them. Perseverance will resume sending raw images in late January. 
+`Mars in a Minute: What Happens When the Sun Blocks our Signal?` 
+[Watch](https://assets.science.nasa.gov/content/dam/science/psd/mars/videos/2024/5298_miam20130320-640.mp4)
+<img  alt="image" src="https://github.com/user-attachments/assets/e8c5022d-9366-414d-bed6-7cae40c602bd" />
+
 
 ## Mars Helicopter Sol 642: Color Camera
 [hires](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00642/ids/edr/browse/heli/HSF_0642_0723948579_000ECM_N0360001HELI00002_000085J01.png) 
