@@ -1,5 +1,9 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
 
+<img   alt="facebook still down, @whatsapp needed to give it a fair try @blackgirlscode @nasa-jpl @nasa-pds @la-county-isd @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/71e6f1a4-eaf3-4263-90a0-6971b2c159a6" />
+
+<img alt="FIRMS_24hrs @-90 5,28 7,7 1z" src="https://github.com/user-attachments/assets/e17d525e-4a54-4f25-a402-43eea574927a" />
+
 ![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
 
 [@nasa-pds](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms/) 
