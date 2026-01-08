@@ -14,6 +14,27 @@ author: "RashardKelly @nasa-jpl"
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+# Rashards Online Learning Commitment @Nasa-JPL
+I am behind, however we have FireSensingTraining Soon for Firms and I will catch up on my 2025 classes  as time permits. Hopefuly Internet Access is better this year
+
+@la-countyisd  @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
+ @nasa-jpl @emit-sds @nasa-pds @blackgirlscode  
+
+ARSET 2025 Training [Link](https://ornldaac.github.io/airborne/events/2025-ARSET/README.html)
+Airborne Data Applications for Invasive Species Mapping
+Date: September 30, 2025
+ORNL Instructors: Michele Thornton, Rupesh Shrestha
+ARSET Instructors: Sativa Cruz, Justin Fain, and Juan Torres-Pérez
+Invasive species can cause catastrophic impacts on ecosystem health and function. Under a changing climate, urban expansion, and extreme weather events, the occurrence and impacts of invasive species is expected to increase. Remote sensing has been used as a tool to monitor the current extent and predict future spread of invasive species in aquatic and terrestrial environments.
+
+This Applied Remote Sensing Training Program (ARSET) training highlights the different types of remote sensing data and products that can be used for terrestrial invasive species mapping and monitoring. 
+
+Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG [Link](https://ornldaac.github.io/airborne/notebooks/AVIRIS-NG_L3_invasive_species.html)
+BioSCape Campaign Overview
+[BioSCape](https://www.bioscape.io/): In October/November of 2023, the US National Aeronautics and Space Administration (NASA) conducted its first Biodiversity field and airborne campaign across terrestrial and aquatic environments in the South African Greater Cape Floristic Region (GCFR). From 4 airborne instruments;
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0dbe8900-b1dc-40c5-82c5-dc8b456b5daa" />
+
 
 @la-countyisd @LACMTA @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
 someone from sanfrancisco is in my account @github @nasa-jpl @emit-sds @nasa-pds @blackgirlscode 
