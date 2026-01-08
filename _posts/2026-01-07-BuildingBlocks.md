@@ -7,6 +7,14 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+
+### 404
+The URL you were looking for cannot be found.
+`https://www.earthdata.nasa.gov/news/blog/earthaccess-earth-science-data-simplifiedl`
+<img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
+
+
 SOHO Realtime Image Viewer (Linux) @blackgirlscode you might find it on archive.org @cityoflosangeles 
 Kicker applet for viewing realtime images of the Sun provided by the SOHO satellite and several other sources ( Download and Information) [Link](https://soho.nascom.nasa.gov/freestuff/#VIEWER) 
 @nasa-pds @kde `Not Found (ocs-web-5)` `https://www.kde-apps.org/content/show.php?content=31311` @nasa-jpl @podacc @hirise @asu  @esa
