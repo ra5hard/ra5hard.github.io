@@ -16,6 +16,17 @@ NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Exp
 [hires](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00642/ids/edr/browse/heli/HSF_0642_0723948579_000ECM_N0360001HELI00002_000085J01.png) 
 <img  alt="Mars Helicopter Sol 642: Color Camera" src="https://github.com/user-attachments/assets/90c26baf-605a-4e8a-bfa8-dc9c09fa5e9e" />
 
+## Mars Helicopter Sol 414: Color Camera
+[HiRES](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/00414/ids/edr/browse/heli/HSF_0414_0703689952_044ECM_N0260001HELI00005_000085J04.png)
+NASA's Ingenuity Mars Helicopter acquired this image using its high-resolution color camera. This camera is mounted in the helicopter's fuselage and pointed approximately 22 degrees below the horizon.
+
+This image was acquired on April 20, 2022 (Sol 414 of the Perseverance rover mission) at the local mean solar time of 11:39:31. This was the date of Ingenuity's 26th flight.
+
+Image Credit: NASA/JPL-Caltech
+<img alt="Mars Helicopter Sol 414: Color Camera" src="https://github.com/user-attachments/assets/9c5d8d18-b123-4893-921e-007dd66279df" />
+
+
+
 NASA's Ingenuity Mars Helicopter acquired this image using its high-resolution color camera. This camera is mounted in the helicopter's fuselage and pointed approximately 22 degrees below the horizon.
 
 This image was acquired on Dec. 10, 2022 (Sol 642 of the Perseverance rover mission) at the local mean solar time of 16:31:59. This was the date of Ingenuity's 36th flight.
