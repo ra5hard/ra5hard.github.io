@@ -18,6 +18,24 @@ image: Overview_HD.png
 
 [LACOUNTY YEAREND REVIEW FIRE UPDATES](http://la36.org/videos/la-county-close-up-el-condado-con-tigo-ep55-14061) 
 @NASA-DEVELOP @NASA-GISS @EMIT-SDS @STATEOFCALIFORNIA @CITYOFLOSANGELES 
+@blackgirlscode hi Norma I I can't watch county tv on the metro wifi @LACMTA
+
+```
+This site can’t be reached
+la36.org refused to connect.
+Try:
+
+Checking the connection
+ERR_CONNECTION_REFUSED
+la36.org
+```
+
+mycloud 
+```
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.10.97  netmask 255.255.255.0  broadcast 192.168.10.255
+``` 
+@cityoflosangeles @la-county-isd metro car 1182b aline passing through Compton MayorBass MsMitchell Janice Kathy
 
 @CityOfLosAngeles @nasa-JPL Kathey BerGer Hilda Solis Karen Bass Holly Mitchell @StateOfCalifornia 
 #Eaton Canyon Land Disturbance [Link](https://worldview.earthdata.nasa.gov/?v=-118.20436944101876,34.13065807907277,-118.00969403326864,34.2401629959322&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m(opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance,HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map(hidden)&lg=true&s=-119.6983,34.4209&t=2025-12-28-T05%3A00%3A00Z) 
