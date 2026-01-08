@@ -1,3 +1,5 @@
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1fd3a55a-a730-490a-81c7-401e183ae03e" />
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
@@ -28,8 +30,6 @@
 
 
 ![Mars](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/TRA/ORB_000800_000899/TRA_000878_1410/TRA_000878_1410_COLOR.browse.jpg)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/1fd3a55a-a730-490a-81c7-401e183ae03e" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/9975a70b-359a-4606-b8a3-a5fd2b3fb17e" />
 
