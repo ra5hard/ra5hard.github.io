@@ -1,6 +1,6 @@
 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/1fd3a55a-a730-490a-81c7-401e183ae03e" />
+<img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
@@ -11,8 +11,6 @@
 
 <img alt="image" src="https://github.com/user-attachments/assets/e96550dd-6454-4786-90a2-2facba8e2fc0" />
 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
 
 <img   alt="facebook still down, @whatsapp needed to give it a fair try @blackgirlscode @nasa-jpl @nasa-pds @la-county-isd @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/71e6f1a4-eaf3-4263-90a0-6971b2c159a6" />
 
