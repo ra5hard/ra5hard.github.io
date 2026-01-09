@@ -39,7 +39,11 @@ Meeting of MONDAY, JANUARY 12, 2026, AT 01:30 P.M. [Agenda item HD-26-022](https
 [GoogleMaps](https://www.google.com/maps/place/33%C2%B046'46.3%22N+118%C2%B013'03.3%22W/@33.7797583,-118.2173308,3a,75y,211.37h,92.02t/data=!3m7!1e1!3m5!1si4m6r8ARE-Kt43DIJey_Bg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0230146500053507%26panoid%3Di4m6r8ARE-Kt43DIJey_Bg%26yaw%3D211.36971916628582!7i16384!8i8192!4m4!3m3!8m2!3d33.7795278!4d-118.2175833?entry=ttu&g_ep=EgoyMDI2MDEwNi4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D) 
 <img   alt="image" src="https://github.com/user-attachments/assets/ac46ace8-e51b-4d00-a3a2-703fdb73b1c8" />
 
-@usgs [WaterDashBoard_OverHead]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.22033%2C33.77529%2C-118.21454%2C33.78329%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.22033107280733%2C33.77529481219232%2C-118.21453750133516%2C33.783289487788174%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) @stateofcalifornia @blackgirlscode virtiserv @la-county-isd
+@usgs [WaterDashBoard_OverHead]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-118.22033%2C33.77529%2C-118.21454%2C33.78329%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-118.22033107280733%2C33.77529481219232%2C-118.21453750133516%2C33.783289487788174%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) @stateofcalifornia @blackgirlscode virtiserv @la-county-isd . . . @ESA @eu-cdse real time data use 
+
+<img  alt="2026-01-07-00_00_2026-01-07-23_59_Sentinel-2_L2A_Moisture_index (1)" src="https://github.com/user-attachments/assets/99db22ae-e634-4a61-9c4f-e0333064d0a2" />
+
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/affa828b-3d16-4ce8-a170-4189bf23d8de" />
 
@@ -49,7 +53,11 @@ Chlorophyll
 [`33°46'46.3"N 118°13'03.3"W`](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.00/-13159645.87/3999004.11&layers=aqv_chla_20260107_sentinel:1.00:0.00:30.00:default)
 <img  alt="image" src="https://github.com/user-attachments/assets/e1514c7f-b315-45ef-af57-9c12cab9f641" />
 
-![CEQA](https://ceqanet.lci.ca.gov/Content/CEQA-logo.png)
+<img width="300" height="60" alt="CEDA" src="https://github.com/user-attachments/assets/734be506-2cd3-44a3-bd1d-4bd4d1dcad6e" />
+
+
+
+<img  alt="2026-01-07-00_00_2026-01-07-23_59_Sentinel-2_L2A_True_color" src="https://github.com/user-attachments/assets/68a2f1fb-5fdc-4bbe-8c6a-452dc0246389" />
 
 ### 404
 The URL you were looking for cannot be found.
@@ -57,6 +65,9 @@ The URL you were looking for cannot be found.
 <img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
 @ornldaac i took the l out and opened a [PullRequest](https://github.com/ornldaac/airborne/pull/1) @la-county-isd [MayorBass](https://southwestnc.org/representatives/) @cityOflosAngeles [Mrs Mitchell](https://www.hollyjmitchell.com/) @emit-sds @nasa-openscapes @nasa-develop [https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681](https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681) @Blackgirlscode AzioShortyLatrice ? thats a pizza place  @podaac [back east](https://littleazio.com/)
 <img alt="image" src="https://github.com/user-attachments/assets/a1294c01-bc04-4e4e-9bca-8a7b8798c070" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/850609bb-4628-4dd0-9105-6181186efc7c" />
+
 <img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
 
 # Rashards Online Learning Commitment @Nasa-JPL
@@ -1770,6 +1781,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
