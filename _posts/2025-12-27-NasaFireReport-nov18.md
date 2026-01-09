@@ -11,9 +11,18 @@ image: Overview_HD.png
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 [Sister NAncy - One Two, One Two](https://youtu.be/SK8EZxwe05A) @blackgirlscode [Bob Marley - Rastaman Vibration](https://youtu.be/B0gesoinua0) Positive Vibration!
 
+### Regular City Council - 1/9/26
+[Watch](https://youtu.be/ka4mEHoNTKw)
+@nasa-jpl @nasa @nasa-pds @blackgirlscode 
+@cityoflosangles @la-county-isd @stateofcalifornia @LACountyDPH @LACMTA 
+/// Governor Newsom's 2026-27 State Budget Proposal [watch](https://youtu.be/nDD_PrSjkSs)
+<img   alt="image" src="https://github.com/user-attachments/assets/f98cef64-af10-493e-8828-2b4e8a02772d" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ff0fafee-3c32-41c4-bec5-649c67511910" />
+
 @blackgirlscode [Latrice Fitzpatrick](https://www.facebook.com/thevirtiservway/) GM....wow...
 LAtrice, I was assigned to the @Nasa Fire Department from [Mars Garage](https://science.nasa.gov/resource/check-out-whats-in-my-garage/), and this is one of the tools i use in mapmaking and emergency response
-[post](https://www.tumblr.com/rashardmro/805289008095772672/latrice-i-was-assigned-to-the-nasa-fire?source=share)... [Training - NASA FIRMS Update – Static Thermal Anomalies](https://youtu.be/YETICnwRVP0) 
+[post](https://www.tumblr.com/rashardmro/805289008095772672/latrice-i-was-assigned-to-the-nasa-fire?source=share)... [Training - NASA FIRMS Update – Static Thermal Anomalies](https://youtu.be/YETICnwRVP0) [FireFighting Gear Dev](https://youtu.be/xBPyxWiGzVI?si=FisgYiEMtw57rfXV) [NASA's Wildfire Monitoring and Protection Technology Webinar](https://www.youtube.com/watch?v=ww8Fmclp6jo)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/d2ee629e-534f-468c-a072-3872e63fd8b5" />
 
