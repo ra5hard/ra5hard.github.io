@@ -19,6 +19,34 @@ date:   2026-01-08 8:51:06
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
 
+### 404
+The URL you were looking for cannot be found.
+`https://www.earthdata.nasa.gov/news/blog/earthaccess-earth-science-data-simplifiedl`
+<img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
+
+# Rashards Online Learning Commitment @Nasa-JPL
+I am behind, however we have FireSensingTraining Soon for Firms and I will catch up on my 2025 classes  as time permits. Hopefuly Internet Access is better this year
+
+@la-countyisd  @cityoflosangeles MAYOR BASS ? SuperVisor Mitchell
+ @nasa-jpl @emit-sds @nasa-pds @blackgirlscode  
+
+ARSET 2025 Training [Link](https://ornldaac.github.io/airborne/events/2025-ARSET/README.html)
+Airborne Data Applications for Invasive Species Mapping
+Date: September 30, 2025
+ORNL Instructors: Michele Thornton, Rupesh Shrestha
+ARSET Instructors: Sativa Cruz, Justin Fain, and Juan Torres-Pérez
+Invasive species can cause catastrophic impacts on ecosystem health and function. Under a changing climate, urban expansion, and extreme weather events, the occurrence and impacts of invasive species is expected to increase. Remote sensing has been used as a tool to monitor the current extent and predict future spread of invasive species in aquatic and terrestrial environments.
+
+This Applied Remote Sensing Training Program (ARSET) training highlights the different types of remote sensing data and products that can be used for terrestrial invasive species mapping and monitoring. 
+
+Mapping Invasive Species Using Supervised Machine Learning and AVIRIS-NG [Link](https://ornldaac.github.io/airborne/notebooks/AVIRIS-NG_L3_invasive_species.html)
+BioSCape Campaign Overview
+[BioSCape](https://www.bioscape.io/): In October/November of 2023, the US National Aeronautics and Space Administration (NASA) conducted its first Biodiversity field and airborne campaign across terrestrial and aquatic environments in the South African Greater Cape Floristic Region (GCFR). From 4 airborne instruments;
+
+<img   alt="image" src="https://github.com/user-attachments/assets/0dbe8900-b1dc-40c5-82c5-dc8b456b5daa" />
+<img alt="image" src="https://github.com/user-attachments/assets/a1294c01-bc04-4e4e-9bca-8a7b8798c070" />
+
+
 <pre>
       ___    _____     ___                                                      
     /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
@@ -1707,6 +1735,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
