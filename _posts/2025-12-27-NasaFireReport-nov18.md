@@ -17,6 +17,28 @@ image: Overview_HD.png
 @cityoflosangles @la-county-isd @stateofcalifornia @LACountyDPH @LACMTA 
 /// Governor Newsom's 2026-27 State Budget Proposal [watch](https://youtu.be/nDD_PrSjkSs)
 <img   alt="image" src="https://github.com/user-attachments/assets/f98cef64-af10-493e-8828-2b4e8a02772d" />
+Regular City Council - 1/9/26 @CityOfLosAngeles @la-county-isd
+[Watch](https://youtu.be/ka4mEHoNTKw) 
+Rashards2025 [FireBlog](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2025-12-27-NasaFireReport-nov18.md) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/296f9d83-b763-47f7-802d-06b15337e1d0" />
+
+[Storm Events Database](https://www.ncei.noaa.gov/stormevents/listevents.jsp?eventType=%28Z%29+Wildfire&beginDate_mm=01&beginDate_dd=01&beginDate_yyyy=2025&endDate_mm=01&endDate_dd=17&endDate_yyyy=2025&county=ALL&hailfilter=0.00&tornfilter=0&windfilter=000&sort=DT&submitbutton=Search&statefips=6%2CCALIFORNIA) @la-county-isd @cityoflosangeles @stateofcaliforia @podaac
+Deaths Direct/Indirect	12/0 (fatality details below, when available...)
+[link - MALIBU COAST](https://www.ncei.noaa.gov/stormevents/eventdetails.jsp?id=1230300)
+Episode Narrative	The combination of very strong Santa Ana winds, mountain wave activity and critically dry vegetation resulted in a significant outbreak of wildfires across Los Angeles and Ventura counties. The Palisades Fire (23,707 acres) and the Eaton Fire (14,021 acres) combined to become the most significant natural disaster in U.S. history. Two smaller fires, the Hurst Fire (799 acres) and the Kenneth Fire (1,052 acres) also developed during this outbreak, but were not anywhere as damaging.
+Event Narrative	The Palisades Fire burned 23,707 acres across the Santa Monica Mountains and the Malibu coastal strip. The wildfire ignited during an extreme fire weather event with PDS Red Flag Warnings in effect. The combination of wind gusts in excess of 80 MPH and critically dry vegetation allowed the fire to grow explosively. The fire completed destroyed the community of Pacific Palisades and part of the community of Malibu. Throughout the fire, 6,837 structures were destroyed and another 973 structures were damaged, including many residences. Twelve civilian deaths, three civilian injuries and one firefighter injury were reported.sni
+
+[CityCouncil 1/9/26](https://youtu.be/ka4mEHoNTKw)
+<img alt="image" src="https://github.com/user-attachments/assets/e54d2272-11f2-4747-b4c0-d844e028b240" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6612021a-57a6-4374-9125-9ae82091dd61" />
+<img  alt="image" src="https://github.com/user-attachments/assets/38481a53-f5d9-4da9-9553-7a9d00266896" />
+
+@nasa @nasa-jpl im trying to get the fire temperature images from the fires... I lost them when my account [RicoThaka](x.com/ricothaka) collapsed @la-county-isd @cityoflosangeles  @blackgirlscode [@noaa CLiMATEDATA - Archive](https://www.ncei.noaa.gov/cdo-web/search) @noaagov @noaa @weather-gov @datadesk 
+<img alt="image" src="https://github.com/user-attachments/assets/6770e06e-d2e5-4f3d-bafd-d3ed36f4fe39" />
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ff0fafee-3c32-41c4-bec5-649c67511910" />
 
