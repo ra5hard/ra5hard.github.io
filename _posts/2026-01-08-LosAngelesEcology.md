@@ -23,6 +23,9 @@ date:   2026-01-08 8:51:06
 The URL you were looking for cannot be found.
 `https://www.earthdata.nasa.gov/news/blog/earthaccess-earth-science-data-simplifiedl`
 <img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
+@ornldaac i took the l out and opened a [PullRequest](https://github.com/ornldaac/airborne/pull/1) @la-county-isd [MayorBass](https://southwestnc.org/representatives/) @cityOflosAngeles [Mrs Mitchell](https://www.hollyjmitchell.com/) @emit-sds @nasa-openscapes @nasa-develop [https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681](https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681) @Blackgirlscode AzioShortyLatrice ? thats a pizza place  @podaac [back east](https://littleazio.com/)
+
+<img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
 
 # Rashards Online Learning Commitment @Nasa-JPL
 I am behind, however we have FireSensingTraining Soon for Firms and I will catch up on my 2025 classes  as time permits. Hopefuly Internet Access is better this year
@@ -1735,6 +1738,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
