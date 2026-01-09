@@ -13,7 +13,7 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 The URL you were looking for cannot be found.
 `https://www.earthdata.nasa.gov/news/blog/earthaccess-earth-science-data-simplifiedl`
 <img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
-
+@ornldaac i took the l out and opened a [PullRequest](https://github.com/ornldaac/airborne/pull/1) @la-county-isd [MayorBass](https://southwestnc.org/representatives/) @cityOflosAngeles [Mrs Mitchell](https://www.hollyjmitchell.com/) @emit-sds @nasa-openscapes @nasa-develop [https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681](https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681)
 
 SOHO Realtime Image Viewer (Linux) @blackgirlscode you might find it on archive.org @cityoflosangeles 
 Kicker applet for viewing realtime images of the Sun provided by the SOHO satellite and several other sources ( Download and Information) [Link](https://soho.nascom.nasa.gov/freestuff/#VIEWER) 
