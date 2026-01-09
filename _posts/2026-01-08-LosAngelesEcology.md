@@ -18,6 +18,28 @@ date:   2026-01-08 8:51:06
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+## Port OF LongBeach 
+### Re: Gold Bond Gypsum Wallboard Manufacturing Facility Demolition Project
+[`33°46'46.3"N 118°13'03.3"W`](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.00/-13159645.87/3999004.11&layers=aqv_chla_20260107_sentinel:1.00:0.00:30.00:default)
+
+| NAme | Agency | job | Email |
+|-------|--------|---------|---------|
+| Jennifer Blanchard | Port of Long Beach | Environmental Specialist | [jennifer.blanchard@polb.com](mailto:jennifer.blanchard@polb.com)
+| Michael Harden | Environmental Science Associates | Principal Planner | [MHarden@esaassoc.com](mailto:MHarden@esaassoc.com) |
+| John Yakowenko | Gold Bond Building Products, LLC | vp | [JEYakowenko@nationalgypsum.com](mailto:JEYakowenko@nationalgypsum.com) |
+
+
+[https://ceqanet.lci.ca.gov/2025091065](https://ceqanet.lci.ca.gov/2025091065) 
+
+City of Long Beach
+BOARD OF HARBOR COMMISSIONERS
+Meeting of MONDAY, JANUARY 12, 2026, AT 01:30 P.M. [Agenda item HD-26-022](https://polb.granicus.com/GeneratedAgendaViewer.php?view_id=77&event_id=1977)
+
+Chlorophyll 
+[`33°46'46.3"N 118°13'03.3"W`](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=16.00/-13159645.87/3999004.11&layers=aqv_chla_20260107_sentinel:1.00:0.00:30.00:default)
+<img  alt="image" src="https://github.com/user-attachments/assets/e1514c7f-b315-45ef-af57-9c12cab9f641" />
+
+![CEQA](https://ceqanet.lci.ca.gov/Content/CEQA-logo.png)
 
 ### 404
 The URL you were looking for cannot be found.
@@ -1738,6 +1760,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
