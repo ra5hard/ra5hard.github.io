@@ -5,6 +5,55 @@ published: true
 image: Aitken_supercomputer_big.jpg
 ---
 
+InStalling [ImageMagick](https://github.com/ImageMagick/ImageMagick) [[1](https://imagemagick.org/#gsc.tab=0)]
+[Link](https://imagemagick.org/script/download.php#gsc.tab=0) @nasa-jpl @emit-sds @nasa-pds 
+For other systems, create (or choose) a directory to install the package into and change to that directory, for example:
+
+```
+cd $HOME
+```
+Next, extract the contents of the package. For example:
+
+```
+tar xvzf ImageMagick.tar.gz
+```
+Set the MAGICK_HOME environment variable to the path where you extracted the ImageMagick files. For example:
+
+```
+export MAGICK_HOME="$HOME/ImageMagick-7.1.2"
+```
+
+If the bin subdirectory of the extracted package is not already in your executable search path, add it to your PATH environment variable. For example:
+
+```
+export PATH="$MAGICK_HOME/bin:$PATH
+```
+
+On Linux and Solaris machines add $MAGICK_HOME/lib to the LD_LIBRARY_PATH environment variable:
+
+```
+LD_LIBRARY_PATH="${LD_LIBRARY_PATH:+$LD_LIBRARY_PATH:}$MAGICK_HOME/lib
+export LD_LIBRARY_PATH
+
+```
+
+Finally, to verify ImageMagick is working properly, type the following on the command line:
+
+
+```
+magick logo: logo.gif
+identify logo.gif
+display logo.gif
+```
+
+Congratulations, you have a working @ImageMagick distribution under Linux or Linux and you are ready to use ImageMagick
+
+
+![imagemagick](https://imagemagick.org/image/wizard.png)
+
+Extra Packages for Enterprise Linux (EPEL) [LiNK - docs.fedoraproject.org](https://docs.fedoraproject.org/en-US/epel/) 
+![EPEL](https://docs.fedoraproject.org/en-US/epel/_images/epel-logo.svg)
+
 [GRACE @nasa-jpl](https://sealevel.nasa.gov/vesl/web/sea-level/slr-gravity/) @newshour
 ## Committing Changes to the(a) Repository
 A good basic workflow for committing changes to the repository is,
