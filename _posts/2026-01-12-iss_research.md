@@ -15,6 +15,24 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 Crew-11 Return, Splashdown Weather -#Rashard @NASAJPL/MROJUNO+EARTHDATA [LiNK](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [FiLEs](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) // 
 
+
+@noaa @noaagov @spacex-r [Link](https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard) @spaceexplorationtechnologies hi @blackgirlscode @nasa-pds . . . @la-county-isd @stateofcalifornia @cityoflosangeles `spaceexplorationtechnologies` is claiming to be the account associated with the [Hawthorn Mission Control / Spacex]()  [Space Exploration Technologies (SpaceX) of Hawthorne - .pdf](https://www3.nasa.gov/centers/kennedy/pdf/684630main_CCiCap_SPACEX_Poster.pdf) / [`r/SpaceXLounge` - I Appreciate the Minimalist Mission Control in Hawthorne.](https://www.reddit.com/r/SpaceXLounge/comments/jv8btp/i_appreciate_the_minimalist_mission_control_in/) . . . [SpaceX employees standing outside mission control at SpaceX Headquarters in Hawthorne, California, watching the successful launch of Falcon 9 ... - WATCH](https://www.youtube.com/watch?v=6XtD-5L7cLk)
+
+```
+NOAA Radio Blackout Activity and Forecast
+
+No radio blackouts were observed over the past 24 hours.
+
+Radio Blackout Forecast for Jan 13-Jan 15 2026
+
+              Jan 13        Jan 14        Jan 15
+R1-R2           25%           25%           25%
+R3 or greater    1%            1%            1%
+
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 13-15 Jan.
+```
+[Noaa SPaceWeather Dashboard . . . ]()
 <iframe src="https://archive.org/embed/g-18-fd-dmw-24fr-20260113-1807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 @nasa [Chlorophyll](https://www.earthdata.nasa.gov/topics/biosphere/chlorophyll) + [SeaSurface Anomolies](https://www.earthdata.nasa.gov/news/worldview-image-archive/global-sea-surface-temperature-anomalies) [Link - .png download](https://ia600101.us.archive.org/35/items/g-18-fd-dmw-24fr-20260113-1807/snapshot-2026-01-12T00_00_00Z.png) @BLueOrigin @TheSpaceDevs @Nasa-Develop @NAsa-GiSS @nasa-jpl hi @la-county-isd its still a good water map [ActiveLink](https://worldview.earthdata.nasa.gov/?v=-141.54625531217332,26.30228471205932,-107.63943599604887,49.09839487374751&as=2026-01-03-T00%3A00%3A00Z&ae=2026-01-12-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_SNPP_L2_Chlorophyll_A,MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,VIIRS_NOAA20_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&ab=on&t=2026-01-11-T21%3A56%3A06Z) `https://worldview.earthdata.nasa.gov/?v=-141.54625531217332,26.30228471205932,-107.63943599604887,49.09839487374751&as=2026-01-03-T00%3A00%3A00Z&ae=2026-01-12-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),VIIRS_SNPP_L2_Chlorophyll_A,MERIS_ENVISAT_Chlorophyll_a,SEAWIFS_ORBVIEW-2_GAC_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,MODIS_Terra_L2_Chlorophyll_A,VIIRS_NOAA20_Chlorophyll_a,VIIRS_NOAA21_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,OCI_PACE_Chlorophyll_a,GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&ab=on&t=2026-01-11-T21%3A56%3A06Z`
