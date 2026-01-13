@@ -13,6 +13,10 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 ### International Space Station Change of Command Ceremony
+As Crew-11 prepares to depart from the space station, NASA astronaut Mike Fincke will hand command of Expedition 74 aboard the orbital complex to Roscosmos cosmonaut Sergey Kud-Sverchkov. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from the space station earlier than originally planned as teams monitor a medical concern with a crew member... astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov are scheduled to splash down off the coast of California at approximately 3:40 a.m. EST (0840 UTC) on Thursday, Jan. 15 [Read](https://spacepolicyonline.com/events/crew-11-returns-to-earth-jan-14-15-2026/) 
+
+link to Radar [SouthernCalifornia - ClickHere](https://worldview.earthdata.nasa.gov/?v=-122.6132298665018,31.502472880674667,-115.09583410263772,35.20244110820152&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-01-09-T20%3A59%3A50Z) 
+<img   alt="image" src="https://github.com/user-attachments/assets/c7ee85ca-df54-4ec3-bddc-a8c1fd0df359" />
 
 ```
 Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
