@@ -11,9 +11,58 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
+### International Space Station Change of Command Ceremony
 
-## International Space Station Change of Command Ceremony
-### SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
+```
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 13-15 Jan.
+Rationale: G1 (Minor) or greater geomagnetic storms are possible early
+on 13 Jan due to CH HSS influence.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Jan 13-Jan 15 2026
+
+              Jan 13  Jan 14  Jan 15
+S1 or greater    1%      1%      1%
+
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+
+
+C. NOAA Radio Blackout Activity and Forecast
+
+Radio blackouts reaching the R1 levels were observed over the past 24
+hours. The largest was at Jan 12 2026 0030 UTC.
+
+Radio Blackout Forecast for Jan 13-Jan 15 2026
+
+              Jan 13        Jan 14        Jan 15
+R1-R2           25%           25%           25%
+R3 or greater    1%            1%            1%
+
+Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts
+on 13-15 Jan.
+```
+
+
+@noaaGov @weather-gov 
+SPACE WEATHER ENTHUSIASTS DASHBOARD [LiNK](https://www.swpc.noaa.gov/communities/space-weather-enthusiasts-dashboard)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f521263a-f713-4338-a620-c406bf77a38b" />
+
+<div class="tupperware">
+	
+<img  alt="image" src="https://github.com/user-attachments/assets/9c7ca939-ac65-4cac-9724-3463ac3d13db" />
+<img  alt="image" src="https://github.com/user-attachments/assets/b3e38f9c-b271-4e23-8d34-05c66d6737e5" />
+
+</div>
+
+## 
+
 As Crew-11 prepares to depart from the space station, NASA astronaut Mike Fincke will hand command of Expedition 74 aboard the orbital complex to Roscosmos cosmonaut Sergey Kud-Sverchkov. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from the space station earlier than originally planned as teams monitor a medical concern with a crew member currently living and working aboard the orbital laboratory, who is stable. Due to medical privacy, it is not appropriate for NASA to share more details about the crew member.
 
 
