@@ -11,11 +11,27 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/805564863694946304/v2" data-did="3dc9165ac1c8b2b9a5f8a41c92b7442dcda63486"  ><a href="https://www.tumblr.com/rashardmro/805564863694946304/international-space-station-change-of-command">https://www.tumblr.com/rashardmro/805564863694946304/international-space-station-change-of-command</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
+
+## International Space Station Change of Command Ceremony
+### SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
+As Crew-11 prepares to depart from the space station, NASA astronaut Mike Fincke will hand command of Expedition 74 aboard the orbital complex to Roscosmos cosmonaut Sergey Kud-Sverchkov. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from the space station earlier than originally planned as teams monitor a medical concern with a crew member currently living and working aboard the orbital laboratory, who is stable. Due to medical privacy, it is not appropriate for NASA to share more details about the crew member.
+
+
+
+Following Crew-11’s departure on Wednesday, Jan. 14, NASA astronaut Zena Cardman and Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov are scheduled to splash down off the coast of California at approximately 3:40 a.m. EST (0840 UTC) on Thursday, Jan. 15
+[ReadMore](https://rashardmro.tumblr.com/post/805564863694946304/international-space-station-change-of-command)
 
 
 NASA SpaceX Crew-11 Medical Evacuation Mission Countdown with LIVE view [Link](https://youtu.be/mUvGkfu57as)
 Mars2020_sol1342-1710_RRF :" RearCam Vid [Link](https://rashardmro.tumblr.com/post/805579165327884288/mars2020sol1342-1710rrf)
+
+@blackgirlscode @nasa-pds <~ do you guys really care about [NearEarthOrbit](https://scan-now.gsfc.nasa.gov/) ? I got stuck [there](https://urs.earthdata.nasa.gov/profile) and really trying to make it back out! @nasa-jpl @nasa @whitehouse @la-county-isd @cityoflosangeles @stateofcalifornia 
+
+```
+<div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/805564863694946304/v2" data-did="3dc9165ac1c8b2b9a5f8a41c92b7442dcda63486"  ><a href="https://www.tumblr.com/rashardmro/805564863694946304/international-space-station-change-of-command">https://www.tumblr.com/rashardmro/805564863694946304/international-space-station-change-of-command</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
+```
+
+
 
 @NASA-Openscapes hi its rashard from MRO @nasa-jpl here are some files for the city of new orleleans @TheSpaceDevs @StateofCalifornia @nasa-jpl from [#theEcostressMission](https://ecostress.jpl.nasa.gov/gallerylist) @blackgirlscode ill make a wrap up if i get another sesh @CityOflosangeles see [MyBinder](https://thakarashard.github.io/mybinder/) and My [HomePage](https://thakarashard.github.io) 
 
