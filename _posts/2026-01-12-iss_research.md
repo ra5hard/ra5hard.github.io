@@ -12,6 +12,15 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
+
+Crew-11 Return, Splashdown Weather -#Rashard @NASAJPL/MROJUNO+EARTHDATA [LiNK](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [FiLEs](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) // @nasa PLankton + SeaSurface Anomolies [Link](https://ia600101.us.archive.org/35/items/g-18-fd-dmw-24fr-20260113-1807/snapshot-2026-01-12T00_00_00Z.png) @BLueOrigin @TheSpaceDevs @Nasa-Develop @NAsa-GiSS @nasa-jpl hi @la-county-isd its still a good water map 
+
+<iframe src="https://archive.org/embed/g-18-fd-dmw-24fr-20260113-1807" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+@nasa PLankton + SeaSurface Anomolies [Link](https://ia600101.us.archive.org/35/items/g-18-fd-dmw-24fr-20260113-1807/snapshot-2026-01-12T00_00_00Z.png) @BLueOrigin @TheSpaceDevs @Nasa-Develop @NAsa-GiSS @nasa-jpl hi @la-county-isd its still a good water map 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0e60da28-d697-4210-8059-3cd05814cc9e" />
+
 ### International Space Station Change of Command Ceremony
 As Crew-11 prepares to depart from the space station, NASA astronaut Mike Fincke will hand command of Expedition 74 aboard the orbital complex to Roscosmos cosmonaut Sergey Kud-Sverchkov. On Jan. 8, NASA announced its decision to return the agency’s SpaceX Crew-11 mission to Earth from the space station earlier than originally planned as teams monitor a medical concern with a crew member... astronaut Kimiya Yui, and Roscosmos cosmonaut Oleg Platonov are scheduled to splash down off the coast of California at approximately 3:40 a.m. EST (0840 UTC) on Thursday, Jan. 15 [Read](https://spacepolicyonline.com/events/crew-11-returns-to-earth-jan-14-15-2026/) 
 
