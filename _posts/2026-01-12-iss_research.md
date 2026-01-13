@@ -74,7 +74,7 @@ Following Crew-11’s departure on Wednesday, Jan. 14, NASA astronaut Zena Cardm
 NASA SpaceX Crew-11 Medical Evacuation Mission Countdown with LIVE view [Link](https://youtu.be/mUvGkfu57as)
 Mars2020_sol1342-1710_RRF :" RearCam Vid [Link](https://rashardmro.tumblr.com/post/805579165327884288/mars2020sol1342-1710rrf)
 
-@blackgirlscode @nasa-pds <~ do you guys really care about [NearEarthOrbit](https://scan-now.gsfc.nasa.gov/) ? I got stuck [there](https://urs.earthdata.nasa.gov/profile) and really trying to make it back out! @nasa-jpl @nasa @whitehouse @la-county-isd @cityoflosangeles @stateofcalifornia 
+@blackgirlscode @nasa-pds <~ do you guys really care about [NearEarthOrbit](https://scan-now.gsfc.nasa.gov/) ? I got stuck [there](https://urs.earthdata.nasa.gov/profile) and really trying to make it back out! @nasa-jpl @nasa @whitehouse @la-county-isd @cityoflosangeles @stateofcalifornia [CHANGE_LOG](https://rashardsdata.github.io/changelog) [[1](https://rashardsdata.github.io/2025/11/05/BuildingBlocks.html)]
 
 ```
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/t:1bKzOeq3wXRxsAoXbQ9IKQ/805564863694946304/v2" data-did="3dc9165ac1c8b2b9a5f8a41c92b7442dcda63486"  ><a href="https://www.tumblr.com/rashardmro/805564863694946304/international-space-station-change-of-command">https://www.tumblr.com/rashardmro/805564863694946304/international-space-station-change-of-command</a></div><script async src="https://assets.tumblr.com/post.js?_v=8b39daeb280af0fb41fe0827257f89f6"></script>
