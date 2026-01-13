@@ -86,6 +86,7 @@ LA mayor celebrates moving 8,866 homeless into permanent free housing in 2024 [R
 
 <img   alt="image" src="https://github.com/user-attachments/assets/dcc357b3-e8ca-4344-9e8d-478e35091fb9" />
 @cityoflosangeles [MAP](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/LOS_ANGELES_KARENBASS_URBAN_PLANNNG_Virtiserv__LATRiCEsnapshot-2026-01-10T00_00_00Z.png) @la-county-isd
+
 <img  alt="image" src="https://github.com/user-attachments/assets/975b0163-d51c-49d4-a085-de390694c460" />
 
 OPERA Radiometric Terrain Corrected SAR Backscatter (False Color)
@@ -918,6 +919,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
