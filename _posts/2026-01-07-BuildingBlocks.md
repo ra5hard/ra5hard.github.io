@@ -8,7 +8,11 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+# Stereo
+@nasa-jpl @blackgirlscode its back up but with a warning @whitehouse 
+`We expect the stereo.gsfc.nasa.gov web site to be decommissioned early in 2026. With a few exceptions for out-of-date material, all resources have been copied to https://stereo-ssc.nascom.nasa.gov/ . Please change any bookmarks or automatic downloads you may have set up.` [https://stereo.gsfc.nasa.gov/](https://stereo.gsfc.nasa.gov/) @JHUAPL @CityOflosangeles KarenBass Kamlager Dove @la-county-isd
 
+@usgs @usnavy @nasa-jpl the site for [stereo](https://stereo.gsfc.nasa.gov/) is not responding! Im using the general population lab at [BillieJeanKingLibrary](https://www.longbeach.gov/library) @Nasa-develop hi @blackgirlscode @nasa-giss @emit-sds @podaac - [Rashard](holetoanotheruniverse40.github.io)
 # Deep Space Climate ObserVatoRy (DSCOVR)
 ## SPace Weather
 ITs not serving results from common sense check box clicking... i spoke about it on [MyChangelog]() a few months back just parse it. @nasa-jpl @noaa @nasa @weather-gov @whitehouse @thespacedevs @blueorigin 
