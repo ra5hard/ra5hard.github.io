@@ -18,6 +18,10 @@ date:   2026-01-12 8:51:06
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+[https://education.gsu.edu/directory/](https://education.gsu.edu/directory/) <~ @blackgirlscode 
+[LA_RiVER_SUSPENDED_SOLiDS](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.83/-13154784.62/4006389.25&layers=aqv_tss_20260107_sentinel:1.00:0.00:30.00:default&grids=1,0)
+<img  alt="image" src="https://github.com/user-attachments/assets/8f0a5669-e691-4c3d-ad4e-83c38935a1ab" />
+
 # Local Reps - notes
 ## Teresa Yvette Hillery #232377 [link](https://apps.calbar.ca.gov/attorney/Licensee/Detail/232377)
 [Hillery Advocates](https://www.linkedin.com/posts/teresa-y-hillery-esq-94576868_teresa-y-hillery-activity-7164311818910330881-Y_Zy) for ‘More Life’ in Campaign for [L.A. Council District 14](https://cd14.lacity.gov/) [[1](https://en.wikipedia.org/wiki/Los_Angeles%27s_14th_City_Council_district)] - [LosAngeles Sentinel](https://lasentinel.net/hillery-advocates-for-more-life-in-campaign-for-l-a-council-district-14.html)
@@ -919,6 +923,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
