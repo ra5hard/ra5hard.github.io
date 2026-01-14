@@ -13,6 +13,8 @@ tags: covid
 The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
 
 # Stereo
+@nasa-jpl @blackgirlscode its back up but with a warning @whitehouse 
+`We expect the stereo.gsfc.nasa.gov web site to be decommissioned early in 2026. With a few exceptions for out-of-date material, all resources have been copied to https://stereo-ssc.nascom.nasa.gov/ . Please change any bookmarks or automatic downloads you may have set up.` [https://stereo.gsfc.nasa.gov/](https://stereo.gsfc.nasa.gov/) @JHUAPL @CityOflosangeles KarenBass Kamlager Dove @la-county-isd
 
 @usgs @usnavy @nasa-jpl the site for [stereo](https://stereo.gsfc.nasa.gov/) is not responding! Im using the general population lab at [BillieJeanKingLibrary](https://www.longbeach.gov/library) @Nasa-develop hi @blackgirlscode @nasa-giss @emit-sds @podaac - [Rashard](holetoanotheruniverse40.github.io)
 
