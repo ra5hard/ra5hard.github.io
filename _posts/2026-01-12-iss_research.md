@@ -13,7 +13,15 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
-[github.com/nasa/VITALS - ECOSTRESS Tasks and Guides](https://github.com/nasa/VITALS) <~ @CityOfLosAngeles HildaSolis KarenBass please [look](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4) at the @nasa / Vitals repo. I am supposed to work out of that like a lot . . [OnlineLearning](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.04/-13157364.10/4002286.61&layers=aqv_tss_20260107_sentinel:1.00:0.00:30.00:default&grids=1,0) +++ [President Trump signs bill to OFFICIALLY reopen the government, ending the Democrat Shutdown.](https://www.whitehouse.gov/videos/president-trump-signs-bill-to-officially-reopen-the-government-ending-the-democrat-shutdown/) [Democrats Shut Down the Government for a Record 43 Days](https://www.whitehouse.gov/government-shutdown-clock/) @whitehouse @nasa-jpl
+[github.com/nasa/VITALS - ECOSTRESS Tasks and Guides](https://github.com/nasa/VITALS) <~ @CityOfLosAngeles HildaSolis KarenBass please [look](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4) at the @nasa / Vitals repo. I am supposed to [work](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/01/12/) out of that like a lot . . [OnlineLearning](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.04/-13157364.10/4002286.61&layers=aqv_tss_20260107_sentinel:1.00:0.00:30.00:default&grids=1,0) +++ [President Trump signs bill to OFFICIALLY reopen the government, ending the Democrat Shutdown.](https://www.whitehouse.gov/videos/president-trump-signs-bill-to-officially-reopen-the-government-ending-the-democrat-shutdown/) [Democrats Shut Down the Government for a Record 43 Days](https://www.whitehouse.gov/government-shutdown-clock/) @whitehouse @nasa-jpl
+
+
+@asfadmin crew 11 going to splashdown off the coast [of](https://stereo.gsfc.nasa.gov/) california @nasa-jpl @USnavy 
+`3:41 a.m. on Thursday.` [NASA’s SpaceX Crew-11 Go for Undocking on Wednesday](https://www.nasa.gov/blogs/commercialcrew/2026/01/13/nasas-spacex-crew-11-go-for-undocking-on-wednesday/)
+
+![S1C_IW_GRDH_1SDV_20260110T135140_20260110T135205_005842_00BB2D_AB7D](https://github.com/user-attachments/assets/c414bd4c-3be2-4659-9ff6-e5d8f3fc9b79)
+
+![S1C_IW_GRDH_1SDV_20260110T014903_20260110T014928_005835_00BAE3_5DB2](https://github.com/user-attachments/assets/3916057c-1f5b-4fb1-b3d4-54f7d293e7bb)
 
 [GOES-West Full Disk - Derived Motion Winds](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=24&dim=1)
 [GOES-West CONUS - Derived Motion Winds](https://www.star.nesdis.noaa.gov/goes/conus_band.php?sat=G18&band=DMW&length=36&dim=1)
