@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX"
 published: true
-date:   2026-01-20 10:19:06 -0800
+date:   2026-01-20 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: boarding-pass.jpg
 ---
