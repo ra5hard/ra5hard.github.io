@@ -4,7 +4,7 @@ title:  "Orion/Artemis @nasa @r-spaceX"
 published: true
 date:   2026-01-22 08:19:06 -0800
 tags: nsn ecostress crew11 iss
-image: boarding-pass.jpg
+image: Kelp_southAmerica_NGS.jpg
 ---
 
 @TheSpaceDevs @NASA-DEVELOP @NASA-GiSS
