@@ -6,8 +6,10 @@ date:   2026-01-22 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Kelp_southAmerica_NGS.jpg
 ---
-
+@NASA's Artemis II Live Views from Kennedy Space Cente
+[Live Views](https://youtu.be/nrVnsO_rdew)
 ## Artemis 2
+@asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [mailtto:rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard
 [presskit](https://www.nasa.gov/artemis-ii-press-kit/)
 ~ [Artemis II Media Resources `https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/`](https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/)
 @TheSpaceDevs @NASA-DEVELOP @NASA-GiSS
@@ -36,7 +38,7 @@ Bell, T., K. Cavanaugh, and D. Siegel. 2025. SBC LTER: Time series of quarterly 
 [Poster](https://www.nasa.gov/wp-content/uploads/2023/02/artemis-ii-missionmap-public-082025.jpg)
 <img  alt="image" src="https://github.com/user-attachments/assets/48dda1c2-6115-47c7-a74e-c252ea2564ab" />
 
-
+[Launch of Orion Spacecraft Ascent Abort-2 Test](https://youtu.be/rJgqhznBntE) :: @youtube playlist @uber [Orion Spacecraft](https://youtube.com/playlist?list=PLiuUQ9asub3STzGKMhwHUTdqyiiXFCSBY&si=odtliBF1ZoTsdukx)
 
 ---
 
