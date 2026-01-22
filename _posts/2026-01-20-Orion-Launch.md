@@ -7,6 +7,18 @@ tags: nsn ecostress crew11 iss
 image: boarding-pass.jpg
 ---
 
+## Major Mission Milestones
+
+
+@nasa-pds [POSTER](https://images-assets.nasa.gov/image/Artemis%20II%20Mission%20Trajectory%20Final/Artemis%20II%20Mission%20Trajectory%20Final~large.jpg?w=1920&h=1309&fit=clip&crop=faces%2Cfocalpoint)
+<img  alt="image" src="https://github.com/user-attachments/assets/fdaf7fd9-3a40-4e1b-a0f0-be8cd8c332dd" />
+
+[Poster](https://www.nasa.gov/wp-content/uploads/2023/02/artemis-ii-missionmap-public-082025.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/48dda1c2-6115-47c7-a74e-c252ea2564ab" />
+
+
+
+---
 
 [Questions regarding NASA Data and Orion Pipelines #474](https://github.com/sintel-dev/Orion/discussions/474)
 `What is the sampling frequency of the NASA data supplied with the library?` [link](https://github.com/sintel-dev/Orion/discussions/474#discussion-5771319) @nasa-jpl i am being derailed online, i want to say im sorry to allied, they had a population of really dirty gaurds from atlanta that were bullying me for a couple years while i had to play normani @blackgirlscode `on the shelf ` [boyfriend](http://rashard.urbanup.com/12323326) while she got away from some pornographer
