@@ -7,7 +7,12 @@ tags: nsn ecostress crew11 iss
 image: boarding-pass.jpg
 ---
 
-## Major Mission Milestones
+@TheSpaceDevs @NASA-DEVELOP @NASA-GiSS
+Things to watch out for . . . @la-county-isd [KELPFOREST](https://science.nasa.gov/earth/earth-observatory/monitoring-the-collapse-of-kelp-forests-148391/) @cityofsandiego the splashdown for Orion is supposed to be in San Diego , I dont know how far the Kelp foresst reach, but is that y you dont land here often? We would love to have you @nasa-jpl @cityoflosangeles 
+<img  alt="image" src="https://github.com/user-attachments/assets/513dd400-6a92-4b1f-8445-431acbb7364e" />
+
+Using AVIRIS and Machine Learning to Map and Discriminate Bull Kelp and Giant Kelp along the Pacific Coast of the United States SEPTEMBER 17, 2018 BY [ADMIN Tanner T](https://cce.nasa.gov/biodiversity/_biomap/projmap.html?projType=project&projID=4444&progID=10)hompson and Dr. [Ryan Jensen](https://socialsciences.byu.edu/directory/ryan-jensen), Department of Geography [READ](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1246&context=jur) @emit-sds
+## Major Mission Milestones @whitehouse
 
 
 @nasa-pds [POSTER](https://images-assets.nasa.gov/image/Artemis%20II%20Mission%20Trajectory%20Final/Artemis%20II%20Mission%20Trajectory%20Final~large.jpg?w=1920&h=1309&fit=clip&crop=faces%2Cfocalpoint)
