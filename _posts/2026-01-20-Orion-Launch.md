@@ -9,7 +9,7 @@ image: Kelp_southAmerica_NGS.jpg
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew)
 ## Artemis 2
-@asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [mailtto:rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard
+@asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard
 [presskit](https://www.nasa.gov/artemis-ii-press-kit/)
 ~ [Artemis II Media Resources `https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/`](https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/)
 @TheSpaceDevs @NASA-DEVELOP @NASA-GiSS
