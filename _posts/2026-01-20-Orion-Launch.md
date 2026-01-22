@@ -7,10 +7,16 @@ tags: nsn ecostress crew11 iss
 image: Kelp_southAmerica_NGS.jpg
 ---
 
+## Artemis 2
+[presskit](https://www.nasa.gov/artemis-ii-press-kit/)
+~ [Artemis II Media Resources `https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/`](https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/)
 @TheSpaceDevs @NASA-DEVELOP @NASA-GiSS
 Things to watch out for . . . @la-county-isd [KELPFOREST](https://science.nasa.gov/earth/earth-observatory/monitoring-the-collapse-of-kelp-forests-148391/) @cityofsandiego the splashdown for Orion is supposed to be in San Diego , I dont know how far the [Kelp](https://kelpwatch.org/map?zoom=2.00000&center=-82.00000%2C8.00000&startYear=1984&endYear=2025&timeFilter=all&currentStep=1984.2&kelpSource=landsat) foresst reach. This dataset from[Kelpwatch.org](https://kelpwatch.org/) will help get us all there [[1](https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=74)],  is that y you dont land here often? We would love to have you @nasa-jpl @cityoflosangeles @nasa-jpl [pdf](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf)
 
-Using AVIRIS and Machine Learning to Map and Discriminate Bull Kelp and Giant Kelp along the Pacific Coast of the United States SEPTEMBER 17, 2018 BY [ADMIN Tanner T](https://cce.nasa.gov/biodiversity/_biomap/projmap.html?projType=project&projID=4444&progID=10)hompson and Dr. [Ryan Jensen](https://socialsciences.byu.edu/directory/ryan-jensen), Department of Geography... _Dr. Jensen is very knowledgable about Africa_ [READ](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1246&context=jur) [[1](https://www.ratemyprofessors.com/professor/1064147)] [[2](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1246&context=jur)] @emit-sds @nasa [World’s Largest Dynamic Kelp Map Launched - Apr 04, 2022](https://science.nasa.gov/missions/landsat/worlds-largest-dynamic-kelp-map-launched/)
+[https://science.nasa.gov/earth/earth-observatory/finding-cortez-85059/](https://science.nasa.gov/earth/earth-observatory/finding-cortez-85059/)
+<img   alt="image" src="https://github.com/user-attachments/assets/0700cdd3-eaf0-441a-8cd0-ec85c6c7efe8" />
+
+Using AVIRIS and Machine Learning to Map and Discriminate Bull Kelp and Giant Kelp along the Pacific Coast of the United States SEPTEMBER 17, 2018 BY [ADMIN Tanner T](https://cce.nasa.gov/biodiversity/_biomap/projmap.html?projType=project&projID=4444&progID=10)hompson and Dr. [Ryan Jensen](https://socialsciences.byu.edu/directory/ryan-jensen), Department of Geography... _Dr. Jensen is very knowledgable about Africa_ [READ](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1246&context=jur) [[1](https://www.ratemyprofessors.com/professor/1064147)] [[2](https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=1246&context=jur)] @emit-sds @nasa [World’s Largest Dynamic Kelp Map Launched - Apr 04, 2022](https://science.nasa.gov/missions/landsat/worlds-largest-dynamic-kelp-map-launched/) ::: [Kelp Forests at the End of the Earth](https://science.nasa.gov/missions/landsat/kelp-forests-at-the-end-of-the-earth/)
 
 ### Monitoring kelp for conservation
 [Link Kelpwatch.org](https://kelpwatch.org/)
