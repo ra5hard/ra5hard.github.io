@@ -21,6 +21,62 @@ Running Windows Network Diagnostics
 ERR_TIMED_OUT
 ```
 
+```shell
+Microsoft Windows [Version 10.0.18362.1256]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MPEIC26
+   Primary Dns Suffix  . . . . . . . : lbpa.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lbpa.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : E4-54-E8-71-87-47
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.161.126(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 192.168.160.1
+   DNS Servers . . . . . . . . . . . : 192.168.129.12
+                                       192.168.128.12
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\PAC>
+```
+[Link](https://whatismyipaddress.com/ip/205.154.246.79) @nasa-jpl @nasa-pds @nasa-openscapes
+IP Details For: 205.154.246.79
+
+Decimal:3449484879
+
+Hostname:lib-03-subnet-79.rdns.cenic.net
+
+ASN:2152
+
+ISP:CENIC
+
+Services:None detected
+
+Country:United States
+
+State/Region:California
+
+City:Cypress
+
+Latitude:33.8170 (33° 49′ 1.05″ N)
+
+Longitude:-118.0373 (118° 2′ 14.25″ W)
+<img  alt="image" src="https://github.com/user-attachments/assets/625fa27f-c9b2-4162-981c-6b81931b44d4" />
+
+
 In 1997, NASA and the Japan Aerospace Exploration Agency (JAXA), launched the Tropical Rainfall Measuring Mission (TRMM) to learn more about the role of tropical rainfall in Earth’s water and energy cycles. Orbiting from 35° North to 35° South, the satellite carries the first space-based precipitation radar and a microwave imager designed to observe moderate to intense tropical rainfall. [Wiki](https://en.wikipedia.org/wiki/Global_Precipitation_Measurement)
 [AGU](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003534) [EO](https://science.nasa.gov/earth/earth-observatory/image-of-the-day/) 
 
