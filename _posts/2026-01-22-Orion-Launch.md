@@ -10,18 +10,20 @@ image: Kelp_southAmerica_NGS.jpg
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play)
 
 
-## 3 Americans and a Human - The Flame Trench
-[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia [
-### Rare Interview With Martin Luther King Jr 
-[watch](https://youtu.be/P1KI33vtn9U)
-Restored by [The Paley Center](https://www.paleycenter.org/), [David Susskind](https://blogs.loc.gov/now-see-hear/2023/09/david-susskind-speaks-again/)'s extraordinary interview with Dr. [Martin Luther King](https://www.loc.gov/item/today-in-history/january-15/), Jr., which originally aired on June 9, 1963. [[1](https://www.youtube.com/watch?v=smEqnnklfYs)] [[2](https://youtu.be/QEPNGf7rS0M?si=jAHVK8x3YmLr7iDN)] [[3](https://youtu.be/ZmtOGXreTOU?si=0v770k2ew-3LG3nn)] [[4](https://youtu.be/QXqlziZV63k?si=XCQ5tHVKMnF4YJ1M)] @whitehouse
-<img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
 ## Artemis 2
+
+## 3 Americans and a Human - The Flame Trench
+[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia @NASASpaceFlight
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
+
 @asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard [@uclaioes](https://uclaioes.github.io/shorelines/) https://uclaioes.github.io/shorelines/
 [presskit](https://www.nasa.gov/artemis-ii-press-kit/) __ CSA `Information kit – Artemis II mission` [Link - asc-csa.gc.ca/eng/missions/artemis-ii/information-kit.asp](https://www.asc-csa.gc.ca/eng/missions/artemis-ii/information-kit.asp) @ESA [GLOBALKELPCOVER](https://www.earthdata.nasa.gov/about/competitive-programs/csesp/global-kelp-cover)
 Kelp forests change frequently, and often out of sight from scientists. Infrared imagery changes that. [Article](https://science.nasa.gov/earth/earth-observatory/floating-forests-revealed-85023/)
-~ [Artemis II Media Resources `https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/`](https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/)
+~ [Artemis II Media Resources `https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/`](https://www.nasa.gov/humans-in-space/artemis-ii-media-resources/) ### Rare Interview With Martin Luther King Jr 
+[watch](https://youtu.be/P1KI33vtn9U)
+Restored by [The Paley Center](https://www.paleycenter.org/), [David Susskind](https://blogs.loc.gov/now-see-hear/2023/09/david-susskind-speaks-again/)'s extraordinary interview with Dr. [Martin Luther King](https://www.loc.gov/item/today-in-history/january-15/), Jr., which originally aired on June 9, 1963. [[1](https://www.youtube.com/watch?v=smEqnnklfYs)] [[2](https://youtu.be/QEPNGf7rS0M?si=jAHVK8x3YmLr7iDN)] [[3](https://youtu.be/ZmtOGXreTOU?si=0v770k2ew-3LG3nn)] [[4](https://youtu.be/QXqlziZV63k?si=XCQ5tHVKMnF4YJ1M)] @whitehouse
 @TheSpaceDevs @NASA-DEVELOP @NASA-GiSS
 ## Things to watch out for . . .
 @la-county-isd Have you ever walked along a California coast and wondered about all of the kelp washed-up on shore? - [BeachedKelpExplained](https://science.nasa.gov/missions/landsat/explaining-beached-kelp/) [KELPFOREST](https://science.nasa.gov/earth/earth-observatory/monitoring-the-collapse-of-kelp-forests-148391/) @cityofsandiego the splashdown for Orion is supposed to be in San Diego , I dont know how far the [Kelp](https://kelpwatch.org/map?zoom=2.00000&center=-82.00000%2C8.00000&startYear=1984&endYear=2025&timeFilter=all&currentStep=1984.2&kelpSource=landsat) foresst reach. This dataset from[Kelpwatch.org](https://kelpwatch.org/) will help get us all there [[1](https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=74)],  is that y you dont land here often? We would love to have you @nasa-jpl @cityoflosangeles @nasa-jpl [pdf](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf) // [SLS-4659_MSFC_08152023_August 2023 Resource Reel](https://images.nasa.gov/details/SLS-4659_MSFC_08152023_August%202023%20Resource%20Reel)
