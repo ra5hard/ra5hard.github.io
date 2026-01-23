@@ -8,6 +8,18 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
+
+
+
+
+Hi i thought i was looking at [EcoStress](https://ecostress.jpl.nasa.gov/science) data, but was wrong its
+
+The NASA/NOAA Suomi National Polar-orbiting Partnership (Suomi NPP) Visible Infrared Imaging Radiometer Suite (VIIRS) FIre Light Detection Algorithm-2 (FILDA-2) Modified Combustion Efficiency (MCE) swath product (VNP47MOD) is produced in 6-minute orbit 
+
+![https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.01.23/BROWSE.VNP47MOD.A2026022.1624.002.2026023021805.1.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.01.23/BROWSE.VNP47MOD.A2026022.1624.002.2026023021805.1.jpg)
+
+---
+
 `You are downloading data from NASA's Land Processes Distributed
 Active Archive Center` [LinK @emit-sds @nasa-pjs @stateofcalifornia @cityoflosangeles](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/)
 
