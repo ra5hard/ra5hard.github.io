@@ -11,7 +11,10 @@ image: Kelp_southAmerica_NGS.jpg
 
 
 ## 3 Americans and a Human - The Flame Trench
-[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia 
+[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia [
+### Rare Interview With Martin Luther King Jr 
+[watch](https://youtu.be/P1KI33vtn9U)
+Restored by [The Paley Center](https://www.paleycenter.org/), [David Susskind](https://blogs.loc.gov/now-see-hear/2023/09/david-susskind-speaks-again/)'s extraordinary interview with Dr. [Martin Luther King](https://www.loc.gov/item/today-in-history/january-15/), Jr., which originally aired on June 9, 1963. [[1](https://www.youtube.com/watch?v=smEqnnklfYs)] [[2](https://youtu.be/QEPNGf7rS0M?si=jAHVK8x3YmLr7iDN)] [[3](https://youtu.be/ZmtOGXreTOU?si=0v770k2ew-3LG3nn)] [[4](https://youtu.be/QXqlziZV63k?si=XCQ5tHVKMnF4YJ1M)]
 <img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
 ## Artemis 2
