@@ -9,6 +9,28 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 
 
 
+ @jaxa `gpm.nasa.gov` is loading slow from longbeach public library @nasa-jpl took too long to respond.
+```
+This site can’t be reached
+gpm.nasa.gov took too long to respond.
+Try:
+
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_TIMED_OUT
+```
+
+In 1997, NASA and the Japan Aerospace Exploration Agency (JAXA), launched the Tropical Rainfall Measuring Mission (TRMM) to learn more about the role of tropical rainfall in Earth’s water and energy cycles. Orbiting from 35° North to 35° South, the satellite carries the first space-based precipitation radar and a microwave imager designed to observe moderate to intense tropical rainfall. [Wiki](https://en.wikipedia.org/wiki/Global_Precipitation_Measurement)
+[AGU](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003534) [EO](https://science.nasa.gov/earth/earth-observatory/image-of-the-day/) 
+
+![@jaxa GLOBAL RAiNFALLWATCH](https://sharaku.eorc.jaxa.jp/GSMaP/img/header_title_E.png) 
+ [@jaxa GLOBAL RAiNFALLWATCH](https://sharaku.eorc.jaxa.jp/GSMaP/)
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/0fa018a7-026c-42b2-9910-c6556fa38953" />
+
+By NASA - <a rel="nofollow" class="external free" href="https://science.nasa.gov/toolkits/spacecraft-icons">https://science.nasa.gov/toolkits/spacecraft-icons</a> (<a rel="nofollow" class="external text" href="https://smd-prod.s3.amazonaws.com/science-green/s3fs-public/thumbnails/image/GPM.png">image link</a>), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=58302456">Link</a>
+
 ```
 Registrar
 get.gov
