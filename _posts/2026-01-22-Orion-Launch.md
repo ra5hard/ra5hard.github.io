@@ -17,6 +17,8 @@ image: Kelp_southAmerica_NGS.jpg
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/b2885a24-c834-491b-8273-00e3122d8282" />
+
 @asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard [@uclaioes](https://uclaioes.github.io/shorelines/) https://uclaioes.github.io/shorelines/
 [presskit](https://www.nasa.gov/artemis-ii-press-kit/) __ CSA `Information kit – Artemis II mission` [Link - asc-csa.gc.ca/eng/missions/artemis-ii/information-kit.asp](https://www.asc-csa.gc.ca/eng/missions/artemis-ii/information-kit.asp) @ESA [GLOBALKELPCOVER](https://www.earthdata.nasa.gov/about/competitive-programs/csesp/global-kelp-cover)
 Kelp forests change frequently, and often out of sight from scientists. Infrared imagery changes that. [Article](https://science.nasa.gov/earth/earth-observatory/floating-forests-revealed-85023/)
