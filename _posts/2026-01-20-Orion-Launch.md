@@ -25,6 +25,10 @@ Using AVIRIS and Machine Learning to Map and Discriminate Bull Kelp and Giant Ke
 # Floating Forests
 [Link 2 Map - floating-forests](https://www.zooniverse.org/projects/zooniverse/floating-forests) 
 <img  alt="image" src="https://github.com/user-attachments/assets/a7c276d2-d49f-459c-b0c3-f8f71fe2c6cf" />
+
+[- The Bay Foundation (TBF) is a world leader in the effort to restore kelp forests -](https://www.santamonicabay.org/what-we-do/projects/kelp-forest-restoration-project/) @ucla 
+<img   alt="image" src="https://github.com/user-attachments/assets/a1a24dea-895a-4ed8-b457-13f2d77b2b99" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/1d15f44a-ff45-40ea-bcc1-27c08ee43ddb" />
 
 ### Monitoring kelp for conservation
