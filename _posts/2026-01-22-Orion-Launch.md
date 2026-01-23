@@ -7,9 +7,8 @@ tags: nsn ecostress crew11 iss
 image: Kelp_southAmerica_NGS.jpg
 ---
 @NASA's Artemis II Live Views from Kennedy Space Cente
-[Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play)
-
-
+[Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
+- Jumpto `weather` < - looking up markdown anchors
 
 ## Artemis 2
 
@@ -252,8 +251,12 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 ![Orion from a soudi](https://cdnx.premiumread.com/?url=https://www.saudigazette.com.sa/uploads/images/2022/12/11/2056770.jpg&w=850&q=100&f=webp)
 <img   alt="image" src="https://github.com/user-attachments/assets/6404eb20-efc9-4a15-8362-18c982e156f6" />
 
-
+## weather 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
+
+@cityofSandiego @cityoflosangeles [NASA_STREAM_MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.15/-13036065.54/3839414.84&layers=aqv_chla_20260114_sentinel:1.00:0.00:30.00:default&grids=1,0) @nasa-jpl @TheSpaceDevs @blueorigin @spaceexplorationtechnologies @r-spacex @blackgirlscode @la-county-isd . . . @cityoflosangeles I include you all even when its slated for SD because we could still get it. Thats not a big difference coming from outerspace
+<img  alt="image" src="https://github.com/user-attachments/assets/e097ff42-bd42-491e-99b7-1b35b3dbadf0" />
+
 
 ![A2](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
 
