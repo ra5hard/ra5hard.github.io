@@ -252,5 +252,6 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 
 <img   alt="image" src="https://github.com/user-attachments/assets/bc55494b-9f30-4814-898e-54e3d33be7df" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/8b4eb8dc-59b1-47d7-9bec-37c496f593a4" />
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
