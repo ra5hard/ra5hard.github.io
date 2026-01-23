@@ -10,11 +10,19 @@ somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](h
 
 
 
+<img   alt="image" src="https://github.com/user-attachments/assets/b22138a3-30d9-4132-84be-ea9599c03821" />
 
 
-Hi i thought i was looking at [EcoStress](https://ecostress.jpl.nasa.gov/science) data, but was wrong its
+Hi i thought i was looking at [EcoStress](https://ecostress.jpl.nasa.gov/science) data, but was wrong its Sunomi. The file name gave it away [`VNP47MOD`](https://www.earthdata.nasa.gov/data/catalog/lpcloud-vnp47mod-002) @nasa-jpl @TheSpaceDevs @blackgirlscode but i have been accessing [Ecostress](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&q=ecostress&circle[0]=-120.3231%2C35.49987%2C503602&lat=35.49967206700306&long=-116.22071450848452&zoom=6.262196438499686) data for the [Los Angeles Fire Recovery](https://rashardgds.github.io/2025/08/13/FireReportCleanUp.html)- // FireSense Satellite Fleet [Link](https://svs.gsfc.nasa.gov/search/?keywords=Fires) @whitehouse 
 
 The NASA/NOAA Suomi National Polar-orbiting Partnership (Suomi NPP) Visible Infrared Imaging Radiometer Suite (VIIRS) FIre Light Detection Algorithm-2 (FILDA-2) Modified Combustion Efficiency (MCE) swath product (VNP47MOD) is produced in 6-minute orbit 
+
+`old` 
+```
+# - ECOSTRESS img DATATYPES
+Datastore = `https://e4ftl01.cr.usgs.gov/WORKING/BRWS` @usgs
+pg VNIR, TIR, SWIR
+```
 
 ![https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.01.23/BROWSE.VNP47MOD.A2026022.1624.002.2026023021805.1.jpg](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2026.01.23/BROWSE.VNP47MOD.A2026022.1624.002.2026023021805.1.jpg)
 
