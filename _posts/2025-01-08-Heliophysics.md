@@ -16,9 +16,9 @@ The Science Mission Directorate Heliophysics Division studies the nature of the 
 
 ## NuSTAR
 The Nuclear Spectroscopic Telescope Array, or NuSTAR, mission studies the universe in high energy X-rays to better understand the dynamics of black holes, exploding stars and the most extreme active galaxies.
-## NuSTAR's Quiet Sun
+## NuSTAR's Quiet Sun _[WATCH](https://youtu.be/vIGRdOuOqBc)_
 Science Video • October 17th, 2018
-This is the first full view of the quiet Sun with NASA's Nuclear Spectroscopic Telescope Array (NuSTAR). The high-energy X-rays from NuSTAR are shown in comparison to EUV images from NASA’s Solar Dynamics Observatory/Atmospheric Imaging Assembly instrument (SDO/AIA) and the X-ray Telescope (XRT) on JAXA’s Hinode. These three telescopes all captured the quiet Sun on September 28, 2018, with the NuSTAR images made from a mosaic of smaller images.
+This is the first full view of the quiet Sun with NASA's Nuclear Spectroscopic Telescope Array (NuSTAR). The high-energy X-rays from NuSTAR are shown in comparison to EUV images from NASA’s Solar Dynamics Observatory/Atmospheric Imaging Assembly instrument (SDO/AIA) and the X-ray Telescope (XRT) on JAXA’s Hinode. These three telescopes all captured the quiet Sun on September 28, 2018, with the NuSTAR images made from a mosaic of smaller images. [WATCH](https://youtu.be/vIGRdOuOqBc)
 [Read_More](https://nustar.caltech.edu/video/nustar181017v1) @blackgirlscode @la-county-isd [Homepage](https://nustar.caltech.edu/) [MissionSite](https://www.jpl.nasa.gov/missions/nuclear-spectroscopic-telescope-array-nustar/)
 
 [NuSTAR - eyes.nasa.gov](https://eyes.nasa.gov/apps/solar-system/#/sc_nustar)
