@@ -8,7 +8,13 @@ author: "RashardKelly @nasa-jpl"
 permalink: /Satellites
 ---
 
+[NuSTAR](https://www.tumblr.com/rashardmro/806558877712875520/monitoring-water-quality-in-lakes-and-coastal?source=share)
 
+[jpl](https://www.jpl.nasa.gov/missions/nuclear-spectroscopic-telescope-array-nustar/) / [Wiki](https://en.wikipedia.org/wiki/NuSTAR) / @CalTech @nasa-jpl [nustar.caltech.edu/](https://nustar.caltech.edu/) // [heasarc.gsfc.nasa.gov/docs/nustar/](https://heasarc.gsfc.nasa.gov/docs/nustar/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5f1ae23b-585b-4bfd-8b34-17236fff604b" />
+
+## GPM 
 In 1997, NASA and the Japan Aerospace Exploration Agency (JAXA), launched the Tropical Rainfall Measuring Mission (TRMM) to learn more about the role of tropical rainfall in Earth’s water and energy cycles. Orbiting from 35° North to 35° South, the satellite carries the first space-based precipitation radar and a microwave imager designed to observe moderate to intense tropical rainfall. [Wiki](https://en.wikipedia.org/wiki/Global_Precipitation_Measurement)
 [AGU](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003534) [EO](https://science.nasa.gov/earth/earth-observatory/image-of-the-day/) 
 
