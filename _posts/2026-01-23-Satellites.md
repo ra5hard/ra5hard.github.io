@@ -12,7 +12,7 @@ permalink: /Satellites
 ## _**Korea Pathfinder Lunar Orbiter**_
 https://www.kari.re.kr/kor
 
-[Korea Pathfinder Lunar Orbiter (KPLO) Operation: From Design to Initial Results](https://www.janss.kr/archive/view_article?pid=jass-41-1-43) Korea Pathfinder Lunar Orbiter (KPLO) is South Korea’s first space exploration mission, developed by the Korea Aerospace Research Institute. It aims to develop technologies for lunar exploration, explore lunar science, and test new technologies. @BlueOrigin @nasa-jpl ... @@usgs @nassa-develop @nasa-giss @rafamoreira im trying to get all the moon data over to the artemis clue @blackgirlscode [KPLO]() is [transmitting](https://eyes.nasa.gov/apps/dsn-now/dsn.html) its a lunar mission 
+[Korea Pathfinder Lunar Orbiter (KPLO) Operation: From Design to Initial Results](https://www.janss.kr/archive/view_article?pid=jass-41-1-43) Korea Pathfinder Lunar Orbiter (KPLO) is South Korea’s first space exploration mission, developed by the Korea Aerospace Research Institute. It aims to develop technologies for lunar exploration, explore lunar science, and test new technologies. @BlueOrigin @nasa-jpl ... @@usgs @nasa-develop @nasa-giss @rafamoreira im trying to get all the moon data over to the artemis cReW @blackgirlscode [KPLO](https://www.kari.re.kr/danuri/html/index.html) is [transmitting](https://eyes.nasa.gov/apps/dsn-now/dsn.html) its a lunar mission 
 <img  alt="image" src="https://github.com/user-attachments/assets/76fb560a-e513-459b-aec0-b77160b651ab" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/699cd90b-c909-41c4-bdce-171ecf47dd7c" />
