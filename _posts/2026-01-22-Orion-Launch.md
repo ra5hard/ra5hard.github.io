@@ -8,8 +8,7 @@ image: Kelp_southAmerica_NGS.jpg
 ---
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
-- Jumpto `weather` [space-weather](#space-weather) < - looking up markdown anchors
-
+- Jumpto `weather` [space-weather](#space-weather) 
 ## Artemis 2
 
 ## 3 Americans and a Human - The Flame Trench
@@ -17,7 +16,7 @@ image: Kelp_southAmerica_NGS.jpg
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
-<img   alt="image" src="https://github.com/user-attachments/assets/b2885a24-c834-491b-8273-00e3122d8282" />
+
 
 @asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard [@uclaioes](https://uclaioes.github.io/shorelines/) https://uclaioes.github.io/shorelines/
 [presskit](https://www.nasa.gov/artemis-ii-press-kit/) __ CSA `Information kit – Artemis II mission` [Link - asc-csa.gc.ca/eng/missions/artemis-ii/information-kit.asp](https://www.asc-csa.gc.ca/eng/missions/artemis-ii/information-kit.asp) @ESA [GLOBALKELPCOVER](https://www.earthdata.nasa.gov/about/competitive-programs/csesp/global-kelp-cover)
@@ -261,6 +260,18 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 <img  alt="image" src="https://github.com/user-attachments/assets/e097ff42-bd42-491e-99b7-1b35b3dbadf0" />
 
 
+S1A_IW_GRDH_1SDV_20260123T134439_20260123T134504_062895_07E3A9_A570
+<img   alt="image" src="https://github.com/user-attachments/assets/5c4b5f1a-4e7c-4d4f-9083-35485704015a" />
+@cityoflosangeles @nasa-jpl @CityOfLosangeles @LA-County-iSd 
+S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad198a34-6a8d-4bc7-86e3-23e7d20c3dd4" />
+@NASA STREAM [Arset Training](https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream)  ~ [Resources](https://www.earthdata.nasa.gov/data/projects/arset/learn) // link to [ThisMap]
+`STREAM` = An upcoming training offered by NASA's ARSET program introduces a web-based platform for monitoring lake and coastal water conditions using satellite data. [ReadMORE](https://www.earthdata.nasa.gov/news/let-water-quality-information-flow-nasa-stream)
+(https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.14/-13025325.43/3854465.22&layers=aqv_chla_20260114_sentinel:1.00:0.00:30.00:default&grids=1,0)
+<img   alt="image" src="https://github.com/user-attachments/assets/69ec1f41-ec66-4fdf-8982-ea5795030b55" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/b2885a24-c834-491b-8273-00e3122d8282" />
 ![A2](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
 
 @blackgirlscode [GymTeacherShit](https://youtu.be/9jRKsH8_OWQ?si=52rMxhLnKzTVtl9Q) normani there you go! @emit-sds 
@@ -272,3 +283,6 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 <img   alt="image" src="https://github.com/user-attachments/assets/8b4eb8dc-59b1-47d7-9bec-37c496f593a4" />
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
+
