@@ -266,6 +266,7 @@ S1A_IW_GRDH_1SDV_20260123T134439_20260123T134504_062895_07E3A9_A570
 S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ad198a34-6a8d-4bc7-86e3-23e7d20c3dd4" />
+
 @NASA STREAM [Arset Training](https://www.earthdata.nasa.gov/learn/trainings/monitoring-water-quality-lakes-coastal-regions-using-stream)  ~ [Resources](https://www.earthdata.nasa.gov/data/projects/arset/learn) // link to [ThisMap]
 `STREAM` = An upcoming training offered by NASA's ARSET program introduces a web-based platform for monitoring lake and coastal water conditions using satellite data. [ReadMORE](https://www.earthdata.nasa.gov/news/let-water-quality-information-flow-nasa-stream)
 (https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.14/-13025325.43/3854465.22&layers=aqv_chla_20260114_sentinel:1.00:0.00:30.00:default&grids=1,0)
