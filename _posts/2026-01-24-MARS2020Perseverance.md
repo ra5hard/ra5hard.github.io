@@ -11,7 +11,13 @@ author: "RashardKelly @nasa-jpl"
 # [Mars](https://youtu.be/SKlbDtWYHJk) Exploration Program
 NASA's Mars Exploration Program includes current missions Odyssey, MRO, Mars Express, MSL, InSight, and Mars 2020 [READMORE](https://pds-geosciences.wustl.edu/missions/mep/index.htm)
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1158008518?h=fd1531a392" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
 
+NASA's Ingenuity Mars Helicopter acquired this image using its high-resolution color camera. This camera is mounted in the helicopter's fuselage and pointed approximately 22 degrees below the horizon.
+
+This image was acquired on April 20, 2022 (Sol 414 of the Perseverance rover mission) at the local mean solar time of 11:39:40. This was the date of Ingenuity's 26th flight.
+
+Image Credit: NASA/JPL-Caltech
 <iframe src="https://archive.org/embed/mars-geology-imaging-gifs/videosrangerVideo-Ranger-9-impact-020423.webm" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Mars Helicopter Sol 43: Color Camera
