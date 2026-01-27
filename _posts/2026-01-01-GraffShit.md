@@ -15,6 +15,51 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
   <li>{{ post.title }}</li>
 {% endfor %}
 
+## DEAR_HAYAT
+
+ i did this tag with TAR_BLACK... Them nozzles is butta
+
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg" >
+
+<img src="https://www.graff-city.com/images/montana-tar-black-spray-paint-600ml-p63-6362_image.jpg">
+
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5ca50aa775895e578ff474d1/vsco5ca50aa9176aa.jpg">
+<img src="https://www.graff-city.com/images/molotow-dripstick-coversall-861ds-p322-7828_medium.jpg" >
+
+<img src="https://www.graff-city.com/images/montana-black-snow-white-9100-6-can-deal-p3126-16394_image.jpg" >
+
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc456cbe1ebb64f08283bf3/vsco5fc456cda6a3c.jpg">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="https://www.graff-city.com/images/molotow-coversall-color-spray-paint-p41-4380_image.jpg">
+
+<img src="https://www.graff-city.com/images/molotow-coversall-color-spray-paint-p41-18340_image.jpg">
+
+<img src="https://www.graff-city.com/spray-cans-c128/spray-paint-cans-c76/molotow-spray-paint-c91/molotow-mixed-pack-3-free-flame-booster-black-p4879">
+<img src="https://www.graff-city.com/images/molotow-premium-neon-bundle-6-can-pack-p4681-25436_image.jpg">
+<img src="https://www.graff-city.com/images/molotow-premium-spray-paint-p92-17214_medium.jpg">
+
+<img src="https://cdn.shopify.com/s/files/1/0815/6851/products/94Box_1000x_1000x_1000x_d2e323d4-558a-4803-b6c4-e01c8e66902a_600x.jpg?v=1588370312">
+
+<img src="https://cdn.shopify.com/s/files/1/0815/6851/products/a5_600x.jpg">
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/MYxAiK6VnXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Dear_Muna
+12ozProphet Memento Mori Patch, for my weakening backpack
+
+<img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-memento-mori-patch_720x.jpg?v=1524111434" >
+
+<img src="https://cdn.shopify.com/s/files/1/0815/6851/products/K-MOP_medium@2x.png?v=1575931706">
+
+## Major Lazer - Get Free ft. Amber of the Dirty Projectors
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ytIfSuy_mOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## J. Cole's documentary on HomeWrecking
+Muna this shit dope, he even stars in the shit... This kind of content ensures it would never happen iRL witha conscience niggah liyke dat owwn da mic
+
+<iframe width="100%" height="375" src="https://www.youtube.com/embed/jYdaQJzcAcw" title="J. Cole - She Knows (Explicit Video) ft. Amber Coffman, Cults" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 @nasa - [GoodMorning](https://www.facebook.com/permalink.php?story_fbid=pfbid0f6kcbYJ3jmYh5vLXZrBnkRs1DfVeu8AvX7A5tigt1ENL987vCSKK4sMdwiWCHzGZl&id=100084464911565)
 
 ## Watch Live: Demonstrators march in downtown LA in protest of deadly Minneapolis ICE shooting @DHS-GOV @WEATHER-GOV @NOAAGOV @NASA-GISS @NASA-DEVELOP WE HAVE A PROTEST in Los Angeles again @usgs @LA-County-iSD @BLACKGiRSLCODE 
