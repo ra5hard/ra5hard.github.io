@@ -32,9 +32,7 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 
 <img src="https://www.graff-city.com/images/molotow-coversall-color-spray-paint-p41-4380_image.jpg">
 
-<img src="https://www.graff-city.com/images/molotow-coversall-color-spray-paint-p41-18340_image.jpg">
 
-<img src="https://www.graff-city.com/spray-cans-c128/spray-paint-cans-c76/molotow-spray-paint-c91/molotow-mixed-pack-3-free-flame-booster-black-p4879">
 <img src="https://www.graff-city.com/images/molotow-premium-neon-bundle-6-can-pack-p4681-25436_image.jpg">
 <img src="https://www.graff-city.com/images/molotow-premium-spray-paint-p92-17214_medium.jpg">
 
