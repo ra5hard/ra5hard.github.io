@@ -15,11 +15,22 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
   <li>{{ post.title }}</li>
 {% endfor %}
 
+
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc456bce1ebb64f08283bf2/vsco5fc456bd41267.jpg">
+
 ## DEAR_HAYAT
 
  i did this tag with TAR_BLACK... Them nozzles is butta
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc455b1e1ebb64f08283be5/vsco5fc455b279aee.jpg" >
+
+
+
+<img src="https://www.graffiti.org/atl/noah.jpg">
+<img src="https://www.graffiti.org/atl/civicwall.jpg">
+<img src="http://www.patrikwallner.com/wp-content/uploads/2015/10/National-Geographics-Madagascar-Pages-LOWQ-2000P.jpg">
+<img src="https://www.graffiti.org/mesa/such-pink-tackz.jpg" alt="Such, Lady Pink, Tackz AM7">
+<img src="https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc45a98e1ebb64f08283c25/vsco5fc45a9961d50.jpg" alt="##SKATE_THE_WORLD_BOOK::NATIONAL_GEOGRAPHIC" >
 
 <img src="https://www.graff-city.com/images/montana-tar-black-spray-paint-600ml-p63-6362_image.jpg">
 
@@ -42,12 +53,32 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/MYxAiK6VnXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[The Best High-Performance Subwoofer By Brent Butterworth](https://www.nytimes.com/wirecutter/reviews/best-subwoofer-for-home/)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/308016226&color=%23141314&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/breakfast-in-bed" title="Breakfast In Bed" target="_blank" style="color: #cccccc; text-decoration: none;">Breakfast In Bed</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/425539491&color=%2374b4bc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/iamcardib" title="Cardi B" target="_blank" style="color: #cccccc; text-decoration: none;">Cardi B</a> · <a href="https://soundcloud.com/iamcardib/ring-feat-kehlani-1" title="Ring (feat. Kehlani)" target="_blank" style="color: #cccccc; text-decoration: none;">Ring (feat. Kehlani)</a></div>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1202773675&color=%234f1d3d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/nija-music" title="Nija" target="_blank" style="color: #cccccc; text-decoration: none;">Nija</a> · <a href="https://soundcloud.com/nija-music/not-one-of-them" title="Not One Of Them" target="_blank" style="color: #cccccc; text-decoration: none;">Not One Of Them</a></div>
+
+[Monolith by Monoprice M-15 V2 15in THX Certified Ultra 1000-Watt Subwoofer Amplifier, Piano Black Finish](https://www.monoprice.com/product?p_id=42852)
+<img src="https://images.monoprice.com/productlargeimages/428523.jpg" >
+
 ## Dear_Muna
 12ozProphet Memento Mori Patch, for my weakening backpack
 
 <img src="https://cdn.shopify.com/s/files/1/3005/5554/products/12ozprophet-memento-mori-patch_720x.jpg?v=1524111434" >
 
 <img src="https://cdn.shopify.com/s/files/1/0815/6851/products/K-MOP_medium@2x.png?v=1575931706">
+
+<img src="https://www.graffiti.org/atl/am71.jpg"> 
+<img src="https://www.graffiti.org/atl/anime4.jpg">
+<a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">SarTu, like Kool DJ Red Alert check him out on<span class="neonText"> 98.7 Kiss-FM </span> (12-4-88) </a>
+<img src="https://www.graffiti.org/atl/joe1.jpg">
+<img src="https://www.graffiti.org/atl/eros1.jpg">
+<img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5cf66bae52aad8210f45cbaf/vsco5cf66bafc30a6.jpg">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/F6wnB3Aa8TI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m-a963Sd2dk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509765250&color=%23683e30&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<img src="https://cdn.shopify.com/s/files/1/0921/3560/products/sb-1000-pro-pgw_1024x.png?v=1612802714">
 
 ## Major Lazer - Get Free ft. Amber of the Dirty Projectors
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ytIfSuy_mOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
