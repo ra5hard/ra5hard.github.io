@@ -24,11 +24,13 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 <img src="https://www.graff-city.com/images/montana-tar-black-spray-paint-600ml-p63-6362_image.jpg">
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5ca50aa775895e578ff474d1/vsco5ca50aa9176aa.jpg">
+
 <img src="https://www.graff-city.com/images/molotow-dripstick-coversall-861ds-p322-7828_medium.jpg" >
 
 <img src="https://www.graff-city.com/images/montana-black-snow-white-9100-6-can-deal-p3126-16394_image.jpg" >
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc456cbe1ebb64f08283bf3/vsco5fc456cda6a3c.jpg">
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5YMYrB0dqoU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <img src="https://www.graff-city.com/images/molotow-coversall-color-spray-paint-p41-4380_image.jpg">
