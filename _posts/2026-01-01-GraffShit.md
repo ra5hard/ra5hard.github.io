@@ -15,6 +15,7 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
   <li>{{ post.title }}</li>
 {% endfor %}
 
+<img alt="image" src="https://github.com/user-attachments/assets/cf1d4772-1c85-4be7-a66e-46526d6c5ec4" />
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc456bce1ebb64f08283bf2/vsco5fc456bd41267.jpg">
 
