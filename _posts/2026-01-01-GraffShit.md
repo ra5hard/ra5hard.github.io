@@ -15,11 +15,16 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
   <li>{{ post.title }}</li>
 {% endfor %}
 
-@whitehouse [MrTrump](https://www.whitehouse.gov/administration/donald-j-trump/). By The Way, I have two videos I want you to see about Quality OF life in LosAngeles and the priority of Art, Graffiti and Going HAm
+@whitehouse [MrTrump](https://www.whitehouse.gov/administration/donald-j-trump/). By The Way, I have two videos I want you to see about Quality OF life in LosAngeles and the [priority](https://youtu.be/5QJVsuizNo4?si=SxVZrypFGqynXLuK) of Art, Graffiti and Going HAm
 
 - [HTAU_MRTRUMP1OF2SOL4711-4765](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP1OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002200_772.mp4) 	26-Jan-2026 23:36	323.1M
 - [HTAU_MRTRUMP2OF2SOL4711](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP2OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002817_522.mp4)26-Jan-2026 23:37	140.8M
   @nasa @doug-newman-nasa @mfisher87 @NASA-GISS @blackgirlscode @la-county-isd @CityOfLosAngeles @GEOS-ESM @datadesk @washingtonpost @newshour @cbs-news-data @nbcnews
+Me and Coral vs CRAE [watch on @vimeo](https://vimeo.com/396000267?fl=pl&fe=sh)
+@Whitehouse @fbicyber
+This writer going by the name Crae, I painted wiht him Mrs Holly Mitchell... I painted with a few of my victimizers to get to know them. He was a PB_THUG and doubled at Familiy services and asked coral how often do she touch herself under the name [Dr. R_L](https://dfcs.georgia.gov/) ::: [WATCH](https://vimeo.com/396000267)
+<img   alt="image" src="https://github.com/user-attachments/assets/5f086c0c-3c2b-4026-ad25-80935fdffb62" />
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/cf1d4772-1c85-4be7-a66e-46526d6c5ec4" />
 
