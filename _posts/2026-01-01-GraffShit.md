@@ -15,6 +15,12 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
   <li>{{ post.title }}</li>
 {% endfor %}
 
+@whitehouse [MrTrump](https://www.whitehouse.gov/administration/donald-j-trump/). By The Way, I have two videos I want you to see about Quality OF life in LosAngeles and the priority of Art, Graffiti and Going HAm
+
+- [HTAU_MRTRUMP1OF2SOL4711-4765](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP1OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002200_772.mp4) 	26-Jan-2026 23:36	323.1M
+- [HTAU_MRTRUMP2OF2SOL4711](https://archive.org/download/commitmentmaintenance/000000000000_laRiverCanaL_HTAU_MRTRUMP2OF2SOL4711-4765_Jon_Ossoff_karenbass_NAGiN_COX_rashardsupdate_VirtiservLatriceVID_20260126_100756_144VID_20260125_002817_522.mp4)26-Jan-2026 23:37	140.8M
+  @nasa @doug-newman-nasa @mfisher87 @NASA-GISS @blackgirlscode @la-county-isd @CityOfLosAngeles @GEOS-ESM @datadesk @washingtonpost @newshour @cbs-news-data @nbcnews
+
 <img alt="image" src="https://github.com/user-attachments/assets/cf1d4772-1c85-4be7-a66e-46526d6c5ec4" />
 
 <img src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5fc456bce1ebb64f08283bf2/vsco5fc456bd41267.jpg">
