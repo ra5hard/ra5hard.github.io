@@ -7,6 +7,10 @@ title: "LongBeach, California"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+# False Color 
+<img   alt="image" src="https://github.com/user-attachments/assets/a0bf6905-7154-45ac-85f5-bd40049f3c26" />
+
 @eu-cdse Moisture index you guys may wanna anticipate @la-county-isd, i forgot to do displacement mapping . . . ill get it at some point, ill get the mobile phone version later Ms Baass/Mitchell @usgs @Nasa-jpl 
 
 <img  alt="2026-01-27-00_00_2026-01-27-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/270403ff-df7d-4c34-9c2b-b342dd65b4c4" />
