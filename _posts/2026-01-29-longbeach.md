@@ -7,11 +7,14 @@ title: "LongBeach, California"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
-
+## Thermal Anomolies
+### 1/29/2026 @la-county-isd
+[LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,countries,earth;@-118.149,33.784,12.516z)
+<img  alt="image" src="https://github.com/user-attachments/assets/0b31d621-332a-4de3-b564-66a8718640e8" />
 
 # NASA Shuttle Radar Topography Mission Global 1 arc second V003
 [DATASET](https://www.earthdata.nasa.gov/data/catalog/lpcloud-srtmgl1-003)
-Land Processes DAAC (LP DAAC) @nasa-jpl 
+Land Processes DAAC (LP DAAC) @nasa-jpl @blackgirlscode @cbsla @cbsnews [map](https://search.earthdata.nasa.gov/search/granules/collection-details?p=C2763266360-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G2821077792-LPCLOUD&sb[0]=-118.19694%2C33.75511%2C-118.16442%2C33.78456&lat=33.5&long=-118.48160743382353&zoom=9.900442693693964)
 
 <div class="tupperware">
 
