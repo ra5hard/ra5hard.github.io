@@ -10,7 +10,7 @@ author: RashardKelly @nasa-jpl
 
 ## President Trump Makes an Announcement, Jan. 29, 2026
 
-@whitehouse [watch](https://www.youtube.com/watch?v=OE2NtBhozT4) @blackgirlscode Virtiserv is listed in [YoungstownOhio BBB](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936) @codeyoungstown I had an amazing date with a girl from your town during covid lockdown... her name is latrice, if it rings a bell just tell her i have not shaved and i need the next step because erika stole my foodstamp card with my daughter name on it . . . 
+@whitehouse [watch](https://www.youtube.com/watch?v=OE2NtBhozT4) @blackgirlscode [Virtiserv](https://www.facebook.com/thevirtiservway/) @nasa  is listed in [YoungstownOhio BBB](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936) @codeyoungstown I had an amazing date with a girl from your town during covid lockdown... her name is latrice, if it rings a bell just tell her i have not shaved and i need the next step because erika stole my foodstamp card with my daughter name on it . . . 
 I watched but i really dont know whats going on.. @nasa-jpl @la-county-isd
 
 <img alt="image" src="https://github.com/user-attachments/assets/6eeec377-69fa-448b-99cd-ea7075d1e2d7" />
