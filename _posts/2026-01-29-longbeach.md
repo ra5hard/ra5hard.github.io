@@ -7,6 +7,10 @@ title: "LongBeach, California"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+@eu-cdse Moisture index you guys may wanna anticipate @la-county-isd, i forgot to do displacement mapping . . . ill get it at some point, ill get the mobile phone version later Ms Baass/Mitchell @usgs @Nasa-jpl 
+
+<img  alt="2026-01-27-00_00_2026-01-27-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/270403ff-df7d-4c34-9c2b-b342dd65b4c4" />
+
 ## Thermal Anomolies
 ### 1/29/2026 @la-county-isd
 [LiNK](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,countries,earth;@-118.149,33.784,12.516z)
