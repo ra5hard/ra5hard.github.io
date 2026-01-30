@@ -31,6 +31,16 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
+@cityoflosangeles Karenbass @la-county-isd the kelp maps at aviris.jpl.nasa.gov are hiding from me @ucla the problem was discussed for the olympics . . . @blackgirlscode many of you in my age group are olympians so keep up with it at your schools @ucla @usc @caltech /// @NASA-OPENSCAPES @NASA-GiSS [@GEOS-ESM](https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/open-source-software/)
+[WATCH - lacity.gov/tv](https://lacity.gov/tv) . . . @StateOfCalifornia CongressMemberKaren Mrs Webr ... please see this short doc when you can -#rashard @nasa-pds @nasa-jpl @usgs
+## An Ocean in Bloom
+[clickhere2watch - svs.gsfc.nasa.gov/14648](https://svs.gsfc.nasa.gov/14648/)
+Released Friday, August 16, 2024
+Produced by:[Emme Watkins](https://svs.gsfc.nasa.gov/search/?people=Emme%20Watkins)
+Edited by:[Emme Watkins](https://www.emmewatkins.com/) & [Will Rothermel](https://svs.gsfc.nasa.gov/search/?people=Will%20Rothermel)
+Visualizations by:[Alex Kekesi](https://svs.gsfc.nasa.gov/search/?people=Alex%20Kekesi)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/fb32ca28-1d31-4359-8dd8-08665130cc30" />
 
 
 @asc-csa hi its [rashard](https://rashardmro.tumblr.com/) from [M_R_O](https://science.jpl.nasa.gov/projects/mro/) im keeping my launches separated as i grow with blogging in this department... I dont know @nasa kennedy github, but i am emailing from [rashardsdata@proton.me](mailtto:rashardsdata@proton.me) and I hope you guys benefit from my research! - MissionControlUnixHelpdesk - Rashard [@uclaioes](https://uclaioes.github.io/shorelines/) https://uclaioes.github.io/shorelines/
