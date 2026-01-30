@@ -4,7 +4,7 @@ title:  "Orion/Artemis @nasa @r-spaceX"
 published: true
 date:   2026-01-24 08:19:06 -0800
 tags: nsn ecostress crew11 iss
-image: ESA_Orion_dimensions_pillars.png
+image: Orion_dimensions_pillars.png
 ---
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
@@ -16,7 +16,7 @@ image: ESA_Orion_dimensions_pillars.png
 
 ## Artemis 2
 [Orion Spacecraft]
-
+Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
@@ -319,7 +319,11 @@ https://www.floridatoday.com/story/tech/science/space/2026/01/20/nasas-moon-rock
 is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 
 [NASA’s Orion capsule on target for splashdown](https://saudigazette.com.sa/article/627866)
+
+<img alt="image" src="https://github.com/user-attachments/assets/46d0586f-fdd9-48bf-906e-c36306e10c78" />
+
 ![Orion from a soudi](https://cdnx.premiumread.com/?url=https://www.saudigazette.com.sa/uploads/images/2022/12/11/2056770.jpg&w=850&q=100&f=webp)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/6404eb20-efc9-4a15-8362-18c982e156f6" />
 
 #  space-weather 
