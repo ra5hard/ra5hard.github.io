@@ -9,7 +9,8 @@ image: Kelp_southAmerica_NGS.jpg
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 - Jump to  [space-`weather`](#space-weather)
--  Jump to  [`moon-Data`](#moon-data)
+- Jump to  [`moon-Data`](#moon-data)
+- Jump to  [`kelp-Data`](#kelp-data)
 
 ---
 
@@ -31,6 +32,8 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
+
+#kelp-data
 @cityoflosangeles Karenbass @la-county-isd the kelp maps at aviris.jpl.nasa.gov are hiding from me @ucla the problem was discussed for the olympics . . . @blackgirlscode many of you in my age group are olympians so keep up with it at your schools @ucla @usc @caltech /// @NASA-OPENSCAPES @NASA-GiSS [@GEOS-ESM](https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/open-source-software/)
 [WATCH - lacity.gov/tv](https://lacity.gov/tv) . . . @StateOfCalifornia CongressMemberKaren Mrs Webr ... please see this short doc when you can -#rashard @nasa-pds @nasa-jpl @usgs
 ## An Ocean in Bloom
