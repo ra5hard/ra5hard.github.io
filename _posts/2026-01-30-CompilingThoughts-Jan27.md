@@ -7,6 +7,18 @@ published: true
 image: luckyGirl.png
 ---
 
+@la-county-isd 
+```
+Your message couldn't be delivered to
+karen.bass47@gmail.com.
+Their inbox is full,
+or it's getting too much mail right now.
+```
+New NASA Administrator visits Cleveland, talks future with the moon, Mars and NASA Glenn
+Hi Coral @blackgirlscode his name is jared [mailto:jared@shift4.com](mailto:jared@shift4.com) @nasa-jpl @la-county-isd ... I think latrice ran some sort of background check at [NasaGlenn](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/mars/) 
+gmr=12.1ftsec2=3.7msec2=.37Earth gravity
+<img   alt="image" src="https://github.com/user-attachments/assets/fbc94fdf-6205-4164-bf74-9c9f1021edd0" />
+
 ## GRAPHiC_DESiGN_RESOURCES
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/327956090?h=6b1a4743d3&color=0099ff&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <img src="https://www.oozlemedia.com/wp-content/uploads/2015/04/Oozle-Blog-Header-Jul2018.png">
