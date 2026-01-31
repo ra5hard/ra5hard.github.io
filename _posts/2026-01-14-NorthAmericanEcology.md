@@ -26,6 +26,10 @@ This tool is designed to display the probability that aquatic chlorophyll-a > (e
 [Map](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.53/-9099857.71/5093295.77&layers=aqv_chla_20260130_sentinel:1.00:0.00:30.00:default&grids=1,0) 
 <img  alt="image" src="https://github.com/user-attachments/assets/701e6d79-ded1-455d-b96c-a1033c285612" />
 
+
+{% for image in site.static_files %} {% if image.path contains 'assets/images/gallery-ohio-sentinel' | sort: 'date' | reverse %}  {% endif %} {% endfor %}
+
+
 <img alt="image" src="https://github.com/user-attachments/assets/13fa4dd8-2132-4d42-8bc6-5572677e7600" />
 
 [map](https://rs-algal-blooms.users.earthengine.app/view/idaho#lon=-112.7258346606474;lat=41.32460985663781;zoom=10;date=2026-01-24;L1=false;L2=false;L3=false;L4=true;L5=false;L6=false;L7=true;L8=false;L9=false;min=0;max=0.02;jrc=50;glint=0.02;ndwi=0;RGBmax=0.6442;) / [HomePage](https://webapps.usgs.gov/react/)
@@ -323,6 +327,7 @@ inducis
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
