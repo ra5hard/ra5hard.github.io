@@ -15,7 +15,7 @@ image: under-construction-pikachu.gif
 _Data Partner @nasa-jpl Jet Propulsion Laboratory, NASA (NASA/JPL)_
 Additional Citation @asfadmin
 Buzzanga, Brett, et al. “Toward sustained monitoring of subsidence at the coast using InSAR and GPS: An application in Hampton Roads, Virginia.” Geophysical Research Letters 47.18 (2020): e2020GL090013
-S1-GUNW-A-R-077-tops-20250310_20250226-231636-00082W_00041N-PP-6e90-v3_0_1 [https://news.mit.edu/2013/detecting-dna-in-space-0709](https://news.mit.edu/2013/detecting-dna-in-space-0709) [Solar radiation on Mars](https://ntrs.nasa.gov/citations/19890018252) 
+S1-GUNW-A-R-077-tops-20250310_20250226-231636-00082W_00041N-PP-6e90-v3_0_1 [https://news.mit.edu/2013/detecting-dna-in-space-0709](https://news.mit.edu/2013/detecting-dna-in-space-0709) [Solar radiation on Mars](https://ntrs.nasa.gov/citations/19890018252) [https://ntrs.nasa.gov/api/citations/19930091008/downloads/19930091008.pdf](https://ntrs.nasa.gov/api/citations/19930091008/downloads/19930091008.pdf)
 <img  alt="image" src="https://github.com/user-attachments/assets/e034d18c-3174-4ee0-8d12-6a1952750f88" />
 S1-GUNW-A-R-077-tops-20250310_20250226-231611-00082W_00040N-PP-1b17-v3_0_1
 S1-GUNW-A-R-077-tops-20250310_20250214-231611-00082W_00040N-PP-eb04-v3_0_1
