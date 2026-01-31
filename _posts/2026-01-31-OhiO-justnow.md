@@ -20,12 +20,6 @@ S1-GUNW-A-R-077-tops-20250310_20250226-231636-00082W_00041N-PP-6e90-v3_0_1 [http
 S1-GUNW-A-R-077-tops-20250310_20250226-231611-00082W_00040N-PP-1b17-v3_0_1
 S1-GUNW-A-R-077-tops-20250310_20250214-231611-00082W_00040N-PP-eb04-v3_0_1
 
-### Space Environments Complex
-The Space Environments Complex (SEC) houses the world’s largest and most powerful space environment simulation facilities.  @la-county-isd @stateofcalifornia @cityoflosangeles @nasa-jpl [link](https://www.nasa.gov/glenn/glenn-expertise-labs-and-test-facilities/sec/)
-[https://www.nasa.gov/glenn/glenn-expertise-labs-and-test-facilities/sec/](https://www.nasa.gov/glenn/glenn-expertise-labs-and-test-facilities/sec/)
-[https://ntrs.nasa.gov/](https://ntrs.nasa.gov/)
-
-<iframe src="https://archive.org/embed/NIX_C-1995-00717" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
 <div class="tupperware">
