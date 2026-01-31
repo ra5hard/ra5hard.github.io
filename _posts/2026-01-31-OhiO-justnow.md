@@ -149,6 +149,9 @@ TRAINING GUIDE](https://site.tplgis.org/lacscsecure/css/pdfs/LA_CSC_DRAFT.pdf) [
 [laincubator.org/ZERO_EMiSSiONS_ROADMAP - PDF](https://laincubator.org/wp-content/uploads/LA_Roadmap2.0_Final2.2.pdf)
 @CityOfLosAngeles 
 
+OPERA_L4_TROPO-ZENITH_20260126T180000Z_20260130T000744Z_HRES_v1.0 @nasa-giss @emit-sds
+<img alt="OPERA_L4_TROPO-ZENITH_20260126T180000Z_20260130T000744Z_HRES_v1 0" src="https://github.com/user-attachments/assets/0b9dae3d-266b-456f-98ef-a91e90a5fb93" />
+
 @LACMTA  @NASA-JPL @la-county-isd MetroCar 226, wifi exclusion on [cloud mobile c8]
 harbor commission aquatics earthdata
 pico ave realighnment project
