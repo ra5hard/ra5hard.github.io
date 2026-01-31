@@ -11,9 +11,11 @@ categories: mars
 
 # Comparison View of Mars Cloud Cover
 [link](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia01/pia01246/PIA01246.jpg) :: [ReadArticle](https://science.nasa.gov/photojournal/comparison-view-of-mars-cloud-cover/)
-
+![https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia01/pia01246/PIA01246.jpg](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia01/pia01246/PIA01246.jpg)
 Description
 These color and black and white pictures of Mars were taken by NASA's Hubble Space Telescope just two weeks after Earth made its closest approach to the Red Planet during the 1997 opposition. When the Hubble pictures were taken Mars was at a distance of 62 million miles (100 million kilometers) and the resolution at the center of the disk is 13.5 miles/pixel (22 kilometers/pixel). Both images were made with the Wide Field and Planetary Camera 2. The color composite (left image) is constructed from three images taken in red (673 nanometers), green (502 nm) and blue (410 nm) light. The right image, in blue light only, brings out details in the cloud structure and is remarkably similar to weather satellite pictures taken of Earth. A planetary-scale wave curls around the north pole, similar in behavior to high latitude cold fronts which descend over North America and Europe during springtime.
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a81b5f95-dc0e-4f46-8824-c3bcc4e760d4" />
 
 The picture was taken when Mars was near aphelion, its farthest point from the Sun. The faint sunlight results in cold atmospheric conditions which stimulate the formation of water ice clouds. The clouds themselves further reduce atmospheric temperatures. Atmospheric heating, resulting when sunlight is absorbed by the dust, is reduced when ice forms around the dust particles and causes the dust to gravitationally settle to the ground.
 
@@ -21,7 +23,7 @@ These images of Mars are centered at approximately 94 degrees longitude and 23 d
 
 This image and other images and data received from the Hubble Space Telescope are posted on the World Wide Web on the Space Telescope Science Institute home page at URL [http://oposite.stsci.edu/](http://oposite.stsci.edu/).
 
-<img  alt="image" src="https://github.com/user-attachments/assets/a81b5f95-dc0e-4f46-8824-c3bcc4e760d4" />
+
 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/469a90ea-e870-4d4f-bc88-1a174813f365" />
