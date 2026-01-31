@@ -16,8 +16,17 @@ This tool is designed to display the probability that aquatic chlorophyll-a > (e
 <img  alt="image" src="https://github.com/user-attachments/assets/701e6d79-ded1-455d-b96c-a1033c285612" />
 
 
-{% for image in site.static_files %} {% if image.path contains 'assets/images/gallery-ohio-sentinel' | sort: 'date' | reverse %}  {% endif %} {% endfor %}
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ohio-sentinel' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
 
+</div>
 
 <img alt="image" src="https://github.com/user-attachments/assets/13fa4dd8-2132-4d42-8bc6-5572677e7600" />
 
