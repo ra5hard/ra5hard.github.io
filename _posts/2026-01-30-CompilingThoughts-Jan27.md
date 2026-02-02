@@ -10,6 +10,7 @@ image: luckyGirl.png
 
 
 h[https://www.atc.co.jp/products/detail/rental/1359](https://www.atc.co.jp/products/detail/rental/1359) ttps://www.atc.co.jp/products/detail/rental/1359) @blackgirlscode see my resume @fiserv @la-county-isd @cityoflosangeles @nasa-jpl .
+ [https://www.atc.co.jp/products/detail/rental/1359](https://www.atc.co.jp/products/detail/rental/1359)
 
 [https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip](https://archive.org/download/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN.zip/ohio_latrice_virtiserv_earthdata_NASA_JPL-GLENN%2FBrowser_images.zip) @nasa Cleveland virtiserv @blackgirlscode normanikordei 
 
