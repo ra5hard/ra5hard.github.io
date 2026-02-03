@@ -330,7 +330,12 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 #  space-weather 
 # 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
-@USnavy @CisaGov @la-county-isd
+@USnavy @CisaGov @la-county-isd [tiffany.l.fairley@nasa.gov](mailto:tiffany.l.fairley@nasa.gov)
+... _KashDoll_ @blackgirlscode this is a great link for family services in decatur! [`nasa`.gov/kennedy/about-kennedy/media-contacts/](https://www.nasa.gov/kennedy/about-kennedy/media-contacts/)
+[Map-Link](https://search.earthdata.nasa.gov/search/granules?p=C2777436413-ASF&pg[0][v]=f&pg[0][gsk]=-start_date&sb[0]=-118.48747%2C32.30503%2C-116.93568%2C33.78102&lat=32.78450471693383&long=-117.15780700948457&zoom=11.107702000058666) @Nasa-Openscapes @emit-sds [Kennedy SPace Center](mailto:ksc-newsroom@mail.nasa.gov)
+<img  alt="image" src="https://github.com/user-attachments/assets/0eff6926-abaa-4f62-bc8d-f4277d7b513c" />
+
+
 @cityofSandiego @cityoflosangeles [NASA_STREAM_MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.86/-13039842.01/3859568.34&layers=aqv_chla_20260201_sentinel:1.00:0.00:30.00:default&grids=1,0)
 <img   alt="image" src="https://github.com/user-attachments/assets/b9d6ac71-6347-4102-b5bf-31b456bd9a1c" />
 
