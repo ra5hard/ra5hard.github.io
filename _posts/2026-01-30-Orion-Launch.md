@@ -330,6 +330,11 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 #  space-weather 
 # 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
+@USnavy @CisaGov @la-county-isd
+@cityofSandiego @cityoflosangeles [NASA_STREAM_MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.86/-13039842.01/3859568.34&layers=aqv_chla_20260201_sentinel:1.00:0.00:30.00:default&grids=1,0)
+<img   alt="image" src="https://github.com/user-attachments/assets/b9d6ac71-6347-4102-b5bf-31b456bd9a1c" />
+
+
 
 @cityofSandiego @cityoflosangeles [NASA_STREAM_MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=14.15/-13036065.54/3839414.84&layers=aqv_chla_20260114_sentinel:1.00:0.00:30.00:default&grids=1,0) @nasa-jpl @TheSpaceDevs @blueorigin @spaceexplorationtechnologies @r-spacex @blackgirlscode @la-county-isd . . . @cityoflosangeles I include you all even when its slated for SD because we could still get it. Thats not a big difference coming from outerspace
 <img  alt="image" src="https://github.com/user-attachments/assets/e097ff42-bd42-491e-99b7-1b35b3dbadf0" />
