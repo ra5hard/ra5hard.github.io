@@ -77,6 +77,21 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 
 
 # kelp-data
+
+SHIFT Campaign Research Plane Flight Area Map
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25144.width-1440.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25144.width-1440.jpg) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4d01a10e-7f75-418b-a45f-84f89b1043a5" />
+
+
+@cisagov @nasa-jpl this link was throwing a [504](https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status/504) from longbeach `https://www.jpl.nasa.gov/images/pia25144-shift-campaign-research-plane-flight-area-map/` @emit-sds @noaagov @weather-gov @la-county-isd
+
+SHIFT: AVIRIS-NG L2A Unrectified Reflectance[link](https://daacweb-prod.ornl.gov/SHIFT/guides/SHIFT_AVNG_L2A_RFL_unrec.html)
+![https://daacweb-prod.ornl.gov/SHIFT/guides/SHIFT_AVNG_L2A_RFL_unrec_Fig1.jpg](https://daacweb-prod.ornl.gov/SHIFT/guides/SHIFT_AVNG_L2A_RFL_unrec_Fig1.jpg)
+<img  alt="image" src="https://github.com/user-attachments/assets/2da4ce34-adf3-4ac4-89e1-95f485895d56" />
+
+
 @cityoflosangeles Karenbass @la-county-isd the kelp maps at aviris.jpl.nasa.gov are hiding from me @ucla the problem was discussed for the olympics . . . @blackgirlscode many of you in my age group are olympians so keep up with it at your schools @ucla @usc @caltech /// @NASA-OPENSCAPES @NASA-GiSS [@GEOS-ESM](https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/open-source-software/)
 [WATCH - lacity.gov/tv](https://lacity.gov/tv) . . . @StateOfCalifornia CongressMemberKaren Mrs Webr ... please see this short doc when you can -#rashard @nasa-pds @nasa-jpl @usgs
 ## An Ocean in Bloom
