@@ -345,6 +345,18 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 #  space-weather 
 # 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
+
+i was trying to send these via @protonmail `https://mail.proton.me/u/0/inbox/ioZfJxL8Hqz2lD_wLZc5ySAzam1ZdgtDmaJgfgNrMC0GSIn5qGRcsrCFHenqo0y5JK09LESEeG3v8hN_aoj9HQ==` @googleworkspace how do i figure out if im targeted [@dhs-gov](https://www.dhs.gov/publication/resources-individuals-threat-doxing) ? @blackgirlscode i hope you guys are ok today . . . @nasa @nasa-jpl @whitehouse
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4568fc02-26e6-482a-a862-ed60d920288b" />
+
+
+@nasa-jpl @la-county-isd @CityOfSandiego @usNavy these opera maps are NRT
+@blackgirlscode brb 
+<img  alt="image" src="https://github.com/user-attachments/assets/21a833f6-de4a-4686-8907-15b30d0fb6c1" />
+
+
+
 @USnavy @CisaGov @la-county-isd [tiffany.l.fairley@nasa.gov](mailto:tiffany.l.fairley@nasa.gov)
 ... _KashDoll_ @blackgirlscode this is a great link for family services in decatur! [`nasa`.gov/kennedy/about-kennedy/media-contacts/](https://www.nasa.gov/kennedy/about-kennedy/media-contacts/)
 [Map-Link](https://search.earthdata.nasa.gov/search/granules?p=C2777436413-ASF&pg[0][v]=f&pg[0][gsk]=-start_date&sb[0]=-118.48747%2C32.30503%2C-116.93568%2C33.78102&lat=32.78450471693383&long=-117.15780700948457&zoom=11.107702000058666) @Nasa-Openscapes @emit-sds [Kennedy SPace Center](mailto:ksc-newsroom@mail.nasa.gov)
