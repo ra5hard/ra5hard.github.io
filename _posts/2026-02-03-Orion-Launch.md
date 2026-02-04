@@ -9,7 +9,7 @@ image: Orion_dimensions_pillars.png
 
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
-- Jump to  [space-`weather`](#space-weather)
+- Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
 - Jump to  [`kelp-Data`](#kelp-data)
 
@@ -345,6 +345,73 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 #  space-weather 
 # 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
+@nasa [mailto:Kennedy @blackgirlscode _`_virtiserv_`_](mailto:ksc-dl-news-chief@mail.nasa.gov)
+
+@whitehouse @la-county=isd @LACountyDPH [MsMitchell](https://lacare.org/about/board-governors/board-members/holly-mitchell) can someone get this to kennedy ? [SpaceWeatherDashBoard](https://www.swpc.noaa.gov/) @nasa-develop @nasa-openscapes @podaac [mailto:keishaforgovernor@gmail.com](mailto:keishaforgovernor@gmail.com) @washingtonpost .. @netflix can u help me? I cant email @protonmail @googleworkspace if latto is erika today please say hi @
+howard-university-web-services latrice
+
+# `R3 (Strong) Radio Blackout Impacts` -
+
+```shell
+:Product: 3-Day Forecast
+:Issued: 2026 Feb 03 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+A. NOAA Geomagnetic Activity Observation and Forecast
+
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 03-Feb 05 2026 is 5.00 (NOAA Scale
+G1).
+
+NOAA Kp index breakdown Feb 03-Feb 05 2026
+
+             Feb 03       Feb 04       Feb 05
+00-03UT       2.00         1.67         2.00     
+03-06UT       1.67         1.67         2.00     
+06-09UT       1.00         1.33         1.67     
+09-12UT       1.00         1.33         1.33     
+12-15UT       0.67         1.33         1.33     
+15-18UT       1.33         1.33         3.00     
+18-21UT       1.67         1.33         4.33     
+21-00UT       1.67         1.67         5.00 (G1)
+
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 05 Feb due
+to possible glancing influences from the CME associated with the 01/2357
+UTC X8.1 flare from Region 4366.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Feb 03-Feb 05 2026
+
+              Feb 03  Feb 04  Feb 05
+S1 or greater   50%     50%     50%
+
+Rationale: There is a chance for the greater than 10 MeV proton flux to
+exceed the S1 (Minor) levels on 03-05 Feb due to the recent X8.1 flare
+event from Region 4366 and possible future eruptions.
+
+C. NOAA Radio Blackout Activity and Forecast
+
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Feb 03 2026 0701 UTC.
+
+Radio Blackout Forecast for Feb 03-Feb 05 2026
+
+              Feb 03        Feb 04        Feb 05
+R1-R2           80%           80%           80%
+R3 or greater   40%           40%           40%
+
+Rationale: Moderate to high solar activity due to M-class flaring
+(R1-R2, Minor-Moderate) is expected for the next three days with a high
+chance for occasional X-class flares (R3-Strong or greater) due to
+expected further activity from AR 4366.
+```
+<img alt="image" src="https://github.com/user-attachments/assets/16fe9102-8d67-47c3-97b9-1fb21f4461fd" />
+
 
 i was trying to send these via @protonmail `https://mail.proton.me/u/0/inbox/ioZfJxL8Hqz2lD_wLZc5ySAzam1ZdgtDmaJgfgNrMC0GSIn5qGRcsrCFHenqo0y5JK09LESEeG3v8hN_aoj9HQ==` @googleworkspace how do i figure out if im targeted [@dhs-gov](https://www.dhs.gov/publication/resources-individuals-threat-doxing) ? @blackgirlscode i hope you guys are ok today . . . @nasa @nasa-jpl @whitehouse
 
