@@ -9,9 +9,15 @@ image: Orion_dimensions_pillars.png
 
 @NASA's Artemis II Live Views from Kennedy Space Cente
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
-- Jump to  [space-`weather`](#space-weather)
+
+- Jump to  [`splashdown-weather`](#splashdown-weather)
+- Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
 - Jump to  [`kelp-Data`](#kelp-data)
+
+
+
+
 
 ---
 
@@ -20,6 +26,8 @@ image: Orion_dimensions_pillars.png
 Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A336070390&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/houston-we-have-a-podcast" title="Houston We Have a Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast</a></div>
 
 [WATCH - Liftoff_of_Orion.webm.480p.vp9.webm](https://upload.wikimedia.org/wikipedia/commons/transcoded/6/60/Liftoff_of_Orion.webm/Liftoff_of_Orion.webm.480p.vp9.webm) uploaded by [`ZiaLater` - https://en.wikipedia.org/wiki/User:ZiaLater](https://en.wikipedia.org/wiki/User:ZiaLater)// 
 
@@ -58,6 +66,14 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg)
 
+
+#  splashdown-weather
+
+[https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
+@blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
+<img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
+
+
 # Splashdown 101: @USNavy @La-County-isd
 Joint Team to Recover Crew, Orion After Moon Missions
 [splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
@@ -66,8 +82,6 @@ Joint Team to Recover Crew, Orion After Moon Missions
 
 @blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
 Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A336070390&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/sets/houston-we-have-a-podcast" title="Houston We Have a Podcast" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast</a></div>
 
 
 ## 3 Americans and a Human - The Flame Trench
@@ -345,6 +359,73 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 #  space-weather 
 # 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
+@nasa [mailto:Kennedy @blackgirlscode _`_virtiserv_`_](mailto:ksc-dl-news-chief@mail.nasa.gov)
+
+@whitehouse @la-county=isd @LACountyDPH [MsMitchell](https://lacare.org/about/board-governors/board-members/holly-mitchell) can someone get this to kennedy ? [SpaceWeatherDashBoard](https://www.swpc.noaa.gov/) @nasa-develop @nasa-openscapes @podaac [mailto:keishaforgovernor@gmail.com](mailto:keishaforgovernor@gmail.com) @washingtonpost .. @netflix can u help me? I cant email @protonmail @googleworkspace if latto is erika today please say hi @
+howard-university-web-services latrice
+
+# `R3 (Strong) Radio Blackout Impacts` -
+
+```shell
+:Product: 3-Day Forecast
+:Issued: 2026 Feb 03 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+A. NOAA Geomagnetic Activity Observation and Forecast
+
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+Scale levels).
+The greatest expected 3 hr Kp for Feb 03-Feb 05 2026 is 5.00 (NOAA Scale
+G1).
+
+NOAA Kp index breakdown Feb 03-Feb 05 2026
+
+             Feb 03       Feb 04       Feb 05
+00-03UT       2.00         1.67         2.00     
+03-06UT       1.67         1.67         2.00     
+06-09UT       1.00         1.33         1.67     
+09-12UT       1.00         1.33         1.33     
+12-15UT       0.67         1.33         1.33     
+15-18UT       1.33         1.33         3.00     
+18-21UT       1.67         1.33         4.33     
+21-00UT       1.67         1.67         5.00 (G1)
+
+Rationale: G1 (Minor) geomagnetic storm levels are likely on 05 Feb due
+to possible glancing influences from the CME associated with the 01/2357
+UTC X8.1 flare from Region 4366.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for Feb 03-Feb 05 2026
+
+              Feb 03  Feb 04  Feb 05
+S1 or greater   50%     50%     50%
+
+Rationale: There is a chance for the greater than 10 MeV proton flux to
+exceed the S1 (Minor) levels on 03-05 Feb due to the recent X8.1 flare
+event from Region 4366 and possible future eruptions.
+
+C. NOAA Radio Blackout Activity and Forecast
+
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Feb 03 2026 0701 UTC.
+
+Radio Blackout Forecast for Feb 03-Feb 05 2026
+
+              Feb 03        Feb 04        Feb 05
+R1-R2           80%           80%           80%
+R3 or greater   40%           40%           40%
+
+Rationale: Moderate to high solar activity due to M-class flaring
+(R1-R2, Minor-Moderate) is expected for the next three days with a high
+chance for occasional X-class flares (R3-Strong or greater) due to
+expected further activity from AR 4366.
+```
+<img alt="image" src="https://github.com/user-attachments/assets/16fe9102-8d67-47c3-97b9-1fb21f4461fd" />
+
 
 i was trying to send these via @protonmail `https://mail.proton.me/u/0/inbox/ioZfJxL8Hqz2lD_wLZc5ySAzam1ZdgtDmaJgfgNrMC0GSIn5qGRcsrCFHenqo0y5JK09LESEeG3v8hN_aoj9HQ==` @googleworkspace how do i figure out if im targeted [@dhs-gov](https://www.dhs.gov/publication/resources-individuals-threat-doxing) ? @blackgirlscode i hope you guys are ok today . . . @nasa @nasa-jpl @whitehouse
 
