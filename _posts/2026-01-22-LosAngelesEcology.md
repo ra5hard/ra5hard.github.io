@@ -17,6 +17,14 @@ date:   2026-01-12 8:51:06
 [comment]: <> (Emergency Files )
 
 ## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+
+### _ARIA Sentinel-1 Geocoded Unwrapped Interferograms_
+_4 L.A._ **[DataSet](https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1):** https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1
+[ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi
+
+_**Interferometry** is a technique which uses the interference of superimposed waves to extract information_
+[Wiki](https://en.wikipedia.org/wiki/Interferometry) @nasa-jpl [https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/](https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/) [https://www.jpl.nasa.gov/missions/keck-interferometer/](https://www.jpl.nasa.gov/missions/keck-interferometer/) 28 September 2004 Telescopes for optical/IR interferometry: the NASA/JPL outriggers [Read](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5489/1/Telescopes-for-opticalIR-interferometry-the-NASAJPL-outriggers/10.1117/12.549547.short)
+
 @cityoflosangeles @nasa-jpl @CityOfLosangeles @LA-County-iSd 
 S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D @asfadmin [VERTEX](https://search.asf.alaska.edu/#/)
 
@@ -958,6 +966,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
