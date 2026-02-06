@@ -16,10 +16,26 @@ date:   2026-02-06 14:51:06
 
 [comment]: <> (Emergency Files )
 
-## Atlanta[!](https://youtu.be/xjEoo14xHRs)
+## Atlanta[!](https://youtu.be/_nsDBUyLWcU)
 
 
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
+
+### _ARIA Sentinel-1 Geocoded Unwrapped Interferograms_
+@webb @nasa-jpl @intuit @LA-County-iSd 
+a few animated ones are in this archive [LinK](https://archive.org/details/nsn-overview-noaccess_NASAJPL_rashardsJob)
+_4 Atlanta_ **[DataSet](https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1):** https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1
+
+_**Interferometry** is a technique which uses the interference of superimposed waves to extract information_
+[Wiki](https://en.wikipedia.org/wiki/Interferometry) @nasa-jpl [https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/](https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/) [https://www.jpl.nasa.gov/missions/keck-interferometer/](https://www.jpl.nasa.gov/missions/keck-interferometer/) 28 September 2004 Telescopes for optical/IR interferometry: the NASA/JPL outriggers [Read](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5489/1/Telescopes-for-opticalIR-interferometry-the-NASAJPL-outriggers/10.1117/12.549547.short)
+[My @Vsco](https://vsco.co/rashardsartu/gallery) // for work @nasa [My @Vsco](https://vsco.co/earthdatarashard/gallery) @whitehouse @caltech @newshour @npr
+
+[ARIA_Sentinel-1_ATLANTA_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi] @blackgirlscode @asfadmin [_LatriceFitZpatrick_]([facebook](https://www.facebook.com/thevirtiservway/)) [Trice](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
+
+[WEB_P](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ezgif.com-gif-to-webp-converter.webp) // [MP4](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-gif-to-mp4-converter%20%281%29.mp4) // [GiF](https://ia601409.us.archive.org/view_archive.php?archive=/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_S~1.ZIP&file=ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-animated-gif-maker2.gif)
+
+
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/09b1c7ca-e984-4a19-a3e9-eeaeb9455151)
 
 
 Surface Water [https://worldview.earthdata.nasa.gov/?v=-85.32846181957598,33.16472248528318,-83.34899754557262,34.50883802654653&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-84.3915,33.7485&t=2026-02-02-T22%3A02%3A14Z](https://worldview.earthdata.nasa.gov/?v=-85.32846181957598,33.16472248528318,-83.34899754557262,34.50883802654653&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-84.3915,33.7485&t=2026-02-02-T22%3A02%3A14Z) 
@@ -97,11 +113,6 @@ Atlanta
 @blackgirlscode : [Latrice](https://open.spotify.com/track/2fUzIplf9q8uab0oI6l0sJ?si=544b411d330e4039) 💯
 
 
-### _ARIA Sentinel-1 Geocoded Unwrapped Interferograms_
-@cityoflosangeles @nasa-jpl @CityOfLosangeles @LA-County-iSd 
-a few animated ones are in this archive [LinK](https://archive.org/details/nsn-overview-noaccess_NASAJPL_rashardsJob)
-
-[WEB_P](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ezgif.com-gif-to-webp-converter.webp) // [MP4](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-gif-to-mp4-converter%20%281%29.mp4) // [GiF](https://ia601409.us.archive.org/view_archive.php?archive=/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_S~1.ZIP&file=ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-animated-gif-maker2.gif)
 
 
 
@@ -118,8 +129,6 @@ _4 L.A._ **[DataSet](https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gun
 
 </div>
 
-_**Interferometry** is a technique which uses the interference of superimposed waves to extract information_
-[Wiki](https://en.wikipedia.org/wiki/Interferometry) @nasa-jpl [https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/](https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/) [https://www.jpl.nasa.gov/missions/keck-interferometer/](https://www.jpl.nasa.gov/missions/keck-interferometer/) 28 September 2004 Telescopes for optical/IR interferometry: the NASA/JPL outriggers [Read](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5489/1/Telescopes-for-opticalIR-interferometry-the-NASAJPL-outriggers/10.1117/12.549547.short)
 
 @cityoflosangeles @nasa-jpl @CityOfLosangeles @LA-County-iSd 
 S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D @asfadmin [VERTEX](https://search.asf.alaska.edu/#/)
@@ -127,7 +136,6 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D @asfadmin [V
 <img  alt="image" src="https://github.com/user-attachments/assets/ad198a34-6a8d-4bc7-86e3-23e7d20c3dd4" />
 
 
-@la-county-isd [My @Vsco](https://vsco.co/rashardsartu/gallery) // for work @nasa [My @Vsco](https://vsco.co/earthdatarashard/gallery) @whitehouse @caltech @newshour @npr
 
 <div class="tupperware">
  
@@ -242,6 +250,7 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
 
 
 
