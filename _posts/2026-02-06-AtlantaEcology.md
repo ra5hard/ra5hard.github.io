@@ -30,7 +30,8 @@ _**Interferometry** is a technique which uses the interference of superimposed w
 [Wiki](https://en.wikipedia.org/wiki/Interferometry) @nasa-jpl [https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/](https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/) [https://www.jpl.nasa.gov/missions/keck-interferometer/](https://www.jpl.nasa.gov/missions/keck-interferometer/) 28 September 2004 Telescopes for optical/IR interferometry: the NASA/JPL outriggers [Read](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5489/1/Telescopes-for-opticalIR-interferometry-the-NASAJPL-outriggers/10.1117/12.549547.short)
 [My @Vsco](https://vsco.co/rashardsartu/gallery) // for work @nasa [My @Vsco](https://vsco.co/earthdatarashard/gallery) @whitehouse @caltech @newshour @npr
 
-[ARIA_Sentinel-1_ATLANTA_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi] @blackgirlscode @asfadmin [_LatriceFitZpatrick_]([facebook](https://www.facebook.com/thevirtiservway/)) [Trice](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
+[ARIA_Sentinel-1_ATLANTA_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi] 
+@blackgirlscode @asfadmin [_LatriceFitZpatrick_](https://www.facebook.com/thevirtiservway/) [Trice](https://www.wkbn.com/news/local-news/local-experts-talk-best-ways-to-spend-tax-money/)
 
 [WEB_P](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ezgif.com-gif-to-webp-converter.webp) // [MP4](https://ia601409.us.archive.org/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-gif-to-mp4-converter%20%281%29.mp4) // [GiF](https://ia601409.us.archive.org/view_archive.php?archive=/14/items/nsn-overview-noaccess_NASAJPL_rashardsJob/ARIA_S~1.ZIP&file=ARIA_Sentinel-1_Los_Angeles_County_ASF_RASHARDNASAJPL_ViRTiSERV_iNEEDuRHELP_KARENBASS_or_HOLLYMiTCHELL_BLACKGiRLSCODE_NORMANi_ezgif.com-animated-gif-maker2.gif)
 
@@ -250,6 +251,7 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
 
 
 
