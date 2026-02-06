@@ -22,6 +22,11 @@ date:   2026-02-06 14:51:06
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
 
 
+Surface Water [https://worldview.earthdata.nasa.gov/?v=-85.32846181957598,33.16472248528318,-83.34899754557262,34.50883802654653&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-84.3915,33.7485&t=2026-02-02-T22%3A02%3A14Z](https://worldview.earthdata.nasa.gov/?v=-85.32846181957598,33.16472248528318,-83.34899754557262,34.50883802654653&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-84.3915,33.7485&t=2026-02-02-T22%3A02%3A14Z) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ee5362f4-549c-41fb-b70b-f72c902333a3" />
+
+
 Chattanooga
 [https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W](https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W)
 
@@ -237,6 +242,7 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
 
 
 
