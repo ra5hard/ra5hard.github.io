@@ -20,6 +20,78 @@ date:   2026-02-06 14:51:06
 
 
 _Martin Luther King Jr. came of age in one of the fastest growing cities in the United States._ - [Changing Atlanta](https://science.nasa.gov/earth/earth-observatory/changing-atlanta-147806/)
+
+
+Chattanooga
+[https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W](https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00034N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419381&Signature=q3nhel2QKLmvHMq-gJdX3Byj6PEfB31C3jmg-1uH2vz2m4U2jmABg-rw6eUIIyy9TfFeqHbzHipvoEuk-hoYb1CmHCp946esixHfVNb9GUX3wRb1TjQkxd6lOggFAnh8tItFYHBb4myfxp5g704ZgUdLXzn6qkgHe7hv92bQrLNW8WPY08yN0pL1~qw9H83WoKYVfqJ15OcvKw5cuGMKdAbpjhAqsQjqKjmduaIiBzzfYH3m~HeV5YcKmcFncf0nPNh1XX8tEDK7eE5WimDDoXMONXc0AqPI-XdZm8iYJlguhmLncjvIAdqtCsQbdz0ofDBQklarw3P0A6A4vZ7qSQ__&Key-Pair-Id=K1WN40TUQCFI8W)
+
+<img width="787" height="443" alt="image" src="https://github.com/user-attachments/assets/af7bdb34-feed-4584-b66b-d30e1b1ed5ac" />
+
+
+Atlanta 
+[https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419451&Signature=J4D65EDOWJXkj3CZ1uw0ej78mAwMUMqe-cw1sCBp~fdFl6mNSTn6rBVEkkTek39j6EusN-JyyDGeITlxJFXyo1rgQMIgGWj8vmV-4jOlUo4vVBay00VBDtwnwVPN6EluusBKkD7ZjobUW0HbGc7uTc0W-gI1fmVVSgbjGjMIppol~Ju36IVufFsO4aF2Cv0vJlZPIIHshiY4gnxPEPeFd9omyOtA-QNQpryRLpPcfyZWkJ~yHU~Hp9XQzUxz-iz2SfkEbJSkVkpXktkU5QRS5qAm-MuC7dqGcAnIzRRHCZ~dFt9zDDGBeGDu4UHbbMvFnQzzKmHjuG5SUAZsBNg5RQ__&Key-Pair-Id=K1WN40TUQCFI8W](https://d1bctmng8vmwga.cloudfront.net/s3-b339e3a40716b5999fea2aad1aee9f03/asf-cumulus-prod-aria-browse.s3.us-west-2.amazonaws.com/ARIA_S1_GUNW/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1/S1-GUNW-A-R-121-tops-20250301_20250217-233904-00086W_00033N-PP-320f-v3_0_1.png?A-userid=None&Expires=1770419451&Signature=J4D65EDOWJXkj3CZ1uw0ej78mAwMUMqe-cw1sCBp~fdFl6mNSTn6rBVEkkTek39j6EusN-JyyDGeITlxJFXyo1rgQMIgGWj8vmV-4jOlUo4vVBay00VBDtwnwVPN6EluusBKkD7ZjobUW0HbGc7uTc0W-gI1fmVVSgbjGjMIppol~Ju36IVufFsO4aF2Cv0vJlZPIIHshiY4gnxPEPeFd9omyOtA-QNQpryRLpPcfyZWkJ~yHU~Hp9XQzUxz-iz2SfkEbJSkVkpXktkU5QRS5qAm-MuC7dqGcAnIzRRHCZ~dFt9zDDGBeGDu4UHbbMvFnQzzKmHjuG5SUAZsBNg5RQ__&Key-Pair-Id=K1WN40TUQCFI8W)
+
+<img width="768" height="443" alt="image" src="https://github.com/user-attachments/assets/cfb67e50-29ca-44c7-9495-e817a36a275c" />
+
+[Song](https://youtu.be/E7CtsE52NKw?si=lmIb56Y7CNUgSMDk) @blackgirlscode _trice_ [_alt_mix_ sounds good too H.E.R. - FACTS](https://youtu.be/c_xG0crdnrE?si=FKUZVYxlA42GLzqZ) ... @blackgirlscode i hope tems [feeling good](https://youtu.be/4aeETEoNfOg?list=RDNOG3eus4ZSo) the song not on the street  like it was [https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) that might be brandy norwood @la-county-isd @cityofLosangeles [Free Mind - TEMS](https://youtu.be/tQiNQL-FEgU?list=RDtQiNQL-FEgU) @nasa-jpl she should download the [NASA_SAFE app ](https://www.nasa.gov/nasa-safe-app/) @ajc @MarinaMichaud hi @mailchimp all the kids in atlanta have access to some sort of android so please push this app out to the schools @gatech lost children can be safely organized to reach parents @caltech @nasa-jpl @StateOfCalifornia [Trice?](https://youtu.be/NOG3eus4ZSo?list=RDNOG3eus4ZSo) @howard-university-web-services
+
+![https://www.nasa.gov/wp-content/uploads/2024/09/nasa-safe.png](https://www.nasa.gov/wp-content/uploads/2024/09/nasa-safe.png)
+
+@gtri @gatech hi its rashard E.S.D. whatever im still breathing and not stealing... pass THAT to sam and chris! can someone pass this file to gainsville ? @asfadmin @nasa-jpl @emit-sds S1-GUNW-A-R-048-tops-20240909_20230810-233051-00084W_00034N-PP-b030-v3_0_1 
+[ezgif com-animated-gif-makerhttps://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28)
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/61ce5957-9326-4f5a-89d6-9d0add0e8d28)
+
+@asfadmin @emit-sds @webb @mailchimp [S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00034N-PP-dc49-v3_0_1 ](https://search.asf.alaska.edu/#/?zoom=7.694&center=-84.706,32.161&polygon=POLYGON((-84.6614%2033.5339,-83.8492%2033.5339,-83.8492%2034.0313,-84.6614%2034.0313,-84.6614%2033.5339))&resultsLoaded=true&granule=S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00034N-PP-dc49-v3_0_1&dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA))
+
+<img  alt="image" src="https://github.com/user-attachments/assets/49571602-a3c9-4f4e-a932-9859ea9f93c0" />
+
+[S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00033N-PP-dc49-v3_0_1](https://search.asf.alaska.edu/#/?zoom=7.694&center=-84.706,32.161&polygon=POLYGON((-84.6614%2033.5339,-83.8492%2033.5339,-83.8492%2034.0313,-84.6614%2034.0313,-84.6614%2033.5339))&resultsLoaded=true&granule=S1-GUNW-A-R-048-tops-20250308_20250224-233045-00084W_00033N-PP-dc49-v3_0_1&dataset=SENTINEL-1%20INTERFEROGRAM%20(BETA))
+<img width="771" height="443" alt="image" src="https://github.com/user-attachments/assets/98313dfe-3dfe-4519-a113-275ebc669afa" />
+
+![https://doodles.google/doodle/gerald-jerry-lawsons-82nd-birthday/](https://www.google.com/logos/doodles/2022/jerry-lawsons-82nd-birthday-6753651837109552-2xa.gif)
+
+![https://www.google.com/logos/doodles/2020/mary-ann-shadd-carys-197th-birthday-6753651837108574-2x.jpg](https://www.google.com/logos/doodles/2020/mary-ann-shadd-carys-197th-birthday-6753651837108574-2x.jpg)
+
+![https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png](https://www.google.com/logos/doodles/2021/muhammad-al-fayturis-85th-birthday-6753651837109143-2x.png)
+
+![https://www.google.com/logos/doodles/2022/juana-alarco-de-dammerts-180th-birthday-6753651837109418-2x.png](https://www.google.com/logos/doodles/2022/juana-alarco-de-dammerts-180th-birthday-6753651837109418-2x.png)
+
+![https://www.google.com/logos/doodles/2023/nuzhet-gokdogans-113rd-birthday-6753651837109920-2x.png](https://www.google.com/logos/doodles/2023/nuzhet-gokdogans-113rd-birthday-6753651837109920-2x.png)
+
+![https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif](https://www.google.com/logos/doodles/2024/celebrating-chilaquiles-6753651837110223-2xa.gif)
+
+![https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png](https://www.google.com/logos/doodles/2024/wnba-season-begins-2024-6753651837110501-2x.png)
+
+# AnimalFarm 1954
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls width="250" poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/arm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+  
+</video>
+
+![https://www.google.com/logos/doodles/2026/ice-hockey-2026-6753651837111212-2xa.gif](https://www.google.com/logos/doodles/2026/ice-hockey-2026-6753651837111212-2xa.gif)
+
+ 
+![https://www.google.com/search?sca_esv=7e23b67cda9c6a45&q=2026+Winter+Olympics&oi=ddle&noiga=1&ct=460147707&hl=en&stick=H4sIAAAAAAAAAHvEaMot8PLHPWEpnUlrTl5jVOPiCs7IL3fNK8ksqRSS4GKDsvikeLi49HP1DUzNK3KrcngWsYoYGRiZKYRn5pWkFin451TmFmQmFwMAE_3vRE8AAAA&sa=X&ved=0ahUKEwiKmvGU48WSAxVZHEQIHeOFFv0QPQgE&biw=958&bih=952&dpr=1](https://www.google.com/logos/doodles/2026/winter-sports-2026-begin-6753651837111035-la1f1f1f.gif)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f10b5c6b-3cd6-4b62-ba2b-7ed56fe55f50" />
+
+![https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif](https://www.google.com/logos/doodles/2026/the-art-of-hip-hop-beat-making-6753651837111032.2-2xa.gif)
+
+[@GoogleWorkspace](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) The Art of beat Making [google/doodle/the-art-of-hip-hop-beat-making - article](https://doodles.google/doodle/the-art-of-hip-hop-beat-making/) [turntablelab.com:Specials](https://www.turntablelab.com/collections/sales-specials) [beatlabusa.com/](https://beatlabusa.com/) [ThudRumble](https://www.djqbert.com/)
+[Dj Total Eclipse The Confilts 2 A Full Mixtape](https://youtu.be/psARM22G7wk) [sandboxautomatic.com/](https://www.sandboxautomatic.com/) 
+@blackgirlscode : [Latrice](https://open.spotify.com/track/2fUzIplf9q8uab0oI6l0sJ?si=544b411d330e4039) 💯
+
+
 ### _ARIA Sentinel-1 Geocoded Unwrapped Interferograms_
 @cityoflosangeles @nasa-jpl @CityOfLosangeles @LA-County-iSd 
 a few animated ones are in this archive [LinK](https://archive.org/details/nsn-overview-noaccess_NASAJPL_rashardsJob)
@@ -165,6 +237,7 @@ The OPERA RTC-S1 product contains modified Copernicus Sentinel data correspondin
 The OPERA RTC-S1 product is produced by the Observational Products for End-Users from Remote Sensing Analysis (OPERA) project. The OPERA project, managed by the Jet Propulsion Laboratory and funded by the Satellite Needs Working Group (SNWG), creates remote sensing products to address Earth observation needs across U.S. civilian federal agencies.
 
 References: doi:10.5067/SNWG/OPERA_L2_RTC-S1_V1
+
 
 
 
