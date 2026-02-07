@@ -7,7 +7,7 @@ title: L.A. Ecology @CityOfLosAngeles @Nasa-jpl
 image: rashards_la_county_ticket_ECOSTRESS_CROP_00164_streetheat_la.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-01-12 8:51:06 
+date:   2026-02-07 8:51:06 
 ---
 
 
@@ -16,7 +16,84 @@ date:   2026-01-12 8:51:06
 
 [comment]: <> (Emergency Files )
 
-## Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+
+{% highlight python %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##########02/07/2026##########
+2 # TO#####MsHOLLY,Hilda,Teresa,CB2,Janice&theMayor#######
+3 # ANOTHER####Coral?#######@nasa-jpl#####################
+4 # UNiVERSE#####################virtiservastro____######
+{% endhighlight %}
+
+
+
+[Must Be dues - Melba Moore - song](https://www.youtube.com/watch?v=Cg1j3kMD2a4)
+
+[Smokey and the Bandit](https://lastchancepowerdrive.com/2019/08/10/smokey-and-the-bandit-filming-sites/)
+
+
+<video controls preload="none" width="100%" height="auto" poster="https://www.salvationsouth.com/wp-content/uploads/2023/12/CONDENSED-bandit-cover-1024x576.jpg">
+
+  <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.ogv" type="video/ogg" />
+
+  Download the
+  or
+  <a href="https://archive.org/download/SmokeyAndTheBandit/Smokey%20and%20the%20Bandit.mp4">MP4</a>
+  video.
+  
+</video>
+
+[THE SOUTH WE SAW IN THE BANDIT](https://www.salvationsouth.com/the-south-we-thought-we-saw-in-smokey-and-the-bandit-ed-southern/) [Watch Stream On the InterNet Archive - Smokey and The Bandit](https://archive.org/details/SmokeyAndTheBandit)
+
+
+
+
+<style>img[alt="whiteslavery"] {
+  max-width: 15%;
+  float: right;
+}</style>
+
+<img src="https://sexualtracking.weebly.com/uploads/5/2/7/4/52741633/9657864.jpg" alt="WhiteSlaveTraffick" width="322" height="480" />
+
+[Classification 31: White Slave Traffic Act](https://www.archives.gov/research/investigations/fbi/classifications/031-white-slave-traffic.html) Investigation of white slave traffic is one of the oldest functions of the Bureau, dating from the passage of the White Slave Traffic Act (Mann Act) in 1910. Originally established as a separate records system, the white slave traffic act cases were incorporated into the central filing system that the Bureau adopted from the Justice Department in 1921. The act was codified in U.S. Code Title 18 and prohibited transportation of women or girls in interstate or foreign commerce for the purpose of prostitution, debauchery, or other immoral purposes, the coercion or enticement of women or girls for this purpose, and the coercion or enticement of female minors.
+
+
+[The Mann Act](https://en.wikipedia.org/wiki/Mann_Act), previously called the [White-Slave Traffic Act of 1910](https://www.politico.com/story/2018/06/25/this-day-in-politics-june-25-1910-663071), is a United States federal law, passed June 25, 1910 (ch. 395, 36 Stat. 825; codified as amended at 18 U.S.C. §§ 2421–2424). It is named after Congressman James Robert Mann of Illinois.
+
+
+[2nd Childhood Song by Nas](https://youtu.be/A5nM66F903I?si=hrqXLu-CYPuteESs) [Mayhem at UCLA: 32 Minutes of Unrest, Protests & Cops](https://youtu.be/VF1_S-ZHjVw?si=K7Y9U2KTJXDG8CwN) [UCLA protests: Riot police fire rubber bullets at protesters during violent clashes](https://youtu.be/3perFUMnB-I?si=Ehi-6DDovv07WZtY)
+[SKiD ROW](https://www.loc.gov/search/?fa=subject:skid+row) Dear_NasaJPL+ Mayor/Rep_Karen please take a look at SkidRow, whats changed about homelessness is social media! More homeless people from [romance scams](https://www.youtube.com/watch?v=azYwHFUYOLA) [Romance scam victims speak out](https://www.youtube.com/watch?v=WqyhwPPVUCU) [Romance scammers turn victims into "money mules," creating a legal minefield for investigators](https://www.cbsnews.com/news/romance-scams-victims-money-mules/) [I hope y'all are watching CBS Sunday Morning today.](https://www.reddit.com/r/DatingOverSixty/comments/1c9ij01/romance_scams/?rdt=34374&onetap_auto=true&one_tap=true) [Romance scammers’ favorite lies exposed](https://www.ftc.gov/news-events/data-visualizations/data-spotlight/2023/02/romance-scammers-favorite-lies-exposed) [“Beatrice” fell hard when she met her Spanish lumberjack on a dating site in the middle of the COVID-19 pandemic. He was 66, somewhat attractive](https://www.dhs.gov/hsi/insider/romance-scams-protect-yourself) and looked uncannily like Beatrice’s late husband who died just months before the pandemic hit.
+
+“I was missing not having him here to talk about, you know, what was going on in the world and everything,” Beatrice said. “So, somebody suggested to go online through a dating service … and this guy’s pictures show up and he’s just, you know, no George Clooney, nothing gorgeous, but in fact, he had a [resemblance to my husband](https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-scams-and-crimes/romance-scams).” [Love at first sight? AI making it even harder to detect romance scams](https://www.ctvnews.ca/sci-tech/love-at-first-sight-ai-making-it-even-harder-to-detect-romance-scams-1.6968524) As more people look to find love on dating apps and social media these days, so too are those looking to commit romance scams as [artificial intelligence makes it harder to know what's real and what isn't](https://www.ctvnews.ca/the-canadian-press-1.4652320) [Man sentenced in Wichita "Romance Scam"](https://www.audacy.com/knss/news/local/man-sentenced-in-wichita-romance-scam)
+
+![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
+![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
+## DEF CON 31 - A Different Uber Post Mortem - Joe Sullivan.mp4
+> there were civil suits and it actually
+resolved things for [Napster](https://iplawpost.wordpress.com/2021/01/08/napster-and-why-the-music-stopped/) and I remember thinking
+that was good. - `Joe Sullivan.mp4` [A Different Uber Post Mortem](https://media.defcon.org/DEF%20CON%2031/DEF%20CON%2031%20video%20and%20slides/DEF%20CON%2031%20-%20A%20Different%20Uber%20Post%20Mortem%20-%20Joe%20Sullivan.mp4)
+
+
+
+[![Hackers_Journalist](https://pbs.twimg.com/media/GO3R9FXbsAA2BgP?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+
+[![Threats](https://pbs.twimg.com/media/GO3T_1fa8AAT_mY?format=jpg&name=large)](https://media.defcon.org/DEF%20CON%2029/DEF%20CON%2029%20video%20and%20slides/DEF%20CON%2029%20-%20Agent%20X%20-%20A%20Look%20Inside%20Security%20at%20the%20New%20York%20Times.mp4)
+
+### [* CALIFORNIA CONSTITUTION - CONS ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=I)
+
+
+[Psychological impact of false accusations of sexual abuse](https://www.youtube.com/watch?v=scSQc9iauuw)    [Some sort of satellite breaking apart and entering the atmosphere. Spotted Santa Monica Beaach](https://www.reddit.com/r/LosAngeles/comments/1dr5grs/some_sort_of_satellite_breaking_apart_and/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button&onetap_auto=true&one_tap=true)
+
+[Los Angeles City Council looks into private security to deter high-rise graffiti](https://www.dailynews.com/2024/04/02/los-angeles-city-council-looks-into-private-security-to-deter-high-rise-graffiti/)
+
+### Is private security endangering those in California homeless shelters? [Read CaLmatteRs.orG](https://calmatters.org/newsletter/california-homelessness-private-security/)
+[Read More ricothaka.github.io/civic01](https://ricothaka.github.io/civic01)
+
+
+
 
 @la-county-isd [https://worldview.earthdata.nasa.gov/?v=-119.94773358698063,32.39700020948575,-116.93369110912752,34.44362534423337&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-03-T22%3A02%3A14Z](https://worldview.earthdata.nasa.gov/?v=-119.94773358698063,32.39700020948575,-116.93369110912752,34.44362534423337&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OPERA_L3_Dynamic_Surface_Water_Extent-Sentinel-1(disabled=5),OPERA_L3_Dynamic_Surface_Water_Extent-HLS(disabled=5),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9),OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-02-03-T22%3A02%3A14Z) @CityOfLosAngeles [https://eyes.nasa.gov/apps/dsn-now/dsn.html](https://eyes.nasa.gov/apps/dsn-now/dsn.html) @emory-courses i made an atlanta page CB2 should check it out @redhatofficial
 
@@ -987,6 +1064,7 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
 
 
 
