@@ -11,9 +11,10 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a34af1d3-2109-40c6-8502-9c909475c3ed" />
 
-@la-county-isd @nasa-jpl i shouted that Jeezy need to talk to pete, i missed the lauch of persevere and i traced a lot of shit back to him i said it on the playform @LACMTA @whitehouse @CityOfLosAngeles its not fair erika is playing violin on @npr @newshour [Watch](https://www.youtube.com/watch?v=c9vtuEH-vfk) 
+@la-county-isd @nasa-jpl i shouted that Jeezy need to talk to pete, i missed the lauch of persevere and i traced a lot of shit back to him i said it on the playform @LACMTA @whitehouse @CityOfLosAngeles its not fair [erika is playing](https://www.essence.com/tags/erika-kelly/) violin on @npr @newshour [Watch](https://www.youtube.com/watch?v=c9vtuEH-vfk) 
 [https://www3.nasa.gov/send-your-name-with-artemis/](https://www3.nasa.gov/send-your-name-with-artemis/) // [Rapper Jeezy celebrates 20 years of 'Thug Motivation 101' with a 101-piece backing orchestra](https://www.npr.org/2025/12/14/nx-s1-5547203/rapper-jeezy-celebrates-20-years-of-thug-motivation-101-with-a-101-piece-backing-orchestra) @blackgirlscode 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/118e544c-78d4-45af-8948-71cdadfb9b1f" />
